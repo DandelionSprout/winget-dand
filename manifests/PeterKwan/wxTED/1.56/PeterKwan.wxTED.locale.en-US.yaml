@@ -1,0 +1,12 @@
+﻿# Created using wingetcreate 1.10.3.0
+# yaml-language-server: $schema=https://aka.ms/winget-manifest.defaultLocale.1.12.0.schema.json
+
+PackageIdentifier: PeterKwan.wxTED
+PackageVersion: "1.56"
+PackageLocale: en-US
+Publisher: Peter Kwan (peterkvt80)
+PackageName: wxTED
+License: None stated (Freeware)
+ShortDescription: A teletext editor for Windows based on wx widgets.
+ManifestType: defaultLocale
+ManifestVersion: 1.12.0
