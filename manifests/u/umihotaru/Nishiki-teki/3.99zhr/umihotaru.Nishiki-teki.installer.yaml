@@ -1,0 +1,15 @@
+# yaml-language-server: $schema=https://aka.ms/winget-manifest.installer.1.12.0.schema.json
+
+PackageIdentifier: umihotaru.Nishiki-teki
+PackageVersion: 3.99zhr
+ReleaseDate: 2026-02-08
+Installers:
+- Architecture: neutral
+  InstallerType: zip
+  InstallerUrl: https://umihotaru.work/nishiki-teki.zip
+  InstallerSha256: 8d1511aae75e86d44d3b17773acb3daa6323cf96fac1adb9670c25451fbddbfd
+  NestedInstallerType: font
+  NestedInstallerFiles:
+  - RelativeFilePath: Nishiki-teki.ttf
+ManifestType: installer
+ManifestVersion: 1.12.0
