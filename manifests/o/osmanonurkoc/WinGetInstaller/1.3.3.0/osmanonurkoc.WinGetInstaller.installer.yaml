@@ -1,0 +1,14 @@
+# yaml-language-server: $schema=https://aka.ms/winget-manifest.installer.1.12.0.schema.json
+
+PackageIdentifier: osmanonurkoc.WinGetInstaller
+PackageVersion: 1.3.3.0
+ReleaseDate: 2026-03-09
+InstallerType: portable
+Commands:
+- wingetinstaller
+Installers:
+- Architecture: x64
+  InstallerUrl: https://github.com/osmanonurkoc/WinGet_Installer/releases/download/1.3.3/WinGet_Installer.exe
+  InstallerSha256: A2DB3A1FADDF49DD1880F373F92E188E55EE1AD408D8E0CCD96D5A58F09E37EA
+ManifestType: installer
+ManifestVersion: 1.12.0
