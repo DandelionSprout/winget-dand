@@ -1,0 +1,38 @@
+#yaml-language-server: $schema=https://aka.ms/winget-manifest.installer.1.12.0.schema.json
+
+PackageIdentifier: rmcrackan.Libation
+PackageVersion: 13.1.1
+InstallerType: zip
+NestedInstallerType: portable
+ArchiveBinariesDependOnPath: true
+Installers:
+- Architecture: x64
+  InstallerUrl: https://github.com/rmcrackan/Libation/releases/download/v13.1.1/Libation.13.1.1-windows-chardonnay-x64.zip
+  InstallerSha256: D4F6C474F33B988EB870FBEEAF4EBC7E9E3DAA3F5D5C974109D59307F62F436B
+  NestedInstallerFiles:
+  - RelativeFilePath: createdump.exe
+    PortableCommandAlias: libationcreatedump
+  - RelativeFilePath: Hangover.exe
+    PortableCommandAlias: libationhangover
+  - RelativeFilePath: Libation.exe
+    PortableCommandAlias: libation
+  - RelativeFilePath: LibationCli.exe
+    PortableCommandAlias: libationcli
+  - RelativeFilePath: ZipExtractor.exe
+    PortableCommandAlias: libationzipextractor
+- Architecture: arm64
+  InstallerUrl: https://github.com/rmcrackan/Libation/releases/download/v13.1.1/Libation.13.1.1-windows-chardonnay-arm64.zip
+  InstallerSha256: 936ca95ce7c19de342408130b34392004353929fc18b559ed5e84d4ceaddc50e
+  NestedInstallerFiles:
+  - RelativeFilePath: createdump.exe
+    PortableCommandAlias: libationcreatedumparm64
+  - RelativeFilePath: Hangover.exe
+    PortableCommandAlias: libationhangoverarm64
+  - RelativeFilePath: Libation.exe
+    PortableCommandAlias: libationarm64
+  - RelativeFilePath: LibationCli.exe
+    PortableCommandAlias: libationcliarm64
+  - RelativeFilePath: ZipExtractor.exe
+    PortableCommandAlias: libationzipextractorarm64
+ManifestType: installer
+ManifestVersion: 1.12.0
