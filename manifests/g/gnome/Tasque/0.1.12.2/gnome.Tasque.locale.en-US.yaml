@@ -1,0 +1,12 @@
+﻿# Created using wingetcreate 1.10.3.0
+# yaml-language-server: $schema=https://aka.ms/winget-manifest.defaultLocale.1.12.0.schema.json
+
+PackageIdentifier: gnome.Tasque
+PackageVersion: 0.1.12.2
+PackageLocale: en-US
+Publisher: GNOME Project
+PackageName: Tasque
+License: MIT
+ShortDescription: A simple task management app.
+ManifestType: defaultLocale
+ManifestVersion: 1.12.0
