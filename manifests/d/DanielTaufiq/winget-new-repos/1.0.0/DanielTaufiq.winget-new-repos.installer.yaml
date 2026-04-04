@@ -1,0 +1,14 @@
+# yaml-language-server: $schema=https://aka.ms/winget-manifest.installer.1.12.0.schema.json
+
+PackageIdentifier: DanielTaufiq.winget-new-repos
+PackageVersion: 1.0.0
+ReleaseDate: 2021-07-19
+InstallerLocale: en-US
+InstallerType: msi
+ProductCode: '{B1711CDA-94FF-4BC9-BD96-179F0357EAAC}'
+Installers:
+- Architecture: x86
+  InstallerUrl: https://github.com/Daniel-Taufiq/winget-new-repos/releases/download/1.0.0.1/Setup.msi
+  InstallerSha256: E4D73D2AE284A8D62D0969C3F87204993A6B5F713BD2D82B021C30582A0D310D
+ManifestType: installer
+ManifestVersion: 1.12.0

@@ -1,0 +1,13 @@
+# yaml-language-server: $schema=https://aka.ms/winget-manifest.defaultLocale.1.12.0.schema.json
+
+PackageIdentifier: DanielTaufiq.winget-new-repos
+PackageVersion: 1.0.0
+PackageLocale: en-US
+Publisher: Daniel Taufiq
+PackageName: winget-new-repos
+License: MIT
+ShortDescription: This program displays the latest repos added or updated in the Windows Package Manager.
+Tags:
+- wingetnewrepos
+ManifestType: defaultLocale
+ManifestVersion: 1.12.0
