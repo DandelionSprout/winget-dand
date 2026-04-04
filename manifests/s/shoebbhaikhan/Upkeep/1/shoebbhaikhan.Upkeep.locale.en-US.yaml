@@ -1,0 +1,17 @@
+# yaml-language-server: $schema=https://aka.ms/winget-manifest.defaultLocale.1.12.0.schema.json
+
+PackageIdentifier: shoebbhaikhan.Upkeep
+PackageVersion: "1"
+PackageLocale: en-US
+Publisher: shoebbhaikhan
+PackageName: Upkeep
+PackageUrl: https://github.com/shoebbhaikhan/Upkeep
+License: MIT
+ShortDescription: An open-source, minimalist system tray application designed to bridge the gap between the power of the Windows Package Manager (WinGet) and the convenience of a graphical user interface.
+Tags:
+- winget-update-checker
+- wingetupdatechecker
+- winget-update-notifications
+- wingetupdatenotifications
+ManifestType: defaultLocale
+ManifestVersion: 1.12.0

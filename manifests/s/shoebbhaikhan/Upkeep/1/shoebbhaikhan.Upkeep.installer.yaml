@@ -1,0 +1,15 @@
+# yaml-language-server: $schema=https://aka.ms/winget-manifest.installer.1.12.0.schema.json
+
+PackageIdentifier: shoebbhaikhan.Upkeep
+PackageVersion: "1"
+ReleaseDate: 2026-04-02
+InstallerType: portable
+Commands:
+- upkeep
+Installers:
+- Architecture: x64
+  InstallerUrl: https://github.com/shoebbhaikhan/Upkeep/releases/download/v1.0.0/Upkeep.exe
+  InstallerSha256: 1D4AB50108E08533BC3A51868B54D3D8BA117CDDB5EE71EB600E9522C9FD6A7D
+ElevationRequirement: elevationRequired
+ManifestType: installer
+ManifestVersion: 1.12.0
