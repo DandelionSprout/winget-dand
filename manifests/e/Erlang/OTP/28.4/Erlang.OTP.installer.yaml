@@ -1,0 +1,12 @@
+﻿# Created using wingetcreate 1.10.3.0
+# yaml-language-server: $schema=https://aka.ms/winget-manifest.installer.1.12.0.schema.json
+
+PackageIdentifier: Erlang.OTP
+PackageVersion: "28.4"
+InstallerType: nullsoft
+Installers:
+- Architecture: x64
+  InstallerUrl: https://github.com/erlang/otp/releases/download/OTP-28.4/otp_win64_28.4.exe
+  InstallerSha256: 3F4F339E69D39117F51F3592DD8FB30DA059F9D625759125A227CB2D50FCBFFE
+ManifestType: installer
+ManifestVersion: 1.12.0

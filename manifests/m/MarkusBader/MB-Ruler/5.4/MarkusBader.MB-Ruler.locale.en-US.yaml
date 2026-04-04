@@ -1,0 +1,12 @@
+﻿# Created using wingetcreate 1.10.3.0
+# yaml-language-server: $schema=https://aka.ms/winget-manifest.defaultLocale.1.12.0.schema.json
+
+PackageIdentifier: MarkusBader.MB-Ruler
+PackageVersion: "5.4"
+PackageLocale: en-US
+Publisher: Markus Bader - MB-Softwaresolutions
+PackageName: MB-Ruler
+License: Proprietary (Free for non-commercial use)
+ShortDescription: The triangular screen ruler.
+ManifestType: defaultLocale
+ManifestVersion: 1.12.0

@@ -1,0 +1,11 @@
+# yaml-language-server: $schema=https://aka.ms/winget-manifest.defaultLocale.1.12.0.schema.json
+
+PackageIdentifier: Xelitan.HashCalculator
+PackageVersion: "1.2"
+PackageLocale: en-US
+Publisher: Xelitan
+PackageName: Xelitan Hash Calculator
+License: Proprietary (Freeware)
+ShortDescription: Intuitive hash and checksum calculator. Supports over 160 algorithms. Can easily compare against given hashes/checksums to verify file integrity. Great tool to check if your files are not corrupted.
+ManifestType: defaultLocale
+ManifestVersion: 1.12.0

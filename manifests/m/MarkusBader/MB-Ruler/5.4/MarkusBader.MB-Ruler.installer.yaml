@@ -1,0 +1,15 @@
+﻿# Created using wingetcreate 1.10.3.0
+# yaml-language-server: $schema=https://aka.ms/winget-manifest.installer.1.12.0.schema.json
+
+PackageIdentifier: MarkusBader.MB-Ruler
+PackageVersion: "5.4"
+InstallerType: zip
+NestedInstallerType: inno
+NestedInstallerFiles:
+- RelativeFilePath: MB-Ruler54.exe
+Installers:
+- Architecture: x86
+  InstallerUrl: https://www.markus-bader.de/MB-Ruler/mbruler54.zip
+  InstallerSha256: EE355798F91D1686AF3A9CBCE7CD20E3F65F6947C02D99DD7C7BDDE7081C174D
+ManifestType: installer
+ManifestVersion: 1.12.0
