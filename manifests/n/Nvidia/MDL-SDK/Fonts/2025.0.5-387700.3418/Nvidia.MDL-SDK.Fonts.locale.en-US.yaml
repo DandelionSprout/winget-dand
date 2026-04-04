@@ -4,7 +4,7 @@ PackageIdentifier: Nvidia.MDL-SDK.Fonts
 PackageVersion: 2025.0.5-387700.3418
 PackageLocale: en-US
 Publisher: NVIDIA Corporation
-PackageName: MDL SDK
+PackageName: MDL SDK (Fonts)
 PackageUrl: https://github.com/NVIDIA/MDL-SDK
 License: BSD-3
 ShortDescription: An open source set of tools that enable the integration of physically-based materials into rendering applications.
