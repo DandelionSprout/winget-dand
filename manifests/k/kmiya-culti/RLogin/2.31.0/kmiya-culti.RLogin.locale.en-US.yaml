@@ -1,0 +1,11 @@
+# yaml-language-server: $schema=https://aka.ms/winget-manifest.defaultLocale.1.12.0.schema.json
+
+PackageIdentifier: kmiya-culti.RLogin
+PackageVersion: 2.31.0
+PackageLocale: en-US
+Publisher: kmiya-culti
+PackageName: RLogin
+License: MIT license
+ShortDescription: RLogin is a terminal software that runs on Windows.
+ManifestType: defaultLocale
+ManifestVersion: 1.12.0
