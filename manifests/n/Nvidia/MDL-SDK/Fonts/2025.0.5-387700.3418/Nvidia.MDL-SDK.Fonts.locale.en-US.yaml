@@ -7,7 +7,7 @@ Publisher: NVIDIA Corporation
 PackageName: MDL SDK (Fonts)
 PackageUrl: https://github.com/NVIDIA/MDL-SDK
 License: BSD-3
-ShortDescription: An open source set of tools that enable the integration of physically-based materials into rendering applications.
+ShortDescription: An open source set of tools that enable the integration of physically-based materials into rendering applications; specifically the set's fonts (Linux Libertine, Noto Sans, and Roboto Mono).
 Tags:
 - nvidia-mdl-sdk
 - nvidiamdlsdk
