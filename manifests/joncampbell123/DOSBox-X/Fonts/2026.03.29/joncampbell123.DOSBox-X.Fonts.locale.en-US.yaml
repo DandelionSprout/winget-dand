@@ -1,4 +1,3 @@
-# Created using wingetcreate 1.12.8.0
 # yaml-language-server: $schema=https://aka.ms/winget-manifest.defaultLocale.1.12.0.schema.json
 
 PackageIdentifier: joncampbell123.DOSBox-X.Fonts
@@ -7,6 +6,11 @@ PackageLocale: en-US
 Publisher: joncampbell123 [DOSBox-X Team]
 PackageName: DOSBox-X (Fonts)
 License: GPLv2
-ShortDescription: geryhterhtrjhtrjtyrwsjtyrwjtywrs
+ShortDescription: The fonts included in the DOSBox-X program's ZIP file (Nouveau IBM and Sarasa Gothic Fixed).
+Tags:
+- nouveau-ibm
+- nouveauibm
+- sarasa-gothic-fixed
+- sarasagothicfixed
 ManifestType: defaultLocale
 ManifestVersion: 1.12.0
