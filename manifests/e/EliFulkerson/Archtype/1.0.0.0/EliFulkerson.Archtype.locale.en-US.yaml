@@ -1,4 +1,3 @@
-﻿# Created using wingetcreate 1.10.3.0
 # yaml-language-server: $schema=https://aka.ms/winget-manifest.defaultLocale.1.12.0.schema.json
 
 PackageIdentifier: EliFulkerson.Archtype
@@ -10,5 +9,11 @@ PackageUrl: https://www.elifulkerson.com/projects/archtype.php
 License: All rights reserved, but source code is available
 Copyright: © Eli Fulkerson 2014
 ShortDescription: A command line utility that examines executables («.exe»s) and determines whether they are compiled for 32 or 64 bit architectures. It also pulls out the build date, whether symbols are included and some other flags from COFF header.
+Tags:
+- exe-architecture-checker
+- exearchitecturechecker
+- exe-arch-checker
+- exearchchecker
+- requirescmd
 ManifestType: defaultLocale
 ManifestVersion: 1.12.0
