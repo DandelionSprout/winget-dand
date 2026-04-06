@@ -2,7 +2,7 @@
 
 PackageIdentifier: TesseractCat.UWP-MIDI-Adapter
 PackageVersion: 0.1.0
-ReleaseDate: 2025-11-26
+ReleaseDate: 2025-05-01
 InstallerType: portable
 Installers:
 - Architecture: x86
