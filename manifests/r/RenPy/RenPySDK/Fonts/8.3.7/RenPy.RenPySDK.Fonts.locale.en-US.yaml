@@ -1,0 +1,25 @@
+# yaml-language-server: $schema=https://aka.ms/winget-manifest.defaultLocale.1.12.0.schema.json
+
+PackageIdentifier: RenPy.RenPySDK.Fonts
+PackageVersion: 8.3.7
+PackageLocale: en-US
+Publisher: Tom Rothamel
+PackageName: Ren'Py SDK (Fonts)
+License: MIT
+ShortDescription: The fonts included in Ren'Py SDK (Deja Vu Sans, Glyphicons Halflings, Quicksand, Roboto, Source Han Sans, FontAwesome Webfont, and an early version of Twemoji).
+Tags:
+- deja-vu-sans
+- dejavusans
+- fontawesome-webfont
+- fontawesomewebfont
+- glyphicons-halflings
+- glyphiconshalflings
+- opendyslexic3
+- quicksand
+- roboto
+- source-han-sans-lite
+- sourcehansanslite
+- twemoji-colr-v0
+- twemojicolrv0
+ManifestType: defaultLocale
+ManifestVersion: 1.12.0
