@@ -1,4 +1,3 @@
-﻿# Created using wingetcreate 1.10.3.0
 # yaml-language-server: $schema=https://aka.ms/winget-manifest.defaultLocale.1.12.0.schema.json
 
 PackageIdentifier: Erlang.OTP
@@ -6,8 +5,12 @@ PackageVersion: "28.4"
 PackageLocale: en-US
 Publisher: Ericsson AB
 PackageName: Erlang OTP
+PackageUrl: https://github.com/erlang/otp
 License: Apache-2.0
 Copyright: Copyright Ericsson AB 2010-2026. All Rights Reserved.
 ShortDescription: A programming language and runtime system for building massively scalable soft real-time systems with requirements on high availability.
+Tags:
+- programming-language
+- programminglanguage
 ManifestType: defaultLocale
 ManifestVersion: 1.12.0
