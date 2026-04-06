@@ -1,0 +1,44 @@
+# yaml-language-server: $schema=https://aka.ms/winget-manifest.installer.1.12.0.schema.json
+
+PackageIdentifier: Erlang.OTP
+PackageVersion: "28.4.1"
+ReleaseDate: 2026-03-12
+Installers:
+- Architecture: x64
+  InstallerType: nullsoft
+  InstallerUrl: https://github.com/erlang/otp/releases/download/OTP-28.4.1/otp_win64_28.4.1.exe
+  InstallerSha256: 8e478c277f2e25520fac72b50497966be46d12e09270c5f8e96cd8fdcae78031
+- Architecture: x86
+  InstallerType: nullsoft
+  InstallerUrl: https://github.com/erlang/otp/releases/download/OTP-28.4.1/otp_win32_28.4.1.exe
+  InstallerSha256: c7c4d7df770c0199496e9084e9498d9bab629dda347b904b9e7fdaddb25ca358
+- Architecture: x64
+  InstallerType: zip
+  NestedInstallerType: portable
+  NestedInstallerFiles:
+  - RelativeFilePath: bin\ct_run.exe
+  - RelativeFilePath: bin\dialyzer.exe
+  - RelativeFilePath: bin\erl.exe
+  - RelativeFilePath: bin\erl_call.exe
+  - RelativeFilePath: bin\erlc.exe
+  - RelativeFilePath: bin\escript.exe
+  - RelativeFilePath: bin\werl.exe
+  ArchiveBinariesDependOnPath: true
+  InstallerUrl: https://github.com/erlang/otp/releases/download/OTP-28.4.1/otp_win64_28.4.1.zip
+  InstallerSha256: 8ed30b97e41d56e7e21077ac14083dc230dc79c0724a20a19ba05fa8a423c0eb
+- Architecture: x64
+  InstallerType: zip
+  NestedInstallerType: portable
+  NestedInstallerFiles:
+  - RelativeFilePath: bin\ct_run.exe
+  - RelativeFilePath: bin\dialyzer.exe
+  - RelativeFilePath: bin\erl.exe
+  - RelativeFilePath: bin\erl_call.exe
+  - RelativeFilePath: bin\erlc.exe
+  - RelativeFilePath: bin\escript.exe
+  - RelativeFilePath: bin\werl.exe
+  ArchiveBinariesDependOnPath: true
+  InstallerUrl: https://github.com/erlang/otp/releases/download/OTP-28.4.1/otp_win32_28.4.1.zip
+  InstallerSha256: 118780cac412ee763f3fbde3060782ad3e7459b8e20af1f6c9ebf9c5cdb93393
+ManifestType: installer
+ManifestVersion: 1.12.0
