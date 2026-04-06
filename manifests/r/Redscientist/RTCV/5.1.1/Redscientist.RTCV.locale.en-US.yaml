@@ -9,6 +9,8 @@ PackageUrl: https://redscientist.com/rtc
 License: MIT
 ShortDescription: A Dynamic Corruptor for games. It is a set of libraries that can be rigged up to any program (Predominantly certain game emulators) that can load the CLR and works by corrupting data in memory to force glitches.
 Tags:
+- real-time-corruptor-vanguard
+- realtimecorruptorvanguard
 - corruptions
 - plugin
 - gamemodding
