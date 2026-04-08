@@ -1,0 +1,21 @@
+# yaml-language-server: $schema=https://aka.ms/winget-manifest.installer.1.12.0.schema.json
+
+PackageIdentifier: joncampbell123.DOSBox-X.winXP
+PackageVersion: 2026.03.29
+InstallerType: zip
+NestedInstallerType: portable
+ArchiveBinariesDependOnPath: true
+Installers:
+- Architecture: x64
+  InstallerUrl: https://github.com/joncampbell123/dosbox-x/releases/download/dosbox-x-v2026.03.29/dosbox-x-winXP-2026.03.29-portable.zip
+  InstallerSha256: F761C7ED6837D8D8BA3BE1B85F7DC7390F02E71FA330537036FA43EBDFCE781F
+  NestedInstallerFiles:
+  - RelativeFilePath: dosbox-x_XPx64_SDL2.exe
+  - RelativeFilePath: dosbox-x_XPx86_SDL2.exe
+- Architecture: x86
+  InstallerUrl: https://github.com/joncampbell123/dosbox-x/releases/download/dosbox-x-v2026.03.29/dosbox-x-winXP-2026.03.29-portable.zip
+  InstallerSha256: F761C7ED6837D8D8BA3BE1B85F7DC7390F02E71FA330537036FA43EBDFCE781F
+  NestedInstallerFiles:
+  - RelativeFilePath: dosbox-x_XPx86_SDL2.exe
+ManifestType: installer
+ManifestVersion: 1.12.0
