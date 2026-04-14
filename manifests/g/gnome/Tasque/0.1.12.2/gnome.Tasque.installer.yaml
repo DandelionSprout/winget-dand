@@ -1,8 +1,8 @@
-﻿# Created using wingetcreate 1.10.3.0
 # yaml-language-server: $schema=https://aka.ms/winget-manifest.installer.1.12.0.schema.json
 
 PackageIdentifier: gnome.Tasque
 PackageVersion: 0.1.12.2
+ReleaseDate: 2013-03-06
 InstallerLocale: en-US
 InstallerType: wix
 ProductCode: '{77D11586-3CC3-493A-9EFD-0391E87FF2C1}'
