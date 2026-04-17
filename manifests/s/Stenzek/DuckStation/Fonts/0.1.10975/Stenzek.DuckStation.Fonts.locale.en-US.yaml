@@ -1,0 +1,25 @@
+# yaml-language-server: $schema=https://aka.ms/winget-manifest.defaultLocale.1.12.0.schema.json
+
+PackageIdentifier: Stenzek.DuckStation.Fonts
+PackageVersion: 0.1.10975
+PackageLocale: en-US
+Publisher: Stenzek
+PackageName: DuckStation (Fonts)
+PackageUrl: https://github.com/stenzek/duckstation
+License: CC BY-NC-ND 4.0
+ShortDescription: The fonts included with the PlayStation 1 emulator DuckStation (Twitter Color Emoji, Promptfont, Google Sans Code, and selected versions of Noto Sans and Roboto).
+Tags:
+- twitter-color-emoji
+- twittercoloremoji
+- promptfont
+- google-sans-code
+- googlesanscode
+- roboto
+- noto-sans-jp
+- notosansjp
+- noto-sans-kr
+- notosanskr
+- noto-sans-sc
+- notosanssc
+ManifestType: defaultLocale
+ManifestVersion: 1.12.0

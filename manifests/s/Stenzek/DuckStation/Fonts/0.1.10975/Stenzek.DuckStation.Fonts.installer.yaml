@@ -1,0 +1,44 @@
+# yaml-language-server: $schema=https://aka.ms/winget-manifest.installer.1.12.0.schema.json
+
+PackageIdentifier: Stenzek.DuckStation.Fonts
+PackageVersion: 0.1.10975
+InstallerType: zip
+NestedInstallerType: font
+Installers:
+- Architecture: neutral
+  NestedInstallerFiles:
+  - RelativeFilePath: resources\fonts\GoogleSansCode-VariableFont_wght.ttf
+  InstallerUrl: https://github.com/stenzek/duckstation/releases/download/v0.1-10975/duckstation-windows-x64-release.zip
+  InstallerSha256: 89ED8EA8E490A1036089BD86C2E5E4C5BFB6F3F554F903661C1A2F4B0623239C
+- Architecture: neutral
+  NestedInstallerFiles:
+  - RelativeFilePath: resources\fonts\NotoSansJP-VariableFont_wght.ttf
+  InstallerUrl: https://github.com/stenzek/duckstation/releases/download/v0.1-10975/duckstation-windows-x64-release.zip
+  InstallerSha256: 89ED8EA8E490A1036089BD86C2E5E4C5BFB6F3F554F903661C1A2F4B0623239C
+- Architecture: neutral
+  NestedInstallerFiles:
+  - RelativeFilePath: resources\fonts\NotoSansKR-VariableFont_wght.ttf
+  InstallerUrl: https://github.com/stenzek/duckstation/releases/download/v0.1-10975/duckstation-windows-x64-release.zip
+  InstallerSha256: 89ED8EA8E490A1036089BD86C2E5E4C5BFB6F3F554F903661C1A2F4B0623239C
+- Architecture: neutral
+  NestedInstallerFiles:
+  - RelativeFilePath: resources\fonts\NotoSansSC-VariableFont_wght.ttf
+  InstallerUrl: https://github.com/stenzek/duckstation/releases/download/v0.1-10975/duckstation-windows-x64-release.zip
+  InstallerSha256: 89ED8EA8E490A1036089BD86C2E5E4C5BFB6F3F554F903661C1A2F4B0623239C
+- Architecture: neutral
+  NestedInstallerFiles:
+  - RelativeFilePath: resources\fonts\promptfont.otf
+  InstallerUrl: https://github.com/stenzek/duckstation/releases/download/v0.1-10975/duckstation-windows-x64-release.zip
+  InstallerSha256: 89ED8EA8E490A1036089BD86C2E5E4C5BFB6F3F554F903661C1A2F4B0623239C
+- Architecture: neutral
+  NestedInstallerFiles:
+  - RelativeFilePath: resources\fonts\Roboto-VariableFont_wdth,wght.ttf
+  InstallerUrl: https://github.com/stenzek/duckstation/releases/download/v0.1-10975/duckstation-windows-x64-release.zip
+  InstallerSha256: 89ED8EA8E490A1036089BD86C2E5E4C5BFB6F3F554F903661C1A2F4B0623239C
+- Architecture: neutral
+  NestedInstallerFiles:
+  - RelativeFilePath: resources\fonts\TwitterColorEmoji-SVGinOT.ttf
+  InstallerUrl: https://github.com/stenzek/duckstation/releases/download/v0.1-10975/duckstation-windows-x64-release.zip
+  InstallerSha256: 89ED8EA8E490A1036089BD86C2E5E4C5BFB6F3F554F903661C1A2F4B0623239C
+ManifestType: installer
+ManifestVersion: 1.12.0
