@@ -1,5 +1,4 @@
-﻿# Created using wingetcreate 1.10.3.0
-# yaml-language-server: $schema=https://aka.ms/winget-manifest.installer.1.12.0.schema.json
+﻿# yaml-language-server: $schema=https://aka.ms/winget-manifest.installer.1.12.0.schema.json
 
 PackageIdentifier: irzyxa.Volume2
 PackageVersion: 1.1.9.470
@@ -15,4 +14,4 @@ Installers:
   InstallerUrl: https://github.com/irzyxa/Volume2/releases/download/v1.1.9.470/Setup_Volume2_1_1_9_x64.zip
   InstallerSha256: 9733B12719A057F32D6540F39E5B939AC67DD1DB135D2BA1B69C9490992080CD
 ManifestType: installer
-ManifestVersion: 1.12.0
+ManifestVersion: 1.12.0

@@ -1,5 +1,4 @@
-﻿# Created using wingetcreate 1.10.3.0
-# yaml-language-server: $schema=https://aka.ms/winget-manifest.defaultLocale.1.12.0.schema.json
+﻿# yaml-language-server: $schema=https://aka.ms/winget-manifest.defaultLocale.1.12.0.schema.json
 
 PackageIdentifier: ETC.Eos
 PackageVersion: 3.3.5
@@ -9,4 +8,4 @@ PackageName: Eos Family Console Software
 License: Proprietary
 ShortDescription: Includes Eos Expansion Processing, Magic Sheet Improvements, and much more.
 ManifestType: defaultLocale
-ManifestVersion: 1.12.0
+ManifestVersion: 1.12.0

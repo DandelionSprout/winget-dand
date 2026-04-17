@@ -1,5 +1,4 @@
-﻿# Created using wingetcreate 1.10.3.0
-# yaml-language-server: $schema=https://aka.ms/winget-manifest.installer.1.12.0.schema.json
+﻿# yaml-language-server: $schema=https://aka.ms/winget-manifest.installer.1.12.0.schema.json
 
 PackageIdentifier: Discriminator.PDW
 PackageVersion: 3.2b01
@@ -14,4 +13,4 @@ Installers:
   InstallerUrl: https://www.discriminator.nl/pdw/pdw3.2b01.zip
   InstallerSha256: AF64DA59BEE8C2F702432856ACA3ECFD932A3DDC968ADAED4B7924677A80B358
 ManifestType: installer
-ManifestVersion: 1.12.0
+ManifestVersion: 1.12.0
