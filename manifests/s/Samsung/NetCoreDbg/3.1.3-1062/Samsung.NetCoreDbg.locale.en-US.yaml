@@ -13,6 +13,7 @@ Tags:
 - gdb
 - vscode-debug-adapter-protocol
 - vscodedebugadapterprotocol
+- ncdb
 - requirescmd
 - dbgshim.dll
 - managedpart.dll
