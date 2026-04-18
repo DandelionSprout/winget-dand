@@ -14,6 +14,8 @@ Tags:
 - vscode-debug-adapter-protocol
 - vscodedebugadapterprotocol
 - requirescmd
+- dbgshim.dll
+- managedpart.dll
 Documentations:
 - DocumentLabel: Commands
   DocumentUrl: https://github.com/Samsung/netcoredbg/blob/master/docs/cli.md
