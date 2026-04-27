@@ -1,0 +1,17 @@
+# yaml-language-server: $schema=https://aka.ms/winget-manifest.installer.1.12.0.schema.json
+
+PackageIdentifier: Microsoft.CsWinRT
+PackageVersion: 2.2.0
+ReleaseDate: 2024-11-12
+InstallerType: zip # A .nupkg package with .exe-s inside.
+NestedInstallerType: portable
+NestedInstallerFiles:
+- RelativeFilePath: cswinrt.exe
+- RelativeFilePath: build\tools\IIDOptimizer\IIDOptimizer.exe
+ArchiveBinariesDependOnPath: true
+Installers:
+- Architecture: neutral
+  InstallerUrl: https://globalcdn.nuget.org/packages/microsoft.windows.cswinrt.2.2.0.nupkg
+  InstallerSha256: a89df04f86c1671fcf30ccd6f5cc78eb189a29daa19f3d92d00987d4b3fc3b63
+ManifestType: installer
+ManifestVersion: 1.12.0
