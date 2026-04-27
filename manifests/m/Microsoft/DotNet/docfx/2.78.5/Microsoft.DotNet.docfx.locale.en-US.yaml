@@ -1,0 +1,11 @@
+# yaml-language-server: $schema=https://aka.ms/winget-manifest.defaultLocale.1.12.0.schema.json
+
+PackageIdentifier: Microsoft.DotNet.docfx
+PackageVersion: 2.78.5
+PackageLocale: en-US
+Publisher: Microsft Corporation
+PackageName: docfx
+License: MIT
+ShortDescription: Build your technical documentation site with docfx, with landing pages, markdown, API reference docs for .NET, REST API and more.
+ManifestType: defaultLocale
+ManifestVersion: 1.12.0

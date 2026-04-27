@@ -1,0 +1,15 @@
+# yaml-language-server: $schema=https://aka.ms/winget-manifest.installer.1.12.0.schema.json
+
+PackageIdentifier: Microsoft.DotNet.docfx
+PackageVersion: 2.78.5
+InstallerType: zip
+NestedInstallerType: portable
+NestedInstallerFiles:
+- RelativeFilePath: docfx.exe
+ArchiveBinariesDependOnPath: true
+Installers:
+- Architecture: x64
+  InstallerUrl: https://github.com/dotnet/docfx/releases/download/v2.78.5/docfx-win-x64-v2.78.5.zip
+  InstallerSha256: 64ACD0D0EE66A795B701B9FA117392233DB8DE9F70A331702E904D90826A6AEC
+ManifestType: installer
+ManifestVersion: 1.12.0
