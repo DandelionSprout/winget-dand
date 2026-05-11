@@ -3,6 +3,8 @@
 PackageIdentifier: shoebbhaikhan.Upkeep
 PackageVersion: "1"
 ReleaseDate: 2026-04-02
+Platform:
+- Windows.Desktop
 InstallerType: portable
 Commands:
 - upkeep
