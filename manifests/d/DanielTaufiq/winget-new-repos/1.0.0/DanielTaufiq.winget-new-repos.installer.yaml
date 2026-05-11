@@ -1,9 +1,8 @@
 # yaml-language-server: $schema=https://aka.ms/winget-manifest.installer.1.12.0.schema.json
 
 PackageIdentifier: DanielTaufiq.winget-new-repos
-PackageVersion: 1.0.0
+PackageVersion: 1
 ReleaseDate: 2021-07-19
-InstallerLocale: en-US
 InstallerType: msi
 ProductCode: '{B1711CDA-94FF-4BC9-BD96-179F0357EAAC}'
 Installers:
