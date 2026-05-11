@@ -1,4 +1,3 @@
-﻿# Created using wingetcreate 1.10.3.0
 # yaml-language-server: $schema=https://aka.ms/winget-manifest.defaultLocale.1.12.0.schema.json
 
 PackageIdentifier: MagnusAuvinen.Teeworlds
@@ -17,5 +16,11 @@ Tags:
 - shootergame
 - 2dgame
 - sidescroller
+- third-person-shooter
+- thirdpersonshooter
+- multiplayer
+Documentation:
+- DocumentLabel: Alternate Homepage
+  DocumentUrl: https://github.com/teeworlds/teeworlds
 ManifestType: defaultLocale
 ManifestVersion: 1.12.0
