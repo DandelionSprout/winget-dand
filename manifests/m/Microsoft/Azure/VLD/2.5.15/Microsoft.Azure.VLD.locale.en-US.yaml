@@ -1,0 +1,17 @@
+# yaml-language-server: $schema=https://aka.ms/winget-manifest.defaultLocale.1.12.0.schema.json
+
+PackageIdentifier: Microsoft.Azure.VLD
+PackageVersion: 2.5.15
+PackageLocale: en-US
+Publisher: Azure
+PackageName: Visual Leak Detector
+PackageUrl: https://github.com/Azure/vld
+License: LGPL-2.1
+ShortDescription: Visual C++ provides built-in memory leak detection, but its capabilities are minimal at best. This memory leak detector was created as a free alternative to the built-in memory leak detector provided with Visual C++.
+Tags:
+- visual-leak-detector
+- visualleakdetector
+- memory-leak-detection
+- memoryleakdetection
+ManifestType: defaultLocale
+ManifestVersion: 1.12.0
