@@ -2,7 +2,7 @@
 
 PackageIdentifier: Microsoft.Scribble
 PackageVersion: "1"
-InstallerType: zip
+InstallerType: zip # An .appx with a functional .exe inside.
 NestedInstallerType: portable
 NestedInstallerFiles:
 - RelativeFilePath: scribble.exe
