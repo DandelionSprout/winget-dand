@@ -2,6 +2,7 @@
 
 PackageIdentifier: Microsoft.Scribble
 PackageVersion: "1"
+MinimumOSVersion: 10.0.16299.0
 InstallerType: zip # An .appx with a functional .exe inside.
 NestedInstallerType: portable
 NestedInstallerFiles:
