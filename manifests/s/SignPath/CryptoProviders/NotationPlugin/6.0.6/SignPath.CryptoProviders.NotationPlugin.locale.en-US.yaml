@@ -1,0 +1,23 @@
+# yaml-language-server: $schema=https://aka.ms/winget-manifest.defaultLocale.1.12.0.schema.json
+
+PackageIdentifier: SignPath.CryptoProviders.NotationPlugin
+PackageVersion: 6.0.6
+PackageLocale: en-US
+Publisher: SignPath
+PackageName: SignPath Crypto Providers - Notation Plugin
+PackageUrl: https://docs.signpath.io/crypto-providers
+License: Proprietary
+ShortDescription: A plugin for using the NotaryProject.Notation command line tool with SignPath.
+Tags:
+- cryptography
+- signpath-crypto-providers-notation
+- signpathcryptoprovidersnotationplugin
+- notation-plugin
+- oci-registries
+- ociregistries
+- requirescmd
+Documentations:
+- DocumentLabel: Overview
+  DocumentUrl: https://docs.signpath.io/crypto-providers/notation
+ManifestType: defaultLocale
+ManifestVersion: 1.12.0

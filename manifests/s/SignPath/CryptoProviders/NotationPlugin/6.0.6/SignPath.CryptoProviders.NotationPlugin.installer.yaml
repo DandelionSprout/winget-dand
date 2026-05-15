@@ -1,0 +1,17 @@
+# yaml-language-server: $schema=https://aka.ms/winget-manifest.installer.1.12.0.schema.json
+
+PackageIdentifier: SignPath.CryptoProviders.NotationPlugin
+PackageVersion: 6.0.6
+InstallerType: zip
+NestedInstallerType: portable
+NestedInstallerFiles:
+- RelativeFilePath: notation-signpath.exe
+Installers:
+- Architecture: x64
+  InstallerUrl: https://download.signpath.io/cryptoproviders/notation-plugin/6-latest/windows/x64/notation-signpath.zip
+  InstallerSha256: FE1811811D890779565B9AFC26271DA3EA433132E3FF86EC268808765F6590CA
+Dependencies:
+  PackageDependencies:
+  - PackageIdentifier: NotaryProject.Notation
+ManifestType: installer
+ManifestVersion: 1.12.0
