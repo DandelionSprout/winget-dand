@@ -14,5 +14,7 @@ Tags:
 - imagethumbnails
 - windows-explorer-thumbnails
 - windowsexplorerthumbnails
+- windows-file-explorer-thumbnails
+- windowsfileexplorerthumbnails
 ManifestType: defaultLocale
 ManifestVersion: 1.12.0
