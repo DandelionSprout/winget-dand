@@ -5,7 +5,7 @@ PackageVersion: 2.5.15
 ReleaseDate: 2026-03-14
 InstallerType: inno
 Installers:
-- Architecture: x64
+- Architecture: x86
   InstallerUrl: https://github.com/Azure/vld/releases/download/v2.5.15/vld-2.5.15-setup.exe
   InstallerSha256: DDCCB5E29E0722D855697B2DA89D395E86618784C5F39A1ACC5485BE050C2C68
 ManifestType: installer
