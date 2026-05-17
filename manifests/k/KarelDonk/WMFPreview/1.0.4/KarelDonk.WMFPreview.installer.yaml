@@ -18,6 +18,7 @@ Installers:
   InstallerUrl: https://github.com/kareldonk/WMFPreview/releases/download/v1.0.4/WMFPreviewSetup_v1.0.4.zip
   InstallerSha256: 0BAAB7BB4A6805B6567A58F772B4BDC39751407B40A8D0479431E896A548EF48
   ProductCode: '{FAF98B04-8214-4548-A87B-4C6DD09DC839}'
+ElevationRequirement: elevationRequired
 FileExtensions:
 - emf
 - wmf
