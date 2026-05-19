@@ -1,0 +1,17 @@
+# Created using wingetcreate 1.12.8.0
+# yaml-language-server: $schema=https://aka.ms/winget-manifest.installer.1.12.0.schema.json
+
+PackageIdentifier: Codchi.Codchi
+PackageVersion: 0.3.1.7
+Platform:
+- Windows.Desktop
+MinimumOSVersion: 10.0.17763.0
+InstallerType: msix
+PackageFamilyName: Codchi_zhe5fvwpe5y5t
+Installers:
+- Architecture: x64
+  InstallerUrl: https://github.com/aformatik/codchi/releases/download/v0.3.1.7/codchi.msix
+  InstallerSha256: B929C713AFFEB0C578259B495623705837E15644E46F6EE1396C71A7A505BF3A
+  SignatureSha256: A5140F443E1A6FBC9013A069A2212B2052361FEC974C1716587986FD13A2737A
+ManifestType: installer
+ManifestVersion: 1.12.0

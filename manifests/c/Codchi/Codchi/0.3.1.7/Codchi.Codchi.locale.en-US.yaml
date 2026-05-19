@@ -1,0 +1,13 @@
+# Created using wingetcreate 1.12.8.0
+# yaml-language-server: $schema=https://aka.ms/winget-manifest.defaultLocale.1.12.0.schema.json
+
+PackageIdentifier: Codchi.Codchi
+PackageVersion: 0.3.1.7
+PackageLocale: en-US
+Publisher: Codchi
+PackageName: Codchi
+PackageUrl: https://github.com/aformatik/codchi
+License: MIT
+ShortDescription: A tool that manages your project's development environment in a reproducible and easy-to-use way. Setting up a development environment should be as easy as a git clone!
+ManifestType: defaultLocale
+ManifestVersion: 1.12.0
