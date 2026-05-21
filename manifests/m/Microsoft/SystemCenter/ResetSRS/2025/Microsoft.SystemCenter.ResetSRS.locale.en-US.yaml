@@ -1,0 +1,19 @@
+# yaml-language-server: $schema=https://aka.ms/winget-manifest.defaultLocale.1.12.0.schema.json
+
+PackageIdentifier: Microsoft.SystemCenter.ResetSRS
+PackageVersion: "2025"
+PackageLocale: en-US
+Publisher: Microsoft
+PackageName: Reset SQL Reporting Server Tool
+License: Proprietary
+ShortDescription: Use this tool to get SQL Reporting Service to a working state after an uninstall of System Center Operations Manager Reporting.
+Tags:
+- microsoft-system-center-reset-srs
+- microsoftsystemcenterresetsrs
+- sql-reporting-service
+- sqlreportingservice
+- sql-reporting-server
+- sqlreportingserver
+- requirescmd
+ManifestType: defaultLocale
+ManifestVersion: 1.12.0
