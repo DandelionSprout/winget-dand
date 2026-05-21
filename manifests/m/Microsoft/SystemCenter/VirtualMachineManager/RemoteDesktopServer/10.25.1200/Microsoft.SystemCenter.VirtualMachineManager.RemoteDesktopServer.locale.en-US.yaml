@@ -1,0 +1,18 @@
+# yaml-language-server: $schema=https://aka.ms/winget-manifest.defaultLocale.1.12.0.schema.json
+
+PackageIdentifier: Microsoft.SystemCenter.VirtualMachineManager.RemoteDesktopServer
+PackageVersion: 10.25.1200
+PackageLocale: en-US
+Publisher: Microsoft Corporation
+PackageName: System Center Virtual Machine Manager Remote Desktop Server
+License: Proprietary
+ShortDescription: Remote Desktop Server add-on for System Center Virtual Machine Manager.
+Tags:
+- vmm-remote-desktop-server
+- system-center-virtual-machine-manager
+- systemcentervirtualmachinemanager
+- vmmrdvserver
+- vmm-rdv-server
+- mscvmmrds
+ManifestType: defaultLocale
+ManifestVersion: 1.12.0
