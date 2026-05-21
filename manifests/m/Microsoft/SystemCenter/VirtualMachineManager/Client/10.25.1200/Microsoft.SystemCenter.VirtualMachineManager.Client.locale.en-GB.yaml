@@ -14,5 +14,7 @@ Tags:
 - admin-console
 - administrator-console
 - administratorconsole
+- vmm-console
+- vmmconsole
 ManifestType: locale
 ManifestVersion: 1.12.0
