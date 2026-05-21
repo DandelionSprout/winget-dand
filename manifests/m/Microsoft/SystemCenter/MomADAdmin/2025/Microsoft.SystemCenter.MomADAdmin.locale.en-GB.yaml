@@ -1,0 +1,15 @@
+# yaml-language-server: $schema=https://aka.ms/winget-manifest.locale.1.12.0.schema.json
+
+PackageIdentifier: Microsoft.SystemCenter.MomADAdmin
+PackageVersion: "2025"
+PackageLocale: en-GB
+Tags:
+- active-directory-integration-feature
+- activedirectoryintegrationfeature
+- mom-ad-configuration-tool
+- momadconfigurationtool
+- system-centre-operations-manager
+- systemcentreoperationsmanager
+- requirescmd
+ManifestType: locale
+ManifestVersion: 1.12.0

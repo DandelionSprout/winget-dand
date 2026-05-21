@@ -1,0 +1,20 @@
+# yaml-language-server: $schema=https://aka.ms/winget-manifest.defaultLocale.1.12.0.schema.json
+
+PackageIdentifier: Microsoft.SystemCenter.MomADAdmin
+PackageVersion: "2025"
+PackageLocale: en-US
+Publisher: Microsoft
+PackageName: MOM AD Configuration Tool
+License: Proprietary
+ShortDescription: This tool prepares a domain for the OpsMgr AD Integration feature, which is used for automatic agent assignment to management server. All objects created with this tool are created under the OperationsManager container, under the domain root.
+Description: This tool prepares a domain for the Operations Manager Active Directory Integration feature, which is used for automatic agent assignment to management server. All objects created with this tool are created under the OperationsManager container, under the domain root.
+Tags:
+- active-directory-integration-feature
+- activedirectoryintegrationfeature
+- mom-ad-configuration-tool
+- momadconfigurationtool
+- system-center-operations-manager
+- systemcenteroperationsmanager
+- requirescmd
+ManifestType: defaultLocale
+ManifestVersion: 1.12.0
