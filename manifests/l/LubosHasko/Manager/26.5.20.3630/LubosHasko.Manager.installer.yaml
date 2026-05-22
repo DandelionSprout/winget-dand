@@ -1,0 +1,25 @@
+# yaml-language-server: $schema=https://aka.ms/winget-manifest.installer.1.12.0.schema.json
+
+PackageIdentifier: LubosHasko.Manager
+PackageVersion: 26.5.20.3630
+ReleaseDate: 2026-05-20
+Platform:
+- Windows.Desktop
+MinimumOSVersion: 10.0.14316.0
+Installers:
+- Architecture: x64
+  InstallerType: msix
+  PackageFamilyName: Manager_0pfjnqdp216hg
+  InstallerUrl: https://github.com/Manager-io/Manager/releases/download/26.5.20.3630/Manager-x64.appx
+  InstallerSha256: 674CC8F28ECBFE5D6C230BFF69DF4A9810F47D05CB700BF5AE0E079920B29D1C
+  SignatureSha256: 6F229A6C3914EFC1F14E07A3473D6D23704B4CD920D68F9905CCF66D85B5BFCB
+- Architecture: x64
+  InstallerType: zip
+  NestedInstallerType: portable
+  NestedInstallerFiles:
+  - RelativeFilePath: app\Manager.exe
+  - RelativeFilePath: app\resources\ManagerServer\ManagerServer.exe
+  InstallerUrl: https://github.com/Manager-io/Manager/releases/download/26.5.20.3630/Manager-x64.appx?p
+  InstallerSha256: 674CC8F28ECBFE5D6C230BFF69DF4A9810F47D05CB700BF5AE0E079920B29D1C
+ManifestType: installer
+ManifestVersion: 1.12.0
