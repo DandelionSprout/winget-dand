@@ -2,7 +2,6 @@
 PackageIdentifier: donid.WingetRepoBrowser
 PackageVersion: 0.3.0
 ReleaseDate: 2025-12-13
-InstallerLocale: en-US
 InstallerType: zip
 NestedInstallerType: portable
 NestedInstallerFiles:
