@@ -7,8 +7,9 @@ Publisher: Samurai-X-13
 PackageName: Jacked
 PackageUrl: https://github.com/Samurai-X-13/Jacked
 License: GPLv3
-ShortDescription: A mini blackjack game for terminals.
+ShortDescription: A mini Blackjack game for terminals.
 Tags:
+- blackjack
 - "21"
 - card-game
 - cardgame
