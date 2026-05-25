@@ -2,6 +2,7 @@
 
 PackageIdentifier: MCJack123.CraftOS-PC2.Portable
 PackageVersion: 2.8.3
+ReleaseDate: 2024-08-16
 InstallerType: zip
 NestedInstallerType: portable
 NestedInstallerFiles:
