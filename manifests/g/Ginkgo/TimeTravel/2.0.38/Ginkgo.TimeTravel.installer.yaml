@@ -2,7 +2,6 @@
 
 PackageIdentifier: Ginkgo.TimeTravel
 PackageVersion: 2.0.38
-InstallerLocale: en-US
 InstallerType: zip
 NestedInstallerType: msi
 NestedInstallerFiles:
