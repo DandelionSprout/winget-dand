@@ -13,5 +13,8 @@ Installers:
   InstallerUrl: https://github.com/aformatik/codchi/releases/download/v0.3.1.7/codchi.msix
   InstallerSha256: B929C713AFFEB0C578259B495623705837E15644E46F6EE1396C71A7A505BF3A
   SignatureSha256: A5140F443E1A6FBC9013A069A2212B2052361FEC974C1716587986FD13A2737A
+Dependencies:
+  PackageDependencies:
+  - PackageIdentifier: Microsoft.WSL
 ManifestType: installer
 ManifestVersion: 1.12.0
