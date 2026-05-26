@@ -133,6 +133,11 @@
 * Yamaha.MOXFRemoteEditor (Can't be silently installed)
 * SamsidParty.OberonRemote.Client (Pipeline's OS is too old / MSIXBundle; https://github.com/microsoft/winget-pkgs/issues/333364)
 * Final Fantasy XIV (Can't be silently installed)
+* RetriX ("An error occured during the app package analysis")
+* Xensam Xearch (No known download link)
+* AlkaidLab.foundation-sunshine (Known to require a driver install)
+* Mideej (Can't be silently installed)
+* InstallForge (Can't be silently installed)
 
 ## App doesn't work or is incomprehensible:
 * BrianPeek.MultipleWiimoteTester/WiimoteLib
