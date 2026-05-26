@@ -1,0 +1,24 @@
+# yaml-language-server: $schema=https://aka.ms/winget-manifest.installer.1.12.0.schema.json
+
+PackageIdentifier: LubosHasko.Manager.Server
+PackageVersion: 26.5.25.3631
+ReleaseDate: 2026-05-25
+InstallerType: zip
+NestedInstallerType: portable
+NestedInstallerFiles:
+- RelativeFilePath: ManagerServer.exe
+  PortableCommandAlias: managerserver
+ArchiveBinariesDependOnPath: true
+Installers:
+- Architecture: x64
+  InstallerUrl: https://github.com/Manager-io/Manager/releases/download/26.5.25.3631/ManagerServer-win-x64.zip
+  InstallerSha256: D27FF1C59912F67BA549B3A86AD25B6DF511DC9934C4974FC2F44FFD66A9E3F8
+  AppsAndFeaturesEntries:
+  - DisplayName: Manager Server (x64)
+- Architecture: arm64
+  InstallerUrl: https://github.com/Manager-io/Manager/releases/download/26.5.25.3631/ManagerServer-win-arm64.zip
+  InstallerSha256: 494a7f8ef9336ac22cf6404bfb50ac63a852a0aba6feed2b6ddbae87e6e87b01
+  AppsAndFeaturesEntries:
+  - DisplayName: Manager Server (ARM64)
+ManifestType: installer
+ManifestVersion: 1.12.0
