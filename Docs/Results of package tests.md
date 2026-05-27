@@ -4,11 +4,9 @@
 * 'Vense Remote (Driver install prompt that can only be closed manually)
 * AdtServer.msi (Requires Windows Server)
 * AMD Ryzen Master (Very weird installer)
-* ASUS anything hosted on asuswebstorageCOM (HTTP "Unauthorised")
 * Audeze.AudezeHQ (Can't be silently installed)
 * AVerMedia anything (Can't be silently installed)
 * Banking4 Home (Can't be silently installed)
-* BatchPatch (Installer download is somehow generated client-side from a "tmstv" script thingie)
 * BenQ anything (Can't be silently installed; gets stuck on pointless VCredist installation prompt)
 * Bluegrams.ScreenRuler (Supposedly broke repo guidelines about SourceForge)
 * BrunnerInnovation.vJoy (Can't be silently installed)
@@ -110,7 +108,6 @@
 * Samsung Browser for Windows (Can't be silently installed)
 * Samsung.Escargot (Depends on the WebAssembly library "Walrus", for which no executables exist)
 * Samsung.Odin (No widely established installer URLs)
-* Segger J-Link (Anti-bot measures for its download link)
 * Sniffnet (Has Npcap as a dependency)
 * TeX Live (Can't be silently installed)
 * Thrustmaster.TARGET (Driver install prompt that can only be closed manually)
@@ -125,7 +122,6 @@
 * Wine Mono (Bafflingly tries to start a 2nd installer for a support tool before having finished the 1st installer)
 * Winpcap (Can't be silently installed)
 * wxTED (Can't be silently installed; gets stuck on a prompt on whether to restart Explorer.exe or not)
-* Xaos (Can't be silently installed)
 * Xbox main EXE (Can't be silently installed)
 * Yamaha.AG08Controller (Can't be silently installed)
 * Yamaha.ConsoleFileConverter (Can't be silently installed)
@@ -205,13 +201,16 @@
 * Splice Instrument
 * Citrix DeviceTrust Client Extension
 
-## HTTP "Forbidden"
+## HTTP "Forbidden" or similar:
 * AmpliTube (HTTP "Forbidden")
 * ExecTI Winaero (HTTP "Forbidden")
 * IK Product Manager (HTTP "Forbidden")
 * Mod The Sims anything (HTTP "Forbidden")
 * Native Access (HTTP "Forbidden")
 * No$gba (HTTP "Forbidden")
+* ASUS anything hosted on asuswebstorageCOM (HTTP "Unauthorised")
+* Segger J-Link (Anti-bot measures for its download link)
+* BatchPatch (Installer download is somehow generated client-side from a "tmstv" script thingie)
 
 ## Self-extracting 7Z-s disguised as .exe-s:
 * MAME (Self-extracting 7Z)
