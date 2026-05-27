@@ -138,6 +138,7 @@
 * AlkaidLab.foundation-sunshine (Known to require a driver install)
 * Mideej (Can't be silently installed)
 * InstallForge (Can't be silently installed)
+* Microsoft System Center Virtual Machine Manager Client (Winget-pkgs can't silently install it)
 
 ## App doesn't work or is incomprehensible:
 * BrianPeek.MultipleWiimoteTester/WiimoteLib
