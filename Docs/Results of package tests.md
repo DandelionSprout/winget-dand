@@ -135,6 +135,7 @@
 * Mideej (Can't be silently installed)
 * InstallForge (Can't be silently installed)
 * Microsoft System Center Virtual Machine Manager Client (Winget-pkgs can't silently install it)
+* Dinger.RDHost (ESET false positive)
 
 ## App doesn't work or is incomprehensible:
 * BrianPeek.MultipleWiimoteTester/WiimoteLib
@@ -188,6 +189,7 @@
 * XBSX2 (MSIXBundle)
 * LRReader (MSIXBundle)
 * Passbolt (ZIP)
+* Baulk AppX
 
 ## Time-expirant installer URLs:
 * 3DMark
