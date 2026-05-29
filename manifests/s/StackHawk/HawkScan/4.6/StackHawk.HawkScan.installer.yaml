@@ -1,4 +1,5 @@
 # yaml-language-server: $schema=https://aka.ms/winget-manifest.installer.1.12.0.schema.json
+# Is not in winget-pkgs due to: Trellixens false positive; see https://github.com/microsoft/winget-pkgs/pull/378633#issuecomment-4524238022.
 
 PackageIdentifier: StackHawk.HawkScan
 PackageVersion: "4.6"
