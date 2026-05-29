@@ -189,6 +189,7 @@
 * LRReader (MSIXBundle)
 * Passbolt (ZIP)
 * Baulk AppX
+* 2fast (ZIP)
 
 ## Time-expirant installer URLs:
 * 3DMark
