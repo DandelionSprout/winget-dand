@@ -135,8 +135,6 @@
 * Mideej (Can't be silently installed)
 * InstallForge (Can't be silently installed)
 * Microsoft System Center Virtual Machine Manager Client (Winget-pkgs can't silently install it)
-* Dinger.RDHost (ESET false positive)
-* Bol-van's builds of Zapret2 (Avira/Avast false positives; https://github.com/microsoft/winget-pkgs/pull/375864#issuecomment-4477591311)
 
 ## App doesn't work or is incomprehensible:
 * BrianPeek.MultipleWiimoteTester/WiimoteLib
@@ -269,6 +267,9 @@
 * WebTorrent Desktop (False positive malware detection by Microsoft Defender)
 * Moeary.IwaraTool (False positive malware detections by at least 2 companies)
 * łzbench (A likely false positive detection by ESET)
+* Dinger.RDHost (ESET false positive)
+* Bol-van's builds of Zapret2 (Avira/Avast false positives; https://github.com/microsoft/winget-pkgs/pull/375864#issuecomment-4477591311)
+* StackHawk HawkScan (Trellixens false positive)
 
 ## I cannot in good spirit add these due to my personal conscience, but I wouldn't stop others from adding them:
 * Microsoft.Services.Store.Engagement (I'm in the adblocking community for a reason)
