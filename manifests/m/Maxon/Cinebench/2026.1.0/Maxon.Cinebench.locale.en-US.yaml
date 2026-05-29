@@ -1,0 +1,13 @@
+# yaml-language-server: $schema=https://aka.ms/winget-manifest.defaultLocale.1.12.0.schema.json
+
+PackageIdentifier: Maxon.Cinebench
+PackageVersion: 2026.1.0
+PackageLocale: en-US
+Publisher: Maxon
+PackageName: Cinebench
+License: Proprietary
+ShortDescription: An industry-standard benchmarking software based on the cutting-edge technology that makes Maxon One the preferred choice of professionals.
+Tags:
+- benchmark
+ManifestType: defaultLocale
+ManifestVersion: 1.12.0
