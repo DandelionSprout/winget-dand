@@ -8,6 +8,10 @@ PackageName: Onix Tool Store
 PackageUrl: https://onix.com/tool-store
 License: Proprietary
 ShortDescription: Take control of your equipment. Ensure user safety. Onix Tool Store gives you full control over your tools. Manage check-in and check-out of your equipment to ensure it is always available, safe and ready to use.
+Description: |-
+  Take control of your equipment. Ensure user safety. Onix Tool Store gives you full control over your tools. Manage check-in and check-out of your equipment to ensure it is always available, safe and ready to use.
+
+  Note that due to numerous Winget bugs related to dependency architectures, this Winget package can only be installed on Windows 10 x86.
 Tags:
 - onix-tool-store
 - onixtoolstore
