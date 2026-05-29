@@ -136,6 +136,7 @@
 * InstallForge (Can't be silently installed)
 * Microsoft System Center Virtual Machine Manager Client (Winget-pkgs can't silently install it)
 * Dinger.RDHost (ESET false positive)
+* Bol-van's builds of Zapret2 (Avira/Avast false positives; https://github.com/microsoft/winget-pkgs/pull/375864#issuecomment-4477591311)
 
 ## App doesn't work or is incomprehensible:
 * BrianPeek.MultipleWiimoteTester/WiimoteLib
