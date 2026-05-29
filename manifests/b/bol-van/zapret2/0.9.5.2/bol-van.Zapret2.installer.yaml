@@ -1,4 +1,5 @@
 # yaml-language-server: $schema=https://aka.ms/winget-manifest.installer.1.12.0.schema.json
+# Is not in winget-pkgs due to: Avira/Avast false positives.
 
 PackageIdentifier: bol-van.zapret2
 PackageVersion: 0.9.5.2
