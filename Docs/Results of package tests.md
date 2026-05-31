@@ -168,6 +168,9 @@
 * winget-new-repos DanielTaufiq
 
 ## All sorts of certificate errors:
+* 2fast (ZIP)
+* AnyFSE AppX
+* Baulk AppX
 * Bifrost/SamloaderKotlin MSIX
 * BookViewer3 / BookViewerApp3 (ZIP)
 * Cynnexis Tide MSIX
@@ -178,22 +181,22 @@
 * Hiddify MSIX
 * Houseclub FrayxRulez (MSIXBundle)
 * IRCameraView (ZIP)
+* KeyPassPasskey (ZIP)
+* LRReader (MSIXBundle)
 * Microsoft eBPF for Windows - MSI (Doesn't have a valid signature... in an MSI file)
 * Microsoft.SensorExplorer / busiotools (MSIXBundle)
+* Passbolt (ZIP)
 * RetroArch AppX
 * SimpleWeather (MSIXBundle)
+* TasksORG MSIX
 * TheElixZammuto Moonlight UWP (MSIXBundle)
+* TouchXRPT (ZIP)
+* Tracky-Mouse MSIX
 * UltraPad/RectifyPad MSIX
 * underpig1 Octos MSIX
 * VideoLAN.VLC-UWP (Also lacks "SharedLibrary.dll", etc.)
 * Wino Mail (MSIXBundle)
 * XBSX2 (MSIXBundle)
-* LRReader (MSIXBundle)
-* Passbolt (ZIP)
-* Baulk AppX
-* 2fast (ZIP)
-* TasksORG MSIX
-* TouchXRPT (ZIP)
 
 ## Time-expirant installer URLs:
 * 3DMark
