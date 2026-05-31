@@ -1,0 +1,24 @@
+# yaml-language-server: $schema=https://aka.ms/winget-manifest.installer.1.12.0.schema.json
+
+PackageIdentifier: DavidSungaila.SUBSTitute
+PackageVersion: 3.2.2
+ReleaseDate: 2026-05-07
+Platform:
+- Windows.Desktop
+MinimumOSVersion: 10.0.22621.0 # Windows 11 22H2
+InstallerType: msix
+PackageFamilyName: 42088DavidSungaila.426978D2B4847_jpcc5wdckvw3p
+Installers:
+- Architecture: x64
+  InstallerUrl: https://github.com/sungaila/SUBSTitute/releases/download/v3.2.2/SUBSTitute_3.2.2.0_x64.msix
+  InstallerSha256: 05E17C9B39468D55C48D2F4AF6383A8C1E6EB3F298A55922A8578AA49CA76178
+  SignatureSha256: 6A85795BC01C48B26F34A7970F603AF181167F7536388735EA73D2609DD694A5
+- Architecture: arm64
+  InstallerUrl: https://github.com/sungaila/SUBSTitute/releases/download/v3.2.2/SUBSTitute_3.2.2.0_arm64.msix
+  InstallerSha256: 9D27F5DD7B9DAA7858AE2E341D0929EAA1D0BD0AB07E7CD9693451A8117539B0
+  SignatureSha256: 885189DD6077537F2104877C36CD0E5D8CE7D4B1D84D7A262128D95C6418495B
+Dependencies:
+  PackageDependencies:
+  - PackageIdentifier: Microsoft.WindowsAppRuntime.2.0
+ManifestType: installer
+ManifestVersion: 1.12.0

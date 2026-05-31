@@ -1,0 +1,17 @@
+# yaml-language-server: $schema=https://aka.ms/winget-manifest.defaultLocale.1.12.0.schema.json
+
+PackageIdentifier: DavidSungaila.SUBSTitute
+PackageVersion: 3.2.2
+PackageLocale: en-US
+Publisher: David Sungaila
+PackageName: SUBSTitute
+PackageUrl: https://github.com/sungaila/SUBSTitute
+License: MIT
+ShortDescription: A graphical user interface for mapping directories to virtual drives (see the SUBST command).
+Tags:
+- subst-itute
+- virtual-drive-folders
+- virtualdrivefolders
+- 9ngprnjjklbg
+ManifestType: defaultLocale
+ManifestVersion: 1.12.0
