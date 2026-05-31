@@ -136,6 +136,7 @@
 * InstallForge (Can't be silently installed)
 * Microsoft System Center Virtual Machine Manager Client (Winget-pkgs can't silently install it)
 * Eclipso Toolbox (Can't be silently installed + Time-expirant installer URL)
+* Netbird (ESET detection)
 
 ## App doesn't work or is incomprehensible:
 * BrianPeek.MultipleWiimoteTester/WiimoteLib
@@ -191,6 +192,8 @@
 * Passbolt (ZIP)
 * Baulk AppX
 * 2fast (ZIP)
+* TasksORG MSIX
+* TouchXRPT (ZIP)
 
 ## Time-expirant installer URLs:
 * 3DMark
