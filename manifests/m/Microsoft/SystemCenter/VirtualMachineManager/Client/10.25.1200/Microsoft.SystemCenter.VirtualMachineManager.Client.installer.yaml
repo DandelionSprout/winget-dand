@@ -1,4 +1,5 @@
 # yaml-language-server: $schema=https://aka.ms/winget-manifest.installer.1.12.0.schema.json
+# Is not in winget-pkgs due to: Pipelines claimed it couldn't be silently installed.
 
 PackageIdentifier: Microsoft.SystemCenter.VirtualMachineManager.Client
 PackageVersion: 10.25.1200
