@@ -1,4 +1,5 @@
 # yaml-language-server: $schema=https://aka.ms/winget-manifest.installer.1.12.0.schema.json
+# Is not in winget-pkgs due to: Various (likely-)false positive detections.
 
 PackageIdentifier: Moeary.IwaraTool
 PackageVersion: "0.3"
