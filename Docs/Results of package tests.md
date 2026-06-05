@@ -211,15 +211,16 @@
 * Citrix DeviceTrust Client Extension
 
 ## HTTP "Forbidden" or similar:
-* AmpliTube (HTTP "Forbidden")
-* ExecTI Winaero (HTTP "Forbidden")
-* IK Product Manager (HTTP "Forbidden")
-* Mod The Sims anything (HTTP "Forbidden")
-* Native Access (HTTP "Forbidden")
-* No$gba (HTTP "Forbidden")
+* AmpliTube
+* ExecTI Winaero
+* IK Product Manager
+* Mod The Sims anything
+* Native Access
+* No$gba
 * ASUS anything hosted on asuswebstorageCOM (HTTP "Unauthorised")
 * Segger J-Link (Anti-bot measures for its download link)
 * BatchPatch (Installer download is somehow generated client-side from a "tmstv" script thingie)
+* phpBB•com
 
 ## Self-extracting 7Z-s disguised as .exe-s:
 * MAME (Self-extracting 7Z)
