@@ -278,6 +278,7 @@
 * Dinger.RDHost (ESET false positive)
 * Bol-van's builds of Zapret2 (Avira/Avast false positives; https://github.com/microsoft/winget-pkgs/pull/375864#issuecomment-4477591311)
 * StackHawk HawkScan (Trellixens false positive)
+* Advanced Port Scanner Famatech ("Microsoft Defender SmartScreen" false positive)
 
 ## I cannot in good spirit add these due to my personal conscience, but I wouldn't stop others from adding them:
 * Microsoft.Services.Store.Engagement (I'm in the adblocking community for a reason)
