@@ -290,3 +290,4 @@
 * PSO2 SymbolArt ThumbnailHandler (Weebery)
 * ZipmodThumbnailHandler (Weebery)
 * ExplorerLens (Vibecoding with various documentation falsehoods)
+* AirDash (I have genuine deep phobia of the word Flutter and anything related to it)
