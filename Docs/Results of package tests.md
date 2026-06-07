@@ -169,24 +169,33 @@
 
 ## All sorts of certificate errors:
 * 2fast (ZIP)
+* ActualBudget AppX
+* AdventurerClientJS AppX
 * AnyFSE AppX
 * Baulk AppX
 * Bifrost/SamloaderKotlin MSIX
 * BookViewer3 / BookViewerApp3 (ZIP)
+* chARpack AppX
 * Cynnexis Tide MSIX
 * FluentFlyouts (MSIXBundle)
 * Flycast AppX
 * gabboxl.FluentWeather (MSIXBundle)
+* Gorilla UI
 * HDRImageViewer (ZIP)
 * Hiddify MSIX
 * Houseclub FrayxRulez (MSIXBundle)
+* Intag MSIX
 * IRCameraView (ZIP)
-* KeyPassPasskey (ZIP)
+* KeePassPasskey (ZIP)
 * LRReader (MSIXBundle)
 * Microsoft eBPF for Windows - MSI (Doesn't have a valid signature... in an MSI file)
 * Microsoft.SensorExplorer / busiotools (MSIXBundle)
+* Mockoon AppX
+* Mélodie Feugy AppX
+* Ossia Score AppXBundle
 * Passbolt (ZIP)
 * RetroArch AppX
+* RevoltChat AppX
 * SimpleWeather (MSIXBundle)
 * TasksORG MSIX
 * TheElixZammuto Moonlight UWP (MSIXBundle)
@@ -194,7 +203,9 @@
 * Tracky-Mouse MSIX
 * UltraPad/RectifyPad MSIX
 * underpig1 Octos MSIX
+* Unpaint
 * VideoLAN.VLC-UWP (Also lacks "SharedLibrary.dll", etc.)
+* WebcamOnDesktop (MSIXBundle)
 * Wino Mail (MSIXBundle)
 * XBSX2 (MSIXBundle)
 
@@ -291,3 +302,4 @@
 * ZipmodThumbnailHandler (Weebery)
 * ExplorerLens (Vibecoding with various documentation falsehoods)
 * AirDash (I have genuine deep phobia of the word Flutter and anything related to it)
+* Namida (I have genuine deep phobia of the word Flutter and anything related to it)
