@@ -1,5 +1,4 @@
-# Created using wingetcreate 1.12.8.0
-# yaml-language-server: $schema=https://aka.ms/winget-manifest.defaultLocale.1.12.0.schema.json
+﻿# yaml-language-server: $schema=https://aka.ms/winget-manifest.defaultLocale.1.12.0.schema.json
 
 PackageIdentifier: Microsoft.SystemCenter.ServiceManager.Console
 PackageVersion: 10.25.1523
