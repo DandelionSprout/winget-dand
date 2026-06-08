@@ -35,7 +35,6 @@
 * GamesCleaner setup (Can't be silently installed)
 * GarudaLinux.FireDragon (False positive "Can't install silently" pipeline error)
 * Genshin Impact / MiHoYo / HoYoPlay / Cognosphere (Can't be silently installed)
-* gnome.Ekiga (Has GTK-2 Runtime as a dependency: https://github.com/microsoft/winget-pkgs/pull/373175)
 * gnome.phodav (Almost certainly an outdated version of Spice.SpiceWebDAVd)
 * GNU.APL (Missing "cyggcc_s-1.dll")
 * GNU.gzip (Probably made irrelevant and extremely outdated by GnuWin32.Gzip)
