@@ -157,6 +157,7 @@
 * Python's test.msi (Installer crashes silently with 0xc00000FD)
 * Python's ucrt.msi (Installer crashes silently with 0xc00000FD)
 * On-premises data gateway Microsoft (Can't be silently installed)
+* PSAppDeployToolkit ("This application is designed to be used with the PSAppDeployToolkit PowerShell module and should not be directly invoked.")
 
 ## App doesn't work or is incomprehensible:
 * BrianPeek.MultipleWiimoteTester/WiimoteLib
