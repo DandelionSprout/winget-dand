@@ -3,6 +3,7 @@
 * 'Vense Connect (Driver install prompt that can only be closed manually)
 * 'Vense Remote (Driver install prompt that can only be closed manually)
 * AdtServer.msi (Requires Windows Server)
+* AMD Chipset Drivers (Almost certainly "InternetOpenUrl() failed.")
 * AMD Cleanup Utility ("InternetOpenUrl() failed.")
 * AMD Ryzen Master (Very weird installer)
 * Audeze.AudezeHQ (Can't be silently installed)
