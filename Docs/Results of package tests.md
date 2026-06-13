@@ -306,10 +306,13 @@
 * NVDA Controller Client
 
 ## Ruled out from "Project Portable MSIX-s" due to internal EXE-s not launching:
-* Sparxsoft.DatabasePilot
 * Elgato.WaveLink (Fails to assign the "wavelink" protocol)
 * Iterate.MountainDuck
+* Microsoft.AppControlPolicyWizard
 * Prog.ProgTV.3
+* Schlaubi.Tonbrett ("Failed to launch JVM")
+* SEA.OssAccess
+* Sparxsoft.DatabasePilot
 
 ## False positive detections:
 * Bioruebe.UniExtract2 (False positive malware detection by Sophos)
