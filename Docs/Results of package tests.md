@@ -305,7 +305,11 @@
 * GoldSrcModelThumbnailProvider
 * NVDA Controller Client
 
-## False positive detections
+## Ruled out from "Project Portable MSIX-s" due to internal EXE-s not launching:
+* Sparxsoft.DatabasePilot
+* Elgato.WaveLink (Fails to assign the "wavelink" protocol)
+
+## False positive detections:
 * Bioruebe.UniExtract2 (False positive malware detection by Sophos)
 * WebTorrent Desktop (False positive malware detection by Microsoft Defender)
 * Moeary.IwaraTool (False positive malware detections by at least 2 companies)
