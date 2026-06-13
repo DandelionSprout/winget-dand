@@ -309,6 +309,7 @@
 * Elgato.WaveLink (Fails to assign the "wavelink" protocol)
 * Iterate.MountainDuck
 * Microsoft.AppControlPolicyWizard
+* PowerClouds.CertoNiuchacz
 * Prog.ProgTV.3
 * Schlaubi.Tonbrett ("Failed to launch JVM")
 * SEA.OssAccess
