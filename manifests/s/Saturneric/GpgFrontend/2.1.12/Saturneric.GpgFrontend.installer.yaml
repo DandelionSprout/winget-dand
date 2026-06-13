@@ -1,0 +1,33 @@
+# yaml-language-server: $schema=https://aka.ms/winget-manifest.installer.1.12.0.schema.json
+
+PackageIdentifier: Saturneric.GpgFrontend
+PackageVersion: 2.1.12
+ReleaseDate: 2026-05-25
+Platform:
+- Windows.Desktop
+Installers:
+- Architecture: x64
+  InstallerType: msix
+  InstallerLocale: en-US
+  MinimumOSVersion: 10.0.17763.0
+  InstallerUrl: https://github.com/saturneric/GpgFrontend/releases/download/v2.1.12/GpgFrontend-2.1.12-windows-x86_64.msix
+  InstallerSha256: D928A2399DD510FC30304159D897F546B8837638EE025BA48B6B43F5C0BCD08B
+  SignatureSha256: C0B106A789A2CFA7275584EF67BDF079B2061D6FECFB8417CEE905AB3D467C90
+  PackageFamilyName: com.bktus.GpgFrontend_a50et950gfh2w
+- Architecture: x64
+  InstallerType: msi
+  InstallerUrl: https://github.com/saturneric/GpgFrontend/releases/download/v2.1.12/GpgFrontend-2.1.12-windows-x86_64.msi
+  InstallerSha256: 9C0E6803EEC7C8538EF5DA35388A7022D1B11385017535F5348D9CA008CEF4FE
+  ProductCode: '{B080C8DD-5E9E-4A5C-A23A-7682D2DE4DBB}'
+- Architecture: x64
+  InstallerType: zip
+  NestedInstallerType: portable
+  NestedInstallerFiles:
+  - RelativeFilePath: bin\GpgFrontend.exe
+  ArchiveBinariesDependOnPath: true
+  InstallerUrl: https://github.com/saturneric/GpgFrontend/releases/download/v2.1.12/GpgFrontend-2.1.12-windows-x86_64-portable.zip
+  InstallerSha256: 85d02a0949614296ef7e46da3067ee2c729d41e23009f472d07b70c00cac7c05
+  AppsAndFeaturesEntries:
+  - DisplayName: GpgFrontend (Portable)
+ManifestType: installer
+ManifestVersion: 1.12.0
