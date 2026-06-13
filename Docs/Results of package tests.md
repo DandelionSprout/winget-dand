@@ -308,6 +308,8 @@
 ## Ruled out from "Project Portable MSIX-s" due to internal EXE-s not launching:
 * Sparxsoft.DatabasePilot
 * Elgato.WaveLink (Fails to assign the "wavelink" protocol)
+* Iterate.MountainDuck
+* Prog.ProgTV.3
 
 ## False positive detections:
 * Bioruebe.UniExtract2 (False positive malware detection by Sophos)
