@@ -1,0 +1,19 @@
+# yaml-language-server: $schema=https://aka.ms/winget-manifest.defaultLocale.1.12.0.schema.json
+
+PackageIdentifier: Telia.Sweden.TeliaCloud
+PackageVersion: 26.3.26.31483
+PackageLocale: sv-SE
+Publisher: Telia AB
+PackageName: Telia Cloud
+PackageUrl: https://www.telia.se/support/appar-och-tjanster/guider/telia-cloud
+License: Proprietär
+Copyright: © Telia AB. Alla rättighetar reserverad.
+ShortDescription: Lagra dina bilder, videor och filer tryggt och säkert via Telia Cloud.
+Tags:
+- telia-cloud
+- fillagring
+- skylagring
+- sverige
+- jottacloud
+ManifestType: defaultLocale
+ManifestVersion: 1.12.0
