@@ -72,7 +72,7 @@
 * Microsoft System Center Service Management Automation Runbook Worker (Requires manually setting SERVICEACCOUNT and SERVICEPASSWORD)
 * Microsoft Visual C++ 2012/2013 Redistributable Arm32 (Incompatibility of the ARM64 pipelines)
 * Microsoft Visual C++ 20xx Redistributable Itanium (Pipelines don't support it even if marked as Neutral)
-* Microsoft.AccessibilityInsights (Project admin received installation error)
+* Microsoft.AccessibilityInsights (Its dev was pissy about it as of 2023)
 * Microsoft.AppInstaller.WingetPkgsSource (Version number changes far too frequently to have the faintest hope of passing validation)
 * Microsoft.bpf_performance (Has "eBPF for Windows (MSI)" as a post-installation dependency)
 * Microsoft.DotNet.docfx (Post-installation error "Cannot find config file C:\(...)\docfx.json")
