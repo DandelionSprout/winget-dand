@@ -161,6 +161,7 @@
 * On-premises data gateway Microsoft (Can't be silently installed)
 * PSAppDeployToolkit ("This application is designed to be used with the PSAppDeployToolkit PowerShell module and should not be directly invoked.")
 * EqualizerAPO(64) (Can't be silently installed; gets stuck on "Please select the devices for which Equalizer APO is to be installed.")
+* pl4nty.winget-pkgs-selfhost (Its GitHub repo's owner stated it wasn't his app.)
 
 ## App doesn't work or is incomprehensible:
 * BrianPeek.MultipleWiimoteTester/WiimoteLib
