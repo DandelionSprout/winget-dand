@@ -162,6 +162,7 @@
 * PSAppDeployToolkit ("This application is designed to be used with the PSAppDeployToolkit PowerShell module and should not be directly invoked.")
 * EqualizerAPO(64) (Can't be silently installed; gets stuck on "Please select the devices for which Equalizer APO is to be installed.")
 * pl4nty.winget-pkgs-selfhost (Its GitHub repo's owner stated it wasn't his app.)
+* `https://winget•tplant•com•au/cache/source•msix` (Installing the source MSIX, does not actually add it as a source repo.)
 
 ## App doesn't work or is incomprehensible:
 * BrianPeek.MultipleWiimoteTester/WiimoteLib
