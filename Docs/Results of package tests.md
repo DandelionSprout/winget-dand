@@ -163,6 +163,7 @@
 * Yamaha.ConsoleFileConverter (Can't be silently installed)
 * Yamaha.DM3Editor (Can't be silently installed)
 * Yamaha.MOXFRemoteEditor (Can't be silently installed)
+* Python's pip.msi (Is merely a bootstrap, and not the actual pip package)
 
 ## App doesn't work or is incomprehensible:
 * BrianPeek.MultipleWiimoteTester/WiimoteLib
