@@ -139,7 +139,6 @@
 * RadioDJ (Requires a very, very insecurely configured MySQL in order for a silent installation to succeed)
 * RetriX ("An error occured during the app package analysis")
 * Saleae.Logic2 (Driver install prompt that can only be closed manually)
-* SamsidParty.OberonRemote.Client (Pipeline's OS is too old / MSIXBundle; https://github.com/microsoft/winget-pkgs/issues/333364)
 * Samsung Browser for Windows (Can't be silently installed)
 * Samsung.Escargot (Depends on the WebAssembly library "Walrus", for which no executables exist)
 * Samsung.Odin (No widely established installer URLs)
