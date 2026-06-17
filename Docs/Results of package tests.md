@@ -261,9 +261,8 @@
 * phpBB•com
 
 ## Self-extracting 7Z-s disguised as .exe-s:
-* MAME (Self-extracting 7Z)
 * Microsoft Endpoint Community Manager (Self-extracting 7Z)
-* Microsoft Keyboard Layout Creator (Self-extracting 7Z)
+* Microsoft Keyboard Layout Creator (Setup .exe-/.msi-s inside self-extracting 7Z)
 * ZohoCRM (Self-extracting 7Z)
 
 ## "No supported installer(s) found in zip archive.":
