@@ -318,6 +318,7 @@
 * Schlaubi.Tonbrett ("Failed to launch JVM")
 * SEA.OssAccess
 * Sparxsoft.DatabasePilot
+* Microsoft.WindowsApp
 
 ## False positive detections:
 * Bioruebe.UniExtract2 (False positive malware detection by Sophos)
