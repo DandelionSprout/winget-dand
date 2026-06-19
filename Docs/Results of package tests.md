@@ -164,6 +164,7 @@
 * Yamaha.MOXFRemoteEditor (Can't be silently installed)
 * Python's pip.msi (Is merely a bootstrap, and not the actual pip package)
 * Microsoft Remote Desktop Connection (Can't be silently installed; no known silent switches.)
+* NVIDIA Control Panel (AppX inside self-extracting 7Z, no currently known installer switches dedicated to it.)
 
 ## App doesn't work or is incomprehensible:
 * BrianPeek.MultipleWiimoteTester/WiimoteLib
