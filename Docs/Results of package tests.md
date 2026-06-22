@@ -311,6 +311,7 @@
 * GoldSrcModelThumbnailProvider
 * NVDA Controller Client
 * simdjson singleheader
+* FineFTP Server
 
 ## Ruled out from "Project Portable MSIX-s" due to internal EXE-s not launching:
 * Elgato.WaveLink (Fails to assign the "wavelink" protocol)
