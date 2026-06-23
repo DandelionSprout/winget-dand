@@ -196,6 +196,7 @@
 * GamesCleaner portable ("Zugriffsverletzung bei Adresse 004CFF50 in Modul 'GamesCleaner.exe'. Lesen von Adresse 00000000")
 * winget-new-repos DanielTaufiq
 * Microsoft Update Health Tools
+* Hydraulic.Conveyor
 
 ## All sorts of certificate errors:
 * 2fast (ZIP)
