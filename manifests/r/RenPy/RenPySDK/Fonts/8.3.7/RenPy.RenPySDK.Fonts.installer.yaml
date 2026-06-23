@@ -22,22 +22,7 @@ Installers:
   InstallerSha256: 7722E17AED8C174307C1E69D087D74EF009BC164A4DE4830149794F8DA3F7ECF
 - Architecture: neutral
   NestedInstallerFiles:
-  - RelativeFilePath: renpy-8.3.7-sdk\renpy\common\TwemojiCOLRv0.ttf
-  InstallerUrl: https://www.renpy.org/dl/8.3.7/renpy-8.3.7-sdk.zip
-  InstallerSha256: 7722E17AED8C174307C1E69D087D74EF009BC164A4DE4830149794F8DA3F7ECF
-- Architecture: neutral
-  NestedInstallerFiles:
   - RelativeFilePath: renpy-8.3.7-sdk\renpy\common\_OpenDyslexic3-Regular.ttf
-  InstallerUrl: https://www.renpy.org/dl/8.3.7/renpy-8.3.7-sdk.zip
-  InstallerSha256: 7722E17AED8C174307C1E69D087D74EF009BC164A4DE4830149794F8DA3F7ECF
-- Architecture: neutral
-  NestedInstallerFiles:
-  - RelativeFilePath: renpy-8.3.7-sdk\launcher\game\fonts\Roboto-Light.ttf
-  InstallerUrl: https://www.renpy.org/dl/8.3.7/renpy-8.3.7-sdk.zip
-  InstallerSha256: 7722E17AED8C174307C1E69D087D74EF009BC164A4DE4830149794F8DA3F7ECF
-- Architecture: neutral
-  NestedInstallerFiles:
-  - RelativeFilePath: renpy-8.3.7-sdk\launcher\game\fonts\Roboto-Regular.ttf
   InstallerUrl: https://www.renpy.org/dl/8.3.7/renpy-8.3.7-sdk.zip
   InstallerSha256: 7722E17AED8C174307C1E69D087D74EF009BC164A4DE4830149794F8DA3F7ECF
 - Architecture: neutral
