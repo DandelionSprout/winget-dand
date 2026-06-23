@@ -323,6 +323,7 @@
 * SEA.OssAccess
 * Sparxsoft.DatabasePilot
 * Microsoft.WindowsApp
+* DavidSungaila.SUBSTitute
 
 ## False positive detections:
 * Bioruebe.UniExtract2 (False positive malware detection by Sophos)
