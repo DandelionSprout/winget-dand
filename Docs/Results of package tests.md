@@ -239,6 +239,7 @@
 * WebcamOnDesktop (MSIXBundle)
 * Wino Mail (MSIXBundle)
 * XBSX2 (MSIXBundle)
+* Kodi MSIX
 
 ## Time-expirant installer URLs:
 * 3DMark
