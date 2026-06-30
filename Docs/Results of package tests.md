@@ -198,6 +198,7 @@
 * winget-new-repos DanielTaufiq
 * Microsoft Update Health Tools
 * Hydraulic.Conveyor
+* samuelngs.apple-emoji-ttf
 
 ## All sorts of certificate errors:
 * 2fast (ZIP)
