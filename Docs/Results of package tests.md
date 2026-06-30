@@ -166,6 +166,7 @@
 * Microsoft Remote Desktop Connection (Can't be silently installed; no known silent switches.)
 * NVIDIA Control Panel (AppX inside self-extracting 7Z, no currently known installer switches dedicated to it.)
 * Lenovo Dolby Vision Provisioning Kit (Unable to confirm if the package works or not.)
+* Anything that uses InstallForge (Can't be silently installed; no silent switches.)
 
 ## App doesn't work or is incomprehensible:
 * BrianPeek.MultipleWiimoteTester/WiimoteLib
