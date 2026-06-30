@@ -315,6 +315,7 @@
 * NVDA Controller Client
 * simdjson singleheader
 * FineFTP Server
+* pascatl.ha-dhl
 
 ## Ruled out from "Project Portable MSIX-s" due to internal EXE-s not launching:
 * Elgato.WaveLink (Fails to assign the "wavelink" protocol)
