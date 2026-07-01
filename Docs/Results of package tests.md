@@ -199,6 +199,7 @@
 * Microsoft Update Health Tools
 * Hydraulic.Conveyor
 * samuelngs.apple-emoji-ttf
+* lixkote PRIExplorer ("This application could not be started")
 
 ## All sorts of certificate errors:
 * 2fast (ZIP)
