@@ -11,25 +11,5 @@ Installers:
   - RelativeFilePath: assets\Inconsolata-Regular.ttf
   InstallerUrl: https://github.com/hrydgard/ppsspp/releases/download/v1.20.3/PPSSPP-v1.20.3-Windows-x64.zip
   InstallerSha256: 4748C8F24F4E8B31E2B4371812EB65434B1AA45228BE28D35F895E6E7581180D
-- Architecture: neutral
-  NestedInstallerFiles:
-  - RelativeFilePath: assets\Roboto_Condensed-Bold.ttf
-  InstallerUrl: https://github.com/hrydgard/ppsspp/releases/download/v1.20.3/PPSSPP-v1.20.3-Windows-x64.zip
-  InstallerSha256: 4748C8F24F4E8B31E2B4371812EB65434B1AA45228BE28D35F895E6E7581180D
-- Architecture: neutral
-  NestedInstallerFiles:
-  - RelativeFilePath: assets\Roboto_Condensed-Italic.ttf
-  InstallerUrl: https://github.com/hrydgard/ppsspp/releases/download/v1.20.3/PPSSPP-v1.20.3-Windows-x64.zip
-  InstallerSha256: 4748C8F24F4E8B31E2B4371812EB65434B1AA45228BE28D35F895E6E7581180D
-- Architecture: neutral
-  NestedInstallerFiles:
-  - RelativeFilePath: assets\Roboto_Condensed-Light.ttf
-  InstallerUrl: https://github.com/hrydgard/ppsspp/releases/download/v1.20.3/PPSSPP-v1.20.3-Windows-x64.zip
-  InstallerSha256: 4748C8F24F4E8B31E2B4371812EB65434B1AA45228BE28D35F895E6E7581180D
-- Architecture: neutral
-  NestedInstallerFiles:
-  - RelativeFilePath: assets\Roboto_Condensed-Regular.ttf
-  InstallerUrl: https://github.com/hrydgard/ppsspp/releases/download/v1.20.3/PPSSPP-v1.20.3-Windows-x64.zip
-  InstallerSha256: 4748C8F24F4E8B31E2B4371812EB65434B1AA45228BE28D35F895E6E7581180D
 ManifestType: installer
 ManifestVersion: 1.12.0
