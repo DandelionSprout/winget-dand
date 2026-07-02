@@ -8,7 +8,7 @@ Installers:
 - Architecture: neutral
   NestedInstallerFiles:
   - RelativeFilePath: renpy-8.3.7-sdk\doc\_static\bootstrap-3.4.1\fonts\glyphicons-halflings-regular.ttf # Ren'Py's version of the font is outdated, and the newest version of the font is paid software.
-  - RelativeFilePath: renpy-8.3.7-sdk\renpy\common\_theme_awt\Quicksand-Regular.ttf # Will be superceded by https://github.com/andrew-paglinawan/QuicksandFamily/blob/master/fonts/Quicksand%5Bwght%5D.ttf
+  - RelativeFilePath: renpy-8.3.7-sdk\renpy\common\_theme_awt\Quicksand-Regular.ttf # Will be superceded by https://github.com/pl4nty/winget-extras/pull/257
   - RelativeFilePath: renpy-8.3.7-sdk\renpy\common\_theme_awt\Quicksand-Bold.ttf # —||—
   - RelativeFilePath: renpy-8.3.7-sdk\sdk-fonts\SourceHanSansLite.ttf # Will likely be superceded by https://github.com/adobe-fonts/source-han-sans/releases
   InstallerUrl: https://www.renpy.org/dl/8.3.7/renpy-8.3.7-sdk.zip
