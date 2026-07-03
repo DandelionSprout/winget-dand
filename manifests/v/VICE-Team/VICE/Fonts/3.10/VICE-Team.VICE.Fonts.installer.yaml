@@ -8,7 +8,7 @@ NestedInstallerType: font
 Installers:
 - Architecture: neutral
   NestedInstallerFiles:
-  - RelativeFilePath: GTK3VICE-3.10-win64\common\C64_Pro_Mono-STYLE.ttf # Will probably be superceded by https://style64.org/release/c64-truetype-v1.2.1-style
+  - RelativeFilePath: GTK3VICE-3.10-win64\common\C64_Pro_Mono-STYLE.ttf # Will be superceded by https://github.com/pl4nty/winget-extras/pull/268
   InstallerUrl: https://github.com/VICE-Team/svn-mirror/releases/download/3.10.0/GTK3VICE-3.10-win64.zip
   InstallerSha256: BEB3791D90E98F7E012C0028F26FBAA6545C8FCE676F852A67F8AD893DEE9D08
 ManifestType: installer
