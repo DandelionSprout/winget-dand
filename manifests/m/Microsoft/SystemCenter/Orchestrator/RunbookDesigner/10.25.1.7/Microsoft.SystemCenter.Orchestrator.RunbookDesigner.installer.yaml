@@ -1,4 +1,4 @@
-# yaml-language-server: $schema=https://aka.ms/winget-manifest.installer.1.12.0.schema.json
+﻿# yaml-language-server: $schema=https://aka.ms/winget-manifest.installer.1.28.0.schema.json
 # Is not in winget-pkgs due to: Pipelines kept getting stuck.
 
 PackageIdentifier: Microsoft.SystemCenter.Orchestrator.RunbookDesigner
@@ -17,4 +17,4 @@ Installers:
   InstallerSha256: 52F79F65908851AB5E2EDE18DD002273C3846811BC7560795ED5FB121A1EEFB3
 ElevationRequirement: elevationRequired
 ManifestType: installer
-ManifestVersion: 1.12.0
+ManifestVersion: 1.28.0

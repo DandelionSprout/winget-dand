@@ -1,4 +1,4 @@
-# yaml-language-server: $schema=https://aka.ms/winget-manifest.installer.1.12.0.schema.json
+﻿# yaml-language-server: $schema=https://aka.ms/winget-manifest.installer.1.28.0.schema.json
 # Is not in winget-pkgs due to: Various (likely-)false positive detections.
 
 PackageIdentifier: Moeary.IwaraTool
@@ -12,4 +12,4 @@ Installers:
   InstallerUrl: https://github.com/Moeary/IwaraTool/releases/download/v0.3/IwaraTool-Windows-AMD64-v0.3.exe
   InstallerSha256: F4F273ECAC41F15A6E3B84687462691097E728FF95CDEF72B7F52377CA6A93FA
 ManifestType: installer
-ManifestVersion: 1.12.0
+ManifestVersion: 1.28.0

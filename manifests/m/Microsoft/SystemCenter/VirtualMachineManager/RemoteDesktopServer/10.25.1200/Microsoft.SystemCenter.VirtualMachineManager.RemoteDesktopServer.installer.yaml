@@ -1,5 +1,4 @@
-# yaml-language-server: $schema=https://aka.ms/winget-manifest.installer.1.12.0.schema.json
-
+﻿# yaml-language-server: $schema=https://aka.ms/winget-manifest.installer.1.28.0.schema.json
 PackageIdentifier: Microsoft.SystemCenter.VirtualMachineManager.RemoteDesktopServer
 PackageVersion: 10.25.1200
 InstallerType: zip
@@ -13,4 +12,4 @@ Installers:
   InstallerSha256: 223CE90811799223DA635EC66F81302ECBB3AB4842C37002AC29B23D556F5AAF
 ElevationRequirement: elevationRequired
 ManifestType: installer
-ManifestVersion: 1.12.0
+ManifestVersion: 1.28.0

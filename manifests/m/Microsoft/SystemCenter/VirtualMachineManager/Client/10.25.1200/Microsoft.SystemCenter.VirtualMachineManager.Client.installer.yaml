@@ -1,4 +1,4 @@
-# yaml-language-server: $schema=https://aka.ms/winget-manifest.installer.1.12.0.schema.json
+﻿# yaml-language-server: $schema=https://aka.ms/winget-manifest.installer.1.28.0.schema.json
 # Is not in winget-pkgs due to: Pipelines claimed it couldn't be silently installed.
 
 PackageIdentifier: Microsoft.SystemCenter.VirtualMachineManager.Client
@@ -17,4 +17,4 @@ Installers:
   ProductCode: '{97636069-2467-42BB-897E-434E8AA802EF}'
 ElevationRequirement: elevationRequired
 ManifestType: installer
-ManifestVersion: 1.12.0
+ManifestVersion: 1.28.0
