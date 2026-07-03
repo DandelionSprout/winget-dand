@@ -1,5 +1,4 @@
-# yaml-language-server: $schema=https://aka.ms/winget-manifest.installer.1.12.0.schema.json
-
+﻿# yaml-language-server: $schema=https://aka.ms/winget-manifest.installer.1.28.0.schema.json
 PackageIdentifier: Telia.Sweden.TeliaCloud
 PackageVersion: 26.3.26.31483
 InstallerType: burn
@@ -9,4 +8,4 @@ Installers:
   InstallerSha256: 80525D19176FA5B5814FB5CD850CC4B28C30F990B2977155F16E33D20F8F2A05
 ElevationRequirement: elevationRequired
 ManifestType: installer
-ManifestVersion: 1.12.0
+ManifestVersion: 1.28.0

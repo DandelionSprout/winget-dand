@@ -1,5 +1,4 @@
-# yaml-language-server: $schema=https://aka.ms/winget-manifest.locale.1.12.0.schema.json
-
+﻿# yaml-language-server: $schema=https://aka.ms/winget-manifest.locale.1.28.0.schema.json
 PackageIdentifier: Onix.ToolStore
 PackageVersion: 2.4.1
 PackageLocale: nb-NO
@@ -17,4 +16,4 @@ Tags:
 - tung-industri
 - norge
 ManifestType: locale
-ManifestVersion: 1.12.0
+ManifestVersion: 1.28.0

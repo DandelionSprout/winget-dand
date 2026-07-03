@@ -1,5 +1,4 @@
-# yaml-language-server: $schema=https://aka.ms/winget-manifest.defaultLocale.1.12.0.schema.json
-
+﻿# yaml-language-server: $schema=https://aka.ms/winget-manifest.defaultLocale.1.28.0.schema.json
 PackageIdentifier: Python.PythonEmbeddablePackage.3.14
 PackageVersion: 3.14.5
 PackageLocale: en-US
@@ -12,4 +11,4 @@ Tags:
 - python-embeddable-package
 - requirescmd
 ManifestType: defaultLocale
-ManifestVersion: 1.12.0
+ManifestVersion: 1.28.0

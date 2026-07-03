@@ -1,4 +1,4 @@
-# yaml-language-server: $schema=https://aka.ms/winget-manifest.installer.1.12.0.schema.json
+﻿# yaml-language-server: $schema=https://aka.ms/winget-manifest.installer.1.28.0.schema.json
 # Is not in winget-pkgs due to: Avira/Avast false positives.
 
 PackageIdentifier: bol-van.zapret2
@@ -33,4 +33,4 @@ Installers:
   InstallerUrl: https://github.com/bol-van/zapret2/releases/download/v0.9.5.2/zapret2-v0.9.5.2.zip
   InstallerSha256: F0E90A0E0A5E5CFFD9A56294AA0A7E0246825BDA018F2EE621568B992FED6F2F
 ManifestType: installer
-ManifestVersion: 1.12.0
+ManifestVersion: 1.28.0

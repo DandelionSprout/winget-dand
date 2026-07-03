@@ -1,5 +1,4 @@
-# yaml-language-server: $schema=https://aka.ms/winget-manifest.defaultLocale.1.12.0.schema.json
-
+﻿# yaml-language-server: $schema=https://aka.ms/winget-manifest.defaultLocale.1.28.0.schema.json
 PackageIdentifier: RenPy.RenPySDK.Fonts
 PackageVersion: 8.3.7
 PackageLocale: en-US
@@ -22,4 +21,4 @@ Tags:
 - twemoji-colr-v0
 - twemojicolrv0
 ManifestType: defaultLocale
-ManifestVersion: 1.12.0
+ManifestVersion: 1.28.0

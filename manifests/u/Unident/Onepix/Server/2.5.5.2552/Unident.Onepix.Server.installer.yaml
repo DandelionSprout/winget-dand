@@ -1,5 +1,4 @@
-# yaml-language-server: $schema=https://aka.ms/winget-manifest.installer.1.12.0.schema.json
-
+﻿# yaml-language-server: $schema=https://aka.ms/winget-manifest.installer.1.28.0.schema.json
 PackageIdentifier: Unident.Onepix.Server
 PackageVersion: 2.5.5.2552
 ReleaseDate: 2023-12-08
@@ -20,4 +19,4 @@ Dependencies:
   # - PackageIdentifier: Microsoft.MSXML.4 (Depends on https://github.com/microsoft/winget-pkgs/pull/378933; hard dependency)
 ElevationRequirement: elevationRequired
 ManifestType: installer
-ManifestVersion: 1.12.0
+ManifestVersion: 1.28.0

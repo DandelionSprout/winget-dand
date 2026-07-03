@@ -1,5 +1,4 @@
-# yaml-language-server: $schema=https://aka.ms/winget-manifest.installer.1.12.0.schema.json
-
+﻿# yaml-language-server: $schema=https://aka.ms/winget-manifest.installer.1.28.0.schema.json
 PackageIdentifier: Adonthell.WastesEdge
 PackageVersion: 0.3.7
 ReleaseDate: 2018-05-03
@@ -13,4 +12,4 @@ Installers:
   InstallerUrl: https://download.savannah.gnu.org/releases/adonthell/wastesedge-0.3.7-x86.msi
   InstallerSha256: e104550ad6f2ca9800393f1fbf86a40ca73544d4fcaeb7fdee72c551f40a5492
 ManifestType: installer
-ManifestVersion: 1.12.0
+ManifestVersion: 1.28.0
