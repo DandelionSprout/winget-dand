@@ -13,5 +13,11 @@ Installers:
   InstallerUrl: https://github.com/ThioJoe/Dynamic-Lighting-Key-Indicator/releases/download/v1.1.3/Dynamic-Lighting-Key-Indicator_1.1.3.0_x64.msix
   InstallerSha256: 6E012266CDFE15DB889389D7AACB86DD1FBC9B49A297B48D541E840DDC536E43
   SignatureSha256: 676F4B7F5E318556CB0DE4D2542521EC2675E0F50039178E1FF3C5C80D8C4EC8
+Dependencies:
+  PackageDependencies:
+  - PackageIdentifier: Microsoft.WindowsAppRuntime.1.6
+    MinimumVersion: 1.6.9
+Protocols:
+- key-lighting-indicator
 ManifestType: installer
 ManifestVersion: 1.12.0
