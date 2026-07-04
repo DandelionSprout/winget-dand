@@ -168,6 +168,7 @@
 * NVIDIA Control Panel (AppX inside self-extracting 7Z, no currently known installer switches dedicated to it.)
 * Lenovo Dolby Vision Provisioning Kit (Unable to confirm if the package works or not.)
 * Anything that uses InstallForge (Can't be silently installed; no silent switches.)
+* Microsoft.DotNet.Native.Framework.1.3 (No known Microsoft-owned distribution places for 1.3.24211.0)
 
 ## App doesn't work or is incomprehensible:
 * BrianPeek.MultipleWiimoteTester/WiimoteLib
