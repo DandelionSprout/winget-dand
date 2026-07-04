@@ -11,6 +11,7 @@
 * AMD Chipset Drivers (Almost certainly "InternetOpenUrl() failed.")
 * AMD Cleanup Utility ("InternetOpenUrl() failed.")
 * AMD Ryzen Master (Very weird installer)
+* AMD Software: Adrenalin Edition ("Download Not Complete" anti-"external access" measures)
 * Audeze.AudezeHQ (Can't be silently installed)
 * AVerMedia anything (Can't be silently installed)
 * Banking4 Home (Can't be silently installed)
