@@ -169,6 +169,7 @@
 * Lenovo Dolby Vision Provisioning Kit (Unable to confirm if the package works or not.)
 * Anything that uses InstallForge (Can't be silently installed; no silent switches.)
 * Microsoft.DotNet.Native.Framework.1.3 (No known Microsoft-owned distribution places for 1.3.24211.0)
+* USBip-win(2) (Apparently requires driver test-signing system mode?)
 
 ## App doesn't work or is incomprehensible:
 * BrianPeek.MultipleWiimoteTester/WiimoteLib
