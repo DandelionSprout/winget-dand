@@ -170,7 +170,7 @@
 * Anything that uses InstallForge (Can't be silently installed; no silent switches.)
 * Microsoft.DotNet.Native.Framework.1.3 (No known Microsoft-owned distribution places for 1.3.24211.0)
 * USBip-win(2) (Apparently requires driver test-signing system mode?)
-* Microsoft.DotNet.Native.Runtime.1.7 (No known Microsoft-owned distribution places for 1.7.27422; https://www.nuget.org/packages/Microsoft.Net.Native.Compiler/1.7.6 only has 1.7.25531)
+* Microsoft.DotNet.Native.Runtime.1.7 (No known Microsoft-owned distribution places for 1.7.27422; `https://www.nuget.org/packages/Microsoft.Net.Native.Compiler/1.7.6` only has 1.7.25531)
 
 ## App doesn't work or is incomprehensible:
 * BrianPeek.MultipleWiimoteTester/WiimoteLib
