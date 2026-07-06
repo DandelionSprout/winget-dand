@@ -358,3 +358,4 @@
 * Namida (I have genuine deep phobia of the word Flutter and anything related to it)
 * SoftOrbits Icon Maker (Raving imbeciles who only when trying to export an image shows a prompt about needing a licence)
 * OneSky Forecast (Only handles USA and Canada)
+* GNU Unifont (One of the top 5 ugliest fonts I've ever seen)
