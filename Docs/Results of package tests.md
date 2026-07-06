@@ -359,3 +359,4 @@
 * SoftOrbits Icon Maker (Raving imbeciles who only when trying to export an image shows a prompt about needing a licence)
 * OneSky Forecast (Only handles USA and Canada)
 * GNU Unifont (One of the top 5 ugliest fonts I've ever seen)
+* Segoe UI Variable (The newest version is 2.03, but `https://learn.microsoft.com/en-us/windows/apps/design/downloads/` only offers 2.02)
