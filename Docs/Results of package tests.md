@@ -172,6 +172,7 @@
 * USBip-win(2) (Apparently requires driver test-signing system mode?)
 * Microsoft.DotNet.Native.Runtime.1.7 (No known Microsoft-owned distribution places for 1.7.27422; `https://www.nuget.org/packages/Microsoft.Net.Native.Compiler/1.7.6` only has 1.7.25531)
 * Lynx Browser ("No SSL library found" seemingly no matter what)
+* Microsoft Axe.Windows (Depends on ".NET Core Runtime 6.0 or newer", which could mean a lot of different things, at least 2 of which didn't work.)
 
 ## App doesn't work or is incomprehensible:
 * BrianPeek.MultipleWiimoteTester/WiimoteLib
