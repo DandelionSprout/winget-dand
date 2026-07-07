@@ -173,6 +173,7 @@
 * Microsoft.DotNet.Native.Runtime.1.7 (No known Microsoft-owned distribution places for 1.7.27422; `https://www.nuget.org/packages/Microsoft.Net.Native.Compiler/1.7.6` only has 1.7.25531)
 * Lynx Browser ("No SSL library found" seemingly no matter what)
 * Microsoft Axe.Windows (Depends on ".NET Core Runtime 6.0 or newer", which could mean a lot of different things, at least 2 of which didn't work.)
+* VirtİO's MSI versions (Can't be silently installed)
 
 ## App doesn't work or is incomprehensible:
 * BrianPeek.MultipleWiimoteTester/WiimoteLib
@@ -324,6 +325,7 @@
 * simdjson singleheader
 * FineFTP Server
 * pascatl.ha-dhl
+* Pixel Streaming Infrastructure
 
 ## Ruled out from "Project Portable MSIX-s" due to internal EXE-s not launching:
 * Elgato.WaveLink (Fails to assign the "wavelink" protocol)
