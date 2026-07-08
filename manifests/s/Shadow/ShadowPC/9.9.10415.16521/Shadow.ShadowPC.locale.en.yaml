@@ -1,0 +1,17 @@
+# yaml-language-server: $schema=https://aka.ms/winget-manifest.defaultLocale.1.12.0.schema.json
+
+PackageIdentifier: Shadow.ShadowPC
+PackageVersion: 9.9.10415.16521
+PackageLocale: en
+Publisher: Shadow
+PackageName: Shadow PC
+PackageUrl: https://shadow.tech/eu/download/
+License: Proprietary (Subscription)
+Copyright: © 2026 Shadow
+ShortDescription: Instantly transforms your laptop or desktop into a high-performance Windows PC. Enjoy all your software as if on your local PC.
+Tags:
+- shadow-pc
+- cloud-pc
+- cloudpc
+ManifestType: defaultLocale
+ManifestVersion: 1.12.0
