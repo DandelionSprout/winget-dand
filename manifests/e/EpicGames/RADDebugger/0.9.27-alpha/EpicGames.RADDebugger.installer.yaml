@@ -1,4 +1,5 @@
 # yaml-language-server: $schema=https://aka.ms/winget-manifest.installer.1.12.0.schema.json
+# Already submitted to pkgs; see https://github.com/microsoft/winget-pkgs/pull/399756
 
 PackageIdentifier: EpicGames.RADDebugger
 PackageVersion: 0.9.27-alpha
