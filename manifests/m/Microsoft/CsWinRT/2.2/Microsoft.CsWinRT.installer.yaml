@@ -1,4 +1,6 @@
 ﻿# yaml-language-server: $schema=https://aka.ms/winget-manifest.installer.1.28.0.schema.json
+# Has been submitted to pkgs; see https://github.com/microsoft/winget-pkgs/pull/392246
+
 PackageIdentifier: Microsoft.CsWinRT
 PackageVersion: "2.2"
 ReleaseDate: 2024-11-12
