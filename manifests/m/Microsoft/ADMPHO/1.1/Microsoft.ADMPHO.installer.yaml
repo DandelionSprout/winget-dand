@@ -1,4 +1,6 @@
 ﻿# yaml-language-server: $schema=https://aka.ms/winget-manifest.installer.1.28.0.schema.json
+# Already submitted to pkgs; see https://github.com/microsoft/winget-pkgs/pull/399761
+
 PackageIdentifier: Microsoft.ADMPHO
 PackageVersion: "1.1"
 InstallerType: zip
