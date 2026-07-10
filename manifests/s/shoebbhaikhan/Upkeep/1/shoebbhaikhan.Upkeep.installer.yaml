@@ -1,4 +1,6 @@
 ﻿# yaml-language-server: $schema=https://aka.ms/winget-manifest.installer.1.28.0.schema.json
+# Has not yet been submitted to pkgs due to: I've got cold feet about this manifest due to how its hourly PowerShell launches causes the mouse cursor to defocus from anything else the user is doing.
+
 PackageIdentifier: shoebbhaikhan.Upkeep
 PackageVersion: "1"
 ReleaseDate: 2026-04-02
