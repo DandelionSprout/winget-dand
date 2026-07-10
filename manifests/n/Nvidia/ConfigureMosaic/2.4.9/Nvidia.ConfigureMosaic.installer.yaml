@@ -1,0 +1,16 @@
+# yaml-language-server: $schema=https://aka.ms/winget-manifest.installer.1.12.0.schema.json
+
+PackageIdentifier: Nvidia.ConfigureMosaic
+PackageVersion: 2.4.9
+ReleaseDate: 2025-04-07
+InstallerType: zip
+NestedInstallerType: portable
+NestedInstallerFiles:
+- RelativeFilePath: configureMosaic.exe
+  PortableCommandAlias: configuremosaic
+Installers:
+- Architecture: x64
+  InstallerUrl: https://us.download.nvidia.com/Windows/Quadro_Certified/Mosaic-Utility/2.4.9/configureMosaic_amd64.zip
+  InstallerSha256: 74c854f216985fec50e3bb0b1a0f69cfe76c3884280b9fe58e80c1ad1b5aff9b
+ManifestType: installer
+ManifestVersion: 1.12.0
