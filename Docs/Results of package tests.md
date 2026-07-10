@@ -5,63 +5,34 @@
 * `https://catalog.update.microsoft.com/Search.aspx?q=kb5007651` (Fails to install)
 * `https://github.com/shorthorn-project/One-Core-API-Binaries/releases` (Very unusual type of self-extracting file)
 * `https://winget•tplant•com•au/cache/source•msix` / WingetPkgsSource / winget-font (All but `winget-font` are updated upstream too often. Installing the source MSIX, does not actually add it as a source repo. And the pkgs pipelines can't handle it either; see `https://github.com/microsoft/winget-pkgs/issues/400253`)
-* `https://www•mousemux•com/files/mousemux-v2-installer.exe` (Can't be silently installed)
 * AdtServer.msi (Requires Windows Server)
 * AlkaidLab.foundation-sunshine (Known to require a driver install)
 * AMD Chipset Drivers (Almost certainly "InternetOpenUrl() failed.")
 * AMD Cleanup Utility ("InternetOpenUrl() failed.")
 * AMD Ryzen Master (Very weird installer)
 * AMD Software: Adrenalin Edition ("Download Not Complete" anti-"external access" measures)
-* Anything that uses InstallForge (Can't be silently installed; no silent switches.)
-* Audeze.AudezeHQ (Can't be silently installed)
-* AVerMedia anything (Can't be silently installed)
-* Banking4 Home (Can't be silently installed)
-* BenQ anything (Can't be silently installed; gets stuck on pointless VCredist installation prompt)
 * Bluegrams.ScreenRuler (Supposedly broke repo guidelines about SourceForge)
-* BrunnerInnovation.vJoy (Can't be silently installed)
-* cardPresso (Can't be silently installed)
 * Cisco Packet Tracer (Installer is behind a login wall)
-* Clue digital ordbok (Can't be silently installed, especially as its MSI version is fake)
-* CM&V.DVBViewerDemo (Can't be silently installed)
 * COAA.PlanePlotter (Pipeline bug treats the launch prompt as that it hasn't finished installing)
 * Collabora Office (Version number in registry collides with LibreOffice)
 * Command & Conquer: Red Alert 2 & Yuri's Revenge (Has the paid version of Red Alert 2 in a hardcoded folderpath as a dependency for silent installs)
 * crypto20111.IDR (Has disasm as a post-installation dependency; hard to tell which disasm version is the correct one)
-* Devail1.WindowCenterResize (Can't be silently installed)
 * DuckStation's .exe installers (Heavily customised installer)
-* Eclipso Toolbox (Can't be silently installed + Time-expirant installer URL)
 * EitherMouse ("System.Xml.XmlException: 'v3' is an undeclared prefix."; `https://stackoverflow•com/questions/7557464/workaround-for-undeclared-prefix-error-on-xelement-load`)
 * Elixir-lang.Elixir (The only post-install .exe is the uninstaller)
 * EpicGames.EpicOnlineServicesSDK.C (Constantly error -2147467260)
 * Epson Fax Utility (Requires separate scanner drivers)
-* Epson Firmware Updater (Can't be silently installed)
-* Epson Product Setup (Can't be silently installed)
-* EqualizerAPO(64) (Can't be silently installed; gets stuck on "Please select the devices for which Equalizer APO is to be installed.")
-* ESET Online Scanner (Can't be silently installed)
-* Final Fantasy XIV (Can't be silently installed)
-* Fluent Store (Can't be silently installed)
 * FMCM (Requires post-installation folder movement)
-* FreeFileSync (Can't be silently installed)
 * FS-UAE (Requires manual folder moves)
-* Fujitsu ScanSnap Home (Can't be silently installed)
-* GamesCleaner setup (Can't be silently installed)
 * GarudaLinux.FireDragon (False positive "Can't install silently" pipeline error)
-* Genshin Impact / MiHoYo / HoYoPlay / Cognosphere (Can't be silently installed)
 * gnome.phodav (Almost certainly an outdated version of Spice.SpiceWebDAVd)
 * GNU.APL (Missing "cyggcc_s-1.dll")
 * GNU.gzip (Probably made irrelevant and extremely outdated by GnuWin32.Gzip)
-* Google WebP codec (Can't be silently installed)
-* GPL / Artifex Software Ghostscript (Can't be silently installed. The portable ZIPs may or may not work better)
-* HP Support Assistant (Can't be silently installed)
-* HP Universal Printer Driver / Universal Printing (Can't be silently installed)
-* InstallForge (Can't be silently installed)
 * Intel Fortran Compiler (Unresponsive veto-rights responsible)
-* Intel Memory and Storage Tool CLI (Can't be silently installed)
 * irzyxa.Volume2 (Can't be consistently silently installed: On some PCs throws "DAMAGE: after Normal block (#56) at 0x02CE1860")
 * IsaoMaruoka.Pixia (Silent installation fails with error 4294967292)
 * Jigsaw.Outline (Driver install prompt that can only be closed manually)
 * jklewa.ATVDesktopRemote (Requires Python 3)
-* K7 Antivirus Premium (Can't be silently installed; custom installer)
 * KB9114440 Network Diagnosis ("Not enough memory resources available (...)")
 * Lenovo Dolby Vision Provisioning Kit (Unable to confirm if the package works or not.)
 * LogExperts.LogExpert (Fails to detect .NET Runtime 10 x64 installations)
@@ -72,7 +43,6 @@
 * Microsoft Log Monitor / LogMonitor / Windows Container Tools (Requires a config JSON that is not automatically created)
 * Microsoft Monitoring Agent / MOMAgent (Error 1603)
 * Microsoft Office Subject Interface Packages for Digitally Signing VBA Projects / Sips (Gets stuck on the final prompt, "Files extracted successfully.")
-* Microsoft Remote Desktop Connection (Can't be silently installed; no known silent switches.)
 * Microsoft SQL Server 2025 Evaluation Edition (Refuses to recognise /ENU when Windows 11 is set to nb-NO)
 * Microsoft System Center 2025 Operations Manager Server / SetupChainerUI.exe / SCOM 2025 (Requires manually setting the name of the "/SqlServerInstance")
 * Microsoft System Center Data Protection Manager (Requires Windows Server)
@@ -99,28 +69,20 @@
 * Microsoft.ShaderConductor (Pointless due to containing an outdated version of Microsoft.DirectX.ShaderCompiler)
 * Microsoft.SimpleRemote (Pretty much just one big vulnerability + Depends on another and unknown app)
 * Microsoft.vcpkg (Post-installation requires a separate vcpkg-root app)
-* Microsoft.WindowsHardwareLabKit (Can't be silently installed)
-* Mideej (Can't be silently installed)
 * Mozilla Thunderbird Nightly ("Device wide install for msix type is not supported in packaged context.")
 * Mozilla.Firefox.EMEfree (The app is completely pointless)
 * MozillaBuild (Not all that useful, since end-users must still build the post-installation files on their own)
 * MPSeal («Could not load file or assembly 'Microsoft.EnterpriseManagement.Core, (...)»)
-* NAVER.Whale (Can't be silently installed)
 * Netbird (ESET detection)
-* Nevrona Rave (Can't be silently installed; gets stuck on "You must enter your serial number.")
-* Npcap (Can't be silently installed)
 * NTCore DisasMSIL (Its only .exe is a non-interactive test)
-* Nvidia 3DVision USB Driver (Can't be silently installed)
 * NVIDIA Control Panel (AppX inside self-extracting 7Z, no currently known installer switches dedicated to it.)
 * Nvidia.Nsight.Systems (Constantly error -2147467260)
-* On-premises data gateway Microsoft (Can't be silently installed)
 * PatrickGaskin.PulseAudio / pgaskin (Setup installer doesn't work; while the portable `pulseaudio•exe` fails with `../../src/pulseaudio/src/pulsecore/core-util.c: Secure directory creation not supported on this platform.`)
 * PDFMachine (.exe is in a .zip inside a .zip)
 * PHP "Test Pack" ("The package file is not a valid zip archive.")
 * PHP.PHP "tests package (phpt)" ("The package file is not a valid zip archive.")
 * pl4nty.winget-pkgs-selfhost (Its GitHub repo's owner stated it wasn't his app.)
 * PostGIS for PostgreSQL (Requires post-installation folder moves)
-* PowerPanel Business Local/Remote (Can't be silently installed; gets stuck on "Please select one component to install.")
 * PSAppDeployToolkit ("This application is designed to be used with the PSAppDeployToolkit PowerShell module and should not be directly invoked.")
 * puhitaku.mtplvcap (Requires a Nikon DSLR device to run properly)
 * PyEnv (Error 240)
@@ -145,35 +107,75 @@
 * Python's tcltk.msi (Installer crashes silently with 0xc00000FD)
 * Python's test.msi (Installer crashes silently with 0xc00000FD)
 * Python's ucrt.msi (Installer crashes silently with 0xc00000FD)
-* Qt Linguist (Can't be silently installed)
 * RadioDJ (Requires a very, very insecurely configured MySQL in order for a silent installation to succeed)
 * RetriX ("An error occured during the app package analysis")
 * Saleae.Logic2 (Driver install prompt that can only be closed manually)
-* Samsung Browser for Windows (Can't be silently installed)
 * Samsung.Escargot (Depends on the WebAssembly library "Walrus", for which no executables exist)
 * Samsung.Odin (No widely established installer URLs)
 * Sniffnet (Has Npcap as a dependency)
-* TeX Live (Can't be silently installed)
 * Thrustmaster.TARGET (Driver install prompt that can only be closed manually)
-* TizenProject.Studio (Can't be silently installed)
-* TP-Link.tpPLC (Can't be silently installed)
-* TuneBlade (Can't be silently installed)
 * Update Root Certificates ("The package file is not a valid zip archive.")
 * USBip-win(2) (Apparently requires driver test-signing system mode?)
-* VirtİO's MSI versions (Can't be silently installed)
 * VLC FreeSans font (Pointless due to it being a singular GNU-available font)
 * VueScan (Driver install prompt that can only be closed manually)
 * WinDump (Has Npcap as dependency)
 * Wine Gecko ("The file browser!blocklist.xml can't be installed because the file doesn't exist in the cabinet file winegecko.cab. (...)")
 * Wine Mono (Bafflingly tries to start a 2nd installer for a support tool before having finished the 1st installer)
-* Winpcap (Can't be silently installed)
-* wxTED (Can't be silently installed; gets stuck on a prompt on whether to restart Explorer.exe or not)
-* Xbox main EXE (Can't be silently installed)
 * Xensam Xearch (No known download link)
-* Yamaha.AG08Controller (Can't be silently installed)
-* Yamaha.ConsoleFileConverter (Can't be silently installed)
-* Yamaha.DM3Editor (Can't be silently installed)
-* Yamaha.MOXFRemoteEditor (Can't be silently installed)
+
+## Can't be silently installed
+* `https://www•mousemux•com/files/mousemux-v2-installer.exe`
+* Anything that uses InstallForge (No silent switches)
+* Audeze.AudezeHQ
+* AVerMedia anything
+* Banking4 Home
+* BenQ anything (Gets stuck on pointless VCredist installation prompt)
+* BrunnerInnovation.vJoy
+* cardPresso
+* Clue digital ordbok (Can't be silently installed, especially as its MSI version is fake)
+* CM&V.DVBViewerDemo
+* Devail1.WindowCenterResize
+* Eclipso Toolbox (+ Time-expirant installer URL)
+* Epson Firmware Updater
+* Epson Product Setup
+* EqualizerAPO(64) (Gets stuck on "Please select the devices for which Equalizer APO is to be installed.")
+* ESET Online Scanner
+* Final Fantasy XIV
+* Fluent Store
+* FreeFileSync
+* Fujitsu ScanSnap Home
+* GamesCleaner setup
+* Genshin Impact / MiHoYo / HoYoPlay / Cognosphere
+* Google WebP codec
+* GPL / Artifex Software Ghostscript (The portable ZIPs may or may not work better)
+* HP Support Assistant
+* HP Universal Printer Driver / Universal Printing
+* InstallForge
+* Intel Memory and Storage Tool CLI
+* K7 Antivirus Premium (Custom installer)
+* Microsoft Remote Desktop Connection (No known silent switches)
+* Microsoft.WindowsHardwareLabKit
+* Mideej
+* NAVER.Whale
+* Nevrona Rave (Gets stuck on "You must enter your serial number.")
+* Npcap
+* Nvidia 3DVision USB Driver
+* On-premises data gateway Microsoft
+* PowerPanel Business Local/Remote (Gets stuck on "Please select one component to install.")
+* Qt Linguist
+* Samsung Browser for Windows
+* TeX Live
+* TizenProject.Studio
+* TP-Link.tpPLC
+* TuneBlade
+* VirtİO's MSI versions
+* Winpcap
+* wxTED (Gets stuck on a prompt on whether to restart Explorer•exe or not)
+* Xbox main EXE
+* Yamaha.AG08Controller
+* Yamaha.ConsoleFileConverter
+* Yamaha.DM3Editor
+* Yamaha.MOXFRemoteEditor
 
 ## App doesn't work or is incomprehensible:
 * `https://github.com/dekotan24/iwara-downloader`
