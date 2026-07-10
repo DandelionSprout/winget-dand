@@ -1,4 +1,6 @@
 ﻿# yaml-language-server: $schema=https://aka.ms/winget-manifest.installer.1.28.0.schema.json
+# Already submitted to pkgs; see https://github.com/microsoft/winget-pkgs/pull/400248
+
 PackageIdentifier: Microsoft.AppInstaller.WingetSources.winget-font
 PackageVersion: 2025.1016.311.49
 ReleaseDate: 2025-10-16
