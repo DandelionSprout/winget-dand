@@ -12,6 +12,7 @@
 * AMD Cleanup Utility ("InternetOpenUrl() failed.")
 * AMD Ryzen Master (Very weird installer)
 * AMD Software: Adrenalin Edition ("Download Not Complete" anti-"external access" measures)
+* Anything that uses InstallForge (Can't be silently installed; no silent switches.)
 * Audeze.AudezeHQ (Can't be silently installed)
 * AVerMedia anything (Can't be silently installed)
 * Banking4 Home (Can't be silently installed)
@@ -54,6 +55,7 @@
 * HP Support Assistant (Can't be silently installed)
 * HP Universal Printer Driver / Universal Printing (Can't be silently installed)
 * InstallForge (Can't be silently installed)
+* Intel Fortran Compiler (Unresponsive veto-rights responsible)
 * Intel Memory and Storage Tool CLI (Can't be silently installed)
 * irzyxa.Volume2 (Can't be consistently silently installed: On some PCs throws "DAMAGE: after Normal block (#56) at 0x02CE1860")
 * IsaoMaruoka.Pixia (Silent installation fails with error 4294967292)
@@ -61,12 +63,16 @@
 * jklewa.ATVDesktopRemote (Requires Python 3)
 * K7 Antivirus Premium (Can't be silently installed; custom installer)
 * KB9114440 Network Diagnosis ("Not enough memory resources available (...)")
+* Lenovo Dolby Vision Provisioning Kit (Unable to confirm if the package works or not.)
 * LogExperts.LogExpert (Fails to detect .NET Runtime 10 x64 installations)
+* Lynx Browser ("No SSL library found" seemingly no matter what)
 * MediaWiki (Its only .exe-s in the zip archive are outdated Lua installers)
 * Microsoft Audit Collection Services for UNIX/Linux (Has Microsoft System Center Operations Manager as a dependency)
+* Microsoft Axe.Windows (Depends on ".NET Core Runtime 6.0 or newer", which could mean a lot of different things, at least 2 of which didn't work.)
 * Microsoft Log Monitor / LogMonitor / Windows Container Tools (Requires a config JSON that is not automatically created)
 * Microsoft Monitoring Agent / MOMAgent (Error 1603)
 * Microsoft Office Subject Interface Packages for Digitally Signing VBA Projects / Sips (Gets stuck on the final prompt, "Files extracted successfully.")
+* Microsoft Remote Desktop Connection (Can't be silently installed; no known silent switches.)
 * Microsoft SQL Server 2025 Evaluation Edition (Refuses to recognise /ENU when Windows 11 is set to nb-NO)
 * Microsoft System Center 2025 Operations Manager Server / SetupChainerUI.exe / SCOM 2025 (Requires manually setting the name of the "/SqlServerInstance")
 * Microsoft System Center Data Protection Manager (Requires Windows Server)
@@ -84,6 +90,8 @@
 * Microsoft.AppInstaller.WingetPkgsSource (Version number changes far too frequently to have the faintest hope of passing validation)
 * Microsoft.bpf_performance (Has "eBPF for Windows (MSI)" as a post-installation dependency)
 * Microsoft.DotNet.docfx (Post-installation error "Cannot find config file C:\(...)\docfx.json")
+* Microsoft.DotNet.Native.Framework.1.3 (No known Microsoft-owned distribution places for 1.3.24211.0)
+* Microsoft.DotNet.Native.Runtime.1.7 (No known Microsoft-owned distribution places for 1.7.27422; `https://www.nuget.org/packages/Microsoft.Net.Native.Compiler/1.7.6` only has 1.7.25531)
 * Microsoft.DotNet.Runtime.1_1 (Version number in registry collides with Microsoft.DotNet.Runtime.3_1)
 * Microsoft.EnterpriseManagement.GatewayApprovalTool («Could not load file or assembly 'Microsoft.EnterpriseManagement.DataAccessLayer, (...)»)
 * Microsoft.HIS.2020.MigrationTool / Host Integration Server (Overly complicated to use)
@@ -104,6 +112,7 @@
 * Npcap (Can't be silently installed)
 * NTCore DisasMSIL (Its only .exe is a non-interactive test)
 * Nvidia 3DVision USB Driver (Can't be silently installed)
+* NVIDIA Control Panel (AppX inside self-extracting 7Z, no currently known installer switches dedicated to it.)
 * Nvidia.Nsight.Systems (Constantly error -2147467260)
 * On-premises data gateway Microsoft (Can't be silently installed)
 * PatrickGaskin.PulseAudio / pgaskin (Installer doesn't work. Portable binaries may or may not work better)
@@ -133,6 +142,7 @@
 * Python's lib_d.msi ("The TARGETDIR variable must be provided when invoking this installer.")
 * Python's lib_pdb.msi ("The TARGETDIR variable must be provided when invoking this installer.")
 * Python's path.msi (Installer crashes silently with 0xc00000FD)
+* Python's pip.msi (Is merely a bootstrap, and not the actual pip package)
 * Python's tcltk.msi (Installer crashes silently with 0xc00000FD)
 * Python's test.msi (Installer crashes silently with 0xc00000FD)
 * Python's ucrt.msi (Installer crashes silently with 0xc00000FD)
@@ -150,6 +160,8 @@
 * TP-Link.tpPLC (Can't be silently installed)
 * TuneBlade (Can't be silently installed)
 * Update Root Certificates ("The package file is not a valid zip archive.")
+* USBip-win(2) (Apparently requires driver test-signing system mode?)
+* VirtİO's MSI versions (Can't be silently installed)
 * VLC FreeSans font (Pointless due to it being a singular GNU-available font)
 * VueScan (Driver install prompt that can only be closed manually)
 * WinDump (Has Npcap as dependency)
@@ -163,28 +175,24 @@
 * Yamaha.ConsoleFileConverter (Can't be silently installed)
 * Yamaha.DM3Editor (Can't be silently installed)
 * Yamaha.MOXFRemoteEditor (Can't be silently installed)
-* Python's pip.msi (Is merely a bootstrap, and not the actual pip package)
-* Microsoft Remote Desktop Connection (Can't be silently installed; no known silent switches.)
-* NVIDIA Control Panel (AppX inside self-extracting 7Z, no currently known installer switches dedicated to it.)
-* Lenovo Dolby Vision Provisioning Kit (Unable to confirm if the package works or not.)
-* Anything that uses InstallForge (Can't be silently installed; no silent switches.)
-* Microsoft.DotNet.Native.Framework.1.3 (No known Microsoft-owned distribution places for 1.3.24211.0)
-* USBip-win(2) (Apparently requires driver test-signing system mode?)
-* Microsoft.DotNet.Native.Runtime.1.7 (No known Microsoft-owned distribution places for 1.7.27422; `https://www.nuget.org/packages/Microsoft.Net.Native.Compiler/1.7.6` only has 1.7.25531)
-* Lynx Browser ("No SSL library found" seemingly no matter what)
-* Microsoft Axe.Windows (Depends on ".NET Core Runtime 6.0 or newer", which could mean a lot of different things, at least 2 of which didn't work.)
-* VirtİO's MSI versions (Can't be silently installed)
-* Intel Fortran Compiler (Unresponsive veto-rights responsible)
 
 ## App doesn't work or is incomprehensible:
+* `https://github.com/dekotan24/iwara-downloader`
+* Abdi-Suufi.WeatherApp
+* Apertus Forecast
 * BrianPeek.MultipleWiimoteTester/WiimoteLib
 * EdenwareApps.Megacubo
 * EuanRiggins.BulkURLOpener
+* GamesCleaner portable ("Zugriffsverletzung bei Adresse 004CFF50 in Modul 'GamesCleaner.exe'. Lesen von Adresse 00000000")
 * GNOME Glom (Crashes on launch)
-* `https://github.com/dekotan24/iwara-downloader`
+* Hydraulic.Conveyor
+* JFrog.ArtifactoryCommunityEdition
+* lixkote PRIExplorer ("This application could not be started")
+* Microsoft GDI+ Detection Tool
 * Microsoft Office 365 Centralized Deployment Checker
 * Microsoft ROS / Robot Operating System (Completely incomprehensible how it works)
 * Microsoft SQLToolsService Migration
+* Microsoft Update Health Tools
 * Microsoft.Azure.WindowsVMAgent
 * Microsoft.Delprof
 * Microsoft.legacyapp
@@ -197,17 +205,9 @@
 * NETGEAR.RAIDar (Fails to detect Java system installations)
 * osmanonurkoc.WinGetInstaller
 * Samsung CHashApp / ScanAndDecode
-* JFrog.ArtifactoryCommunityEdition
-* Microsoft GDI+ Detection Tool
-* WeatherWise
-* Apertus Forecast
-* Abdi-Suufi.WeatherApp
-* GamesCleaner portable ("Zugriffsverletzung bei Adresse 004CFF50 in Modul 'GamesCleaner.exe'. Lesen von Adresse 00000000")
-* winget-new-repos DanielTaufiq
-* Microsoft Update Health Tools
-* Hydraulic.Conveyor
 * samuelngs.apple-emoji-ttf
-* lixkote PRIExplorer ("This application could not be started")
+* WeatherWise
+* winget-new-repos DanielTaufiq
 
 ## All sorts of certificate errors:
 * 2fast (ZIP)
@@ -229,6 +229,7 @@
 * Intag MSIX
 * IRCameraView (ZIP)
 * KeePassPasskey (ZIP)
+* Kodi MSIX
 * LRReader (MSIXBundle)
 * Microsoft eBPF for Windows - MSI (Doesn't have a valid signature... in an MSI file)
 * Microsoft.SensorExplorer / busiotools (MSIXBundle)
@@ -250,31 +251,31 @@
 * WebcamOnDesktop (MSIXBundle)
 * Wino Mail (MSIXBundle)
 * XBSX2 (MSIXBundle)
-* Kodi MSIX
 
 ## Time-expirant installer URLs:
 * 3DMark
 * ASUS anything on rog•asus•com
 * Azure VPN Client (Version on appcenterMS has time-expirant installer URLs)
 * BlackBerry Access
+* Citrix DeviceTrust Client Extension
 * Cricut Design Space
 * Game Jolt anything
 * ItchIO anything except its main client
+* Panda3DS' nightly builds
 * Realtek anything
 * Splice Instrument
-* Citrix DeviceTrust Client Extension
 
 ## HTTP "Forbidden" or similar:
 * AmpliTube
+* ASUS anything hosted on asuswebstorageCOM (HTTP "Unauthorised")
+* BatchPatch (Installer download is somehow generated client-side from a "tmstv" script thingie)
 * ExecTI Winaero
 * IK Product Manager
 * Mod The Sims anything
 * Native Access
 * No$gba
-* ASUS anything hosted on asuswebstorageCOM (HTTP "Unauthorised")
-* Segger J-Link (Anti-bot measures for its download link)
-* BatchPatch (Installer download is somehow generated client-side from a "tmstv" script thingie)
 * phpBB•com
+* Segger J-Link (Anti-bot measures for its download link)
 
 ## Self-extracting 7Z-s disguised as .exe-s:
 * Microsoft Endpoint Community Manager (Self-extracting 7Z)
@@ -285,6 +286,7 @@
 * Apache Maven
 * DirectoryLister
 * dxwrapper (elishacloud)
+* FineFTP Server
 * GNOME atk
 * GNOME gail
 * GNOME gnome-common
@@ -295,8 +297,10 @@
 * GNOME intltool
 * GNOME libcroco
 * GNOME libglade
+* GoldSrcModelThumbnailProvider
 * Gradle Distributions
 * KeeperSecurity keeper-sdk-dotnet / PowerCommander
+* kemnnx64
 * Kotlin Language Server
 * LazyDuchess.MonoPatcher
 * LazyDuchess.TS2-Extender
@@ -310,43 +314,40 @@
 * Microsoft.Windows-appsample-photo-editor
 * Mozilla CrashReporter Symbols
 * Npcap SDK
+* NVDA Controller Client
 * NVIDIA.CCCL
 * OpenBIOS.OpenBIOS
+* pascatl.ha-dhl
 * PHP.PHP "Development package (SDK to develop PHP extensions)"
 * PHP.PHP Debug Pack
+* Pixel Streaming Infrastructure
+* SignPath.CryptoProviders.Cryptoki
+* simdjson singleheader
 * Tiny UI Fix for The Sims 3
 * Ultimate ASI Loader
-* zlib
-* kemnnx64
 * WebView2Browser
-* SignPath.CryptoProviders.Cryptoki
 * windows-heic-thumbnails
-* GoldSrcModelThumbnailProvider
-* NVDA Controller Client
-* simdjson singleheader
-* FineFTP Server
-* pascatl.ha-dhl
-* Pixel Streaming Infrastructure
+* zlib
 
 ## Ruled out from "Project Portable MSIX-s" due to internal EXE-s not launching:
+* DavidSungaila.SUBSTitute
 * Elgato.WaveLink (Fails to assign the "wavelink" protocol)
 * Iterate.MountainDuck
 * Microsoft.AppControlPolicyWizard
+* Microsoft.WindowsApp
 * PowerClouds.CertoNiuchacz
 * Prog.ProgTV.3
 * Schlaubi.Tonbrett ("Failed to launch JVM")
 * SEA.OssAccess
 * Sparxsoft.DatabasePilot
-* Microsoft.WindowsApp
-* DavidSungaila.SUBSTitute
 
 ## False positive detections:
 * Bioruebe.UniExtract2 (False positive malware detection by Sophos)
-* WebTorrent Desktop (False positive malware detection by Microsoft Defender)
-* Moeary.IwaraTool (False positive malware detections by at least 2 companies)
-* łzbench (A likely false positive detection by ESET)
-* Dinger.RDHost (ESET false positive)
 * Bol-van's builds of Zapret2 (Avira/Avast false positives; https://github.com/microsoft/winget-pkgs/pull/375864#issuecomment-4477591311)
+* Dinger.RDHost (ESET false positive)
+* Moeary.IwaraTool (False positive malware detections by at least 2 companies)
+* WebTorrent Desktop (False positive malware detection by Microsoft Defender)
+* łzbench (A likely false positive detection by ESET)
 
 ## I cannot in good spirit add these due to my personal conscience, but I wouldn't stop others from adding them:
 * Microsoft.Services.Store.Engagement (I'm in the adblocking community for a reason)
