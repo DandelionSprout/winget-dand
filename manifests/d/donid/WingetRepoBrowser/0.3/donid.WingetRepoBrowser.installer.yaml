@@ -1,4 +1,6 @@
 ﻿# yaml-language-server: $schema=https://aka.ms/winget-manifest.installer.1.28.0.schema.json
+# Has already been submitted to pkgs; see https://github.com/microsoft/winget-pkgs/pull/393469
+
 PackageIdentifier: donid.WingetRepoBrowser
 PackageVersion: "0.3"
 ReleaseDate: 2025-12-13
