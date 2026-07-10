@@ -1,4 +1,6 @@
 ﻿# yaml-language-server: $schema=https://aka.ms/winget-manifest.installer.1.28.0.schema.json
+# Has already been submitted to pkgs.
+
 PackageIdentifier: Microsoft.Azure.iisnode.Full
 PackageVersion: 0.2.26
 ReleaseDate: 2017-02-22
