@@ -1,5 +1,6 @@
 ﻿# yaml-language-server: $schema=https://aka.ms/winget-manifest.installer.1.28.0.schema.json
 # Has already been submitted to pkgs; see https://github.com/microsoft/winget-pkgs/pull/400209
+
 PackageIdentifier: Medibang.JumpPaint
 PackageVersion: "6.1"
 ReleaseDate: 2023-07-31
