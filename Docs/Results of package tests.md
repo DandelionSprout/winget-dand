@@ -174,6 +174,7 @@
 * Lynx Browser ("No SSL library found" seemingly no matter what)
 * Microsoft Axe.Windows (Depends on ".NET Core Runtime 6.0 or newer", which could mean a lot of different things, at least 2 of which didn't work.)
 * VirtİO's MSI versions (Can't be silently installed)
+* Intel Fortran Compiler (Unresponsive veto-rights responsible)
 
 ## App doesn't work or is incomprehensible:
 * BrianPeek.MultipleWiimoteTester/WiimoteLib
