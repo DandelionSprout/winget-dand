@@ -1,12 +1,9 @@
 ## Packages uncreateable for various reasons (Unsorted):
 * "Overføringsverktøy for brukere (veiviser for overføring av innstillinger)" (Missing OCMANAGE.dll)
-* 'Vense Connect (Driver install prompt that can only be closed manually)
-* 'Vense Remote (Driver install prompt that can only be closed manually)
 * `https://catalog.update.microsoft.com/Search.aspx?q=kb5007651` (Fails to install)
 * `https://github.com/shorthorn-project/One-Core-API-Binaries/releases` (Very unusual type of self-extracting file)
 * `https://winget•tplant•com•au/cache/source•msix` / WingetPkgsSource / winget-font (All but `winget-font` are updated upstream too often. Installing the source MSIX, does not actually add it as a source repo. And the pkgs pipelines can't handle it either; see `https://github.com/microsoft/winget-pkgs/issues/400253`)
 * AdtServer.msi (Requires Windows Server)
-* AlkaidLab.foundation-sunshine (Known to require a driver install)
 * AMD Chipset Drivers (Almost certainly "InternetOpenUrl() failed.")
 * AMD Cleanup Utility ("InternetOpenUrl() failed.")
 * AMD Ryzen Master (Very weird installer)
@@ -31,7 +28,6 @@
 * Intel Fortran Compiler (Unresponsive veto-rights responsible)
 * irzyxa.Volume2 (Can't be consistently silently installed: On some PCs throws "DAMAGE: after Normal block (#56) at 0x02CE1860")
 * IsaoMaruoka.Pixia (Silent installation fails with error 4294967292)
-* Jigsaw.Outline (Driver install prompt that can only be closed manually)
 * jklewa.ATVDesktopRemote (Requires Python 3)
 * KB9114440 Network Diagnosis ("Not enough memory resources available (...)")
 * Lenovo Dolby Vision Provisioning Kit (Unable to confirm if the package works or not.)
@@ -76,7 +72,6 @@
 * Netbird (ESET detection)
 * NTCore DisasMSIL (Its only .exe is a non-interactive test)
 * NVIDIA Control Panel (AppX inside self-extracting 7Z, no currently known installer switches dedicated to it.)
-* Nvidia.Nsight.Systems (Constantly error -2147467260)
 * PatrickGaskin.PulseAudio / pgaskin (Setup installer doesn't work; while the portable `pulseaudio•exe` fails with `../../src/pulseaudio/src/pulsecore/core-util.c: Secure directory creation not supported on this platform.`)
 * PDFMachine (.exe is in a .zip inside a .zip)
 * PHP "Test Pack" ("The package file is not a valid zip archive.")
@@ -109,21 +104,18 @@
 * Python's ucrt.msi (Installer crashes silently with 0xc00000FD)
 * RadioDJ (Requires a very, very insecurely configured MySQL in order for a silent installation to succeed)
 * RetriX ("An error occured during the app package analysis")
-* Saleae.Logic2 (Driver install prompt that can only be closed manually)
 * Samsung.Escargot (Depends on the WebAssembly library "Walrus", for which no executables exist)
 * Samsung.Odin (No widely established installer URLs)
 * Sniffnet (Has Npcap as a dependency)
-* Thrustmaster.TARGET (Driver install prompt that can only be closed manually)
 * Update Root Certificates ("The package file is not a valid zip archive.")
 * USBip-win(2) (Apparently requires driver test-signing system mode?)
 * VLC FreeSans font (Pointless due to it being a singular GNU-available font)
-* VueScan (Driver install prompt that can only be closed manually)
 * WinDump (Has Npcap as dependency)
 * Wine Gecko ("The file browser!blocklist.xml can't be installed because the file doesn't exist in the cabinet file winegecko.cab. (...)")
 * Wine Mono (Bafflingly tries to start a 2nd installer for a support tool before having finished the 1st installer)
 * Xensam Xearch (No known download link)
 
-## Can't be silently installed
+## Can't be silently installed:
 * `https://www•mousemux•com/files/mousemux-v2-installer.exe`
 * Anything that uses InstallForge (No silent switches)
 * Audeze.AudezeHQ
@@ -134,6 +126,7 @@
 * cardPresso
 * Clue digital ordbok (Can't be silently installed, especially as its MSI version is fake)
 * CM&V.DVBViewerDemo
+* CyberLink pretty much anything
 * Devail1.WindowCenterResize
 * Eclipso Toolbox (+ Time-expirant installer URL)
 * Epson Firmware Updater
@@ -176,6 +169,13 @@
 * Yamaha.ConsoleFileConverter
 * Yamaha.DM3Editor
 * Yamaha.MOXFRemoteEditor
+* 'Vense Connect (Driver install prompt that can only be closed manually)
+* 'Vense Remote (Driver install prompt that can only be closed manually)
+* Saleae.Logic2 (Driver install prompt that can only be closed manually)
+* Thrustmaster.TARGET (Driver install prompt that can only be closed manually)
+* VueScan (Driver install prompt that can only be closed manually)
+* AlkaidLab.foundation-sunshine (Known to require a driver install)
+* Jigsaw.Outline (Driver install prompt that can only be closed manually)
 
 ## App doesn't work or is incomprehensible:
 * `https://github.com/dekotan24/iwara-downloader`
@@ -262,6 +262,7 @@
 * Cricut Design Space
 * Game Jolt anything
 * ItchIO anything except its main client
+* Nvidia.Nsight.Systems
 * Panda3DS' nightly builds
 * Realtek anything
 * Splice Instrument
