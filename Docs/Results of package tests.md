@@ -114,7 +114,7 @@
 * NVIDIA Control Panel (AppX inside self-extracting 7Z, no currently known installer switches dedicated to it.)
 * Nvidia.Nsight.Systems (Constantly error -2147467260)
 * On-premises data gateway Microsoft (Can't be silently installed)
-* PatrickGaskin.PulseAudio / pgaskin (Installer doesn't work. Portable binaries may or may not work better)
+* PatrickGaskin.PulseAudio / pgaskin (Setup installer doesn't work; while the portable `pulseaudio•exe` fails with `../../src/pulseaudio/src/pulsecore/core-util.c: Secure directory creation not supported on this platform.`)
 * PDFMachine (.exe is in a .zip inside a .zip)
 * PHP "Test Pack" ("The package file is not a valid zip archive.")
 * PHP.PHP "tests package (phpt)" ("The package file is not a valid zip archive.")
