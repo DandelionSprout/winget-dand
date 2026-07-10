@@ -1,4 +1,5 @@
 ﻿# yaml-language-server: $schema=https://aka.ms/winget-manifest.installer.1.28.0.schema.json
+
 PackageIdentifier: Unident.Onepix.Server
 PackageVersion: 2.5.5.2552
 ReleaseDate: 2023-12-08
@@ -16,7 +17,7 @@ Dependencies:
   - PackageIdentifier: Microsoft.VCRedist.2010.x86
   - PackageIdentifier: Microsoft.VCRedist.2015+.x86
   # - PackageIdentifier: Microsoft.SQLServer.2022.Express (Depends on https://github.com/microsoft/winget-pkgs/issues/378926; it is not a hard dependency, but would be convenient)
-  # - PackageIdentifier: Microsoft.MSXML.4 (Depends on https://github.com/microsoft/winget-pkgs/pull/378933; hard dependency)
+  # - PackageIdentifier: Microsoft.MSXML.4 (Depends on https://github.com/microsoft/winget-pkgs/pull/378943; hard dependency)
 ElevationRequirement: elevationRequired
 ManifestType: installer
 ManifestVersion: 1.28.0
