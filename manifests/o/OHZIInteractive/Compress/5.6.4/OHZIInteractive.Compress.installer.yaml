@@ -1,4 +1,6 @@
 ﻿# yaml-language-server: $schema=https://aka.ms/winget-manifest.installer.1.28.0.schema.json
+# Has not yet been submitted to pkgs due to: I've got cold feet about this manifest after I learned it wasn't lossless.
+
 PackageIdentifier: OHZIInteractive.Compress
 PackageVersion: 5.6.4
 InstallerType: nullsoft
