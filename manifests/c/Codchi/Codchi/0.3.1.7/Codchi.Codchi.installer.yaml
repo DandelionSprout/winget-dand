@@ -1,4 +1,6 @@
 ﻿# yaml-language-server: $schema=https://aka.ms/winget-manifest.installer.1.28.0.schema.json
+# Has not (yet) been submitted to pkgs due to: I can't properly confirm if the app actually works or not.
+
 PackageIdentifier: Codchi.Codchi
 PackageVersion: 0.3.1.7
 ReleaseDate: 2025-03-25
