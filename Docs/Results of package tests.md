@@ -1,4 +1,4 @@
-## Packages uncreateable for various reasons (Unsorted):
+## Packages uncreatable for various reasons (Unsorted):
 * "Overføringsverktøy for brukere (veiviser for overføring av innstillinger)" (Missing OCMANAGE.dll)
 * `https://catalog.update.microsoft.com/Search.aspx?q=kb5007651` (Fails to install)
 * `https://github.com/shorthorn-project/One-Core-API-Binaries/releases` (Very unusual type of self-extracting file)
@@ -22,12 +22,9 @@
 * FMCM (Requires post-installation folder movement)
 * FS-UAE (Requires manual folder moves)
 * GarudaLinux.FireDragon (False positive "Can't install silently" pipeline error)
-* gnome.phodav (Almost certainly an outdated version of Spice.SpiceWebDAVd)
 * GNU.APL (Missing "cyggcc_s-1.dll")
-* GNU.gzip (Probably made irrelevant and extremely outdated by GnuWin32.Gzip)
 * Intel Fortran Compiler (Unresponsive veto-rights responsible)
 * irzyxa.Volume2 (Can't be consistently silently installed: On some PCs throws "DAMAGE: after Normal block (#56) at 0x02CE1860")
-* IsaoMaruoka.Pixia (Silent installation fails with error 4294967292)
 * jklewa.ATVDesktopRemote (Requires Python 3)
 * KB9114440 Network Diagnosis ("Not enough memory resources available (...)")
 * Lenovo Dolby Vision Provisioning Kit (Unable to confirm if the package works or not.)
@@ -38,7 +35,6 @@
 * Microsoft Axe.Windows (Depends on ".NET Core Runtime 6.0 or newer", which could mean a lot of different things, at least 2 of which didn't work.)
 * Microsoft Log Monitor / LogMonitor / Windows Container Tools (Requires a config JSON that is not automatically created)
 * Microsoft Monitoring Agent / MOMAgent (Error 1603)
-* Microsoft Office Subject Interface Packages for Digitally Signing VBA Projects / Sips (Gets stuck on the final prompt, "Files extracted successfully.")
 * Microsoft SQL Server 2025 Evaluation Edition (Refuses to recognise /ENU when Windows 11 is set to nb-NO)
 * Microsoft System Center 2025 Operations Manager Server / SetupChainerUI.exe / SCOM 2025 (Requires manually setting the name of the "/SqlServerInstance")
 * Microsoft System Center Data Protection Manager (Requires Windows Server)
@@ -62,11 +58,8 @@
 * Microsoft.HIS.2020.MigrationTool / Host Integration Server (Overly complicated to use)
 * Microsoft.MIDI.LoopbackService (Pipelines bafflingly complain about error 2180251649)
 * Microsoft.ReportViewer 2015 (Has "Microsoft System CLR Types for SQL Server 2014" as a dependency)
-* Microsoft.ShaderConductor (Pointless due to containing an outdated version of Microsoft.DirectX.ShaderCompiler)
-* Microsoft.SimpleRemote (Pretty much just one big vulnerability + Depends on another and unknown app)
 * Microsoft.vcpkg (Post-installation requires a separate vcpkg-root app)
 * Mozilla Thunderbird Nightly ("Device wide install for msix type is not supported in packaged context.")
-* Mozilla.Firefox.EMEfree (The app is completely pointless)
 * MozillaBuild (Not all that useful, since end-users must still build the post-installation files on their own)
 * MPSeal («Could not load file or assembly 'Microsoft.EnterpriseManagement.Core, (...)»)
 * Netbird (ESET detection)
@@ -109,7 +102,6 @@
 * Sniffnet (Has Npcap as a dependency)
 * Update Root Certificates ("The package file is not a valid zip archive.")
 * USBip-win(2) (Apparently requires driver test-signing system mode?)
-* VLC FreeSans font (Pointless due to it being a singular GNU-available font)
 * WinDump (Has Npcap as dependency)
 * Wine Gecko ("The file browser!blocklist.xml can't be installed because the file doesn't exist in the cabinet file winegecko.cab. (...)")
 * Wine Mono (Bafflingly tries to start a 2nd installer for a support tool before having finished the 1st installer)
@@ -176,6 +168,16 @@
 * VueScan (Driver install prompt that can only be closed manually)
 * AlkaidLab.foundation-sunshine (Known to require a driver install)
 * Jigsaw.Outline (Driver install prompt that can only be closed manually)
+* IsaoMaruoka.Pixia (Silent installation fails with error 4294967292)
+* Microsoft Office Subject Interface Packages for Digitally Signing VBA Projects / Sips (Gets stuck on the final prompt, "Files extracted successfully.")
+
+## App is pointless:
+* VLC FreeSans font (Pointless due to it being a singular GNU-available font)
+* gnome.phodav (Almost certainly an outdated version of Spice.SpiceWebDAVd)
+* GNU.gzip (Probably made irrelevant and extremely outdated by GnuWin32.Gzip)
+* Microsoft.ShaderConductor (Pointless due to containing an outdated version of Microsoft.DirectX.ShaderCompiler)
+* Microsoft.SimpleRemote (Pretty much just one big vulnerability + Depends on another and unknown app)
+* Mozilla.Firefox.EMEfree (The app is completely pointless)
 
 ## App doesn't work or is incomprehensible:
 * `https://github.com/dekotan24/iwara-downloader`
