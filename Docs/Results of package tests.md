@@ -107,6 +107,7 @@
 * Wine Mono (Bafflingly tries to start a 2nd installer for a support tool before having finished the 1st installer)
 * Xensam Xearch (No known download link)
 * RabbitMQ (Installation fails with error 21)
+* Microsoft WindowsWorkload pretty much anything (No known download links)
 
 ## Can't be silently installed:
 * `https://www•mousemux•com/files/mousemux-v2-installer.exe`
