@@ -179,6 +179,7 @@
 * VLC FreeSans font (Pointless due to it being a singular GNU-available font)
 * gnome.phodav (Almost certainly an outdated version of Spice.SpiceWebDAVd)
 * GNU.gzip (Probably made irrelevant and extremely outdated by GnuWin32.Gzip)
+* Microsoft Defender Antivirus security intelligence updates (It's only relevant for offline computers, but offline computers can't use Winget.)
 * Microsoft.ShaderConductor (Pointless due to containing an outdated version of Microsoft.DirectX.ShaderCompiler)
 * Microsoft.SimpleRemote (Pretty much just one big vulnerability + Depends on another and unknown app)
 * Mozilla.Firefox.EMEfree (The app is completely pointless)
