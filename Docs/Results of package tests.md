@@ -304,6 +304,7 @@
 * GNOME libcroco
 * GNOME libglade
 * GoldSrcModelThumbnailProvider
+* Google.re2
 * Gradle Distributions
 * KeeperSecurity keeper-sdk-dotnet / PowerCommander
 * kemnnx64
