@@ -170,6 +170,7 @@
 * Jigsaw.Outline (Driver install prompt that can only be closed manually)
 * IsaoMaruoka.Pixia (Silent installation fails with error 4294967292)
 * Microsoft Office Subject Interface Packages for Digitally Signing VBA Projects / Sips (Gets stuck on the final prompt, "Files extracted successfully.")
+* Klarna Desktop App (Considers its login screen to be part of the installation process)
 
 ## App is pointless:
 * VLC FreeSans font (Pointless due to it being a singular GNU-available font)
