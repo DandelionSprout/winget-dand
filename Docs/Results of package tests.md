@@ -106,6 +106,7 @@
 * Wine Gecko ("The file browser!blocklist.xml can't be installed because the file doesn't exist in the cabinet file winegecko.cab. (...)")
 * Wine Mono (Bafflingly tries to start a 2nd installer for a support tool before having finished the 1st installer)
 * Xensam Xearch (No known download link)
+* RabbitMQ (Installation fails with error 21)
 
 ## Can't be silently installed:
 * `https://www•mousemux•com/files/mousemux-v2-installer.exe`
