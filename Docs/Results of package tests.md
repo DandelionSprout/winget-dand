@@ -336,6 +336,7 @@
 * WebView2Browser
 * windows-heic-thumbnails
 * zlib
+* Microsoft.OnnxRuntime
 
 ## Ruled out from "Project Portable MSIX-s" due to internal EXE-s not launching:
 * DavidSungaila.SUBSTitute
