@@ -121,6 +121,7 @@
 * Clue digital ordbok (Can't be silently installed, especially as its MSI version is fake)
 * CM&V.DVBViewerDemo
 * CyberLink pretty much anything
+* * Ultra HD Blu-ray Advisor (`/S /qn` fails to make InstallShield progress silently for this app; a strange "Customer Information" prompt is possibly a factor)
 * Devail1.WindowCenterResize
 * Eclipso Toolbox (+ Time-expirant installer URL)
 * Epson Firmware Updater
