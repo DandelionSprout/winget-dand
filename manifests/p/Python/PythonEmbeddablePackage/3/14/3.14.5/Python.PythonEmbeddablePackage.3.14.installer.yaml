@@ -1,4 +1,6 @@
 ﻿# yaml-language-server: $schema=https://aka.ms/winget-manifest.installer.1.28.0.schema.json
+# Already submitted to pkgs; see https://github.com/microsoft/winget-pkgs/pull/400693
+
 PackageIdentifier: Python.PythonEmbeddablePackage.3.14
 PackageVersion: 3.14.5
 ReleaseDate: 2026-05-10
