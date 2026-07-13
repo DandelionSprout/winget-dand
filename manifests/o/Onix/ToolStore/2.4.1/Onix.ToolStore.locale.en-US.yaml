@@ -3,14 +3,11 @@ PackageIdentifier: Onix.ToolStore
 PackageVersion: 2.4.1
 PackageLocale: en-US
 Publisher: Onix AS
-PackageName: Onix Tool Store
+PackageName: Onix Tool Store (on x64/ARM64)
 PackageUrl: https://onix.com/tool-store
 License: Proprietary
 ShortDescription: Take control of your equipment. Ensure user safety. Onix Tool Store gives you full control over your tools. Manage check-in and check-out of your equipment to ensure it is always available, safe and ready to use.
-Description: |-
-  Take control of your equipment. Ensure user safety. Onix Tool Store gives you full control over your tools. Manage check-in and check-out of your equipment to ensure it is always available, safe and ready to use.
-
-  Note that due to numerous Winget bugs related to dependency architectures, this Winget package can only be installed on Windows 10 x86.
+Moniker: onixtoolstore
 Tags:
 - onix-tool-store
 - onixtoolstore
