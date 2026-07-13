@@ -324,6 +324,7 @@
 * Microsoft.vc-ue-extensions
 * Microsoft.Windows-appsample-marble-maze
 * Microsoft.Windows-appsample-photo-editor
+* Microsoft winget-cli-restsource
 * Mozilla CrashReporter Symbols
 * Npcap SDK
 * NVDA Controller Client
