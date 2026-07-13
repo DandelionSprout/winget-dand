@@ -218,6 +218,7 @@
 * samuelngs.apple-emoji-ttf
 * WeatherWise
 * winget-new-repos DanielTaufiq
+* UniGetUI Widgets (Compatibility removed in newer UniGetUI versions; see `https://github.com/Devolutions/UniGetUI/issues/4798`)
 
 ## All sorts of certificate errors:
 * 2fast (ZIP)
