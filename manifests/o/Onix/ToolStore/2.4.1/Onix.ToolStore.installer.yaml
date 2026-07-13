@@ -1,4 +1,6 @@
-﻿# yaml-language-server: $schema=https://aka.ms/winget-manifest.installer.1.28.0.schema.json
+# yaml-language-server: $schema=https://aka.ms/winget-manifest.installer.1.28.0.schema.json
+# Is not in pkgs due to: On non-x86 OS-s, it requires a dependency that cannot be added to pkgs.
+
 PackageIdentifier: Onix.ToolStore
 PackageVersion: 2.4.1
 Platform:
