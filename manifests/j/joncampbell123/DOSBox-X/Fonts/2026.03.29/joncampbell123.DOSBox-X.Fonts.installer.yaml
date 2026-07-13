@@ -7,7 +7,6 @@ Installers:
 - Architecture: neutral
   NestedInstallerFiles:
   - RelativeFilePath: bin\Win32\Release\Nouveau_IBM.ttf # Will be superceded by https://github.com/pl4nty/winget-extras/pull/346
-  - RelativeFilePath: bin\Win32\Release\SarasaGothicFixed.ttf
   InstallerUrl: https://github.com/joncampbell123/dosbox-x/releases/download/dosbox-x-v2026.03.29/dosbox-x-vsbuild-win32-2026.03.29-portable.zip
   InstallerSha256: AA4E75C8669672635CC78D7CEACC284443E202556831403550710FC79B4C7EFA
 ManifestType: installer
