@@ -8,11 +8,17 @@ To tell when update requests to pkgs should be made.
 
 **Caesium**: [![latest packaged version(s)](https://repology.org/badge/latest-versions/caesium-image-compressor.svg?header=Repology)](https://repology.org/project/caesium-image-compressor/versions) versus ![Winget](https://img.shields.io/winget/v/SaeraSoft.CaesiumImageCompressor?style=flat-square)
 
+**Eden (MSVC)**: [![latest packaged version(s)](https://repology.org/badge/latest-versions/eden-emulator.svg?header=Repology)](https://repology.org/project/eden-emulator/versions) versus ![Winget](https://img.shields.io/winget/v/Utopia.Eden.MSVC?style=flat-square&color=blue)
+
 **EPSON Scan 2**: [![latest packaged version(s)](https://repology.org/badge/latest-versions/epsonscan2.svg?header=Repology)](https://repology.org/project/epsonscan2/versions) versus ![Winget](https://img.shields.io/winget/v/EPSON.EpsonScan2?style=flat-square)
 
 **FanControl**: [![latest packaged version(s)](https://repology.org/badge/latest-versions/fancontrol.svg?header=Repology)](https://repology.org/project/fancontrol/versions) versus ![Winget](https://img.shields.io/winget/v/Rem0o.FanControl?style=flat-square)
 
+**Firefox (Stable)**: [![latest packaged version(s)](https://repology.org/badge/latest-versions/firefox.svg?header=Repology)](https://repology.org/project/firefox/versions) versus ![Winget](https://img.shields.io/winget/v/Mozilla.Firefox.MSIX?style=flat-square&label=Winget%20—%20MSIX)
+
 **Free Download Manager**: [![latest packaged version(s)](https://repology.org/badge/latest-versions/freedownloadmanager.svg?header=Repology)](https://repology.org/project/freedownloadmanager/versions) versus ![Winget](https://img.shields.io/winget/v/SoftDeluxe.FreeDownloadManager?style=flat-square)
+
+**gallery-dl**: [![latest packaged version(s)](https://repology.org/badge/latest-versions/gallery-dl.svg?header=Repology)](https://repology.org/project/gallery-dl/versions) versus ![Winget](https://img.shields.io/winget/v/mikf.gallery-dl?style=flat-square) 
 
 **GameInput**: [![latest packaged version(s)](https://repology.org/badge/latest-versions/gameinput.svg?header=Repology)](https://repology.org/project/gameinput/versions) versus ![Winget](https://img.shields.io/winget/v/Microsoft.GameInput?style=flat-square)
 
