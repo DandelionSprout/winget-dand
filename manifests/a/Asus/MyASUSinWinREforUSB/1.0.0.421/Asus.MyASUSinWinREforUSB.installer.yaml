@@ -1,0 +1,16 @@
+# yaml-language-server: $schema=https://aka.ms/winget-manifest.installer.1.12.0.schema.json
+# Not yet submitted to pkgs due to: When run as a straightforward .exe, it does not write to registry after completion.
+
+PackageIdentifier: Asus.MyASUSinWinREforUSB
+PackageVersion: 1.0.0.421
+ReleaseDate: 2026-06-17
+InstallerType: exe
+InstallerSwitches:
+  Silent: /verysilent
+  SilentWithProgress: /verysilent
+Installers:
+- Architecture: x64
+  InstallerUrl: https://dlcdnets.asus.com/pub/ASUS/IOTHMD/Image/CloudReinstallToolEXE/421/MyASUS_in_WinRE_For_USB_V1.0.0.421.exe
+  InstallerSha256: 4F304B19DADE1B88B5EA3BFD4E5C33561A7DB7A9A64F9265E81CC8B62E0DC27A
+ManifestType: installer
+ManifestVersion: 1.12.0

@@ -1,0 +1,25 @@
+# yaml-language-server: $schema=https://aka.ms/winget-manifest.defaultLocale.1.12.0.schema.json
+
+PackageIdentifier: Asus.MyASUSinWinREforUSB
+PackageVersion: 1.0.0.421
+PackageLocale: en
+Publisher: ASUSTeK Computer Inc.
+PackageName: MyASUS in WinRE for USB
+PackageUrl: https://rog.asus.com/gaming-handhelds/rog-ally/rog-xbox-ally-2025/helpdesk_download/?model2name=rc73ya
+License: Proprietary (Freeware)
+Copyright: © ASUSTeK COMPUTER INC. All rights reserved.
+ShortDescription: Creates a bootable USB drive to enable the system to boot into MyASUS in WinRE (Windows Recovery Environment). Running Cloud Recovery in MyASUS in WinRE can help you reinstall and restore your operating system.
+Description: |-
+  Creates a bootable USB drive to enable the system to boot into MyASUS in WinRE (Windows Recovery Environment). Running Cloud Recovery in MyASUS in WinRE can help you reinstall and restore your operating system.
+
+  Note that this Winget package only works if there is one (1) USB storage device connected to your PC.
+Moniker: myasuswinre
+Tags:
+- myasus-in-winre-for-usb
+- myasusinwinreforusb
+- myasus-in-windows-recovery-environment
+- myasusinwindowsrecoveryenvironment
+- bootable-usb-drive
+- requiresusbstorage
+ManifestType: defaultLocale
+ManifestVersion: 1.12.0
