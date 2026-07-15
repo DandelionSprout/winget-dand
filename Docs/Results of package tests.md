@@ -9,6 +9,7 @@
 * AMD Ryzen Master (Very weird installer)
 * AMD Software: Adrenalin Edition ("Download Not Complete" anti-"external access" measures)
 * ASUS System Control Interface 3 ("This version of ASUS System Control Interface driver of your machine cannot support some function, click "OK" for more information."⁽ˢⁱᶜ⁾)
+* ASUS Business Manager (Strange installer)
 * Bluegrams.ScreenRuler (Supposedly broke repo guidelines about SourceForge)
 * Cisco Packet Tracer (Installer is behind a login wall)
 * COAA.PlanePlotter (Pipeline bug treats the launch prompt as that it hasn't finished installing)
