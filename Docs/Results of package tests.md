@@ -185,6 +185,7 @@
 * Microsoft.ShaderConductor (Pointless due to containing an outdated version of Microsoft.DirectX.ShaderCompiler)
 * Microsoft.SimpleRemote (Pretty much just one big vulnerability + Depends on another and unknown app)
 * Mozilla.Firefox.EMEfree (The app is completely pointless)
+* ASUS XG-C100C 10G Adapter Driver (Is an older version of `aqnic650.inf`)
 
 ## App doesn't work or is incomprehensible:
 * `https://github.com/dekotan24/iwara-downloader`
@@ -265,7 +266,7 @@
 
 ## Time-expirant installer URLs:
 * 3DMark
-* ASUS anything on rog•asus•com
+* ASUS anything on rog•asus•com (Fixable by changing the URL to `dlcdnets`)
 * Azure VPN Client (Version on appcenterMS has time-expirant installer URLs)
 * BlackBerry Access
 * Citrix DeviceTrust Client Extension
