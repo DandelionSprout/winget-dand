@@ -348,6 +348,7 @@
 * windows-heic-thumbnails
 * zlib
 * Microsoft.OnnxRuntime
+* Atola MultiDrive WinPE
 
 ## Ruled out from "Project Portable MSIX-s" due to internal EXE-s not launching:
 * DavidSungaila.SUBSTitute
