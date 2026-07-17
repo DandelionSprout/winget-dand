@@ -1,0 +1,12 @@
+# Created using wingetcreate 1.12.8.0
+# yaml-language-server: $schema=https://aka.ms/winget-manifest.defaultLocale.1.12.0.schema.json
+
+PackageIdentifier: XnSoft.XnSketch
+PackageVersion: "1.20"
+PackageLocale: en
+Publisher: Pierre-e Gougelet
+PackageName: XnSketch
+License: Proprietary (Freeware)
+ShortDescription: Allows you to turn your photos into cartoon or sketch images.
+ManifestType: defaultLocale
+ManifestVersion: 1.12.0
