@@ -1,0 +1,16 @@
+# yaml-language-server: $schema=https://aka.ms/winget-manifest.installer.1.12.0.schema.json
+# Not yet submitted to pkgs due to: Doesn't show up as an installed app post-installation.
+
+PackageIdentifier: Asus.PrecisionTouchPadDriver
+PackageVersion: 16.0.0.38
+ReleaseDate: 2025-11-14
+InstallerType: exe
+InstallerSwitches:
+  Silent: /verysilent /norestart
+  SilentWithProgress: /verysilent /norestart
+Installers:
+- Architecture: x64
+  InstallerUrl: https://dlcdnets.asus.com/pub/ASUS/Commercial_NB/Image/Driver/PointingDevice/46415/PrecisionTouchPad_CC_ASUS_D_V16.0.0.38_46415.exe
+  InstallerSha256: 117B3F6D0551E84BC9C66725128017E05994CEA71EC8D3294DD1E82EE9D1CE8E
+ManifestType: installer
+ManifestVersion: 1.12.0

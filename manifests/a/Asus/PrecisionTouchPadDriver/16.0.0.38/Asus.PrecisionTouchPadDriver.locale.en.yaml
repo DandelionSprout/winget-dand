@@ -1,0 +1,29 @@
+# yaml-language-server: $schema=https://aka.ms/winget-manifest.defaultLocale.1.12.0.schema.json
+
+PackageIdentifier: Asus.PrecisionTouchPadDriver
+PackageVersion: 16.0.0.38
+PackageLocale: en
+Publisher: ASUSTeK COMPUTER INC.
+PackageName: ASUS Precision TouchPad Driver
+PackageUrl: https://www.asus.com/supportonly/b3404cva/helpdesk_download/
+License: Proprietary (Freeware)
+Copyright: © ASUSTeK COMPUTER INC. All rights reserved.
+ShortDescription: The software driver for the ASUS Precision Touchpad. It is a program used to communicate from the Windows PC OS to the device.
+Description: |-
+  The software driver for the ASUS Precision Touchpad. It is a program used to communicate from the Windows PC OS to the device.
+
+  Note that the installer completely fails to write to registry at all, and therefore doesn't show up as an installed app post-installation. This is caused on ASUS' end, and cannot be fixed by Winget.
+Moniker: precisiontouchpad
+Tags:
+- asus-precision-touch-pad-driver
+- asusprecisiontouchpaddriver
+- asus-laptops
+- asuslaptops
+- asus-drivers
+- asusdrivers
+- asusvirtualdevice.inf
+- asusptpfilter.inf
+- asusconsumerdevfilter.inf
+- asuskeyboardfilter.inf
+ManifestType: defaultLocale
+ManifestVersion: 1.12.0
