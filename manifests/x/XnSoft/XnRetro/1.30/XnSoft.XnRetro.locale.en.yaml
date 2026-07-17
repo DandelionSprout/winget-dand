@@ -1,0 +1,12 @@
+# Created using wingetcreate 1.12.8.0
+# yaml-language-server: $schema=https://aka.ms/winget-manifest.defaultLocale.1.12.0.schema.json
+
+PackageIdentifier: XnSoft.XnRetro
+PackageVersion: "1.30"
+PackageLocale: en
+Publisher: Pierre-e Gougelet
+PackageName: XnRetro
+License: Proprietary (Freeware)
+ShortDescription: Allows you to create stunning images with vintage or instant effect on your Desktop.
+ManifestType: defaultLocale
+ManifestVersion: 1.12.0
