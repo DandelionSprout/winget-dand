@@ -112,6 +112,7 @@
 * Xensam Xearch (No known download link)
 * RabbitMQ (Installation fails with error 21)
 * Microsoft WindowsWorkload pretty much anything (No known download links)
+* Microsoft Configuration Manager / ConfigMgr (7Z file)
 
 ## Can't be silently installed:
 * `https://www•mousemux•com/files/mousemux-v2-installer.exe`
