@@ -246,6 +246,7 @@
 * IRCameraView (ZIP)
 * KeePassPasskey (ZIP)
 * Kodi MSIX
+* LibreWolf MSIX
 * LRReader (MSIXBundle)
 * Microsoft eBPF for Windows - MSI (Doesn't have a valid signature... in an MSI file)
 * Microsoft.SensorExplorer / busiotools (MSIXBundle)
