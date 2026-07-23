@@ -11,6 +11,7 @@ This list aims to cover apps that are either pre-installed on fresh OS installs,
 | Cross Device Experience Host | winget install 9NTXGKQ8P7N0 --force
 | Dansk lokal grænsefladepakke | winget install 9NDMT2VKSNL1 --force
 | Deutsch Local Experience Pack | winget install 9P6CT0SLW589 --force
+| Deutsch Local Experience Pack | winget install 9P6CT0SLW589 --force
 | Dolby Access | winget install 9N0866FS04W8 --force
 | Dolby Digital Plus decoder for PC OEMs | winget install 9NVJQJBDKN97 --force
 | DTS Sound Unbound | winget install 9PJ0NKL8MCSJ --force
@@ -21,19 +22,25 @@ This list aims to cover apps that are either pre-installed on fresh OS installs,
 | Feedback Hub | winget install 9NBLGGH4R32N --force
 | Film og TV | winget install 9WZDNCRFJ3P2 --force
 | Fresh Paint | winget install 9WZDNCRFJB13 --force
+| Gaeilge Paca Eispéiris Logánta | winget install 9P0L5Q848KXT --force
 | Get Help | winget install 9PKDZBMV1H3T --force
 | HEIF Image Extension | winget install 9PMMSR1CGPWG --force
 | iCloud | winget install 9PKTQ5699M62 --force
 | Instagram | winget install 9NBLGGH5L9XT --force
 | JPEG XL Image Extension | winget install 9MZPRTH5C0TB --force
+| Local Experience Pack para Português (Portugal) | winget install 9P7X8QJ7FL0X --force
+| Local Experience-pakket voor Nederlands | winget install 9PF1C9NB5PRV --force
 | Local Experience-pakket voor Nederlands | winget install 9PF1C9NB5PRV --force
 | Lokaliserat gränssnittspaket för svenska | winget install 9P0HSNX08177 --force
 | Microsoft Bing | winget install 9NZBF4GT040C --force
 | Microsoft Clipchamp | winget install 9P1J8S7CCWWT --force
 | Microsoft Copilot | winget install XP9CXNGPPJ97XX --force
+| Microsoft Designer | winget install 9PJGRCLDLX5V --force
 | Microsoft Edge (Pre-installed version?) | winget install XPFFTQ037JWMHS --force
 | Microsoft Family Safety | winget install 9PDJDJS743XF --force
+| Microsoft Journal | winget install 9N318R854RHH --force
 | Microsoft Loop | winget install 9P1HQ5TQZMGD --force
+| Microsoft Messaging | winget install 9WZDNCRFJBQ6 --force
 | Microsoft News / MSN News | winget install 9WZDNCRFHVFW --force
 | Microsoft Photos | winget install 9WZDNCRFJBH4 --force
 | Microsoft Sticky Notes | winget install 9NBLGGH4QGHW --force
@@ -42,6 +49,8 @@ This list aims to cover apps that are either pre-installed on fresh OS installs,
 | Microsoft To Do | winget install 9NBLGGH5R558 --force
 | Microsoft Visual Studio Code (User) | winget install XP9KHM4BK9FZ7Q --force
 | Microsoft Whiteboard | winget install 9MSPC6MP8FM4 --force
+| Module d'expérience locale français (Canada) | winget install 9MTP2VP0VL92 --force
+| Module d'expérience locale français (France) | winget install 9NHMG4BJKMDG --force
 | MPEG-2 Video Extension | winget install 9N95Q1ZZPMH4 --force
 | MSN Weather | winget install 9WZDNCRFJ3Q2 --force
 | Netflix | winget install 9WZDNCRFJ3TJ --force
@@ -50,6 +59,7 @@ This list aims to cover apps that are either pre-installed on fresh OS installs,
 | NVIDIA Control Panel | winget install 9NF8H0H7WMLT --force
 | Outlook for Windows | winget install 9NRX63209R7B --force
 | Pack para sa Lokal na Karanasan sa Filipino | winget install 9NWM2KGTDSSS --force
+| Pacote de Experiência Local em Português (Brasil) | winget install 9P8LBDM4FW35 --force
 | Paint (MS Paint) | winget install 9PCFS5B6T72H --force
 | Paket za lokalni interfejs za srpski | winget install 9NBZ0SJDPPVT --force
 | Paketa e përvojës lokale në shqip | winget install 9MWLRGNMDGK7 --force
@@ -82,6 +92,7 @@ This list aims to cover apps that are either pre-installed on fresh OS installs,
 | Windows Calculator | winget install 9WZDNCRFHVN5 --force
 | Windows Camera | winget install 9WZDNCRFJBBG --force
 | Windows Clock | winget install 9WZDNCRFJ3PR --force
+| Windows Community Toolkit Gallery | winget install 9NBLGGH4TLCQ --force
 | Windows HDR Calibration | winget install 9N7F2SM5D1LR --force
 | Windows Media Player (Modern) | winget install 9WZDNCRFJ3PT --force
 | Windows Notepad | winget install 9MSMLRH6LZF3 --force
@@ -89,10 +100,16 @@ This list aims to cover apps that are either pre-installed on fresh OS installs,
 | Windows Scan | winget install 9WZDNCRFJ3PV --force
 | Windows Taleopptak | winget install 9WZDNCRFHWKN --force
 | Windows Web Experience Pack | winget install 9MSSGKG348SP --force
+| WinUI 3 Gallery | winget install 9P3JFPWWDZRC --force
 | Xbox Accessories | winget install 9NBLGGH30XJ3 --force
 | Xbox Identity Provider | winget install 9WZDNCRD1HKW --force
 | Xbox | winget install 9MV0B5HZVK9Z --force
+| Ελληνικά - Πακέτο τοπικά προσαρμοσμένης εμπειρίας | winget install 9N586B13PBLD --force
+| Пакет локалізації інтерфейсу на українській мові | winget install 9PPPMZRSGHR8 --force
+| Қазақ Локализацияланған интерфейс бумасы | winget install 9PHV179R97LV --force
 | हिन्दी स्थानीय अनुभव पैक | winget install 9NZC3GRX8LD3 --force
+| తెలుగు స్థానిక అనుభవ ప్యాక్ | winget install 9PMQJJGF63FW --force
+| 日本語 ローカル エクスペリエンス パック | winget install 9N1W692FV4S1 --force
 
 ## Notes
 * When the list was first made, I lacked time to look up the English names of some of them, so a few currently have their Norwegian names as placeholders.
