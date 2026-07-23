@@ -61,6 +61,7 @@ If you already have a bunch of Microsoft Store-installed apps on your PC but the
 | Web Media Extensions | winget install 9N5TDP8VCMHS --force
 | WebP Image Extensions | winget install 9PG2DK419DRG --force
 | Widgets Platform Runtime | winget install 9N3RK8ZV2ZR8 --force
+| WinAppRuntime.Main.1.7 (MSIX version?) | winget install 9N11XWMH52PD --force
 | WinAppRuntime.Main.1.8 (MSIX version?) | winget install 9PLJQ12FQ3CV --force
 | WinAppRuntime.Singleton | winget install 9P5Z076K079H --force
 | Windows Calculator | winget install 9WZDNCRFHVN5 --force
