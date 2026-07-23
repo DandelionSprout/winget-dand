@@ -113,6 +113,7 @@
 * RabbitMQ (Installation fails with error 21)
 * Microsoft WindowsWorkload pretty much anything (No known download links)
 * Microsoft Configuration Manager / ConfigMgr (7Z file)
+* Mozilla Maintenance Service (Its Mozilla developers got *really* pissy about it)
 
 ## Can't be silently installed:
 * `https://www•mousemux•com/files/mousemux-v2-installer.exe`
