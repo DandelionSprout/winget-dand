@@ -48,6 +48,7 @@ If you already have a bunch of Microsoft Store-installed apps on your PC but the
 | Paint (MS Paint) | winget install 9PCFS5B6T72H --force
 | Paket za lokalni interfejs za srpski | winget install 9NBZ0SJDPPVT --force
 | Paketa e përvojës lokale në shqip | winget install 9MWLRGNMDGK7 --force
+| Pakki með staðfærðu notendaviðmóti fyrir íslensku | winget install 9NTHJR7TQXX1 --force
 | Phone Link | winget install 9NMPJ99VJBWV --force
 | Power Automate | winget install 9NFTCH6J7FHV --force
 | Quick Assist | winget install 9P7BP5VNWKX5 --force
