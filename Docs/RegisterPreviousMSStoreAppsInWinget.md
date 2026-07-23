@@ -3,6 +3,7 @@ If you already have a bunch of Microsoft Store-installed apps on your PC but the
 ## List
 | App | Command
 | --- | -------
+| Afrikaans Plaaslike ervaringpak | 9PDW16B5HMXR
 | AV1 Video Extension | winget install 9MVZQVXJBQ9V --force
 | Cross Device Experience Host | winget install 9NTXGKQ8P7N0 --force
 | Dansk lokal grænsefladepakke | winget install 9NDMT2VKSNL1 --force
@@ -11,6 +12,7 @@ If you already have a bunch of Microsoft Store-installed apps on your PC but the
 | Dolby Access | winget install 9N0866FS04W8 --force
 | Dolby Digital Plus decoder for PC OEMs | winget install 9NVJQJBDKN97 --force
 | DTS Sound Unbound | winget install 9PJ0NKL8MCSJ --force
+| Eesti keelde lokaliseeritud kasutajaliidese pakett | winget install 9NFBHFMCR30L --force
 | English (United Kingdom) Local Experience Pack | winget install 9NT52VQ39BVN --force
 | English (United States) Local Experience Pack | winget install 9PDSCC711RVF --force
 | Facebook | winget install 9WZDNCRFJ2WL --force
@@ -27,6 +29,7 @@ If you already have a bunch of Microsoft Store-installed apps on your PC but the
 | Microsoft Bing | winget install 9NZBF4GT040C --force
 | Microsoft Clipchamp | winget install 9P1J8S7CCWWT --force
 | Microsoft Copilot | winget install XP9CXNGPPJ97XX --force
+| Microsoft Edge (Pre-installed version?) | winget install XPFFTQ037JWMHS --force
 | Microsoft Family Safety | winget install 9PDJDJS743XF --force
 | Microsoft Images | winget install 9WZDNCRFJBH4 --force
 | Microsoft News / MSN News | winget install 9WZDNCRFHVFW --force
@@ -41,7 +44,10 @@ If you already have a bunch of Microsoft Store-installed apps on your PC but the
 | Norsk (nynorsk) lokal grensesnittpakke | winget install 9PK7KM3Z06KH --force
 | NVIDIA Control Panel | winget install 9NF8H0H7WMLT --force
 | Outlook for Windows | winget install 9NRX63209R7B --force
+| Pack para sa Lokal na Karanasan sa Filipino | winget install 9NWM2KGTDSSS --force
 | Paint (MS Paint) | winget install 9PCFS5B6T72H --force
+| Paket za lokalni interfejs za srpski | winget install 9NBZ0SJDPPVT --force
+| Paketa e përvojës lokale në shqip | winget install 9MWLRGNMDGK7 --force
 | Phone Link | winget install 9NMPJ99VJBWV --force
 | Power Automate | winget install 9NFTCH6J7FHV --force
 | Quick Assist | winget install 9P7BP5VNWKX5 --force
@@ -65,7 +71,8 @@ If you already have a bunch of Microsoft Store-installed apps on your PC but the
 | Windows Sandbox | winget install 9NSMXC3NB0HN --force
 | Windows Web Experience Pack | winget install 9MSSGKG348SP --force
 | Xbox Accessories | winget install 9NBLGGH30XJ3 --force
+| हिन्दी स्थानीय अनुभव पैक | winget install 9NZC3GRX8LD3 --force
 
 ## Notes
 * When the list was first made, I lacked time to look up the English names of some of them, so a few currently have their Norwegian names as placeholders.
-* Use `;` to chain multiple commands togethe in PowerShell.
+* Use `;` to chain multiple commands together in PowerShell.
