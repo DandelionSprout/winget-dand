@@ -3,7 +3,7 @@ If you already have a bunch of Microsoft Store-installed apps on your PC but the
 ## List
 | App | Command
 | --- | -------
-| Afrikaans Plaaslike ervaringpak | 9PDW16B5HMXR
+| Afrikaans Plaaslike ervaringpak | winget install 9PDW16B5HMXR --force
 | AV1 Video Extension | winget install 9MVZQVXJBQ9V --force
 | Cross Device Experience Host | winget install 9NTXGKQ8P7N0 --force
 | Dansk lokal grænsefladepakke | winget install 9NDMT2VKSNL1 --force
@@ -76,4 +76,4 @@ If you already have a bunch of Microsoft Store-installed apps on your PC but the
 
 ## Notes
 * When the list was first made, I lacked time to look up the English names of some of them, so a few currently have their Norwegian names as placeholders.
-* Use `;` to chain multiple commands together in PowerShell.
+* Use `; ` to chain multiple commands together in PowerShell.
