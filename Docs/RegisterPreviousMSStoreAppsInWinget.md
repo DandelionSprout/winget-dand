@@ -23,7 +23,7 @@ If you already have a bunch of Microsoft Store-installed apps on your PC but the
 | iCloud | winget install 9PKTQ5699M62 --force
 | Instagram | winget install 9NBLGGH5L9XT --force
 | JPEG XL Image Extension | winget install 9MZPRTH5C0TB --force
-| Kompatibilitetsforbedringer for Windows-program | winget install 9PCSD6N03BKV --force
+| Windows Application Compatibility Enhancements | winget install 9PCSD6N03BKV --force
 | Local Experience-pakket voor Nederlands | winget install 9PF1C9NB5PRV --force
 | Lokaliserat gränssnittspaket för svenska | winget install 9P0HSNX08177 --force
 | Microsoft Bing | winget install 9NZBF4GT040C --force
@@ -31,7 +31,7 @@ If you already have a bunch of Microsoft Store-installed apps on your PC but the
 | Microsoft Copilot | winget install XP9CXNGPPJ97XX --force
 | Microsoft Edge (Pre-installed version?) | winget install XPFFTQ037JWMHS --force
 | Microsoft Family Safety | winget install 9PDJDJS743XF --force
-| Microsoft Images | winget install 9WZDNCRFJBH4 --force
+| Microsoft Photos | winget install 9WZDNCRFJBH4 --force
 | Microsoft News / MSN News | winget install 9WZDNCRFHVFW --force
 | Microsoft Sticky Notes | winget install 9NBLGGH4QGHW --force
 | Microsoft Store | winget install 9WZDNCRFJBMP --force
@@ -62,6 +62,7 @@ If you already have a bunch of Microsoft Store-installed apps on your PC but the
 | Web Media Extensions | winget install 9N5TDP8VCMHS --force
 | WebP Image Extensions | winget install 9PG2DK419DRG --force
 | Widgets Platform Runtime | winget install 9N3RK8ZV2ZR8 --force
+| WinAppRuntime.Main.1.6 (MSIX version?) | winget install 9PKPFBF3NHX1 --force
 | WinAppRuntime.Main.1.7 (MSIX version?) | winget install 9N11XWMH52PD --force
 | WinAppRuntime.Main.1.8 (MSIX version?) | winget install 9PLJQ12FQ3CV --force
 | WinAppRuntime.Singleton | winget install 9P5Z076K079H --force
@@ -73,6 +74,7 @@ If you already have a bunch of Microsoft Store-installed apps on your PC but the
 | Windows Sandbox | winget install 9NSMXC3NB0HN --force
 | Windows Web Experience Pack | winget install 9MSSGKG348SP --force
 | Xbox Accessories | winget install 9NBLGGH30XJ3 --force
+| Xbox Identity Provider | winget install 9WZDNCRD1HKW --force
 | हिन्दी स्थानीय अनुभव पैक | winget install 9NZC3GRX8LD3 --force
 
 ## Notes
