@@ -1,4 +1,4 @@
-♪ = Made it to extras.
+♪ = Made it to extras.<br>
 ♫ = Suited for extras submitting?
 
 ## Packages uncreatable for various reasons (Unsorted):
@@ -116,6 +116,9 @@
 * ♫ Microsoft.AccessibilityInsights (Its dev was pissy about it as of 2023)
 * ♫ puhitaku.mtplvcap (Requires a Nikon DSLR device to run properly)
 * ♫ WinDump (Has Npcap as dependency)
+* NVIDIA FrameView SDK (No currently known installer URLs)
+* ♫ MSI NBFoundation Service (The installer at https://github.com/xchwarze/msi is clearly unofficial)
+* Norton anything (No easily apparent installer URLs, and I can't be bothered to look deeper into URLs since it's Norton)
 
 ## Can't be silently installed:
 * `https://www•mousemux•com/files/mousemux-v2-installer.exe`
