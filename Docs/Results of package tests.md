@@ -1,3 +1,6 @@
+♪ = Made it to extras.
+♫ = Suited for extras submitting?
+
 ## Packages uncreatable for various reasons (Unsorted):
 * "Overføringsverktøy for brukere (veiviser for overføring av innstillinger)" (Missing OCMANAGE.dll)
 * `https://catalog.update.microsoft.com/Search.aspx?q=kb5007651` (Fails to install)
@@ -7,16 +10,13 @@
 * AMD Chipset Drivers (Almost certainly "InternetOpenUrl() failed.")
 * AMD Cleanup Utility ("InternetOpenUrl() failed.")
 * AMD Ryzen Master (Very weird installer)
-* AMD Software: Adrenalin Edition ("Download Not Complete" anti-"external access" measures)
-* ASUS System Control Interface 3 ("This version of ASUS System Control Interface driver of your machine cannot support some function, click "OK" for more information."⁽ˢⁱᶜ⁾)
 * ASUS Business Manager (Strange installer)
 * ASUS Device Discovery (Error 2147753984)
 * ASUS DriverHub (Requires an ASUS motherboard to complete installation)
-* Bluegrams.ScreenRuler (Supposedly broke repo guidelines about SourceForge)
+* ASUS System Control Interface 3 ("This version of ASUS System Control Interface driver of your machine cannot support some function, click "OK" for more information."⁽ˢⁱᶜ⁾)
 * Cisco Packet Tracer (Installer is behind a login wall)
 * COAA.PlanePlotter (Pipeline bug treats the launch prompt as that it hasn't finished installing)
 * Collabora Office (Version number in registry collides with LibreOffice)
-* Command & Conquer: Red Alert 2 & Yuri's Revenge (Has the paid version of Red Alert 2 in a hardcoded folderpath as a dependency for silent installs)
 * crypto20111.IDR (Has disasm as a post-installation dependency; hard to tell which disasm version is the correct one)
 * DuckStation's .exe installers (Heavily customised installer)
 * EitherMouse ("System.Xml.XmlException: 'v3' is an undeclared prefix."; `https://stackoverflow•com/questions/7557464/workaround-for-undeclared-prefix-error-on-xelement-load`)
@@ -25,10 +25,8 @@
 * Epson Fax Utility (Requires separate scanner drivers)
 * FMCM (Requires post-installation folder movement)
 * FS-UAE (Requires manual folder moves)
-* GarudaLinux.FireDragon (False positive "Can't install silently" pipeline error)
 * GNU.APL (Missing "cyggcc_s-1.dll")
 * Intel Fortran Compiler (Unresponsive veto-rights responsible)
-* irzyxa.Volume2 (Can't be consistently silently installed: On some PCs throws "DAMAGE: after Normal block (#56) at 0x02CE1860")
 * jklewa.ATVDesktopRemote (Requires Python 3)
 * KB9114440 Network Diagnosis ("Not enough memory resources available (...)")
 * Lenovo Dolby Vision Provisioning Kit (Unable to confirm if the package works or not.)
@@ -37,6 +35,7 @@
 * MediaWiki (Its only .exe-s in the zip archive are outdated Lua installers)
 * Microsoft Audit Collection Services for UNIX/Linux (Has Microsoft System Center Operations Manager as a dependency)
 * Microsoft Axe.Windows (Depends on ".NET Core Runtime 6.0 or newer", which could mean a lot of different things, at least 2 of which didn't work.)
+* Microsoft Configuration Manager / ConfigMgr (7Z file)
 * Microsoft Log Monitor / LogMonitor / Windows Container Tools (Requires a config JSON that is not automatically created)
 * Microsoft Monitoring Agent / MOMAgent (Error 1603)
 * Microsoft SQL Server 2025 Evaluation Edition (Refuses to recognise /ENU when Windows 11 is set to nb-NO)
@@ -46,13 +45,11 @@
 * Microsoft System Center Operations Manager Reporting Server / OMReporting.msi (Requires Windows Server)
 * Microsoft System Center Operations Manager Server / OMServer.msi (Requires Windows Server)
 * Microsoft System Center Operations Manager Web Console (Error 1943)
-* Microsoft System Center Orchestrator Runbook Designer (Pipelines get stuck)
 * Microsoft System Center Orchestrator Service Management Automation Web Servers (Requires turning on the IIS service "Basic Authentication")
 * Microsoft System Center Service Management Automation Runbook Worker (Requires manually setting SERVICEACCOUNT and SERVICEPASSWORD)
 * Microsoft System Center Virtual Machine Manager Client (Winget-pkgs can't silently install it)
-* Microsoft Visual C++ 2012/2013 Redistributable Arm32 (Incompatibility of the ARM64 pipelines)
 * Microsoft Visual C++ 20xx Redistributable Itanium (Pipelines don't support it even if marked as Neutral)
-* Microsoft.AccessibilityInsights (Its dev was pissy about it as of 2023)
+* Microsoft WindowsWorkload pretty much anything (No known download links)
 * Microsoft.bpf_performance (Has "eBPF for Windows (MSI)" as a post-installation dependency)
 * Microsoft.DotNet.docfx (Post-installation error "Cannot find config file C:\(...)\docfx.json")
 * Microsoft.DotNet.Native.Framework.1.3 (No known Microsoft-owned distribution places for 1.3.24211.0)
@@ -62,9 +59,8 @@
 * Microsoft.HIS.2020.MigrationTool / Host Integration Server (Overly complicated to use)
 * Microsoft.MIDI.LoopbackService (Pipelines bafflingly complain about error 2180251649)
 * Microsoft.ReportViewer 2015 (Has "Microsoft System CLR Types for SQL Server 2014" as a dependency)
-* Microsoft.vcpkg (Post-installation requires a separate vcpkg-root app)
+* Mozilla Maintenance Service (Its Mozilla developers got *really* pissy about it)
 * Mozilla Thunderbird Nightly ("Device wide install for msix type is not supported in packaged context.")
-* MozillaBuild (Not all that useful, since end-users must still build the post-installation files on their own)
 * MPSeal («Could not load file or assembly 'Microsoft.EnterpriseManagement.Core, (...)»)
 * Netbird (ESET detection)
 * NTCore DisasMSIL (Its only .exe is a non-interactive test)
@@ -76,7 +72,6 @@
 * pl4nty.winget-pkgs-selfhost (Its GitHub repo's owner stated it wasn't his app.)
 * PostGIS for PostgreSQL (Requires post-installation folder moves)
 * PSAppDeployToolkit ("This application is designed to be used with the PSAppDeployToolkit PowerShell module and should not be directly invoked.")
-* puhitaku.mtplvcap (Requires a Nikon DSLR device to run properly)
 * PyEnv (Error 240)
 * Python's appendpath.msi (Installer crashes silently with 0xc00000FD)
 * Python's core.msi ("The TARGETDIR variable must be provided when invoking this installer.")
@@ -99,6 +94,7 @@
 * Python's tcltk.msi (Installer crashes silently with 0xc00000FD)
 * Python's test.msi (Installer crashes silently with 0xc00000FD)
 * Python's ucrt.msi (Installer crashes silently with 0xc00000FD)
+* RabbitMQ (Installation fails with error 21)
 * RadioDJ (Requires a very, very insecurely configured MySQL in order for a silent installation to succeed)
 * RetriX ("An error occured during the app package analysis")
 * Samsung.Escargot (Depends on the WebAssembly library "Walrus", for which no executables exist)
@@ -106,14 +102,20 @@
 * Sniffnet (Has Npcap as a dependency)
 * Update Root Certificates ("The package file is not a valid zip archive.")
 * USBip-win(2) (Apparently requires driver test-signing system mode?)
-* WinDump (Has Npcap as dependency)
 * Wine Gecko ("The file browser!blocklist.xml can't be installed because the file doesn't exist in the cabinet file winegecko.cab. (...)" The non-existence of MSIX/Winget support in Wine doesn't help either.)
 * Wine Mono (Bafflingly tries to start a 2nd installer for a support tool before having finished the 1st installer. The 2nd installer also fails with error 2762.)
 * Xensam Xearch (No known download link)
-* RabbitMQ (Installation fails with error 21)
-* Microsoft WindowsWorkload pretty much anything (No known download links)
-* Microsoft Configuration Manager / ConfigMgr (7Z file)
-* Mozilla Maintenance Service (Its Mozilla developers got *really* pissy about it)
+* ♪ Bluegrams.ScreenRuler (Supposedly broke repo guidelines about SourceForge)
+* ♪ Command & Conquer: Red Alert 2 & Yuri's Revenge (Has the paid version of Red Alert 2 in a hardcoded folderpath as a dependency for silent installs)
+* ♪ GarudaLinux.FireDragon (ARM64 version has a false positive "Can't install silently" pipeline error)
+* ♪ Microsoft System Center Orchestrator Runbook Designer (Pipelines get stuck)
+* ♪ Microsoft Visual C++ 2012/2013 Redistributable Arm32 (Incompatibility of the ARM64 pipelines)
+* ♪ Microsoft.vcpkg (Post-installation requires a separate vcpkg-root app)
+* ♪ MozillaBuild (Not all that useful, since end-users must still build the post-installation files on their own)
+* ♫ irzyxa.Volume2 (Can't be consistently silently installed: On some PCs throws "DAMAGE: after Normal block (#56) at 0x02CE1860")
+* ♫ Microsoft.AccessibilityInsights (Its dev was pissy about it as of 2023)
+* ♫ puhitaku.mtplvcap (Requires a Nikon DSLR device to run properly)
+* ♫ WinDump (Has Npcap as dependency)
 
 ## Can't be silently installed:
 * `https://www•mousemux•com/files/mousemux-v2-installer.exe`
@@ -278,7 +280,7 @@
 * BlackBerry Access
 * Citrix DeviceTrust Client Extension
 * Cricut Design Space
-* Game Jolt anything
+* Game Jolt anything (I should run tests for how long it takes before they expire.)
 * ItchIO anything except its main client
 * Nvidia.Nsight.Systems
 * Panda3DS' nightly builds
@@ -296,6 +298,7 @@
 * No$gba
 * phpBB•com
 * Segger J-Link (Anti-bot measures for its download link)
+* AMD Software: Adrenalin Edition ("Download Not Complete" anti-"external access" measures)
 
 ## Self-extracting 7Z-s disguised as .exe-s:
 * Microsoft Endpoint Community Manager (Self-extracting 7Z)
