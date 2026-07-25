@@ -138,7 +138,7 @@
 * Eclipso Toolbox (+ Time-expirant installer URL)
 * Epson Firmware Updater
 * Epson Product Setup
-* EqualizerAPO(64) (Gets stuck on "Please select the devices for which Equalizer APO is to be installed.")
+* ♪ EqualizerAPO(64) (Gets stuck on "Please select the devices for which Equalizer APO is to be installed.")
 * ESET Online Scanner
 * Final Fantasy XIV
 * Fluent Store
@@ -158,7 +158,7 @@
 * Mideej
 * NAVER.Whale
 * Nevrona Rave (Gets stuck on "You must enter your serial number.")
-* Npcap
+* ♪ Npcap
 * Nvidia 3DVision USB Driver
 * On-premises data gateway Microsoft
 * PowerPanel Business Local/Remote (Gets stuck on "Please select one component to install.")
@@ -171,7 +171,7 @@
 * VirtİO's MSI versions
 * Winpcap
 * wxTED (Gets stuck on a prompt on whether to restart Explorer•exe or not)
-* Xbox main EXE
+* Xbox main EXE (No known silent switches)
 * Yamaha.AG08Controller
 * Yamaha.ConsoleFileConverter
 * Yamaha.DM3Editor
@@ -374,10 +374,9 @@
 
 ## False positive detections:
 * Bioruebe.UniExtract2 (False positive malware detection by Sophos)
-* Bol-van's builds of Zapret2 (Avira/Avast false positives; https://github.com/microsoft/winget-pkgs/pull/375864#issuecomment-4477591311)
+* ♪ Bol-van's builds of Zapret2 (Avira/Avast false positives; https://github.com/microsoft/winget-pkgs/pull/375864#issuecomment-4477591311)
 * Dinger.RDHost (ESET false positive)
 * Moeary.IwaraTool (False positive malware detections by at least 2 companies)
-* WebTorrent Desktop (False positive malware detection by Microsoft Defender)
 * łzbench (A likely false positive detection by ESET)
 
 ## I cannot in good spirit add these due to my personal conscience, but I wouldn't stop others from adding them:
