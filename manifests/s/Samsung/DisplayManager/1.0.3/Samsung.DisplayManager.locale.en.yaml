@@ -1,0 +1,13 @@
+# Created using wingetcreate 1.12.8.0
+# yaml-language-server: $schema=https://aka.ms/winget-manifest.defaultLocale.1.12.0.schema.json
+
+PackageIdentifier: Samsung.DisplayManager
+PackageVersion: 1.0.3
+PackageLocale: en
+Publisher: Samsung
+PackageName: Samsung Display Manager
+PackageUrl: https://www.samsungsvc.co.kr/solution/4446135
+License: Proprietary (Freeware)
+ShortDescription: tghruiesaghboertyusbgtyuoersgberyusogvberto
+ManifestType: defaultLocale
+ManifestVersion: 1.12.0

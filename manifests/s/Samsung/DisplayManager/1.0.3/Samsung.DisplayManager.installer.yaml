@@ -1,0 +1,14 @@
+# Created using wingetcreate 1.12.8.0
+# yaml-language-server: $schema=https://aka.ms/winget-manifest.installer.1.12.0.schema.json
+
+PackageIdentifier: Samsung.DisplayManager
+PackageVersion: 1.0.3
+InstallerLocale: en-US
+InstallerType: msi
+ProductCode: '{02DCB0DC-255C-4788-8BB4-211C3DCFEEC5}'
+Installers:
+- Architecture: x64
+  InstallerUrl: https://downloadcenter.samsung.com/content/SW/202508/20250808162408866/SamsungDisplayManagerMSIX64_2025July25_Ver1.0.3.msi
+  InstallerSha256: F9D68D1B032FA6FA578F2B3CDE68E07F3DF83B548FE69B120A2A6A6BF54075AE
+ManifestType: installer
+ManifestVersion: 1.12.0
