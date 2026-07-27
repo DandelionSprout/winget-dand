@@ -282,14 +282,14 @@
 * 3DMark
 * ASUS anything on rog•asus•com (Fixable by changing the URL to `dlcdnets`)
 * Azure VPN Client (Version on appcenterMS has time-expirant installer URLs)
-* BlackBerry Access
+* BlackBerry Access (≤ 5min)
 * Citrix DeviceTrust Client Extension
 * Cricut Design Space
 * Game Jolt anything (I should run tests for how long it takes before they expire.)
-* ItchIO anything except its main client
+* ItchIO anything except its main client (1min)
 * Nvidia.Nsight.Systems
 * Panda3DS' nightly builds
-* Realtek anything
+* Realtek anything (5min)
 * Splice Instrument
 
 ## HTTP "Forbidden" or similar:
@@ -304,6 +304,7 @@
 * phpBB•com
 * Segger J-Link (Anti-bot measures for its download link)
 * AMD Software: Adrenalin Edition ("Download Not Complete" anti-"external access" measures)
+* download-center•epson•com
 
 ## Self-extracting 7Z-s disguised as .exe-s:
 * Microsoft Endpoint Community Manager (Self-extracting 7Z)
