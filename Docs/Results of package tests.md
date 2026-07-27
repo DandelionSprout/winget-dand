@@ -285,7 +285,7 @@
 * BlackBerry Access (≤ 5min)
 * Citrix DeviceTrust Client Extension
 * Cricut Design Space (〜60min)
-* Game Jolt anything (I should run tests for how long it takes before they expire.)
+* Game Jolt anything (24 hours)
 * ItchIO anything except its main client (1min)
 * Nvidia.Nsight.Systems (〜30min)
 * Panda3DS' nightly builds
