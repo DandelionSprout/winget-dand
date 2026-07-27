@@ -284,13 +284,13 @@
 * Azure VPN Client (Version on appcenterMS has time-expirant installer URLs)
 * BlackBerry Access (≤ 5min)
 * Citrix DeviceTrust Client Extension
-* Cricut Design Space
+* Cricut Design Space (〜60min)
 * Game Jolt anything (I should run tests for how long it takes before they expire.)
 * ItchIO anything except its main client (1min)
-* Nvidia.Nsight.Systems
+* Nvidia.Nsight.Systems (〜30min)
 * Panda3DS' nightly builds
 * Realtek anything (5min)
-* Splice Instrument
+* Splice Instrument (1min)
 
 ## HTTP "Forbidden" or similar:
 * AmpliTube
