@@ -361,6 +361,7 @@
 * zlib
 * Microsoft.OnnxRuntime
 * Atola MultiDrive WinPE
+* Enhanced-GPU-PV
 
 ## Ruled out from "Project Portable MSIX-s" due to internal EXE-s not launching:
 * DavidSungaila.SUBSTitute
