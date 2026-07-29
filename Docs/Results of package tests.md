@@ -199,6 +199,7 @@
 * Microsoft.SimpleRemote (Pretty much just one big vulnerability + Depends on another and unknown app)
 * Mozilla.Firefox.EMEfree (The app is completely pointless)
 * ASUS XG-C100C 10G Adapter Driver (Is an older version of `aqnic650.inf`)
+* McAfee Safe Connect (Will allegedly be shut down in mid-August 2026)
 
 ## App doesn't work or is incomprehensible:
 * `https://github.com/dekotan24/iwara-downloader`
@@ -398,3 +399,4 @@
 * GNU Unifont (One of the top 5 ugliest fonts I've ever seen)
 * Segoe UI Variable (The newest version is 2.03, but `https://learn.microsoft.com/en-us/windows/apps/design/downloads/` only offers 2.02)
 * LibRetro Ludo (Ugly logo)
+* Meld Spark Plugin for OBS (I'm too old for Aİ-functions-only stuff)
