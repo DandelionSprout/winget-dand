@@ -120,6 +120,7 @@
 * ♫ MSI NBFoundation Service (The installer at https://github.com/xchwarze/msi is clearly unofficial)
 * Norton anything (No easily apparent installer URLs, and I can't be bothered to look deeper into URLs since it's Norton)
 * ASUS Armoury Crate SE Service (No known installer URLs; the "Armoury Crate SE Installer" just installs the regular Armoury Crate)
+* Scoop (No known installer URLs)
 
 ## Can't be silently installed:
 * `https://www•mousemux•com/files/mousemux-v2-installer.exe`
