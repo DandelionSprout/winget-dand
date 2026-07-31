@@ -112,7 +112,7 @@
 * ♪ Microsoft Visual C++ 2012/2013 Redistributable Arm32 (Incompatibility of the ARM64 pipelines)
 * ♪ Microsoft.vcpkg (Post-installation requires a separate vcpkg-root app)
 * ♪ MozillaBuild (Not all that useful, since end-users must still build the post-installation files on their own)
-* ♫ irzyxa.Volume2 (Can't be consistently silently installed: On some PCs throws "DAMAGE: after Normal block (#56) at 0x02CE1860")
+* irzyxa.Volume2 (The 2025 x64 builds throw "DAMAGE: after Normal block (#56) at 0x02CE1860" errors; see https://github.com/irzyxa/Volume2/issues/383)
 * ♫ Microsoft.AccessibilityInsights (Its dev was pissy about it as of 2023)
 * ♫ puhitaku.mtplvcap (Requires a Nikon DSLR device to run properly)
 * ♫ WinDump (Has Npcap as dependency)
