@@ -185,7 +185,6 @@
 * Jigsaw.Outline (Driver install prompt that can only be closed manually)
 * IsaoMaruoka.Pixia (Silent installation fails with error 4294967292)
 * Microsoft Office Subject Interface Packages for Digitally Signing VBA Projects / Sips (Gets stuck on the final prompt, "Files extracted successfully.")
-* Klarna Desktop App (Considers its login screen to be part of the installation process)
 * Locale Emulator
 * Motorola Software Fix (Driver install prompt that can only be closed manually)
 * HP Connection Optimizer (No apparent silent switches)
@@ -202,6 +201,7 @@
 * McAfee Safe Connect (Will allegedly be shut down in mid-August 2026)
 * ASUS PCE-BE6500 Bluetooth Driver (Is an older version of `mtkbtfilter.inf`, a.k.a. MediaTek Bluetooth Adapter)
 * ASUS PCE-BE6500 Tri-band PCIe WiFi Adapter (Is an older version of `mtkwecx.inf`, a.k.a. MediaTek Wi-Fi 7 MT7925 Wireless LAN Card #6)
+* Klarna Desktop App (Turned out to be such a successful phish that I myself nearly fell for it. Those guys were pros.)
 
 ## App doesn't work or is incomprehensible:
 * `https://github.com/dekotan24/iwara-downloader`
