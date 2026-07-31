@@ -201,6 +201,7 @@
 * ASUS XG-C100C 10G Adapter Driver (Is an older version of `aqnic650.inf`)
 * McAfee Safe Connect (Will allegedly be shut down in mid-August 2026)
 * ASUS PCE-BE6500 Bluetooth Driver (Is an older version of `mtkbtfilter.inf`, a.k.a. MediaTek Bluetooth Adapter)
+* ASUS PCE-BE6500 Tri-band PCIe WiFi Adapter (Is an older version of `mtkwecx.inf`, a.k.a. MediaTek Wi-Fi 7 MT7925 Wireless LAN Card #6)
 
 ## App doesn't work or is incomprehensible:
 * `https://github.com/dekotan24/iwara-downloader`
