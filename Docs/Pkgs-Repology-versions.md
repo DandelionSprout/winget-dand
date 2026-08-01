@@ -26,6 +26,8 @@ To tell when update requests to pkgs should be made.
 
 **melonDS**: [![latest packaged version(s)](https://repology.org/badge/latest-versions/melonds.svg?header=Repology)](https://repology.org/project/melonds/versions) versus ![Winget](https://img.shields.io/winget/v/melonDS.melonDS?style=flat-square)
 
+**OBS Studio**: [![latest packaged version(s)](https://repology.org/badge/latest-versions/obs-studio.svg?header=Repology)](https://repology.org/project/obs-studio/versions) versus ![Winget](https://img.shields.io/winget/v/OBSProject.OBSStudio?style=flat-square)
+
 **NTP**: [![latest packaged version(s)](https://repology.org/badge/latest-versions/ntp.svg?header=Repology)](https://repology.org/project/ntp/versions) versus ![Winget](https://img.shields.io/winget/v/MeinbergGlobal.NTP?style=flat-square)
 
 **PeaZip:** [![latest packaged version(s)](https://repology.org/badge/latest-versions/peazip.svg?header=Repology)](https://repology.org/project/peazip/versions) versus ![Winget](https://img.shields.io/winget/v/Giorgiotani.Peazip?style=flat-square)
