@@ -217,13 +217,13 @@
 * lixkote PRIExplorer ("This application could not be started")
 * Microsoft GDI+ Detection Tool
 * Microsoft Office 365 Centralized Deployment Checker
-* Microsoft ROS / Robot Operating System (Completely incomprehensible how it works)
+* ♫ Microsoft ROS / Robot Operating System (Completely incomprehensible how it works)
 * Microsoft SQLToolsService Migration
 * Microsoft Update Health Tools
 * Microsoft.Azure.WindowsVMAgent
 * Microsoft.Delprof
 * Microsoft.legacyapp
-* Microsoft.PhyloD (App's purpose and commands are incomprehensible)
+* ♫ Microsoft.PhyloD (App's purpose and commands are incomprehensible)
 * Microsoft.settingchange
 * Microsoft.SystemCenterManagement(...)
 * Microsoft.Teams.NetworkAssessmentTool
