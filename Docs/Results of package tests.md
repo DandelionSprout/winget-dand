@@ -237,6 +237,7 @@
 * WeatherWise
 * winget-new-repos DanielTaufiq
 * UniGetUI Widgets (Compatibility removed in newer UniGetUI versions; see `https://github.com/Devolutions/UniGetUI/issues/4798`)
+* Egyptology Extended
 
 ## All sorts of certificate errors:
 * 2fast (ZIP)
