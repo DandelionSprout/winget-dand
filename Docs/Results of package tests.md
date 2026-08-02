@@ -388,6 +388,10 @@
 * Moeary.IwaraTool (False positive malware detections by at least 2 companies)
 * łzbench (A likely false positive detection by ESET)
 
+## Will likely work, but Wingetcreate throws "Failed to parse the package from" and I'm tired:
+* BabelPad
+* BabelMap
+
 ## I cannot in good spirit add these due to my personal conscience, but I wouldn't stop others from adding them:
 * Microsoft.Services.Store.Engagement (I'm in the adblocking community for a reason)
 * Microsoft.Advertising.Xaml (Same reason)
