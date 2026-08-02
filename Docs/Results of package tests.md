@@ -149,7 +149,6 @@
 * Genshin Impact / MiHoYo / HoYoPlay / Cognosphere
 * Google WebP codec
 * GPL / Artifex Software Ghostscript (The portable ZIPs may or may not work better)
-* HP Support Assistant
 * HP Universal Printer Driver / Universal Printing
 * InstallForge
 * Intel Memory and Storage Tool CLI
