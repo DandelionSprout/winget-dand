@@ -11,7 +11,6 @@ This list aims to cover apps that are either pre-installed on fresh OS installs,
 | Cross Device Experience Host | winget install 9NTXGKQ8P7N0 --force
 | Dansk lokal grænsefladepakke | winget install 9NDMT2VKSNL1 --force
 | Deutsch Local Experience Pack | winget install 9P6CT0SLW589 --force
-| Deutsch Local Experience Pack | winget install 9P6CT0SLW589 --force
 | Dolby Access | winget install 9N0866FS04W8 --force
 | Dolby Digital Plus decoder for PC OEMs | winget install 9NVJQJBDKN97 --force
 | DTS Sound Unbound | winget install 9PJ0NKL8MCSJ --force
@@ -20,7 +19,7 @@ This list aims to cover apps that are either pre-installed on fresh OS installs,
 | English (United States) Local Experience Pack | winget install 9PDSCC711RVF --force
 | Facebook | winget install 9WZDNCRFJ2WL --force
 | Feedback Hub | winget install 9NBLGGH4R32N --force
-| Film og TV | winget install 9WZDNCRFJ3P2 --force
+| Films & TV | winget install 9WZDNCRFJ3P2 --force
 | Fresh Paint | winget install 9WZDNCRFJB13 --force
 | Gaeilge Paca Eispéiris Logánta | winget install 9P0L5Q848KXT --force
 | Get Help | winget install 9PKDZBMV1H3T --force
@@ -29,7 +28,6 @@ This list aims to cover apps that are either pre-installed on fresh OS installs,
 | Instagram | winget install 9NBLGGH5L9XT --force
 | JPEG XL Image Extension | winget install 9MZPRTH5C0TB --force
 | Local Experience Pack para Português (Portugal) | winget install 9P7X8QJ7FL0X --force
-| Local Experience-pakket voor Nederlands | winget install 9PF1C9NB5PRV --force
 | Local Experience-pakket voor Nederlands | winget install 9PF1C9NB5PRV --force
 | Lokaliserat gränssnittspaket för svenska | winget install 9P0HSNX08177 --force
 | Microsoft Bing | winget install 9NZBF4GT040C --force
@@ -57,7 +55,6 @@ This list aims to cover apps that are either pre-installed on fresh OS installs,
 | Norsk (bokmål) lokal grensesnittpakke | winget install 9N6J0M5DHCK0 --force
 | Norsk (nynorsk) lokal grensesnittpakke | winget install 9PK7KM3Z06KH --force
 | NVIDIA Control Panel | winget install 9NF8H0H7WMLT --force
-| Outlook for Windows | winget install 9NRX63209R7B --force
 | Pack para sa Lokal na Karanasan sa Filipino | winget install 9NWM2KGTDSSS --force
 | Pacote de Experiência Local em Português (Brasil) | winget install 9P8LBDM4FW35 --force
 | Paint (MS Paint) | winget install 9PCFS5B6T72H --force
