@@ -295,6 +295,7 @@
 * Panda3DS' nightly builds
 * Realtek anything (5min)
 * Splice Instrument (1min)
+* McAfee WebAdvisor (3〜6 days)
 
 ## HTTP "Forbidden" or similar:
 * AmpliTube
