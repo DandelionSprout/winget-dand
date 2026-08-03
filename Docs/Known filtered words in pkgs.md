@@ -12,3 +12,4 @@ The list below is case-insensitive unless specified otherwise.
 * corn (as seen in "corner")
 * " Claude "
 * scraping
+* exploitation
