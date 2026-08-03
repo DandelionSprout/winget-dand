@@ -10,8 +10,9 @@ The list below is case-insensitive unless specified otherwise.
 * explicit
 * ASS (Case-sensitive?)
 * corn (as seen in "corner")
-* " Claude "
+* " Claude" (word-wrapped)
 * scraping
 * exploitation
 * " HP " (unconfirmed)
 * " cp" (word-wrapped)
+* Fortis
