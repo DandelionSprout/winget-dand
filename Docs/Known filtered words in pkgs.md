@@ -7,4 +7,4 @@ The list below is case-insensitive.
 * norton
 * mcafee
 * " eset"
-* explicit (Unconfirmed)
+* explicit
