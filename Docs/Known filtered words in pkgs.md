@@ -2,17 +2,17 @@ Their pipelines' text pattern detectors are legendarily broken.
 
 The list below is case-insensitive unless specified otherwise.
 
-* bank
-* credit card
-* norton
-* mcafee
-* " eset"
-* explicit
 * ASS (Case-sensitive?)
+* bank
 * corn (as seen in "corner")
-* " Claude" (word-wrapped)
-* scraping
+* credit card
+* explicit
 * exploitation
-* " HP " (unconfirmed)
-* " cp" (word-wrapped)
 * Fortis
+* mcafee
+* norton
+* scraping
+* " Claude" (word-wrapped)
+* " cp" (word-wrapped)
+* " eset"
+* " HP " (unconfirmed)
