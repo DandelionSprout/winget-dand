@@ -14,3 +14,4 @@ The list below is case-insensitive unless specified otherwise.
 * scraping
 * exploitation
 * " HP " (unconfirmed)
+* " cp" (word-wrapped)
