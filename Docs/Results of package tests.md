@@ -188,6 +188,8 @@
 * Locale Emulator
 * Motorola Software Fix (Driver install prompt that can only be closed manually)
 * HP Connection Optimizer (No apparent silent switches)
+* VB-CABLE Virtual Audio Device (No apparent silent switches)
+* Virtual AC3 Decoder (Has VB-CABLE Virtual Audio Device as a dependency)
 
 ## App is pointless:
 * VLC FreeSans font (Pointless due to it being a singular GNU-available font)
