@@ -5,7 +5,7 @@
 * "Overføringsverktøy for brukere (veiviser for overføring av innstillinger)" (Missing OCMANAGE.dll)
 * `https://catalog.update.microsoft.com/Search.aspx?q=kb5007651` (Fails to install)
 * `https://github.com/shorthorn-project/One-Core-API-Binaries/releases` (Very unusual type of self-extracting file)
-* `https://winget•tplant•com•au/cache/source(2)•msix` / WingetPkgsSource / winget-font (All but `winget-font` are updated upstream too often. Installing the source MSIX, does not actually add it as a source repo. And the pkgs pipelines can't handle it either; see `https://github.com/microsoft/winget-pkgs/issues/400253`)
+* `https://winget•tplant•com•au/cache/source(2)•msix` / WingetPkgsSource / winget-font (All but `winget-font` are updated upstream too often. Installing the source MSIX, does not actually add it as a source repo. The pkgs pipelines can't handle it either; see `https://github.com/microsoft/winget-pkgs/issues/400253`. And `winget-font` is in essence dead; see `https://github.com/pl4nty/winget-extras/pull/746`)
 * AdtServer.msi (Requires Windows Server)
 * AMD Chipset Drivers (Almost certainly "InternetOpenUrl() failed.")
 * AMD Cleanup Utility ("InternetOpenUrl() failed.")
