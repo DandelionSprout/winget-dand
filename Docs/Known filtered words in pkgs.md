@@ -11,3 +11,4 @@ The list below is case-insensitive unless specified otherwise.
 * ASS (Case-sensitive?)
 * corn (unconfirmed)
 * " Claude "
+* scraping
