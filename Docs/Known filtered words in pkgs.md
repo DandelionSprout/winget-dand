@@ -13,3 +13,4 @@ The list below is case-insensitive unless specified otherwise.
 * " Claude "
 * scraping
 * exploitation
+* " HP " (unconfirmed)
