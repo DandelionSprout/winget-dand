@@ -10,3 +10,4 @@ The list below is case-insensitive unless specified otherwise.
 * explicit
 * ASS (Case-sensitive?)
 * corn (unconfirmed)
+* " Claude "
