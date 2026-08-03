@@ -9,6 +9,6 @@ The list below is case-insensitive unless specified otherwise.
 * " eset"
 * explicit
 * ASS (Case-sensitive?)
-* corn (unconfirmed)
+* corn (as seen in "corner")
 * " Claude "
 * scraping
