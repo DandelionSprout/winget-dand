@@ -1,6 +1,6 @@
 Their pipelines' text pattern detectors are legendarily broken.
 
-The list below is case-insensitive.
+The list below is case-insensitive unless specified otherwise.
 
 * bank
 * credit card
@@ -8,3 +8,5 @@ The list below is case-insensitive.
 * mcafee
 * " eset"
 * explicit
+* ASS (Case-sensitive?)
+* corn (unconfirmed)
