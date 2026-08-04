@@ -27,6 +27,7 @@
 * FS-UAE (Requires manual folder moves)
 * GNU.APL (Missing "cyggcc_s-1.dll")
 * Intel Fortran Compiler (Unresponsive veto-rights responsible)
+* IwaraTool (Comically large amounts of malware engine detections)
 * jklewa.ATVDesktopRemote (Requires Python 3)
 * KB9114440 Network Diagnosis ("Not enough memory resources available (...)")
 * Lenovo Dolby Vision Provisioning Kit (Unable to confirm if the package works or not.)
@@ -386,7 +387,6 @@
 * Bioruebe.UniExtract2 (False positive malware detection by Sophos)
 * ♪ Bol-van's builds of Zapret2 (Avira/Avast false positives; https://github.com/microsoft/winget-pkgs/pull/375864#issuecomment-4477591311)
 * Dinger.RDHost (ESET false positive)
-* Moeary.IwaraTool (False positive malware detections by at least 2 companies)
 * łzbench (A likely false positive detection by ESET)
 
 ## Will likely work, but Wingetcreate throws "Failed to parse the package from" and I'm tired:
