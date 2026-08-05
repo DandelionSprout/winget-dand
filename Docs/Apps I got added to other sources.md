@@ -1,92 +1,92 @@
 An incomplete list of packages that I myself remember as that I was the one that first added them. The list should not be considered an authoritative source of citable accuracy. Focuses on pkgs to begin with.
 
-IgorPavlov.7-max
-7zip.7zr
-bsharper.ATVDesktopRemote
-WikimediaProject.AutoWikiBrowser
-Porzeraklon.BlackJackCLI
-PredatH0r.ChanSort
-ToastyX.CustomResolutionUtility
-Cygwin.CygwinSetup
-Asus.DisplayWidgetCenter
-Utopia.Eden.MSVC
-Utopia.Eden.PGO
-EKA2L1.EKA2L1
-EpicGames.EpicOnlineServices
-VovSoft.ExecutableBitScanner
-amrali-eg.EncodingChecker
-LesFerch.FolderThumbnailFix
-SoftwareOK.FontViewOK
-LarryESmith.FreeNFS
-Futuremark.FuturemarkSystemInfo
-Kensington.FingerprintApplication
-KDE.(...).AppX
-LargeAddressAware.laa
-gonwan.M3U8-Downloader
-Timthreetwelve.GetMyIP
-Aida-Enna.GamebarHandler
-Mozilla.Firefox.Beta.MSIX
-NASS.NTPSync
-HomeDev.PatchCleanerPortable
-JonasJohn.RED.Beta
-MAMEdev.MAME
-ghostersk.ftp-server-gui
-benbaker76.SimpleHIDWrite3
-CrystalIDEASoftware.Speedyfox
-MasujiSUTO.StereoPhotoMaker
-TeamGroup.SMARTTool
-GlennDelahoy.SnappyDriverInstallerOrigin.BackupDrivers
-ShaulEizikovich.vJoyDeviceDriver
-waar19.WindowsAIRemovalTool
-Maxprograms.TMXValidator
-spaam.svtplay-dl
-Benisgo.Symbolic11
-epigramx.WiimoteHook
-rix0rrr.WindowsPathEditor
-TomasRudh.WinSize4
-TukaaniProject.XZUtils
-Zint.Zint
-Microsoft.365Copilot
-Microsoft.ADMPHO
-Microsoft.Azure.Az
-Microsoft.Azure.ArcSetup
-Microsoft.CsWinRT
-Microsoft.SafetyScanner
-Microsoft.DirectXTex.(...)
-Microsoft.DotNet.CodeContracts
-Microsoft.DotNet.Framework.Runtime
-Microsoft.DirectX.UVAtlas
-Microsoft.DotNet.RepairTool
-Microsoft.DotNet.dotnet-ef
-Microsoft.Firewire1394LegacyDriver
-Microsoft.Gaming.GDK.XboxGamePackageManager
-Microsoft.HIDTools.Waratah
-Microsoft.IIS.URLRewrite
-Microsoft.MIDI.FeatureEnablementChecker
-Microsoft.MIDI.SDK
-Microsoft.MUTT
-Microsoft.MakeBingYourSearchEngine
-Microsoft.MaliciousSoftwareRemovalTool
-Microsoft.OneLakeFileExplorer
-Microsoft.OpenCLGLVulkanCompatibilityPack
-Microsoft.OneNoteDiagnostics
-Microsoft.PICT
-Microsoft.PrintMetadataTroubleshooter
-Microsoft.SaRACmd
-Microsoft.SurfaceApp
-Microsoft.SurfaceHubRecoveryTool
-Microsoft.VisualStudio.SlnGen
-Microsoft.WindowsMIDIServicesSDK
-Microsoft.eBPFforWindows
-Microsoft.winui-search
-Mozilla.XULRunner
-Mozilla.jsshell
-Mozilla.llamafile
-Mozilla.mozregression
-Mozilla.opus-tools
-Mozilla.sccache
-Mozilla.Flowstate
-Mozilla.Nimbus.(...)
-Mozilla.ProfileManager
-Mozilla.Firefox.Unbranded.Beta
-Mozilla.CrashFirefoxIntentionally
+* 7zip.7zr
+* Aida-Enna.GamebarHandler
+* amrali-eg.EncodingChecker
+* Asus.DisplayWidgetCenter
+* benbaker76.SimpleHIDWrite3
+* Benisgo.Symbolic11
+* bsharper.ATVDesktopRemote
+* CrystalIDEASoftware.Speedyfox
+* Cygwin.CygwinSetup
+* EKA2L1.EKA2L1
+* EpicGames.EpicOnlineServices
+* epigramx.WiimoteHook
+* Futuremark.FuturemarkSystemInfo
+* ghostersk.ftp-server-gui
+* GlennDelahoy.SnappyDriverInstallerOrigin.BackupDrivers
+* gonwan.M3U8-Downloader
+* HomeDev.PatchCleanerPortable
+* IgorPavlov.7-max
+* JonasJohn.RED.Beta
+* KDE.(...).AppX
+* Kensington.FingerprintApplication
+* LargeAddressAware.laa
+* LarryESmith.FreeNFS
+* LesFerch.FolderThumbnailFix
+* MAMEdev.MAME
+* MasujiSUTO.StereoPhotoMaker
+* Maxprograms.TMXValidator
+* Microsoft.365Copilot
+* Microsoft.ADMPHO
+* Microsoft.Azure.ArcSetup
+* Microsoft.Azure.Az
+* Microsoft.CsWinRT
+* Microsoft.DirectX.UVAtlas
+* Microsoft.DirectXTex.(...)
+* Microsoft.DotNet.CodeContracts
+* Microsoft.DotNet.dotnet-ef
+* Microsoft.DotNet.Framework.Runtime
+* Microsoft.DotNet.RepairTool
+* Microsoft.eBPFforWindows
+* Microsoft.Firewire1394LegacyDriver
+* Microsoft.Gaming.GDK.XboxGamePackageManager
+* Microsoft.HIDTools.Waratah
+* Microsoft.IIS.URLRewrite
+* Microsoft.MakeBingYourSearchEngine
+* Microsoft.MaliciousSoftwareRemovalTool
+* Microsoft.MIDI.FeatureEnablementChecker
+* Microsoft.MIDI.SDK
+* Microsoft.MUTT
+* Microsoft.OneLakeFileExplorer
+* Microsoft.OneNoteDiagnostics
+* Microsoft.OpenCLGLVulkanCompatibilityPack
+* Microsoft.PICT
+* Microsoft.PrintMetadataTroubleshooter
+* Microsoft.SafetyScanner
+* Microsoft.SaRACmd
+* Microsoft.SurfaceApp
+* Microsoft.SurfaceHubRecoveryTool
+* Microsoft.VisualStudio.SlnGen
+* Microsoft.WindowsMIDIServicesSDK
+* Microsoft.winui-search
+* Mozilla.CrashFirefoxIntentionally
+* Mozilla.Firefox.Beta.MSIX
+* Mozilla.Firefox.Unbranded.Beta
+* Mozilla.Flowstate
+* Mozilla.jsshell
+* Mozilla.llamafile
+* Mozilla.mozregression
+* Mozilla.Nimbus.(...)
+* Mozilla.opus-tools
+* Mozilla.ProfileManager
+* Mozilla.sccache
+* Mozilla.XULRunner
+* NASS.NTPSync
+* Porzeraklon.BlackJackCLI
+* PredatH0r.ChanSort
+* rix0rrr.WindowsPathEditor
+* ShaulEizikovich.vJoyDeviceDriver
+* SoftwareOK.FontViewOK
+* spaam.svtplay-dl
+* TeamGroup.SMARTTool
+* Timthreetwelve.GetMyIP
+* ToastyX.CustomResolutionUtility
+* TomasRudh.WinSize4
+* TukaaniProject.XZUtils
+* Utopia.Eden.MSVC
+* Utopia.Eden.PGO
+* VovSoft.ExecutableBitScanner
+* waar19.WindowsAIRemovalTool
+* WikimediaProject.AutoWikiBrowser
+* Zint.Zint
