@@ -74,6 +74,7 @@ This list aims to cover apps that are either pre-installed on fresh OS installs,
 | Smart Connect | winget install XP8JRF5SXV03ZM --force
 | SmartThings (Samsung) | winget install 9N3ZBH5V7HX6 --force
 | Snipping Tool | winget install 9MZ95KL8MR0L --force
+| Speech Pack - English (United Kingdom) | winget install 9N3WW61ZJNL7 --force
 | Start Experiences App | winget install 9PC1H9VN18CM --force
 | Videoutvidelse for AVC-koder | winget install 9PB0TRCNRHFX --force
 | VP9 Video Extensions | winget install 9N4D0MSMP0PT --force
@@ -81,13 +82,13 @@ This list aims to cover apps that are either pre-installed on fresh OS installs,
 | WebP Image Extensions | winget install 9PG2DK419DRG --force
 | WhatsApp | winget install 9NKSQGP7F2NH --force
 | Widgets Platform Runtime | winget install 9N3RK8ZV2ZR8 --force
-| WinAppRuntime.Main.1.4 (MSIX version?) | winget install 9NGZV9X04M5Z --force
-| WinAppRuntime.Main.1.5 (MSIX version?) | winget install 9P4839KW4RH6 --force
-| WinAppRuntime.Main.1.6 (MSIX version?) | winget install 9PKPFBF3NHX1 --force
-| WinAppRuntime.Main.1.7 (MSIX version?) | winget install 9N11XWMH52PD --force
-| WinAppRuntime.Main.1.8 (MSIX version?) | winget install 9PLJQ12FQ3CV --force
-| WinAppRuntime.Main.2.0 (MSIX version?) | winget install 9PKMKDMJCV92 --force
-| WinAppRuntime.Singleton | winget install 9P5Z076K079H --force
+| WinAppRuntime.Main.1.4 (MSIX version) | winget install 9NGZV9X04M5Z --force
+| WinAppRuntime.Main.1.5 (MSIX version) | winget install 9P4839KW4RH6 --force
+| WinAppRuntime.Main.1.6 (MSIX version) | winget install 9PKPFBF3NHX1 --force
+| WinAppRuntime.Main.1.7 (MSIX version) | winget install 9N11XWMH52PD --force
+| WinAppRuntime.Main.1.8 (MSIX version) | winget install 9PLJQ12FQ3CV --force
+| WinAppRuntime.Main.2.0 (MSIX version)⁽¹⁾ | winget install 9PKMKDMJCV92 --force
+| WinAppRuntime.Singleton⁽²⁾ | winget install 9P5Z076K079H --force
 | Windows Application Compatibility Enhancements | winget install 9PCSD6N03BKV --force
 | Windows Calculator | winget install 9WZDNCRFHVN5 --force
 | Windows Camera | winget install 9WZDNCRFJBBG --force
@@ -99,7 +100,7 @@ This list aims to cover apps that are either pre-installed on fresh OS installs,
 | Windows Sandbox | winget install 9NSMXC3NB0HN --force
 | Windows Scan | winget install 9WZDNCRFJ3PV --force
 | Windows Taleopptak | winget install 9WZDNCRFHWKN --force
-| Windows Web Experience Pack | winget install 9MSSGKG348SP --force
+| Windows Web Experience Pack / DesktopPackageMetadata | winget install 9MSSGKG348SP --force
 | WinUI 3 Gallery | winget install 9P3JFPWWDZRC --force
 | Xbox Accessories | winget install 9NBLGGH30XJ3 --force
 | Xbox Identity Provider | winget install 9WZDNCRD1HKW --force
@@ -111,6 +112,20 @@ This list aims to cover apps that are either pre-installed on fresh OS installs,
 | తెలుగు స్థానిక అనుభవ ప్యాక్ | winget install 9PMQJJGF63FW --force
 | 日本語 ローカル エクスペリエンス パック | winget install 9N1W692FV4S1 --force
 
+## Apps known or believed to _not_ be registrable
+* Dolby AC-4 decoder for PC OEMs
+* Game Speech Window
+* HEVC-videoutvidelser fra enhetsprodusenten
+* Microsoft Solitaire Collection
+* OneDriveSync (OneDrive stub)
+* Paint.NET
+* reaConverter Context Menu Manager
+* SmartConnectExtInstaller
+* Store Experiences Host / Store Purchase App
+* Windows Security
+
 ## Notes
 * When the list was first made, I lacked time to look up the English names of some of them, so a few currently have their Norwegian names as placeholders.
 * Use `; ` to chain multiple commands together in PowerShell.
+* ⁽¹⁾ = May be added to extras as `Microsoft.WindowsAppRuntime.2.Main.x64` in mid-August 2026 if things go well.
+* ⁽²⁾ = May be added to extras as `Microsoft.WindowsAppRuntime.2.Singleton.x64` in mid-August 2026 if things go well.
