@@ -122,6 +122,7 @@
 * Norton anything (No easily apparent installer URLs, and I can't be bothered to look deeper into URLs since it's Norton)
 * ASUS Armoury Crate SE Service (No known installer URLs; the "Armoury Crate SE Installer" just installs the regular Armoury Crate)
 * Scoop (No known installer URLs)
+* Microsoft Copilot (No known installer URLs; the Edge Beta HoloLens 2 MSIX builds only contain the "Sparse" stub versions of it as far as x64/x86 goes.)
 
 ## Can't be silently installed:
 * `https://www•mousemux•com/files/mousemux-v2-installer.exe`
