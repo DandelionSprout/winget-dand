@@ -7,13 +7,17 @@ This list aims to cover apps that are either pre-installed on fresh OS installs,
 | --- | ------- | --------
 | Afrikaans Plaaslike ervaringpak | winget install 9PDW16B5HMXR --force | Language
 | Apple Devices | winget install 9NP83LWLPZ9K --force | App
+| Arial Nova | winget install 9NS5CT1MZ7M8 --force | Font
 | AV1 Video Extension | winget install 9MVZQVXJBQ9V --force | Runtime
+| AVC Encoder Video Extension | winget install 9PB0TRCNRHFX --force | Runtime
 | Balík pre lokálne prostredie v slovenčine | winget install 9n7lsnn099wb --force | Language
+| Bluetooth Audio Receiver | winget install 9N9WCLWDQS5J --force | App
 | Cross Device Experience Host | winget install 9NTXGKQ8P7N0 --force | Stock
 | Dansk lokal grænsefladepakke | winget install 9NDMT2VKSNL1 --force | Language
 | Deutsch Local Experience Pack | winget install 9P6CT0SLW589 --force | Language
 | Dolby Access | winget install 9N0866FS04W8 --force | App
 | Dolby Digital Plus decoder for PC OEMs | winget install 9NVJQJBDKN97 --force | Runtime
+| Dropbox Lite | winget install 9WZDNCRFJ0PK --force | App
 | DTS Sound Unbound | winget install 9PJ0NKL8MCSJ --force | App
 | Eesti keelde lokaliseeritud kasutajaliidese pakett | winget install 9NFBHFMCR30L --force | Language
 | English (United Kingdom) Local Experience Pack | winget install 9NT52VQ39BVN --force | Language
@@ -24,6 +28,7 @@ This list aims to cover apps that are either pre-installed on fresh OS installs,
 | Films & TV | winget install 9WZDNCRFJ3P2 --force | Stock
 | Fresh Paint | winget install 9WZDNCRFJB13 --force | App
 | Gaeilge Paca Eispéiris Logánta | winget install 9P0L5Q848KXT --force | Language
+| Galaxy Buds | winget install 9NHTLWTKFZNB --force | App
 | Get Help | winget install 9PKDZBMV1H3T --force | Stock
 | Hausa Fakitin Ƙwarewa ta Gida | winget install 9n1l95dbgrg3 --force | Language
 | HEIF Image Extension | winget install 9PMMSR1CGPWG --force | Runtime
@@ -33,13 +38,16 @@ This list aims to cover apps that are either pre-installed on fresh OS installs,
 | IsiZulu Iphakethe Lokuhlangenwe Nakho Kwasendaweni | winget install 9nnrm7kt5nb0 --force | Language
 | JPEG XL Image Extension | winget install 9MZPRTH5C0TB --force | Runtime
 | latviešu lokālā interfeisa pakotne | winget install 9n5cqdph6sqt --force | Language
+| Lenovo Vantage | winget install 9WZDNCRFJ4MV --force | App
 | Local Experience Pack para Português (Portugal) | winget install 9P7X8QJ7FL0X --force | Language
 | Local Experience-pakket voor Nederlands | winget install 9PF1C9NB5PRV --force | Language
 | Lokaliserat gränssnittspaket för svenska | winget install 9P0HSNX08177 --force | Language
 | Lëtzebuergesch Local Experience Pack | winget install 9n0st1wbz9d9 --force | Language
+| Mail and Calendar | winget install 9wzdncrfhvqm --force | Stock
 | Microsoft Bing | winget install 9NZBF4GT040C --force | App
 | Microsoft Clipchamp | winget install 9P1J8S7CCWWT --force | App
 | Microsoft Copilot | winget install XP9CXNGPPJ97XX --force | Stock
+| Microsoft Defender | winget install 9P6PMZTM93LR --force | App
 | Microsoft Designer | winget install 9PJGRCLDLX5V --force | App
 | Microsoft Edge (Pre-installed version?) | winget install XPFFTQ037JWMHS --force | Stock
 | Microsoft Family Safety | winget install 9PDJDJS743XF --force | Stock
@@ -88,7 +96,9 @@ This list aims to cover apps that are either pre-installed on fresh OS installs,
 | Snipping Tool | winget install 9MZ95KL8MR0L --force | Stock
 | Speech Pack - English (United Kingdom) | winget install 9N3WW61ZJNL7 --force | Language
 | Start Experiences App | winget install 9PC1H9VN18CM --force | Stock
-| Videoutvidelse for AVC-koder | winget install 9PB0TRCNRHFX --force | Runtime
+| Threads | winget install 9MXBP1FB84CQ --force | App
+| Thunderbolt Control Center | winget install 9N6F0JV38PH1 --force | App
+| VLC UWP | winget install 9NBLGGH4VVNH --force | App
 | VP9 Video Extensions | winget install 9N4D0MSMP0PT --force | Runtime
 | Web Media Extensions | winget install 9N5TDP8VCMHS --force | Runtime
 | WebP Image Extensions | winget install 9PG2DK419DRG --force | Runtime
@@ -114,6 +124,7 @@ This list aims to cover apps that are either pre-installed on fresh OS installs,
 | Windows Taleopptak | winget install 9WZDNCRFHWKN --force | Stock
 | Windows Web Experience Pack / DesktopPackageMetadata | winget install 9MSSGKG348SP --force | Stock
 | WinUI 3 Gallery | winget install 9P3JFPWWDZRC --force | App
+| WordPress | winget install 9P6T37WH4TR0 --force | App
 | Xbox Accessories | winget install 9NBLGGH30XJ3 --force | Stock
 | Xbox Identity Provider | winget install 9WZDNCRD1HKW --force | Stock
 | Xbox | winget install 9MV0B5HZVK9Z --force | Stock
@@ -130,22 +141,32 @@ This list aims to cover apps that are either pre-installed on fresh OS installs,
 | తెలుగు స్థానిక అనుభవ ప్యాక్ | winget install 9PMQJJGF63FW --force | Language
 | മലയാളം ലോക്കല്‍ അനുഭവം പായ്ക്ക് | winget install 9nwdtv8ffv7l --force | Language
 | ລາວ (ສປປ ລາວ) ຊຸດແພັກເກັດປະສົບການຜູ້ໃຊ້ສະເພາະທີ່ | winget install 9n8x352g5nzv --force | Language
-| 日本語 ローカル エクスペリエンス パック | winget install 9N1W692FV4S1 --force | Language
 | 中文 (繁體) 當地體驗套件 | winget install 9pcj4dhcq1jq --force | Language
+| 日本語 ローカル エクスペリエンス パック | winget install 9N1W692FV4S1 --force | Language
 
 ## Apps known or believed to _not_ be registrable
+* Candy Crush (...)
+* Canon Inkjet Print Utility
 * Dolby AC-4 decoder for PC OEMs
+* Forza Motorsport 6: Apex
 * Game Speech Window
 * HEVC-videoutvidelser fra enhetsprodusenten
+* HP Designjet Print Experience
+* Intel® Graphics Control Panel
+* Intel® WiDi Media Share
+* Los Angeles Times Daily Crossword
 * Microsoft Solitaire Collection
+* Microsoft Windows App Runtime DynamicDependency LifetimeManager
 * OneDriveSync (OneDrive stub)
-* Paint.NET
+* Paint.NET (Microsoft Store version)
+* Print 3D
+* Rayman Jungle Run
 * reaConverter Context Menu Manager
+* SBK16 Official Mobile Game
 * SmartConnectExtInstaller
 * Store Experiences Host / Store Purchase App
 * Windows Security
-* Candy Crush (...)
-* Microsoft Windows App Runtime DynamicDependency LifetimeManager
+* Word Mobile
 
 ## Notes
 * When the list was first made, I lacked time to look up the English names of some of them, so a few currently have their Norwegian names as placeholders.
