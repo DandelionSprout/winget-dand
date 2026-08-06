@@ -151,3 +151,4 @@ This list aims to cover apps that are either pre-installed on fresh OS installs,
 * Use `; ` to chain multiple commands together in PowerShell.
 * ⁽¹⁾ = May be added to extras as `Microsoft.WindowsAppRuntime.2.Main.x64` in mid-August 2026 if things go well.
 * ⁽²⁾ = May be added to extras as `Microsoft.WindowsAppRuntime.2.Singleton.x64` in mid-August 2026 if things go well.
+* Fun fact: If a Microsoft Store app's product code starts with `9`, it is almost certainly either a UWP app or is a regular program wrapped into an MSIX. If it starts with `xp`, it is almost certainly a completely regular program.
