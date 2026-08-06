@@ -124,6 +124,7 @@
 * Scoop (No known installer URLs)
 * Microsoft Copilot (No known installer URLs; the Edge Beta HoloLens 2 MSIX builds only contain the "Sparse" stub versions of it as far as x64/x86 goes.)
 * NinjaOne (No known installer URLs)
+* NVIDIA Texture Tools Exporter (Installer is behind a login wall)
 
 ## Can't be silently installed:
 * `https://www•mousemux•com/files/mousemux-v2-installer.exe`
