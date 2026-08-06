@@ -145,6 +145,7 @@ This list aims to cover apps that are either pre-installed on fresh OS installs,
 * Store Experiences Host / Store Purchase App
 * Windows Security
 * Candy Crush (...)
+* Microsoft Windows App Runtime DynamicDependency LifetimeManager
 
 ## Notes
 * When the list was first made, I lacked time to look up the English names of some of them, so a few currently have their Norwegian names as placeholders.
