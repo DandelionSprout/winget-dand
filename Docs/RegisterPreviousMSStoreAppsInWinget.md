@@ -131,6 +131,7 @@ This list aims to cover apps that are either pre-installed on fresh OS installs,
 | മലയാളം ലോക്കല്‍ അനുഭവം പായ്ക്ക് | winget install 9nwdtv8ffv7l --force | Language
 | ລາວ (ສປປ ລາວ) ຊຸດແພັກເກັດປະສົບການຜູ້ໃຊ້ສະເພາະທີ່ | winget install 9n8x352g5nzv --force | Language
 | 日本語 ローカル エクスペリエンス パック | winget install 9N1W692FV4S1 --force | Language
+| 中文 (繁體) 當地體驗套件 | winget install 9pcj4dhcq1jq --force | Language
 
 ## Apps known or believed to _not_ be registrable
 * Dolby AC-4 decoder for PC OEMs
