@@ -155,6 +155,7 @@ This list aims to cover apps that are either pre-installed on fresh OS installs,
 * Intel® Graphics Control Panel
 * Intel® WiDi Media Share
 * Los Angeles Times Daily Crossword
+* Microsoft Back Up
 * Microsoft Solitaire Collection
 * Microsoft Windows App Runtime DynamicDependency LifetimeManager
 * OneDriveSync (OneDrive stub)
