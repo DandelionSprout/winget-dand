@@ -3,114 +3,134 @@ If you already have a bunch of Microsoft Store-installed apps on your PC but the
 This list aims to cover apps that are either pre-installed on fresh OS installs, or which are unavailable in both `winget(-pkgs)` and `winget-extras`. The rule is however not particularly enforced at the time of writing.
 
 ## List
-| App | Command
-| --- | -------
-| Afrikaans Plaaslike ervaringpak | winget install 9PDW16B5HMXR --force
-| Apple Devices | winget install 9NP83LWLPZ9K --force
-| AV1 Video Extension | winget install 9MVZQVXJBQ9V --force
-| Cross Device Experience Host | winget install 9NTXGKQ8P7N0 --force
-| Dansk lokal grænsefladepakke | winget install 9NDMT2VKSNL1 --force
-| Deutsch Local Experience Pack | winget install 9P6CT0SLW589 --force
-| Dolby Access | winget install 9N0866FS04W8 --force
-| Dolby Digital Plus decoder for PC OEMs | winget install 9NVJQJBDKN97 --force
-| DTS Sound Unbound | winget install 9PJ0NKL8MCSJ --force
-| Eesti keelde lokaliseeritud kasutajaliidese pakett | winget install 9NFBHFMCR30L --force
-| English (United Kingdom) Local Experience Pack | winget install 9NT52VQ39BVN --force
-| English (United States) Local Experience Pack | winget install 9PDSCC711RVF --force
-| Facebook | winget install 9WZDNCRFJ2WL --force
-| Feedback Hub | winget install 9NBLGGH4R32N --force
-| Films & TV | winget install 9WZDNCRFJ3P2 --force
-| Fresh Paint | winget install 9WZDNCRFJB13 --force
-| Gaeilge Paca Eispéiris Logánta | winget install 9P0L5Q848KXT --force
-| Get Help | winget install 9PKDZBMV1H3T --force
-| HEIF Image Extension | winget install 9PMMSR1CGPWG --force
-| iCloud | winget install 9PKTQ5699M62 --force
-| Instagram | winget install 9NBLGGH5L9XT --force
-| JPEG XL Image Extension | winget install 9MZPRTH5C0TB --force
-| Local Experience Pack para Português (Portugal) | winget install 9P7X8QJ7FL0X --force
-| Local Experience-pakket voor Nederlands | winget install 9PF1C9NB5PRV --force
-| Lokaliserat gränssnittspaket för svenska | winget install 9P0HSNX08177 --force
-| Microsoft Bing | winget install 9NZBF4GT040C --force
-| Microsoft Clipchamp | winget install 9P1J8S7CCWWT --force
-| Microsoft Copilot | winget install XP9CXNGPPJ97XX --force
-| Microsoft Designer | winget install 9PJGRCLDLX5V --force
-| Microsoft Edge (Pre-installed version?) | winget install XPFFTQ037JWMHS --force
-| Microsoft Family Safety | winget install 9PDJDJS743XF --force
-| Microsoft Journal | winget install 9N318R854RHH --force
-| Microsoft Loop | winget install 9P1HQ5TQZMGD --force
-| Microsoft Messaging | winget install 9WZDNCRFJBQ6 --force
-| Microsoft News / MSN News | winget install 9WZDNCRFHVFW --force
-| Microsoft Photos | winget install 9WZDNCRFJBH4 --force
-| Microsoft Sticky Notes | winget install 9NBLGGH4QGHW --force
-| Microsoft Store | winget install 9WZDNCRFJBMP --force
-| Microsoft Teams (Pre-installed version) | winget install XP8BT8DW290MPQ --force
-| Microsoft To Do | winget install 9NBLGGH5R558 --force
-| Microsoft Visual Studio Code (User) | winget install XP9KHM4BK9FZ7Q --force
-| Microsoft Whiteboard | winget install 9MSPC6MP8FM4 --force
-| Module d'expérience locale français (Canada) | winget install 9MTP2VP0VL92 --force
-| Module d'expérience locale français (France) | winget install 9NHMG4BJKMDG --force
-| MPEG-2 Video Extension | winget install 9N95Q1ZZPMH4 --force
-| MSN Weather | winget install 9WZDNCRFJ3Q2 --force
-| Netflix | winget install 9WZDNCRFJ3TJ --force
-| Norsk (bokmål) lokal grensesnittpakke | winget install 9N6J0M5DHCK0 --force
-| Norsk (nynorsk) lokal grensesnittpakke | winget install 9PK7KM3Z06KH --force
-| NVIDIA Control Panel | winget install 9NF8H0H7WMLT --force
-| Pack para sa Lokal na Karanasan sa Filipino | winget install 9NWM2KGTDSSS --force
-| Pacote de Experiência Local em Português (Brasil) | winget install 9P8LBDM4FW35 --force
-| Paint (MS Paint) | winget install 9PCFS5B6T72H --force
-| Paket za lokalni interfejs za srpski | winget install 9NBZ0SJDPPVT --force
-| Paketa e përvojës lokale në shqip | winget install 9MWLRGNMDGK7 --force
-| Pakki með staðfærðu notendaviðmóti fyrir íslensku | winget install 9NTHJR7TQXX1 --force
-| Phone Link | winget install 9NMPJ99VJBWV --force
-| Power Automate | winget install 9NFTCH6J7FHV --force
-| Quick Assist | winget install 9P7BP5VNWKX5 --force
-| Quick Share (Samsung) | winget install 9PCTGDFXVZLJ --force
-| Raw Image Extension | winget install 9NCTDW2W1BH8 --force
-| Realtek Audio Control | winget install 9P2B8MCSVPLN --force
-| Samsung Cloud | winget install 9NFWHCHM52HQ --force
-| Samsung Devices | winget install 9P98T77876KZ --force
-| Samsung Find | winget install 9MWD59CZJ1RN --force
-| Samsung Gallery | winget install 9NBLGGH4N9R9 --force
-| Smart Connect | winget install XP8JRF5SXV03ZM --force
-| SmartThings (Samsung) | winget install 9N3ZBH5V7HX6 --force
-| Snipping Tool | winget install 9MZ95KL8MR0L --force
-| Speech Pack - English (United Kingdom) | winget install 9N3WW61ZJNL7 --force
-| Start Experiences App | winget install 9PC1H9VN18CM --force
-| Videoutvidelse for AVC-koder | winget install 9PB0TRCNRHFX --force
-| VP9 Video Extensions | winget install 9N4D0MSMP0PT --force
-| Web Media Extensions | winget install 9N5TDP8VCMHS --force
-| WebP Image Extensions | winget install 9PG2DK419DRG --force
-| WhatsApp | winget install 9NKSQGP7F2NH --force
-| Widgets Platform Runtime | winget install 9N3RK8ZV2ZR8 --force
-| WinAppRuntime.Main.1.4 (MSIX version) | winget install 9NGZV9X04M5Z --force
-| WinAppRuntime.Main.1.5 (MSIX version) | winget install 9P4839KW4RH6 --force
-| WinAppRuntime.Main.1.6 (MSIX version) | winget install 9PKPFBF3NHX1 --force
-| WinAppRuntime.Main.1.7 (MSIX version) | winget install 9N11XWMH52PD --force
-| WinAppRuntime.Main.1.8 (MSIX version) | winget install 9PLJQ12FQ3CV --force
-| WinAppRuntime.Main.2.0 (MSIX version)⁽¹⁾ | winget install 9PKMKDMJCV92 --force
-| WinAppRuntime.Singleton⁽²⁾ | winget install 9P5Z076K079H --force
-| Windows Application Compatibility Enhancements | winget install 9PCSD6N03BKV --force
-| Windows Calculator | winget install 9WZDNCRFHVN5 --force
-| Windows Camera | winget install 9WZDNCRFJBBG --force
-| Windows Clock | winget install 9WZDNCRFJ3PR --force
-| Windows Community Toolkit Gallery | winget install 9NBLGGH4TLCQ --force
-| Windows HDR Calibration | winget install 9N7F2SM5D1LR --force
-| Windows Media Player (Modern) | winget install 9WZDNCRFJ3PT --force
-| Windows Notepad | winget install 9MSMLRH6LZF3 --force
-| Windows Sandbox | winget install 9NSMXC3NB0HN --force
-| Windows Scan | winget install 9WZDNCRFJ3PV --force
-| Windows Taleopptak | winget install 9WZDNCRFHWKN --force
-| Windows Web Experience Pack / DesktopPackageMetadata | winget install 9MSSGKG348SP --force
-| WinUI 3 Gallery | winget install 9P3JFPWWDZRC --force
-| Xbox Accessories | winget install 9NBLGGH30XJ3 --force
-| Xbox Identity Provider | winget install 9WZDNCRD1HKW --force
-| Xbox | winget install 9MV0B5HZVK9Z --force
-| Ελληνικά - Πακέτο τοπικά προσαρμοσμένης εμπειρίας | winget install 9N586B13PBLD --force
-| Пакет локалізації інтерфейсу на українській мові | winget install 9PPPMZRSGHR8 --force
-| Қазақ Локализацияланған интерфейс бумасы | winget install 9PHV179R97LV --force
-| हिन्दी स्थानीय अनुभव पैक | winget install 9NZC3GRX8LD3 --force
-| తెలుగు స్థానిక అనుభవ ప్యాక్ | winget install 9PMQJJGF63FW --force
-| 日本語 ローカル エクスペリエンス パック | winget install 9N1W692FV4S1 --force
+| App | Command | Category
+| --- | ------- | --------
+| Afrikaans Plaaslike ervaringpak | winget install 9PDW16B5HMXR --force | Language
+| Apple Devices | winget install 9NP83LWLPZ9K --force | App
+| AV1 Video Extension | winget install 9MVZQVXJBQ9V --force | Runtime
+| Balík pre lokálne prostredie v slovenčine | winget install 9n7lsnn099wb --force | Language
+| Cross Device Experience Host | winget install 9NTXGKQ8P7N0 --force | Stock
+| Dansk lokal grænsefladepakke | winget install 9NDMT2VKSNL1 --force | Language
+| Deutsch Local Experience Pack | winget install 9P6CT0SLW589 --force | Language
+| Dolby Access | winget install 9N0866FS04W8 --force | App
+| Dolby Digital Plus decoder for PC OEMs | winget install 9NVJQJBDKN97 --force | Runtime
+| DTS Sound Unbound | winget install 9PJ0NKL8MCSJ --force | App
+| Eesti keelde lokaliseeritud kasutajaliidese pakett | winget install 9NFBHFMCR30L --force | Language
+| English (United Kingdom) Local Experience Pack | winget install 9NT52VQ39BVN --force | Language
+| English (United States) Local Experience Pack | winget install 9PDSCC711RVF --force | Language / Stock
+| Esperientzia lokalaren paketea euskaraz | winget install 9nmchqhz37hz --force | Language
+| Facebook | winget install 9WZDNCRFJ2WL --force | App
+| Feedback Hub | winget install 9NBLGGH4R32N --force | Stock
+| Films & TV | winget install 9WZDNCRFJ3P2 --force | Stock
+| Fresh Paint | winget install 9WZDNCRFJB13 --force | App
+| Gaeilge Paca Eispéiris Logánta | winget install 9P0L5Q848KXT --force | Language
+| Get Help | winget install 9PKDZBMV1H3T --force | Stock
+| Hausa Fakitin Ƙwarewa ta Gida | winget install 9n1l95dbgrg3 --force | Language
+| HEIF Image Extension | winget install 9PMMSR1CGPWG --force | Runtime
+| iCloud | winget install 9PKTQ5699M62 --force | App
+| Ikinyarwanda - Local Experience Pack | winget install 9nfw0m20h9wg --force | Language
+| Instagram | winget install 9NBLGGH5L9XT --force | App
+| IsiZulu Iphakethe Lokuhlangenwe Nakho Kwasendaweni | winget install 9nnrm7kt5nb0 --force | Language
+| JPEG XL Image Extension | winget install 9MZPRTH5C0TB --force | Runtime
+| latviešu lokālā interfeisa pakotne | winget install 9n5cqdph6sqt --force | Language
+| Local Experience Pack para Português (Portugal) | winget install 9P7X8QJ7FL0X --force | Language
+| Local Experience-pakket voor Nederlands | winget install 9PF1C9NB5PRV --force | Language
+| Lokaliserat gränssnittspaket för svenska | winget install 9P0HSNX08177 --force | Language
+| Lëtzebuergesch Local Experience Pack | winget install 9n0st1wbz9d9 --force | Language
+| Microsoft Bing | winget install 9NZBF4GT040C --force | App
+| Microsoft Clipchamp | winget install 9P1J8S7CCWWT --force | App
+| Microsoft Copilot | winget install XP9CXNGPPJ97XX --force | Stock
+| Microsoft Designer | winget install 9PJGRCLDLX5V --force | App
+| Microsoft Edge (Pre-installed version?) | winget install XPFFTQ037JWMHS --force | Stock
+| Microsoft Family Safety | winget install 9PDJDJS743XF --force | Stock
+| Microsoft Journal | winget install 9N318R854RHH --force | App
+| Microsoft Loop | winget install 9P1HQ5TQZMGD --force | App
+| Microsoft Messaging | winget install 9WZDNCRFJBQ6 --force | App
+| Microsoft News / MSN News | winget install 9WZDNCRFHVFW --force | Stock
+| Microsoft Photos | winget install 9WZDNCRFJBH4 --force | Stock
+| Microsoft Sticky Notes | winget install 9NBLGGH4QGHW --force | Stock
+| Microsoft Store | winget install 9WZDNCRFJBMP --force | Stock
+| Microsoft Teams (Pre-installed version) | winget install XP8BT8DW290MPQ --force | Stock
+| Microsoft To Do | winget install 9NBLGGH5R558 --force | Stock
+| Microsoft Visual Studio Code (User) | winget install XP9KHM4BK9FZ7Q --force | App
+| Microsoft Whiteboard | winget install 9MSPC6MP8FM4 --force | App
+| Module d'expérience locale français (Canada) | winget install 9MTP2VP0VL92 --force | Language
+| Module d'expérience locale français (France) | winget install 9NHMG4BJKMDG --force | Language
+| MPEG-2 Video Extension | winget install 9N95Q1ZZPMH4 --force | Runtime
+| MSN Weather | winget install 9WZDNCRFJ3Q2 --force | Stock
+| Netflix | winget install 9WZDNCRFJ3TJ --force | App
+| Norsk (bokmål) lokal grensesnittpakke | winget install 9N6J0M5DHCK0 --force | Language
+| Norsk (nynorsk) lokal grensesnittpakke | winget install 9PK7KM3Z06KH --force | Language
+| NVIDIA Control Panel | winget install 9NF8H0H7WMLT --force | App
+| Pack para sa Lokal na Karanasan sa Filipino | winget install 9NWM2KGTDSSS --force | Language
+| Pacote de Experiência Local em Português (Brasil) | winget install 9P8LBDM4FW35 --force | Language
+| Paint (MS Paint) | winget install 9PCFS5B6T72H --force | App
+| Paket za lokalni interfejs za bosanski | winget install 9mvfklj10mfl --force | Language
+| Paket za lokalni interfejs za srpski | winget install 9NBZ0SJDPPVT --force | Language
+| Paketa e përvojës lokale në shqip | winget install 9MWLRGNMDGK7 --force | Language
+| Pakkett tal-Esperjenza Lokali Malti | winget install 9pdg96sq6bn8 --force | Language
+| Pakki með staðfærðu notendaviðmóti fyrir íslensku | winget install 9NTHJR7TQXX1 --force | Language
+| Phone Link | winget install 9NMPJ99VJBWV --force | Stock
+| Power Automate | winget install 9NFTCH6J7FHV --force | App
+| Quick Assist | winget install 9P7BP5VNWKX5 --force | App
+| Quick Share (Samsung) | winget install 9PCTGDFXVZLJ --force | App
+| Raw Image Extension | winget install 9NCTDW2W1BH8 --force | Runtime
+| Realtek Audio Control | winget install 9P2B8MCSVPLN --force | App
+| Runasimi Hunta Local Yachaykuna | winget install 9nhtx8nvq04k --force | Language
+| Samsung Cloud | winget install 9NFWHCHM52HQ --force | App
+| Samsung Devices | winget install 9P98T77876KZ --force | App
+| Samsung Find | winget install 9MWD59CZJ1RN --force | App
+| Samsung Gallery | winget install 9NBLGGH4N9R9 --force | App
+| Sehlopha sa Maitemogelo a Gae sa Sesotho sa Leboa | winget install 9ns49qlx5cdv --force | Language
+| Slovenski paket lokalnih izkušenj | winget install 9nv27l34j4st --force | Language
+| Smart Connect | winget install XP8JRF5SXV03ZM --force | App
+| SmartThings (Samsung) | winget install 9N3ZBH5V7HX6 --force | App
+| Snipping Tool | winget install 9MZ95KL8MR0L --force | Stock
+| Speech Pack - English (United Kingdom) | winget install 9N3WW61ZJNL7 --force | Language
+| Start Experiences App | winget install 9PC1H9VN18CM --force | Stock
+| Videoutvidelse for AVC-koder | winget install 9PB0TRCNRHFX --force | Runtime
+| VP9 Video Extensions | winget install 9N4D0MSMP0PT --force | Runtime
+| Web Media Extensions | winget install 9N5TDP8VCMHS --force | Runtime
+| WebP Image Extensions | winget install 9PG2DK419DRG --force | Runtime
+| WhatsApp | winget install 9NKSQGP7F2NH --force | App
+| Widgets Platform Runtime | winget install 9N3RK8ZV2ZR8 --force | Stock
+| WinAppRuntime.Main.1.4 (MSIX version) | winget install 9NGZV9X04M5Z --force | Runtime
+| WinAppRuntime.Main.1.5 (MSIX version) | winget install 9P4839KW4RH6 --force | Runtime
+| WinAppRuntime.Main.1.6 (MSIX version) | winget install 9PKPFBF3NHX1 --force | Runtime
+| WinAppRuntime.Main.1.7 (MSIX version) | winget install 9N11XWMH52PD --force | Runtime
+| WinAppRuntime.Main.1.8 (MSIX version) | winget install 9PLJQ12FQ3CV --force | Runtime
+| WinAppRuntime.Main.2.0 (MSIX version)⁽¹⁾ | winget install 9PKMKDMJCV92 --force | Runtime
+| WinAppRuntime.Singleton⁽²⁾ | winget install 9P5Z076K079H --force | Runtime
+| Windows Application Compatibility Enhancements | winget install 9PCSD6N03BKV --force | Runtime
+| Windows Calculator | winget install 9WZDNCRFHVN5 --force | Stock
+| Windows Camera | winget install 9WZDNCRFJBBG --force | Stock
+| Windows Clock | winget install 9WZDNCRFJ3PR --force | Stock
+| Windows Community Toolkit Gallery | winget install 9NBLGGH4TLCQ --force | App
+| Windows HDR Calibration | winget install 9N7F2SM5D1LR --force | App
+| Windows Media Player (Modern) | winget install 9WZDNCRFJ3PT --force | Stock
+| Windows Notepad | winget install 9MSMLRH6LZF3 --force | Stock
+| Windows Sandbox | winget install 9NSMXC3NB0HN --force | App
+| Windows Scan | winget install 9WZDNCRFJ3PV --force | App
+| Windows Taleopptak | winget install 9WZDNCRFHWKN --force | Stock
+| Windows Web Experience Pack / DesktopPackageMetadata | winget install 9MSSGKG348SP --force | Stock
+| WinUI 3 Gallery | winget install 9P3JFPWWDZRC --force | App
+| Xbox Accessories | winget install 9NBLGGH30XJ3 --force | Stock
+| Xbox Identity Provider | winget install 9WZDNCRD1HKW --force | Stock
+| Xbox | winget install 9MV0B5HZVK9Z --force | Stock
+| Ελληνικά - Πακέτο τοπικά προσαρμοσμένης εμπειρίας | winget install 9N586B13PBLD --force | Language
+| Пакет за локален интерфејс за македонски јазик | winget install 9p1x6xb1k3rn --force | Language
+| Пакет лакалізацыі для беларускай мовы | winget install 9mxpbgnndw3l --force | Language
+| Пакет локалізації інтерфейсу на українській мові | winget install 9PPPMZRSGHR8 --force | Language
+| српски (Босна и Херцеговина) Пакет за локални интерфејс | winget install 9mxgn7v65c7b --force | Language
+| Татар теле өчен Җирле үзенчәлекләр пакеты | winget install 9nv90q1x1zr2 --force | Language
+| Қазақ Локализацияланған интерфейс бумасы | winget install 9PHV179R97LV --force | Language
+| Հայերեն տեղային փորձառության փաթեթ | winget install 9nkm28tm6p67 --force | Language
+| कोंकणी थळावो अणभव पॅक | winget install 9mv3p55cmz6p --force | Language
+| हिन्दी स्थानीय अनुभव पैक | winget install 9NZC3GRX8LD3 --force | Language
+| తెలుగు స్థానిక అనుభవ ప్యాక్ | winget install 9PMQJJGF63FW --force | Language
+| മലയാളം ലോക്കല്‍ അനുഭവം പായ്ക്ക് | winget install 9nwdtv8ffv7l --force | Language
+| ລາວ (ສປປ ລາວ) ຊຸດແພັກເກັດປະສົບການຜູ້ໃຊ້ສະເພາະທີ່ | winget install 9n8x352g5nzv --force | Language
+| 日本語 ローカル エクスペリエンス パック | winget install 9N1W692FV4S1 --force | Language
 
 ## Apps known or believed to _not_ be registrable
 * Dolby AC-4 decoder for PC OEMs
@@ -123,6 +143,7 @@ This list aims to cover apps that are either pre-installed on fresh OS installs,
 * SmartConnectExtInstaller
 * Store Experiences Host / Store Purchase App
 * Windows Security
+* Candy Crush (...)
 
 ## Notes
 * When the list was first made, I lacked time to look up the English names of some of them, so a few currently have their Norwegian names as placeholders.
