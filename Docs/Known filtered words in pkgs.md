@@ -17,3 +17,4 @@ The list below is case-insensitive unless specified otherwise.
 * " eset"
 * " HP " (unconfirmed)
 * fungerer
+* sex
