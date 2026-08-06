@@ -138,6 +138,7 @@ An incomplete list of packages that I myself remember as that I was the one that
 * Nvidia.MDL-SDK
 * Nvidia.UEFIFirmwareUpdater[45]0xx
 * OpusSystemer.Norway.OpusDental
+* PeCeTfull.Weather95Plus20
 * PlayStation.PlayStationAccessories
 * Porzeraklon.BlackJackCLI
 * PredatH0r.ChanSort
@@ -148,6 +149,7 @@ An incomplete list of packages that I myself remember as that I was the one that
 * Regul.SaveCleaner
 * rix0rrr.WindowsPathEditor
 * rmcrackan.Libation
+* Rockstar Games Launcher
 * SamsidParty.OberonRemote.(...)
 * Samsung.ScannerDecoderApp
 * Samurai-X-13.Jacked
