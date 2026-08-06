@@ -2,7 +2,7 @@ Their pipelines' text pattern detectors are legendarily broken.
 
 The list below is case-insensitive unless specified otherwise.
 
-* ASS (Case-sensitive?)
+* ASS (word-wrapped)
 * bank
 * corn (as seen in "corner")
 * credit card
