@@ -131,6 +131,7 @@
 * Microsoft.WindowsAppRuntime.Singleton.2.msix (Has Microsoft.WindowsAppRuntime.2.msix as a hard dependency, which must be of the same version and which is unlikely to be noticed as being already installed.)
 * Project Diablo 2 (Apparently has the Diablo games as hard dependencies in order to be installed)
 * Zygor Client (Installer is behind a login wall)
+* Tavernworker (No currently known installer URLs, unless Blacksmith Launcher counts as one)
 
 ## Can't be silently installed:
 * `https://www•mousemux•com/files/mousemux-v2-installer.exe`
