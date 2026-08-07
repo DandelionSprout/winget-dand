@@ -104,6 +104,10 @@ This list aims to cover apps that are either pre-installed on fresh OS installs,
 | WebP Image Extensions | winget install 9PG2DK419DRG --force | Runtime
 | WhatsApp | winget install 9NKSQGP7F2NH --force | App
 | Widgets Platform Runtime | winget install 9N3RK8ZV2ZR8 --force | Stock
+| WindowsAppRuntime.Main.1.0 (MSIX version) | winget install 9PCMPL33XP5M --force | Runtime
+| WinAppRuntime.Main.1.1 (MSIX version) | winget install 9NJ7WJWRLZ63 --force | Runtime
+| WinAppRuntime.Main.1.2 (MSIX version) | winget install 9ND6QSDSZ35V --force | Runtime
+| WinAppRuntime.Main.1.3 (MSIX version) | winget install 9P3W178J8WHC --force | Runtime
 | WinAppRuntime.Main.1.4 (MSIX version) | winget install 9NGZV9X04M5Z --force | Runtime
 | WinAppRuntime.Main.1.5 (MSIX version) | winget install 9P4839KW4RH6 --force | Runtime
 | WinAppRuntime.Main.1.6 (MSIX version) | winget install 9PKPFBF3NHX1 --force | Runtime
