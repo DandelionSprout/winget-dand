@@ -308,6 +308,7 @@
 * Realtek anything (5min)
 * Splice Instrument (1min)
 * McAfee WebAdvisor (3〜6 days)
+* Syrinscape Online
 
 ## HTTP "Forbidden" or similar:
 * AmpliTube
