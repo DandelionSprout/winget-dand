@@ -109,8 +109,8 @@ This list aims to cover apps that are either pre-installed on fresh OS installs,
 | WinAppRuntime.Main.1.6 (MSIX version) | winget install 9PKPFBF3NHX1 --force | Runtime
 | WinAppRuntime.Main.1.7 (MSIX version) | winget install 9N11XWMH52PD --force | Runtime
 | WinAppRuntime.Main.1.8 (MSIX version) | winget install 9PLJQ12FQ3CV --force | Runtime
-| WinAppRuntime.Main.2.0 (MSIX version)⁽¹⁾ | winget install 9PKMKDMJCV92 --force | Runtime
-| WinAppRuntime.Singleton⁽²⁾ | winget install 9P5Z076K079H --force | Runtime
+| WinAppRuntime.Main.2.0 (MSIX version) | winget install 9PKMKDMJCV92 --force | Runtime
+| WinAppRuntime.Singleton | winget install 9P5Z076K079H --force | Runtime
 | Windows Application Compatibility Enhancements | winget install 9PCSD6N03BKV --force | Runtime
 | Windows Calculator | winget install 9WZDNCRFHVN5 --force | Stock
 | Windows Camera | winget install 9WZDNCRFJBBG --force | Stock
@@ -172,6 +172,4 @@ This list aims to cover apps that are either pre-installed on fresh OS installs,
 ## Notes
 * When the list was first made, I lacked time to look up the English names of some of them, so a few currently have their Norwegian names as placeholders.
 * Use `; ` to chain multiple commands together in PowerShell.
-* ⁽¹⁾ = May be added to extras as `Microsoft.WindowsAppRuntime.2.Main.x64` in mid-August 2026 if things go well.
-* ⁽²⁾ = May be added to extras as `Microsoft.WindowsAppRuntime.2.Singleton.x64` in mid-August 2026 if things go well.
 * Fun fact: If a Microsoft Store app's product code starts with `9`, it is almost certainly either a UWP app or is a regular program wrapped into an MSIX. If it starts with `xp`, it is almost certainly a completely regular program.
