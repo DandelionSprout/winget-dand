@@ -10,6 +10,7 @@ This list aims to cover apps that are either pre-installed on fresh OS installs,
 | Arial Nova | winget install 9NS5CT1MZ7M8 --force | Font
 | AV1 Video Extension | winget install 9MVZQVXJBQ9V --force | Runtime
 | AVC Encoder Video Extension | winget install 9PB0TRCNRHFX --force | Runtime
+| Azərbaycan dilində Lokal Təcrübə Paketi | winget install 9P5TFKZHQ5K8 --force | Language
 | Balík pre lokálne prostredie v slovenčine | winget install 9n7lsnn099wb --force | Language
 | Bluetooth Audio Receiver | winget install 9N9WCLWDQS5J --force | App
 | Cross Device Experience Host | winget install 9NTXGKQ8P7N0 --force | Stock
@@ -42,11 +43,13 @@ This list aims to cover apps that are either pre-installed on fresh OS installs,
 | Local Experience Pack para Português (Portugal) | winget install 9P7X8QJ7FL0X --force | Language
 | Local Experience-pakket voor Nederlands | winget install 9PF1C9NB5PRV --force | Language
 | Lokaliserat gränssnittspaket för svenska | winget install 9P0HSNX08177 --force | Language
+| Lokalni paket za hrvatski | winget install 9NW01VND4LTW --force | Language
 | Lëtzebuergesch Local Experience Pack | winget install 9n0st1wbz9d9 --force | Language
 | Mail and Calendar | winget install 9wzdncrfhvqm --force | Stock
 | Microsoft Bing | winget install 9NZBF4GT040C --force | App
 | Microsoft Clipchamp | winget install 9P1J8S7CCWWT --force | App
 | Microsoft Copilot | winget install XP9CXNGPPJ97XX --force | Stock
+| Microsoft Dalia (Natural) - Spanish (Mexico) | winget install 9PJB6PTLJPXZ --force | Language
 | Microsoft Defender | winget install 9P6PMZTM93LR --force | App
 | Microsoft Designer | winget install 9PJGRCLDLX5V --force | App
 | Microsoft Edge (Pre-installed version?) | winget install XPFFTQ037JWMHS --force | Stock
@@ -70,6 +73,7 @@ This list aims to cover apps that are either pre-installed on fresh OS installs,
 | Norsk (bokmål) lokal grensesnittpakke | winget install 9N6J0M5DHCK0 --force | Language
 | Norsk (nynorsk) lokal grensesnittpakke | winget install 9PK7KM3Z06KH --force | Language
 | NVIDIA Control Panel | winget install 9NF8H0H7WMLT --force | App
+| O‘zbekcha Mahalliy tajribalar to‘plami | winget install 9P5P2T5P5L9S --force | Language
 | Pack para sa Lokal na Karanasan sa Filipino | winget install 9NWM2KGTDSSS --force | Language
 | Pacote de Experiência Local em Português (Brasil) | winget install 9P8LBDM4FW35 --force | Language
 | Paint (MS Paint) | winget install 9PCFS5B6T72H --force | App
@@ -78,8 +82,12 @@ This list aims to cover apps that are either pre-installed on fresh OS installs,
 | Paketa e përvojës lokale në shqip | winget install 9MWLRGNMDGK7 --force | Language
 | Pakkett tal-Esperjenza Lokali Malti | winget install 9pdg96sq6bn8 --force | Language
 | Pakki með staðfærðu notendaviðmóti fyrir íslensku | winget install 9NTHJR7TQXX1 --force | Language
+| Paquete de experiencia local en español (España) | winget install 9NWVGWLHPB1Z --force | Language
+| Paquete de experiencia local en español (México) | winget install 9N8MCM1X3928 --force | Language
+| Pecyn Profiad Lleol Cymraeg | winget install 9NKJ9TBML4HB --force | Language
 | Phone Link | winget install 9NMPJ99VJBWV --force | Stock
 | Power Automate | winget install 9NFTCH6J7FHV --force | App
+| Pōkai Wheako Paetata Reo Māori | winget install 9P2GDFB3JPSX --force | Language
 | Quick Assist | winget install 9P7BP5VNWKX5 --force | App
 | Quick Share (Samsung) | winget install 9PCTGDFXVZLJ --force | App
 | Raw Image Extension | winget install 9NCTDW2W1BH8 --force | Runtime
@@ -95,16 +103,18 @@ This list aims to cover apps that are either pre-installed on fresh OS installs,
 | SmartThings (Samsung) | winget install 9N3ZBH5V7HX6 --force | App
 | Snipping Tool | winget install 9MZ95KL8MR0L --force | Stock
 | Speech Pack - English (United Kingdom) | winget install 9N3WW61ZJNL7 --force | Language
+| Speech Pack - Spanish (Mexico) | winget install 9PG3FTRNS89W --force | Language
 | Start Experiences App | winget install 9PC1H9VN18CM --force | Stock
+| suomi Paikallinen paketti | winget install 9MW3PQ7SD3QK --force | Language
 | Threads | winget install 9MXBP1FB84CQ --force | App
 | Thunderbolt Control Center | winget install 9N6F0JV38PH1 --force | App
+| Tiếng Việt Gói trải nghiệm cục bộ | winget install 9P0W68X0XZPT --force | Language
 | VLC UWP | winget install 9NBLGGH4VVNH --force | App
 | VP9 Video Extensions | winget install 9N4D0MSMP0PT --force | Runtime
 | Web Media Extensions | winget install 9N5TDP8VCMHS --force | Runtime
 | WebP Image Extensions | winget install 9PG2DK419DRG --force | Runtime
 | WhatsApp | winget install 9NKSQGP7F2NH --force | App
 | Widgets Platform Runtime | winget install 9N3RK8ZV2ZR8 --force | Stock
-| WindowsAppRuntime.Main.1.0 (MSIX version) | winget install 9PCMPL33XP5M --force | Runtime
 | WinAppRuntime.Main.1.1 (MSIX version) | winget install 9NJ7WJWRLZ63 --force | Runtime
 | WinAppRuntime.Main.1.2 (MSIX version) | winget install 9ND6QSDSZ35V --force | Runtime
 | WinAppRuntime.Main.1.3 (MSIX version) | winget install 9P3W178J8WHC --force | Runtime
@@ -127,6 +137,7 @@ This list aims to cover apps that are either pre-installed on fresh OS installs,
 | Windows Scan | winget install 9WZDNCRFJ3PV --force | App
 | Windows Taleopptak | winget install 9WZDNCRFHWKN --force | Stock
 | Windows Web Experience Pack / DesktopPackageMetadata | winget install 9MSSGKG348SP --force | Stock
+| WindowsAppRuntime.Main.1.0 (MSIX version) | winget install 9PCMPL33XP5M --force | Runtime
 | WinUI 3 Gallery | winget install 9P3JFPWWDZRC --force | App
 | WordPress | winget install 9P6T37WH4TR0 --force | App
 | Xbox Accessories | winget install 9NBLGGH30XJ3 --force | Stock
@@ -140,13 +151,21 @@ This list aims to cover apps that are either pre-installed on fresh OS installs,
 | Татар теле өчен Җирле үзенчәлекләр пакеты | winget install 9nv90q1x1zr2 --force | Language
 | Қазақ Локализацияланған интерфейс бумасы | winget install 9PHV179R97LV --force | Language
 | Հայերեն տեղային փորձառության փաթեթ | winget install 9nkm28tm6p67 --force | Language
+| ئۇيغۇرچە يەرلىك تەسىرات بولىقى | winget install 9P52C5D7VL5S --force | Language 
+| حزمة تجربة الاستخدام باللغة المحلية العربية | winget install 9N4S78P86PKX --force | Language
+| پنجابی مقامی تجربہ پیک | winget install 9NJRL03WH6FM --force | Language
 | कोंकणी थळावो अणभव पॅक | winget install 9mv3p55cmz6p --force | Language
 | हिन्दी स्थानीय अनुभव पैक | winget install 9NZC3GRX8LD3 --force | Language
+| ગુજરાતી સ્થાનિક અનુભવ પૅક | winget install 9P2HMSWDJDQ1 --force | Language
 | తెలుగు స్థానిక అనుభవ ప్యాక్ | winget install 9PMQJJGF63FW --force | Language
 | മലയാളം ലോക്കല്‍ അനുഭവം പായ്ക്ക് | winget install 9nwdtv8ffv7l --force | Language
 | ລາວ (ສປປ ລາວ) ຊຸດແພັກເກັດປະສົບການຜູ້ໃຊ້ສະເພາະທີ່ | winget install 9n8x352g5nzv --force | Language
+| ქართული რეგიონალური გამოყენების პაკეტი | winget install 9P60JZL05WGH --force | Language
+| ትግርኛ ኣካባብያዊ ተመኩሮ ዓሽግ | winget install 9NC8C9RDNK2S --force | Language
+| አማርኛ የአካባቢ ተሞክሮ ጥቅል | winget install 9NGL4R61W3PL --force | Language
 | 中文 (繁體) 當地體驗套件 | winget install 9pcj4dhcq1jq --force | Language
 | 日本語 ローカル エクスペリエンス パック | winget install 9N1W692FV4S1 --force | Language
+| ᏣᎳᎩ ᎡᏍᎦᏂ ᎥᎦᏔᎲᎢ ᎦᏇᏅᎯ | winget install 9MX15485N3RK --force | Language
 
 ## Apps known or believed to _not_ be registrable
 * Candy Crush (...)
@@ -172,6 +191,8 @@ This list aims to cover apps that are either pre-installed on fresh OS installs,
 * Store Experiences Host / Store Purchase App
 * Windows Security
 * Word Mobile
+* Google Notification Helper
+* Google Context Helper
 
 ## Notes
 * When the list was first made, I lacked time to look up the English names of some of them, so a few currently have their Norwegian names as placeholders.
