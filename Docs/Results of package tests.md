@@ -132,6 +132,7 @@
 * Project Diablo 2 (Apparently has the Diablo games as hard dependencies in order to be installed)
 * Zygor Client (Installer is behind a login wall)
 * Tavernworker (No currently known installer URLs, unless Blacksmith Launcher counts as one)
+* CertsUpdater Saber Interactive (No known installer URLs)
 
 ## Can't be silently installed:
 * `https://www•mousemux•com/files/mousemux-v2-installer.exe`
