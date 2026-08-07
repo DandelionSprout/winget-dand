@@ -175,6 +175,9 @@ This list aims to cover apps that are either pre-installed on fresh OS installs,
 | 中文 (繁體) 當地體驗套件 | winget install 9pcj4dhcq1jq --force | Language
 | 日本語 ローカル エクスペリエンス パック | winget install 9N1W692FV4S1 --force | Language
 | ᏣᎳᎩ ᎡᏍᎦᏂ ᎥᎦᏔᎲᎢ ᎦᏇᏅᎯ | winget install 9MX15485N3RK --force | Language
+| Speech Pack - French (France) | winget install 9NT8FSM7GHMM --force | Language
+| Speech Pack - Spanish (Spain) | winget install 9MV990P86283 --force | Language
+| Speech Pack - Portuguese (Portugal) | winget install 9NN4ZZBX5NQK --force | Language
 
 ## Apps known or believed to _not_ be registrable
 * Candy Crush (...)
