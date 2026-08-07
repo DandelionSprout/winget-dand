@@ -74,14 +74,17 @@ This list aims to cover apps that are either pre-installed on fresh OS installs,
 | Norsk (nynorsk) lokal grensesnittpakke | winget install 9PK7KM3Z06KH --force | Language
 | NVIDIA Control Panel | winget install 9NF8H0H7WMLT --force | App
 | O‘zbekcha Mahalliy tajribalar to‘plami | winget install 9P5P2T5P5L9S --force | Language
+| Pachet de experiență locală română | winget install 9MWXGPJ5PJ3H --force | Language
 | Pack para sa Lokal na Karanasan sa Filipino | winget install 9NWM2KGTDSSS --force | Language
 | Pacote de Experiência Local em Português (Brasil) | winget install 9P8LBDM4FW35 --force | Language
 | Paint (MS Paint) | winget install 9PCFS5B6T72H --force | App
 | Paket za lokalni interfejs za bosanski | winget install 9mvfklj10mfl --force | Language
 | Paket za lokalni interfejs za srpski | winget install 9NBZ0SJDPPVT --force | Language
 | Paketa e përvojës lokale në shqip | winget install 9MWLRGNMDGK7 --force | Language
+| Pakiet lokalizacyjny — polski | winget install 9NC5HW94R0LD --force | Language
 | Pakkett tal-Esperjenza Lokali Malti | winget install 9pdg96sq6bn8 --force | Language
 | Pakki með staðfærðu notendaviðmóti fyrir íslensku | winget install 9NTHJR7TQXX1 --force | Language
+| Paquet d'experiència local de valencià | winget install 9P9K3WMFSW90 --force | Language
 | Paquete de experiencia local en español (España) | winget install 9NWVGWLHPB1Z --force | Language
 | Paquete de experiencia local en español (México) | winget install 9N8MCM1X3928 --force | Language
 | Pecyn Profiad Lleol Cymraeg | winget install 9NKJ9TBML4HB --force | Language
@@ -102,6 +105,7 @@ This list aims to cover apps that are either pre-installed on fresh OS installs,
 | Smart Connect | winget install XP8JRF5SXV03ZM --force | App
 | SmartThings (Samsung) | winget install 9N3ZBH5V7HX6 --force | App
 | Snipping Tool | winget install 9MZ95KL8MR0L --force | Stock
+| Speech Pack - Danish (Denmark) | winget install 9NC7845DR48T --force | Language
 | Speech Pack - English (United Kingdom) | winget install 9N3WW61ZJNL7 --force | Language
 | Speech Pack - Spanish (Mexico) | winget install 9PG3FTRNS89W --force | Language
 | Start Experiences App | winget install 9PC1H9VN18CM --force | Stock
@@ -155,10 +159,15 @@ This list aims to cover apps that are either pre-installed on fresh OS installs,
 | حزمة تجربة الاستخدام باللغة المحلية العربية | winget install 9N4S78P86PKX --force | Language
 | پنجابی مقامی تجربہ پیک | winget install 9NJRL03WH6FM --force | Language
 | कोंकणी थळावो अणभव पॅक | winget install 9mv3p55cmz6p --force | Language
+| मराठी स्थानिक अनुभव पॅक | winget install 9MWXCKHJVR1J --force | Language
 | हिन्दी स्थानीय अनुभव पैक | winget install 9NZC3GRX8LD3 --force | Language
+| অসমীয়া স্থানীয় অভিজ্ঞতা পেক | winget install 9NTJLXMXX35J --force | Language
+| ਪੰਜਾਬੀ ਲੋਕਲ ਤਜਰਬਾ ਪੈਕ | winget install 9NSNC0ZJX69B --force | Language
 | ગુજરાતી સ્થાનિક અનુભવ પૅક | winget install 9P2HMSWDJDQ1 --force | Language
+| தமிழ் உள்ளூர் அனுபவம் தொகுப்பு | winget install 9PDZB1WT1B34 --force | Language
 | తెలుగు స్థానిక అనుభవ ప్యాక్ | winget install 9PMQJJGF63FW --force | Language
 | മലയാളം ലോക്കല്‍ അനുഭവം പായ്ക്ക് | winget install 9nwdtv8ffv7l --force | Language
+| ชุดประสบการณ์ใช้งานภาษาท้องถิ่นไทย | winget install 9MSTWFRL0LR4 --force | Language
 | ລາວ (ສປປ ລາວ) ຊຸດແພັກເກັດປະສົບການຜູ້ໃຊ້ສະເພາະທີ່ | winget install 9n8x352g5nzv --force | Language
 | ქართული რეგიონალური გამოყენების პაკეტი | winget install 9P60JZL05WGH --force | Language
 | ትግርኛ ኣካባብያዊ ተመኩሮ ዓሽግ | winget install 9NC8C9RDNK2S --force | Language
