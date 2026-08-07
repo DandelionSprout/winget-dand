@@ -125,6 +125,10 @@
 * Microsoft Copilot (No known installer URLs; the Edge Beta HoloLens 2 MSIX builds only contain the "Sparse" stub versions of it as far as x64/x86 goes.)
 * NinjaOne (No known installer URLs)
 * NVIDIA Texture Tools Exporter (Installer is behind a login wall)
+* Microsoft.WindowsAppRuntime.2.msix (Does not show up as an installed app post-installation)
+* Microsoft.WindowsAppRuntime.Main.2.msix (Has Microsoft.WindowsAppRuntime.2.msix as a hard dependency, which must be of the same version and which is unlikely to be noticed as being already installed.)
+* Microsoft.WindowsAppRuntime.DDLM.2.msix (Has Microsoft.WindowsAppRuntime.2.msix as a hard dependency, which must be of the same version and which is unlikely to be noticed as being already installed.)
+* Microsoft.WindowsAppRuntime.Singleton.2.msix (Has Microsoft.WindowsAppRuntime.2.msix as a hard dependency, which must be of the same version and which is unlikely to be noticed as being already installed.)
 
 ## Can't be silently installed:
 * `https://www•mousemux•com/files/mousemux-v2-installer.exe`
