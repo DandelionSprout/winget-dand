@@ -91,6 +91,7 @@ This list aims to cover apps that are either pre-installed on fresh OS installs,
 | Pakiet lokalizacyjny — polski | winget install 9NC5HW94R0LD --force | Language
 | Pakkett tal-Esperjenza Lokali Malti | winget install 9pdg96sq6bn8 --force | Language
 | Pakki með staðfærðu notendaviðmóti fyrir íslensku | winget install 9NTHJR7TQXX1 --force | Language
+| Paquet d'experiència local en català | winget install 9P6JMKJQZ9S7 --force | Language
 | Paquet d'experiència local de valencià | winget install 9P9K3WMFSW90 --force | Language
 | Paquete de experiencia local en español (España) | winget install 9NWVGWLHPB1Z --force | Language
 | Paquete de experiencia local en español (México) | winget install 9N8MCM1X3928 --force | Language
