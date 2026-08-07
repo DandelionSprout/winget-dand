@@ -30,6 +30,8 @@ This list aims to cover apps that are either pre-installed on fresh OS installs,
 | Fresh Paint | winget install 9WZDNCRFJB13 --force | App
 | Gaeilge Paca Eispéiris Logánta | winget install 9P0L5Q848KXT --force | Language
 | Galaxy Buds | winget install 9NHTLWTKFZNB --force | App
+| Game Bar | winget install 9NZKPSTSNW4P --force | Stock
+| Gaming Services | winget install 9MWPM2CQNLHN --force | Stock
 | Get Help | winget install 9PKDZBMV1H3T --force | Stock
 | Hausa Fakitin Ƙwarewa ta Gida | winget install 9n1l95dbgrg3 --force | Language
 | HEIF Image Extension | winget install 9PMMSR1CGPWG --force | Runtime
@@ -59,6 +61,7 @@ This list aims to cover apps that are either pre-installed on fresh OS installs,
 | Microsoft Loop | winget install 9P1HQ5TQZMGD --force | App
 | Microsoft Messaging | winget install 9WZDNCRFJBQ6 --force | App
 | Microsoft News / MSN News | winget install 9WZDNCRFHVFW --force | Stock
+| Microsoft Photos Legacy | winget install 9NV2L4XVMCXM --force | App
 | Microsoft Photos | winget install 9WZDNCRFJBH4 --force | Stock
 | Microsoft Prabhat (Natural) - English (India) | winget install 9PMB6HGFBWDD --force | Language
 | Microsoft Sticky Notes | winget install 9NBLGGH4QGHW --force | Stock
@@ -91,8 +94,8 @@ This list aims to cover apps that are either pre-installed on fresh OS installs,
 | Pakiet lokalizacyjny — polski | winget install 9NC5HW94R0LD --force | Language
 | Pakkett tal-Esperjenza Lokali Malti | winget install 9pdg96sq6bn8 --force | Language
 | Pakki með staðfærðu notendaviðmóti fyrir íslensku | winget install 9NTHJR7TQXX1 --force | Language
-| Paquet d'experiència local en català | winget install 9P6JMKJQZ9S7 --force | Language
 | Paquet d'experiència local de valencià | winget install 9P9K3WMFSW90 --force | Language
+| Paquet d'experiència local en català | winget install 9P6JMKJQZ9S7 --force | Language
 | Paquete de experiencia local en español (España) | winget install 9NWVGWLHPB1Z --force | Language
 | Paquete de experiencia local en español (México) | winget install 9N8MCM1X3928 --force | Language
 | Pecyn Profiad Lleol Cymraeg | winget install 9NKJ9TBML4HB --force | Language
@@ -108,6 +111,7 @@ This list aims to cover apps that are either pre-installed on fresh OS installs,
 | Samsung Devices | winget install 9P98T77876KZ --force | App
 | Samsung Find | winget install 9MWD59CZJ1RN --force | App
 | Samsung Gallery | winget install 9NBLGGH4N9R9 --force | App
+| Samsung Settings Runtime | winget install 9NL68DVFP841 --force | Runtime
 | Sehlopha sa Maitemogelo a Gae sa Sesotho sa Leboa | winget install 9ns49qlx5cdv --force | Language
 | Slovenski paket lokalnih izkušenj | winget install 9nv27l34j4st --force | Language
 | Smart Connect | winget install XP8JRF5SXV03ZM --force | App
@@ -162,6 +166,7 @@ This list aims to cover apps that are either pre-installed on fresh OS installs,
 | WordPress | winget install 9P6T37WH4TR0 --force | App
 | Xbox Accessories | winget install 9NBLGGH30XJ3 --force | Stock
 | Xbox Identity Provider | winget install 9WZDNCRD1HKW --force | Stock
+| Xbox TCUI | winget install 9NKNC0LD5NN6 --force | App
 | Xbox | winget install 9MV0B5HZVK9Z --force | Stock
 | Ελληνικά - Πακέτο τοπικά προσαρμοσμένης εμπειρίας | winget install 9N586B13PBLD --force | Language
 | Пакет за локален интерфејс за македонски јазик | winget install 9p1x6xb1k3rn --force | Language
@@ -193,21 +198,34 @@ This list aims to cover apps that are either pre-installed on fresh OS installs,
 | ᏣᎳᎩ ᎡᏍᎦᏂ ᎥᎦᏔᎲᎢ ᎦᏇᏅᎯ | winget install 9MX15485N3RK --force | Language
 
 ## Apps known or believed to _not_ be registrable
+* 3D Builder
+* 3D Viewer
 * Candy Crush (...)
 * Canon Inkjet Print Utility
 * Dolby AC-4 decoder for PC OEMs
+* Facebook 1C2D851A
 * Forza Motorsport 6: Apex
 * Game Speech Window
+* Google Context Helper
+* Google Notification Helper
 * HEVC-videoutvidelser fra enhetsprodusenten
 * HP Designjet Print Experience
 * Intel® Graphics Control Panel
 * Intel® WiDi Media Share
+* Local AI Manager for Microsoft 365
 * Los Angeles Times Daily Crossword
+* Microsoft 365 Push Notifications Utility
 * Microsoft Back Up
 * Microsoft Solitaire Collection
 * Microsoft Windows App Runtime DynamicDependency LifetimeManager
+* ms-teamsupdate
+* msteamsautostarter
 * OneDriveSync (OneDrive stub)
+* OneNote for Windows 10
+* OneNote Virtual Printer
 * Paint.NET (Microsoft Store version)
+* People
+* Print 3D
 * Print 3D
 * Rayman Jungle Run
 * reaConverter Context Menu Manager
@@ -216,8 +234,6 @@ This list aims to cover apps that are either pre-installed on fresh OS installs,
 * Store Experiences Host / Store Purchase App
 * Windows Security
 * Word Mobile
-* Google Notification Helper
-* Google Context Helper
 
 ## Notes
 * When the list was first made, I lacked time to look up the English names of some of them, so a few currently have their Norwegian names as placeholders.
