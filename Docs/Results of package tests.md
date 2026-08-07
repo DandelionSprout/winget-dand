@@ -133,6 +133,7 @@
 * Zygor Client (Installer is behind a login wall)
 * Tavernworker (No currently known installer URLs, unless Blacksmith Launcher counts as one)
 * CertsUpdater Saber Interactive (No known installer URLs)
+* Vuze ("could not create unpack process")
 
 ## Can't be silently installed:
 * `https://www•mousemux•com/files/mousemux-v2-installer.exe`
