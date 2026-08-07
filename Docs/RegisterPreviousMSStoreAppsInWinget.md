@@ -55,10 +55,12 @@ This list aims to cover apps that are either pre-installed on fresh OS installs,
 | Microsoft Edge (Pre-installed version?) | winget install XPFFTQ037JWMHS --force | Stock
 | Microsoft Family Safety | winget install 9PDJDJS743XF --force | Stock
 | Microsoft Journal | winget install 9N318R854RHH --force | App
+| Microsoft Katja (Natural) - German (Germany) | winget install 9PM0J5R14Z1M --force | Language
 | Microsoft Loop | winget install 9P1HQ5TQZMGD --force | App
 | Microsoft Messaging | winget install 9WZDNCRFJBQ6 --force | App
 | Microsoft News / MSN News | winget install 9WZDNCRFHVFW --force | Stock
 | Microsoft Photos | winget install 9WZDNCRFJBH4 --force | Stock
+| Microsoft Prabhat (Natural) - English (India) | winget install 9PMB6HGFBWDD --force | Language
 | Microsoft Sticky Notes | winget install 9NBLGGH4QGHW --force | Stock
 | Microsoft Store | winget install 9WZDNCRFJBMP --force | Stock
 | Microsoft Teams (Pre-installed version) | winget install XP8BT8DW290MPQ --force | Stock
@@ -69,6 +71,11 @@ This list aims to cover apps that are either pre-installed on fresh OS installs,
 | Module d'expérience locale français (France) | winget install 9NHMG4BJKMDG --force | Language
 | MPEG-2 Video Extension | winget install 9N95Q1ZZPMH4 --force | Runtime
 | MSN Weather | winget install 9WZDNCRFJ3Q2 --force | Stock
+| Narrator Extension - Outlook Web App | winget install 9NBMDJMXVC15 --force | App
+| Narrator Extension - ppt / PowerPoint | winget install 9PKHCM2B84NL --force | App
+| Narrator Extension - Word | winget install 9N60TQ3DQ8RB --force | App
+| NarratorExtension - Excel | winget install 9P85MTJ9MWZL --force | App
+| NarratorExtension - Outlook | winget install 9NGM2WS3L5M4 --force | App
 | Netflix | winget install 9WZDNCRFJ3TJ --force | App
 | Norsk (bokmål) lokal grensesnittpakke | winget install 9N6J0M5DHCK0 --force | Language
 | Norsk (nynorsk) lokal grensesnittpakke | winget install 9PK7KM3Z06KH --force | Language
@@ -106,8 +113,16 @@ This list aims to cover apps that are either pre-installed on fresh OS installs,
 | SmartThings (Samsung) | winget install 9N3ZBH5V7HX6 --force | App
 | Snipping Tool | winget install 9MZ95KL8MR0L --force | Stock
 | Speech Pack - Danish (Denmark) | winget install 9NC7845DR48T --force | Language
+| Speech Pack - English (Australia) | winget install 9PLZ3H7JFKKF --force | Language
+| Speech Pack - English (Canada) | winget install 9NN2SM7H5XK1 --force | Language
+| Speech Pack - English (India) | winget install 9PBH5TGXM9T9 --force | Language
+| Speech Pack - English (Ireland) | winget install 9PBX9CDJH254 --force | Language
 | Speech Pack - English (United Kingdom) | winget install 9N3WW61ZJNL7 --force | Language
+| Speech Pack - French (France) | winget install 9NT8FSM7GHMM --force | Language
+| Speech Pack - German (Germany) | winget install 9N4GV1CB2H37 --force | Language
+| Speech Pack - Portuguese (Portugal) | winget install 9NN4ZZBX5NQK --force | Language
 | Speech Pack - Spanish (Mexico) | winget install 9PG3FTRNS89W --force | Language
+| Speech Pack - Spanish (Spain) | winget install 9MV990P86283 --force | Language
 | Start Experiences App | winget install 9PC1H9VN18CM --force | Stock
 | suomi Paikallinen paketti | winget install 9MW3PQ7SD3QK --force | Language
 | Threads | winget install 9MXBP1FB84CQ --force | App
@@ -175,9 +190,6 @@ This list aims to cover apps that are either pre-installed on fresh OS installs,
 | 中文 (繁體) 當地體驗套件 | winget install 9pcj4dhcq1jq --force | Language
 | 日本語 ローカル エクスペリエンス パック | winget install 9N1W692FV4S1 --force | Language
 | ᏣᎳᎩ ᎡᏍᎦᏂ ᎥᎦᏔᎲᎢ ᎦᏇᏅᎯ | winget install 9MX15485N3RK --force | Language
-| Speech Pack - French (France) | winget install 9NT8FSM7GHMM --force | Language
-| Speech Pack - Spanish (Spain) | winget install 9MV990P86283 --force | Language
-| Speech Pack - Portuguese (Portugal) | winget install 9NN4ZZBX5NQK --force | Language
 
 ## Apps known or believed to _not_ be registrable
 * Candy Crush (...)
