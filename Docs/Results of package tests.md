@@ -129,6 +129,7 @@
 * Microsoft.WindowsAppRuntime.Main.2.msix (Has Microsoft.WindowsAppRuntime.2.msix as a hard dependency, which must be of the same version and which is unlikely to be noticed as being already installed.)
 * Microsoft.WindowsAppRuntime.DDLM.2.msix (Has Microsoft.WindowsAppRuntime.2.msix as a hard dependency, which must be of the same version and which is unlikely to be noticed as being already installed.)
 * Microsoft.WindowsAppRuntime.Singleton.2.msix (Has Microsoft.WindowsAppRuntime.2.msix as a hard dependency, which must be of the same version and which is unlikely to be noticed as being already installed.)
+* Project Diablo 2 (Apparently has the Diablo games as hard dependencies in order to be installed)
 
 ## Can't be silently installed:
 * `https://www•mousemux•com/files/mousemux-v2-installer.exe`
@@ -212,6 +213,7 @@
 * ASUS PCE-BE6500 Bluetooth Driver (Is an older version of `mtkbtfilter.inf`, a.k.a. MediaTek Bluetooth Adapter)
 * ASUS PCE-BE6500 Tri-band PCIe WiFi Adapter (Is an older version of `mtkwecx.inf`, a.k.a. MediaTek Wi-Fi 7 MT7925 Wireless LAN Card #6)
 * Klarna Desktop App (Turned out to be such a successful phish that I myself nearly fell for it. Those guys were pros.)
+* TurtleWoW (Was shut down)
 
 ## App doesn't work or is incomprehensible:
 * `https://github.com/dekotan24/iwara-downloader`
