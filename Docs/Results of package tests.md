@@ -418,3 +418,4 @@
 * Segoe UI Variable (The newest version is 2.03, but `https://learn.microsoft.com/en-us/windows/apps/design/downloads/` only offers 2.02)
 * LibRetro Ludo (Ugly logo)
 * Meld Spark Plugin for OBS (I'm too old for Aİ-functions-only stuff)
+* AntiCheatExpert (Tencent/PRC app)
