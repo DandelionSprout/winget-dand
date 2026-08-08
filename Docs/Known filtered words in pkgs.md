@@ -19,3 +19,4 @@ The list below is case-insensitive unless specified otherwise.
 * fungerer
 * sex
 * typesetting
+* draping
