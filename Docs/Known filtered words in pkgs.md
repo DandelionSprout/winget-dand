@@ -6,17 +6,18 @@ The list below is case-insensitive unless specified otherwise.
 * bank
 * corn (as seen in "corner")
 * credit card
+* draping
 * explicit
 * exploitation
 * Fortis
+* fungerer
 * mcafee
 * norton
+* preset
 * scraping
+* sex
+* typesetting
 * " Claude" (word-wrapped)
 * " cp" (word-wrapped)
 * " eset"
 * " HP " (unconfirmed)
-* fungerer
-* sex
-* typesetting
-* draping
