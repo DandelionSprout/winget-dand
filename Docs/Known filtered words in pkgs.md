@@ -18,3 +18,4 @@ The list below is case-insensitive unless specified otherwise.
 * " HP " (unconfirmed)
 * fungerer
 * sex
+* typesetting
