@@ -14,6 +14,7 @@ The list below is case-insensitive unless specified otherwise.
 * mcafee
 * norton
 * preset
+* PrtScr
 * scraping
 * sex
 * typesetting
