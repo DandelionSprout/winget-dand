@@ -1,5 +1,7 @@
 If you already have a bunch of Microsoft Store-installed apps on your PC but they show up as `MSIX\` in `winget list`, run some of these commands. It won't overwrite your apps' current data.
 
+Such registerings has the main benefit that it makes the MS Store apps' version numbers show up when running `winget list`, instead of just "Unknown".
+
 This list aims to cover apps that are either pre-installed on fresh OS installs, or which are unavailable in both `winget(-pkgs)` and `winget-extras`. The rule is however not particularly enforced at the time of writing.
 
 ## List
