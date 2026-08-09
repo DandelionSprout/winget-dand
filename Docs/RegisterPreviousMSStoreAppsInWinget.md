@@ -236,6 +236,9 @@ This list aims to cover apps that are either pre-installed on fresh OS installs,
 * Store Experiences Host / Store Purchase App
 * Windows Security
 * Word Mobile
+* Microsoft Pay
+* Mixed Reality Viewer
+* Mobile Plans
 
 ## Notes
 * When the list was first made, I lacked time to look up the English names of some of them, so a few currently have their Norwegian names as placeholders.
