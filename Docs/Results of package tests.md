@@ -254,6 +254,7 @@
 * winget-new-repos DanielTaufiq
 * UniGetUI Widgets (Compatibility removed in newer UniGetUI versions; see `https://github.com/Devolutions/UniGetUI/issues/4798`)
 * Egyptology Extended
+* SichboPVR 3 ("No television devices have been detected." even when my RTL2832 stick is evidently inserted.)
 
 ## All sorts of certificate errors:
 * 2fast (ZIP)
