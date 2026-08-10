@@ -329,6 +329,7 @@
 * Segger J-Link (Anti-bot measures for its download link)
 * AMD Software: Adrenalin Edition ("Download Not Complete" anti-"external access" measures)
 * download-center•epson•com
+* AltDVB
 
 ## Self-extracting 7Z-s disguised as .exe-s:
 * Microsoft Endpoint Community Manager (Self-extracting 7Z)
