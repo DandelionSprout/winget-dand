@@ -10,25 +10,26 @@
 * AMD Chipset Drivers (Almost certainly "InternetOpenUrl() failed.")
 * AMD Cleanup Utility ("InternetOpenUrl() failed.")
 * AMD Ryzen Master (Very weird installer)
+* ASUS Armoury Crate SE Service (No known installer URLs; the "Armoury Crate SE Installer" just installs the regular Armoury Crate)
 * ASUS Business Manager (Strange installer)
 * ASUS Device Discovery (Error 2147753984)
 * ASUS DriverHub (Requires an ASUS motherboard to complete installation)
 * ASUS System Control Interface 3 ("This version of ASUS System Control Interface driver of your machine cannot support some function, click "OK" for more information."⁽ˢⁱᶜ⁾)
+* CertsUpdater Saber Interactive (No known installer URLs)
 * Cisco Packet Tracer (Installer is behind a login wall)
 * COAA.PlanePlotter (Pipeline bug treats the launch prompt as that it hasn't finished installing)
-* Collabora Office (Version number in registry collides with LibreOffice)
+* Collabora Office (Version number in registry collides with LibreOffice; probably warrants re-testing now that I know how ProductCode works like.)
 * crypto20111.IDR (Has disasm as a post-installation dependency; hard to tell which disasm version is the correct one)
 * DuckStation's .exe installers (Heavily customised installer)
 * EitherMouse ("System.Xml.XmlException: 'v3' is an undeclared prefix."; `https://stackoverflow•com/questions/7557464/workaround-for-undeclared-prefix-error-on-xelement-load`)
 * Elixir-lang.Elixir (The only post-install .exe is the uninstaller)
-* EpicGames.EpicOnlineServicesSDK.C (Constantly error -2147467260)
 * Epson Fax Utility (Requires separate scanner drivers)
 * FMCM (Requires post-installation folder movement)
 * FS-UAE (Requires manual folder moves)
 * GNU.APL (Missing "cyggcc_s-1.dll")
 * Intel Fortran Compiler (Unresponsive veto-rights responsible)
+* irzyxa.Volume2 (The 2025 x64 builds throw "DAMAGE: after Normal block (#56) at 0x02CE1860" errors; see https://github.com/irzyxa/Volume2/issues/383)
 * IwaraTool (Comically large amounts of malware engine detections)
-* jklewa.ATVDesktopRemote (Requires Python 3)
 * KB9114440 Network Diagnosis ("Not enough memory resources available (...)")
 * Lenovo Dolby Vision Provisioning Kit (Unable to confirm if the package works or not.)
 * LogExperts.LogExpert (Fails to detect .NET Runtime 10 x64 installations)
@@ -37,6 +38,7 @@
 * Microsoft Audit Collection Services for UNIX/Linux (Has Microsoft System Center Operations Manager as a dependency)
 * Microsoft Axe.Windows (Depends on ".NET Core Runtime 6.0 or newer", which could mean a lot of different things, at least 2 of which didn't work.)
 * Microsoft Configuration Manager / ConfigMgr (7Z file)
+* Microsoft Copilot (No known installer URLs; the Edge Beta HoloLens 2 MSIX builds only contain the "Sparse" stub versions of it as far as x64/x86 goes.)
 * Microsoft Log Monitor / LogMonitor / Windows Container Tools (Requires a config JSON that is not automatically created)
 * Microsoft Monitoring Agent / MOMAgent (Error 1603)
 * Microsoft SQL Server 2025 Evaluation Edition (Refuses to recognise /ENU when Windows 11 is set to nb-NO)
@@ -48,30 +50,37 @@
 * Microsoft System Center Operations Manager Web Console (Error 1943)
 * Microsoft System Center Orchestrator Service Management Automation Web Servers (Requires turning on the IIS service "Basic Authentication")
 * Microsoft System Center Service Management Automation Runbook Worker (Requires manually setting SERVICEACCOUNT and SERVICEPASSWORD)
-* Microsoft System Center Virtual Machine Manager Client (Winget-pkgs can't silently install it)
 * Microsoft Visual C++ 20xx Redistributable Itanium (Pipelines don't support it even if marked as Neutral)
 * Microsoft WindowsWorkload pretty much anything (No known download links)
 * Microsoft.bpf_performance (Has "eBPF for Windows (MSI)" as a post-installation dependency)
 * Microsoft.DotNet.docfx (Post-installation error "Cannot find config file C:\(...)\docfx.json")
 * Microsoft.DotNet.Native.Framework.1.3 (No known Microsoft-owned distribution places for 1.3.24211.0)
 * Microsoft.DotNet.Native.Runtime.1.7 (No known Microsoft-owned distribution places for 1.7.27422; `https://www.nuget.org/packages/Microsoft.Net.Native.Compiler/1.7.6` only has 1.7.25531)
-* Microsoft.DotNet.Runtime.1_1 (Version number in registry collides with Microsoft.DotNet.Runtime.3_1)
+* Microsoft.DotNet.Runtime.1_1 (Version number in registry collides with Microsoft.DotNet.Runtime.3_1; probably warrants re-testing now that I know how ProductCode works like.)
 * Microsoft.EnterpriseManagement.GatewayApprovalTool («Could not load file or assembly 'Microsoft.EnterpriseManagement.DataAccessLayer, (...)»)
 * Microsoft.HIS.2020.MigrationTool / Host Integration Server (Overly complicated to use)
 * Microsoft.MIDI.LoopbackService (Pipelines bafflingly complain about error 2180251649)
 * Microsoft.ReportViewer 2015 (Has "Microsoft System CLR Types for SQL Server 2014" as a dependency)
+* Microsoft.WindowsAppRuntime.2.msix (Does not show up as an installed app post-installation)
+* Microsoft.WindowsAppRuntime.DDLM.2.msix (Has Microsoft.WindowsAppRuntime.2.msix as a hard dependency, which must be of the same version and which is unlikely to be noticed as being already installed.)
+* Microsoft.WindowsAppRuntime.Main.2.msix (Has Microsoft.WindowsAppRuntime.2.msix as a hard dependency, which must be of the same version and which is unlikely to be noticed as being already installed.)
+* Microsoft.WindowsAppRuntime.Singleton.2.msix (Has Microsoft.WindowsAppRuntime.2.msix as a hard dependency, which must be of the same version and which is unlikely to be noticed as being already installed.)
 * Mozilla Maintenance Service (Its Mozilla developers got *really* pissy about it)
 * Mozilla Thunderbird Nightly ("Device wide install for msix type is not supported in packaged context.")
 * MPSeal («Could not load file or assembly 'Microsoft.EnterpriseManagement.Core, (...)»)
 * Netbird (ESET detection)
+* NinjaOne (No known installer URLs)
+* Norton anything (No easily apparent installer URLs, and I can't be bothered to look deeper into URLs since it's Norton)
 * NTCore DisasMSIL (Its only .exe is a non-interactive test)
 * NVIDIA Control Panel (AppX inside self-extracting 7Z, no currently known installer switches dedicated to it.)
+* NVIDIA FrameView SDK (No currently known installer URLs)
+* NVIDIA Texture Tools Exporter (Installer is behind a login wall)
 * PatrickGaskin.PulseAudio / pgaskin (Setup installer doesn't work; while the portable `pulseaudio•exe` fails with `../../src/pulseaudio/src/pulsecore/core-util.c: Secure directory creation not supported on this platform.`)
 * PDFMachine (.exe is in a .zip inside a .zip)
 * PHP "Test Pack" ("The package file is not a valid zip archive.")
 * PHP.PHP "tests package (phpt)" ("The package file is not a valid zip archive.")
 * pl4nty.winget-pkgs-selfhost (Its GitHub repo's owner stated it wasn't his app.)
-* PostGIS for PostgreSQL (Requires post-installation folder moves)
+* Project Diablo 2 (Apparently has the Diablo games as hard dependencies in order to be installed)
 * PSAppDeployToolkit ("This application is designed to be used with the PSAppDeployToolkit PowerShell module and should not be directly invoked.")
 * PyEnv (Error 240)
 * Python's appendpath.msi (Installer crashes silently with 0xc00000FD)
@@ -100,12 +109,15 @@
 * RetriX ("An error occured during the app package analysis")
 * Samsung.Escargot (Depends on the WebAssembly library "Walrus", for which no executables exist)
 * Samsung.Odin (No widely established installer URLs)
-* Sniffnet (Has Npcap as a dependency)
+* Scoop (No known installer URLs)
+* Tavernworker (No currently known installer URLs, unless Blacksmith Launcher counts as one)
 * Update Root Certificates ("The package file is not a valid zip archive.")
 * USBip-win(2) (Apparently requires driver test-signing system mode?)
+* Vuze ("could not create unpack process")
 * Wine Gecko ("The file browser!blocklist.xml can't be installed because the file doesn't exist in the cabinet file winegecko.cab. (...)" The non-existence of MSIX/Winget support in Wine doesn't help either.)
 * Wine Mono (Bafflingly tries to start a 2nd installer for a support tool before having finished the 1st installer. The 2nd installer also fails with error 2762.)
 * Xensam Xearch (No known download link)
+* Zygor Client (Installer is behind a login wall)
 * ♪ Bluegrams.ScreenRuler (Supposedly broke repo guidelines about SourceForge)
 * ♪ Command & Conquer: Red Alert 2 & Yuri's Revenge (Has the paid version of Red Alert 2 in a hardcoded folderpath as a dependency for silent installs)
 * ♪ GarudaLinux.FireDragon (ARM64 version has a false positive "Can't install silently" pipeline error)
@@ -113,27 +125,15 @@
 * ♪ Microsoft Visual C++ 2012/2013 Redistributable Arm32 (Incompatibility of the ARM64 pipelines)
 * ♪ Microsoft.vcpkg (Post-installation requires a separate vcpkg-root app)
 * ♪ MozillaBuild (Not all that useful, since end-users must still build the post-installation files on their own)
-* irzyxa.Volume2 (The 2025 x64 builds throw "DAMAGE: after Normal block (#56) at 0x02CE1860" errors; see https://github.com/irzyxa/Volume2/issues/383)
+* ♫ EpicGames.EpicOnlineServicesSDK.C (Constantly error -2147467260)
+* ♫ jklewa.ATVDesktopRemote (Requires Python 3)
+* ♫ Microsoft System Center Virtual Machine Manager Client (Winget-pkgs can't silently install it)
 * ♫ Microsoft.AccessibilityInsights (Its dev was pissy about it as of 2023)
-* ♫ puhitaku.mtplvcap (Requires a Nikon DSLR device to run properly)
-* ♫ WinDump (Has Npcap as dependency)
-* NVIDIA FrameView SDK (No currently known installer URLs)
 * ♫ MSI NBFoundation Service (The installer at https://github.com/xchwarze/msi is clearly unofficial)
-* Norton anything (No easily apparent installer URLs, and I can't be bothered to look deeper into URLs since it's Norton)
-* ASUS Armoury Crate SE Service (No known installer URLs; the "Armoury Crate SE Installer" just installs the regular Armoury Crate)
-* Scoop (No known installer URLs)
-* Microsoft Copilot (No known installer URLs; the Edge Beta HoloLens 2 MSIX builds only contain the "Sparse" stub versions of it as far as x64/x86 goes.)
-* NinjaOne (No known installer URLs)
-* NVIDIA Texture Tools Exporter (Installer is behind a login wall)
-* Microsoft.WindowsAppRuntime.2.msix (Does not show up as an installed app post-installation)
-* Microsoft.WindowsAppRuntime.Main.2.msix (Has Microsoft.WindowsAppRuntime.2.msix as a hard dependency, which must be of the same version and which is unlikely to be noticed as being already installed.)
-* Microsoft.WindowsAppRuntime.DDLM.2.msix (Has Microsoft.WindowsAppRuntime.2.msix as a hard dependency, which must be of the same version and which is unlikely to be noticed as being already installed.)
-* Microsoft.WindowsAppRuntime.Singleton.2.msix (Has Microsoft.WindowsAppRuntime.2.msix as a hard dependency, which must be of the same version and which is unlikely to be noticed as being already installed.)
-* Project Diablo 2 (Apparently has the Diablo games as hard dependencies in order to be installed)
-* Zygor Client (Installer is behind a login wall)
-* Tavernworker (No currently known installer URLs, unless Blacksmith Launcher counts as one)
-* CertsUpdater Saber Interactive (No known installer URLs)
-* Vuze ("could not create unpack process")
+* ♫ PostGIS for PostgreSQL (Requires post-installation folder moves)
+* ♫ puhitaku.mtplvcap (Requires a Nikon DSLR device to run properly)
+* ♫ Sniffnet (Has Npcap as a dependency)
+* ♫ WinDump (Has Npcap as dependency)
 
 ## Can't be silently installed:
 * `https://www•mousemux•com/files/mousemux-v2-installer.exe`
@@ -143,7 +143,6 @@
 * Banking4 Home
 * BenQ anything (Gets stuck on pointless VCredist installation prompt)
 * BrunnerInnovation.vJoy
-* cardPresso
 * Clue digital ordbok (Can't be silently installed, especially as its MSI version is fake)
 * CM&V.DVBViewerDemo
 * CyberLink pretty much anything
@@ -161,7 +160,7 @@
 * GamesCleaner setup
 * Genshin Impact / MiHoYo / HoYoPlay / Cognosphere
 * Google WebP codec
-* GPL / Artifex Software Ghostscript (The portable ZIPs may or may not work better)
+* ♪ GPL / Artifex Software Ghostscript (The portable ZIPs may or may not work better)
 * HP Universal Printer Driver / Universal Printing
 * InstallForge
 * Intel Memory and Storage Tool CLI
@@ -195,7 +194,7 @@
 * Thrustmaster.TARGET (Driver install prompt that can only be closed manually)
 * VueScan (Driver install prompt that can only be closed manually)
 * AlkaidLab.foundation-sunshine (Known to require a driver install)
-* Jigsaw.Outline (Driver install prompt that can only be closed manually)
+* Jigsaw.OutlineClient (Driver install prompt that can only be closed manually)
 * IsaoMaruoka.Pixia (Silent installation fails with error 4294967292)
 * Microsoft Office Subject Interface Packages for Digitally Signing VBA Projects / Sips (Gets stuck on the final prompt, "Files extracted successfully.")
 * Locale Emulator
@@ -235,7 +234,7 @@
 * lixkote PRIExplorer ("This application could not be started")
 * Microsoft GDI+ Detection Tool
 * Microsoft Office 365 Centralized Deployment Checker
-* ♫ Microsoft ROS / Robot Operating System (Completely incomprehensible how it works)
+* ♪ Microsoft ROS / Robot Operating System (Completely incomprehensible how it works)
 * Microsoft SQLToolsService Migration
 * Microsoft Update Health Tools
 * Microsoft.Azure.WindowsVMAgent
@@ -255,7 +254,6 @@
 * winget-new-repos DanielTaufiq
 * UniGetUI Widgets (Compatibility removed in newer UniGetUI versions; see `https://github.com/Devolutions/UniGetUI/issues/4798`)
 * Egyptology Extended
-* SichboPVR 3 ("No television devices have been detected." even when my RTL2832 stick is evidently inserted.)
 
 ## All sorts of certificate errors:
 * 2fast (ZIP)
