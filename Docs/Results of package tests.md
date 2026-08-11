@@ -408,7 +408,8 @@
 ## Will likely work, but Wingetcreate throws "Failed to parse the package from" and I'm tired:
 * BabelPad
 * BabelMap
-* PicoDrive
+* GhostPCL
+* GhostXPS
 
 ## I cannot in good spirit add these due to my personal conscience, but I wouldn't stop others from adding them:
 * Microsoft.Services.Store.Engagement (I'm in the adblocking community for a reason)
