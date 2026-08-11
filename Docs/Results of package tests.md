@@ -128,7 +128,7 @@
 * ♫ EpicGames.EpicOnlineServicesSDK.C (Constantly error -2147467260)
 * ♫ jklewa.ATVDesktopRemote (Requires Python 3)
 * ♫ Microsoft System Center Virtual Machine Manager Client (Winget-pkgs can't silently install it)
-* ♫ Microsoft.AccessibilityInsights (Its dev was pissy about it as of 2023)
+* ♪ Microsoft.AccessibilityInsights (Its dev was pissy about it as of 2023)
 * ♫ MSI NBFoundation Service (The installer at https://github.com/xchwarze/msi is clearly unofficial)
 * ♫ PostGIS for PostgreSQL (Requires post-installation folder moves)
 * ♫ puhitaku.mtplvcap (Requires a Nikon DSLR device to run properly)
@@ -160,7 +160,7 @@
 * GamesCleaner setup
 * Genshin Impact / MiHoYo / HoYoPlay / Cognosphere
 * Google WebP codec
-* ♪ GPL / Artifex Software Ghostscript (The portable ZIPs may or may not work better)
+* ♪ Artifex Software Ghostscript
 * HP Universal Printer Driver / Universal Printing
 * InstallForge
 * Intel Memory and Storage Tool CLI
@@ -197,7 +197,7 @@
 * Jigsaw.OutlineClient (Driver install prompt that can only be closed manually)
 * IsaoMaruoka.Pixia (Silent installation fails with error 4294967292)
 * Microsoft Office Subject Interface Packages for Digitally Signing VBA Projects / Sips (Gets stuck on the final prompt, "Files extracted successfully.")
-* Locale Emulator
+* ♫ Locale Emulator
 * Motorola Software Fix (Driver install prompt that can only be closed manually)
 * HP Connection Optimizer (No apparent silent switches)
 * VB-CABLE Virtual Audio Device (No apparent silent switches)
@@ -236,7 +236,6 @@
 * Microsoft Office 365 Centralized Deployment Checker
 * ♪ Microsoft ROS / Robot Operating System (Completely incomprehensible how it works)
 * Microsoft SQLToolsService Migration
-* Microsoft Update Health Tools
 * Microsoft.Azure.WindowsVMAgent
 * Microsoft.Delprof
 * Microsoft.legacyapp
