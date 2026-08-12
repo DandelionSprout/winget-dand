@@ -25,6 +25,7 @@ This list aims to cover apps that are either pre-installed on fresh OS installs,
 | Eesti keelde lokaliseeritud kasutajaliidese pakett | winget install 9NFBHFMCR30L --force | Language
 | English (United Kingdom) Local Experience Pack | winget install 9NT52VQ39BVN --force | Language
 | English (United States) Local Experience Pack | winget install 9PDSCC711RVF --force | Language / Stock
+| Epson Print and Scan | winget install 9wzdncrfj4p8 --force | App
 | Esperientzia lokalaren paketea euskaraz | winget install 9nmchqhz37hz --force | Language
 | Facebook | winget install 9WZDNCRFJ2WL --force | App
 | Feedback Hub | winget install 9NBLGGH4R32N --force | Stock
@@ -44,6 +45,7 @@ This list aims to cover apps that are either pre-installed on fresh OS installs,
 | JPEG XL Image Extension | winget install 9MZPRTH5C0TB --force | Runtime
 | latviešu lokālā interfeisa pakotne | winget install 9n5cqdph6sqt --force | Language
 | Lenovo Vantage | winget install 9WZDNCRFJ4MV --force | App
+| LinkedIn | winget install 9wzdncrfj4q7 --force | App (ex-Stock)
 | Local Experience Pack para Português (Portugal) | winget install 9P7X8QJ7FL0X --force | Language
 | Local Experience-pakket voor Nederlands | winget install 9PF1C9NB5PRV --force | Language
 | Lokaliserat gränssnittspaket för svenska | winget install 9P0HSNX08177 --force | Language
@@ -113,12 +115,15 @@ This list aims to cover apps that are either pre-installed on fresh OS installs,
 | Samsung Devices | winget install 9P98T77876KZ --force | App
 | Samsung Find | winget install 9MWD59CZJ1RN --force | App
 | Samsung Gallery | winget install 9NBLGGH4N9R9 --force | App
+| Samsung Notes | winget install 9nblggh43vhv --force | App
+| Samsung Pass | winget install 9mvwdz5kx9lh --force | App
 | Samsung Settings Runtime | winget install 9NL68DVFP841 --force | Runtime
 | Sehlopha sa Maitemogelo a Gae sa Sesotho sa Leboa | winget install 9ns49qlx5cdv --force | Language
 | Slovenski paket lokalnih izkušenj | winget install 9nv27l34j4st --force | Language
 | Smart Connect | winget install XP8JRF5SXV03ZM --force | App
 | SmartThings (Samsung) | winget install 9N3ZBH5V7HX6 --force | App
 | Snipping Tool | winget install 9MZ95KL8MR0L --force | Stock
+| SoundCloud | winget install 9n5qr3kw6cmc --force | App
 | Speech Pack - Danish (Denmark) | winget install 9NC7845DR48T --force | Language
 | Speech Pack - English (Australia) | winget install 9PLZ3H7JFKKF --force | Language
 | Speech Pack - English (Canada) | winget install 9NN2SM7H5XK1 --force | Language
