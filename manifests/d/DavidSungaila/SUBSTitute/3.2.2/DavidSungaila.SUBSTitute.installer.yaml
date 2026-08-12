@@ -19,5 +19,6 @@ Installers:
 Dependencies:
   PackageDependencies:
   - PackageIdentifier: Microsoft.WindowsAppRuntime.2.0
+MSStoreProductIdentifier: 9ngprnjjklbg
 ManifestType: installer
 ManifestVersion: 1.28.0
