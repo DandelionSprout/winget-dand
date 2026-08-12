@@ -204,6 +204,7 @@
 * Virtual AC3 Decoder (Has VB-CABLE Virtual Audio Device as a dependency)
 * NextPVR (No apparent silent switches)
 * Astrometa DVB-T2 Driver (Throws Error -5, "File not found", for whatever unholy reason I spent 1½ hours failing to figure out how to solve)
+* Bitwarden Web Self-Hosted (Its only executable is an icons-font)
 
 ## App is pointless:
 * VLC FreeSans font (Pointless due to it being a singular GNU-available font)
