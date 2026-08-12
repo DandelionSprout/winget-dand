@@ -299,7 +299,7 @@
 * XBSX2 (MSIXBundle)
 
 ## Time-expirant installer URLs:
-* 3DMark
+* 3DMark (≤ 3min)
 * ASUS anything on rog•asus•com (Fixable by changing the URL to `dlcdnets`)
 * Azure VPN Client (Version on appcenterMS has time-expirant installer URLs)
 * BlackBerry Access (≤ 5min)
