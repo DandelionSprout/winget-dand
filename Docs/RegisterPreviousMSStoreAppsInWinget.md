@@ -86,6 +86,7 @@ This list aims to cover apps that are either pre-installed on fresh OS installs,
 | Netflix | winget install 9WZDNCRFJ3TJ --force | App
 | Norsk (bokmål) lokal grensesnittpakke | winget install 9N6J0M5DHCK0 --force | Language
 | Norsk (nynorsk) lokal grensesnittpakke | winget install 9PK7KM3Z06KH --force | Language
+| NVIDIA App | winget install xp8clzl93f5z4p --force | App
 | NVIDIA Control Panel | winget install 9NF8H0H7WMLT --force | App
 | O‘zbekcha Mahalliy tajribalar to‘plami | winget install 9P5P2T5P5L9S --force | Language
 | Pachet de experiență locală română | winget install 9MWXGPJ5PJ3H --force | Language
@@ -173,6 +174,7 @@ This list aims to cover apps that are either pre-installed on fresh OS installs,
 | WordPress | winget install 9P6T37WH4TR0 --force | App
 | Xbox Accessories | winget install 9NBLGGH30XJ3 --force | Stock
 | Xbox Identity Provider | winget install 9WZDNCRD1HKW --force | Stock
+| Xbox Original Avatars | winget install 9nblgggz5qdq --force | App
 | Xbox TCUI | winget install 9NKNC0LD5NN6 --force | App
 | Xbox | winget install 9MV0B5HZVK9Z --force | Stock
 | Ελληνικά - Πακέτο τοπικά προσαρμοσμένης εμπειρίας | winget install 9N586B13PBLD --force | Language
