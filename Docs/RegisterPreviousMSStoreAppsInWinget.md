@@ -209,11 +209,10 @@ This list aims to cover apps that are either pre-installed on fresh OS installs,
 ## Apps known or believed to _not_ be registrable
 * 3D Builder
 * 3D Viewer
-* Candy Crush (...)
 * Canon Inkjet Print Utility
 * Dolby AC-4 decoder for PC OEMs
 * Facebook 1C2D851A
-* Forza Motorsport 6: Apex
+* Flipgrid
 * Game Speech Window
 * Google Context Helper
 * Google Notification Helper
@@ -225,27 +224,26 @@ This list aims to cover apps that are either pre-installed on fresh OS installs,
 * Los Angeles Times Daily Crossword
 * Microsoft 365 Push Notifications Utility
 * Microsoft Back Up
+* Microsoft Pay
 * Microsoft Solitaire Collection
 * Microsoft Windows App Runtime DynamicDependency LifetimeManager
+* Mixed Reality Viewer
+* Mobile Plans
 * ms-teamsupdate
 * msteamsautostarter
 * OneDriveSync (OneDrive stub)
 * OneNote for Windows 10
 * OneNote Virtual Printer
+* OutlookPWA
 * Paint.NET (Microsoft Store version)
 * People
 * Print 3D
-* Print 3D
-* Rayman Jungle Run
 * reaConverter Context Menu Manager
-* SBK16 Official Mobile Game
 * SmartConnectExtInstaller
 * Store Experiences Host / Store Purchase App
 * Windows Security
 * Word Mobile
-* Microsoft Pay
-* Mixed Reality Viewer
-* Mobile Plans
+* Pretty much all videogames except Minecraft Education and possibly Duolingo; see `https://github.com/microsoft/winget-cli/issues/5818`
 
 ## Notes
 * When the list was first made, I lacked time to look up the English names of some of them, so a few currently have their Norwegian names as placeholders.
