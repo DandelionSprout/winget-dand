@@ -19,6 +19,7 @@ Installers:
 Dependencies:
   PackageDependencies:
   - PackageIdentifier: Microsoft.WindowsAppRuntime.2.0
-MSStoreProductIdentifier: 9ngprnjjklbg
+RestrictedCapabilities:
+- runFullTrust
 ManifestType: installer
 ManifestVersion: 1.28.0
