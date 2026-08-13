@@ -74,6 +74,7 @@ This list aims to cover apps that are either pre-installed on fresh OS installs,
 | Microsoft To Do | winget install 9NBLGGH5R558 --force | Stock
 | Microsoft Visual Studio Code (User) | winget install XP9KHM4BK9FZ7Q --force | App
 | Microsoft Whiteboard | winget install 9MSPC6MP8FM4 --force | App
+| Minecraft: Education Edition | winget install 9NBLGGH4R2R6 --force | App
 | Module d'expérience locale français (Canada) | winget install 9MTP2VP0VL92 --force | Language
 | Module d'expérience locale français (France) | winget install 9NHMG4BJKMDG --force | Language
 | MPEG-2 Video Extension | winget install 9N95Q1ZZPMH4 --force | Runtime
@@ -223,7 +224,7 @@ This list aims to cover apps that are either pre-installed on fresh OS installs,
 * Local AI Manager for Microsoft 365
 * Los Angeles Times Daily Crossword
 * Microsoft 365 Push Notifications Utility
-* Microsoft Back Up
+* Microsoft Back Up / Windows Backup
 * Microsoft Pay
 * Microsoft Solitaire Collection
 * Microsoft Windows App Runtime DynamicDependency LifetimeManager
