@@ -256,48 +256,9 @@
 * Egyptology Extended
 
 ## All sorts of certificate errors:
-* 2fast (ZIP)
-* ActualBudget AppX
-* AdventurerClientJS AppX
-* AnyFSE AppX
-* Baulk AppX
-* Bifrost/SamloaderKotlin MSIX
-* BookViewer3 / BookViewerApp3 (ZIP)
-* chARpack AppX
-* Cynnexis Tide MSIX
-* FluentFlyouts (MSIXBundle)
-* Flycast AppX
-* gabboxl.FluentWeather (MSIXBundle)
-* Gorilla UI
-* HDRImageViewer (ZIP)
-* Hiddify MSIX
-* Houseclub FrayxRulez (MSIXBundle)
-* Intag MSIX
-* IRCameraView (ZIP)
-* KeePassPasskey (ZIP)
-* Kodi MSIX
-* LibreWolf MSIX
-* LRReader (MSIXBundle)
-* Microsoft eBPF for Windows - MSI (Doesn't have a valid signature... in an MSI file)
-* Microsoft.SensorExplorer / busiotools (MSIXBundle)
-* Mockoon AppX
-* Mélodie Feugy AppX
-* Ossia Score AppXBundle
-* Passbolt (ZIP)
-* RetroArch AppX
-* RevoltChat AppX
-* SimpleWeather (MSIXBundle)
-* TasksORG MSIX
-* TheElixZammuto Moonlight UWP (MSIXBundle)
-* TouchXRPT (ZIP)
-* Tracky-Mouse MSIX
-* UltraPad/RectifyPad MSIX
-* underpig1 Octos MSIX
-* Unpaint
-* VideoLAN.VLC-UWP (Also lacks "SharedLibrary.dll", etc.)
-* WebcamOnDesktop (MSIXBundle)
-* Wino Mail (MSIXBundle)
-* XBSX2 (MSIXBundle)
+|   |   |
+| - | - |
+| • 2fast (ZIP)<br>• ActualBudget AppX<br>• AdventurerClientJS AppX<br>• AnyFSE AppX<br>• Baulk AppX<br>• Bifrost/SamloaderKotlin MSIX<br>• BookViewer3 / BookViewerApp3 (ZIP)<br>• chARpack AppX<br>• Cynnexis Tide MSIX<br>• FluentFlyouts (MSIXBundle)<br>• Flycast AppX<br>• gabboxl.FluentWeather (MSIXBundle)<br>• Gorilla UI<br>• HDRImageViewer (ZIP)<br>• Hiddify MSIX<br>• Houseclub FrayxRulez (MSIXBundle)<br>• Intag MSIX<br>• IRCameraView (ZIP)<br>• KeePassPasskey (ZIP)<br>• Kodi MSIX<br>• LibreWolf MSIX | • LRReader (MSIXBundle)<br>• Microsoft eBPF for Windows - MSI (Doesn't have a valid signature... in an MSI file)<br>• Microsoft.SensorExplorer / busiotools (MSIXBundle)<br>• Mockoon AppX<br>• Mélodie Feugy AppX<br>• Ossia Score AppXBundle<br>• Passbolt (ZIP)<br>• RetroArch AppX<br>• RevoltChat AppX<br>• SimpleWeather (MSIXBundle)<br>• TasksORG MSIX<br>• TheElixZammuto Moonlight UWP (MSIXBundle)<br>• TouchXRPT (ZIP)<br>• Tracky-Mouse MSIX<br>• UltraPad/RectifyPad MSIX<br>• underpig1 Octos MSIX<br>• Unpaint<br>• VideoLAN.VLC-UWP (Also lacks "SharedLibrary.dll", etc.)<br>• WebcamOnDesktop (MSIXBundle)<br>• Wino Mail (MSIXBundle)<br>• XBSX2 (MSIXBundle)
 
 ## Time-expirant installer URLs:
 * 3DMark (≤ 3min)
@@ -336,56 +297,9 @@
 * ZohoCRM (Self-extracting 7Z)
 
 ## "No supported installer(s) found in zip archive.":
-* Apache Maven
-* DirectoryLister
-* dxwrapper (elishacloud)
-* FineFTP Server
-* GNOME atk
-* GNOME gail
-* GNOME gnome-common
-* GNOME gnome-vfs
-* GNOME goocanvas
-* GNOME gtkhtml
-* GNOME gtksourceview
-* GNOME intltool
-* GNOME libcroco
-* GNOME libglade
-* GoldSrcModelThumbnailProvider
-* Google.re2
-* Gradle Distributions
-* KeeperSecurity keeper-sdk-dotnet / PowerCommander
-* kemnnx64
-* Kotlin Language Server
-* LazyDuchess.MonoPatcher
-* LazyDuchess.TS2-Extender
-* libsdl-org.SDL
-* Microsoft QDK Samples
-* Microsoft React Native WinRT
-* Microsoft UEFI Debug Tools
-* Microsoft.FactoryOrchestrator Service
-* Microsoft.vc-ue-extensions
-* Microsoft.Windows-appsample-marble-maze
-* Microsoft.Windows-appsample-photo-editor
-* Microsoft winget-cli-restsource
-* Mozilla CrashReporter Symbols
-* Npcap SDK
-* NVDA Controller Client
-* NVIDIA.CCCL
-* OpenBIOS.OpenBIOS
-* pascatl.ha-dhl
-* PHP.PHP "Development package (SDK to develop PHP extensions)"
-* PHP.PHP Debug Pack
-* Pixel Streaming Infrastructure
-* SignPath.CryptoProviders.Cryptoki
-* simdjson singleheader
-* Tiny UI Fix for The Sims 3
-* Ultimate ASI Loader
-* WebView2Browser
-* windows-heic-thumbnails
-* zlib
-* Microsoft.OnnxRuntime
-* Atola MultiDrive WinPE
-* Enhanced-GPU-PV
+|   |   |
+| - | - |
+| • Apache Maven<br>• DirectoryLister<br>• dxwrapper (elishacloud)<br>• FineFTP Server<br>• GNOME atk<br>• GNOME gail<br>• GNOME gnome-common<br>• GNOME gnome-vfs<br>• GNOME goocanvas<br>• GNOME gtkhtml<br>• GNOME gtksourceview<br>• GNOME intltool<br>• GNOME libcroco<br>• GNOME libglade<br>• GoldSrcModelThumbnailProvider<br>• Google.re2<br>• Gradle Distributions<br>• KeeperSecurity keeper-sdk-dotnet / PowerCommander<br>• kemnnx64<br>• Kotlin Language Server<br>• LazyDuchess.MonoPatcher<br>• LazyDuchess.TS2-Extender<br>• libsdl-org.SDL<br>• Microsoft QDK Samples<br>• Microsoft React Native WinRT | • Microsoft UEFI Debug Tools<br>• Microsoft.FactoryOrchestrator Service<br>• Microsoft.vc-ue-extensions<br>• Microsoft.Windows-appsample-marble-maze<br>• Microsoft.Windows-appsample-photo-editor<br>• Microsoft winget-cli-restsource<br>• Mozilla CrashReporter Symbols<br>• Npcap SDK<br>• NVDA Controller Client<br>• NVIDIA.CCCL<br>• OpenBIOS.OpenBIOS<br>• pascatl.ha-dhl<br>• PHP.PHP "Development package (SDK to develop PHP extensions)"<br>• PHP.PHP Debug Pack<br>• Pixel Streaming Infrastructure<br>• SignPath.CryptoProviders.Cryptoki<br>• simdjson singleheader<br>• Tiny UI Fix for The Sims 3<br>• Ultimate ASI Loader<br>• WebView2Browser<br>• windows-heic-thumbnails<br>• zlib<br>• Microsoft.OnnxRuntime<br>• Atola MultiDrive WinPE<br>• Enhanced-GPU-PV
 
 ## Ruled out from "Project Portable MSIX-s" due to internal EXE-s not launching:
 * DavidSungaila.SUBSTitute
