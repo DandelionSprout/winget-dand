@@ -6,7 +6,7 @@ PackageLocale: en
 Publisher: FluidSynth
 PackageName: FluidSynth
 PackageUrl: https://github.com/FluidSynth/fluidsynth
-License: LGPL-2.1
+License: LGPL-2.1-or-later
 ShortDescription: Software synthesizer based on the SoundFont 2 specifications.
 Tags:
 - requirescmd
