@@ -134,6 +134,7 @@
 * ♫ puhitaku.mtplvcap (Requires a Nikon DSLR device to run properly)
 * ♫ Sniffnet (Has Npcap as a dependency)
 * ♫ WinDump (Has Npcap as dependency)
+* Yamaha Vocaloid (.exe is in a .zip inside a .zip)
 
 ## Can't be silently installed:
 * `https://www•mousemux•com/files/mousemux-v2-installer.exe`
