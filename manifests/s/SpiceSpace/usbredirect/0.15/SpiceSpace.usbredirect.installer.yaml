@@ -1,0 +1,12 @@
+# yaml-language-server: $schema=https://aka.ms/winget-manifest.installer.1.12.0.schema.json
+
+PackageIdentifier: SpiceSpace.usbredirect
+PackageVersion: "0.15"
+InstallerType: msi
+ProductCode: '{C773C459-1A94-44F4-9C1F-B9766BE0EDE7}'
+Installers:
+- Architecture: x64
+  InstallerUrl: https://www.spice-space.org/download/windows/usbredirect/usbredirect-x64-0.15.0.msi
+  InstallerSha256: E97982881CCDE3E582F1CDD67EF198CB62155E080475BCEA16C4BE4D9160274C
+ManifestType: installer
+ManifestVersion: 1.12.0

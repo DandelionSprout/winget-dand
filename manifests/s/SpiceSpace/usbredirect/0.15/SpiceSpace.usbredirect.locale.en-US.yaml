@@ -1,0 +1,19 @@
+# yaml-language-server: $schema=https://aka.ms/winget-manifest.defaultLocale.1.12.0.schema.json
+
+PackageIdentifier: SpiceSpace.usbredirect
+PackageVersion: "0.15"
+PackageLocale: en-US
+Publisher: Spice Space
+PackageName: usbredirect
+PackageUrl: https://www.spice-space.org/download.html
+License: Unclear (Freeware)
+ShortDescription: Spice virtual machine USB redirection can now be achieved in Windows with the standalone usbredirect binary.
+Moniker: usbredirect
+Tags:
+- spice-virtual-machines
+- spicevirtualmachines
+- spice-vms
+- spicevms
+- usb-redirect
+ManifestType: defaultLocale
+ManifestVersion: 1.12.0
