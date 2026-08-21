@@ -1,4 +1,5 @@
 # yaml-language-server: $schema=https://aka.ms/winget-manifest.installer.1.12.0.schema.json
+# Not submitted to pkgs due to: Unlikely to get admin focus due to backslashes in the filepath; the app being ARM64-only means I can't test it, for that matter.
 
 PackageIdentifier: worproject.PEInstaller
 PackageVersion: "1.1"
