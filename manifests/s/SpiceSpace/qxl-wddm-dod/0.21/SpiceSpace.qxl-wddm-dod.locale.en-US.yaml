@@ -1,0 +1,13 @@
+# Created using wingetcreate 1.12.13.0
+# yaml-language-server: $schema=https://aka.ms/winget-manifest.defaultLocale.1.12.0.schema.json
+
+PackageIdentifier: SpiceSpace.qxl-wddm-dod
+PackageVersion: "0.21"
+PackageLocale: en-US
+Publisher: Red Hat, Inc.
+PackageName: qxl-wddm-dod
+PackageUrl: https://www.spice-space.org/download.html
+License: Unclear (Freeware)
+ShortDescription: gtbnreuidgbtueriogbertouigbtr
+ManifestType: defaultLocale
+ManifestVersion: 1.12.0

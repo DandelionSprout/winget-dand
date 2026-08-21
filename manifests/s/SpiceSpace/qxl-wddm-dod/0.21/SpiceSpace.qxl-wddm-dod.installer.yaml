@@ -1,0 +1,14 @@
+# yaml-language-server: $schema=https://aka.ms/winget-manifest.installer.1.12.0.schema.json
+# Not submitted to pkgs due to: Unlikely to get admin focus due to having no post-installation executables.
+
+PackageIdentifier: SpiceSpace.qxl-wddm-dod
+PackageVersion: "0.21"
+InstallerType: msi
+ProductCode: '{4E1338D0-6035-4ED7-B2F0-57DBCF3369DB}'
+Installers:
+- Architecture: x64
+  InstallerUrl: https://www.spice-space.org/download/windows/qxl-wddm-dod/qxl-wddm-dod-0.21/QxlWddmDod_0.21.0.0_x64.msi
+  InstallerSha256: CDC3031A30BBAB2C22D0EE211A1EDE49CD809FF3B208F7FDD07F5108B0B4C52B
+# Add the x86 installer at some point.
+ManifestType: installer
+ManifestVersion: 1.12.0
