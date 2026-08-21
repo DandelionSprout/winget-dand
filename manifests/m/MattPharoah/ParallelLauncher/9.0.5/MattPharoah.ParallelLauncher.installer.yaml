@@ -1,4 +1,5 @@
 # yaml-language-server: $schema=https://aka.ms/winget-manifest.installer.1.12.0.schema.json
+# Already submitted to pkgs: https://github.com/microsoft/winget-pkgs/pull/422166
 
 PackageIdentifier: MattPharoah.ParallelLauncher
 PackageVersion: 9.0.5
