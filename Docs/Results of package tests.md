@@ -346,3 +346,4 @@
 * LibRetro Ludo (Ugly logo)
 * Meld Spark Plugin for OBS (I'm too old for Aİ-functions-only stuff)
 * AntiCheatExpert (Tencent/PRC app)
+* PiMon (PRC app)
