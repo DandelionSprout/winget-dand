@@ -1,4 +1,5 @@
 # yaml-language-server: $schema=https://aka.ms/winget-manifest.installer.1.12.0.schema.json
+# Already submitted to pkgs: https://github.com/microsoft/winget-pkgs/pull/420833
 
 PackageIdentifier: irixxxx.PicoDrive
 PackageVersion: "2.05"
