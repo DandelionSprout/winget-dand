@@ -1,0 +1,28 @@
+# yaml-language-server: $schema=https://aka.ms/winget-manifest.defaultLocale.1.12.0.schema.json
+
+PackageIdentifier: worproject.PEInstaller
+PackageVersion: "1.1"
+PackageLocale: en-US
+Publisher: worproject
+PublisherUrl: https://worproject.com
+PackageName: Windows on Raspberry PE-based installer
+PackageUrl: https://github.com/worproject/dldserv-mirror
+License: Freeware
+ShortDescription: Imaging tool to install Windows (11 22H2 or earlier) on Raspberry Pi 2 (revision 1.2), 3, 4, and 400.
+Moniker: worpeinstaller
+Tags:
+- raspberry-pi-2
+- raspberry-pi-3
+- raspberry-pi-400
+- raspberrypi2
+- raspberrypi3
+- raspberrypi4
+- rasppi2
+- rasppi3
+- rasppi4
+- windows-on-raspberry-pe-installer
+- windowsonraspberrypebasedinstaller
+- wor-pe-based-installer
+- worpebasedinstaller
+ManifestType: defaultLocale
+ManifestVersion: 1.12.0
