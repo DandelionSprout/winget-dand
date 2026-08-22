@@ -1,0 +1,18 @@
+# yaml-language-server: $schema=https://aka.ms/winget-manifest.defaultLocale.1.12.0.schema.json
+
+PackageIdentifier: AprilNEA.OpenLogi
+PackageVersion: 0.7.4
+PackageLocale: en-US
+Publisher: AprilNEA
+PackageName: OpenLogi
+PackageUrl: https://github.com/AprilNEA/OpenLogi
+License: Dual-license with Apache-2.0 and MIT
+ShortDescription: A native, local-first alternative to Logitech Options+, written in Rust. Unlock the full capabilities of Logitech mice, keyboards, and webcams over HID++ and UVC.
+Tags:
+- open-logi
+- logitech-devices
+- logitech-mice
+- logitech-keyboards
+- logitech-webcams
+ManifestType: defaultLocale
+ManifestVersion: 1.12.0
