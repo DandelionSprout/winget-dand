@@ -1,0 +1,23 @@
+# yaml-language-server: $schema=https://aka.ms/winget-manifest.installer.1.12.0.schema.json
+# Not submitted to pkgs due to: Ain't worth the effort when the filepaths have slashes.
+
+PackageIdentifier: Qt.Qbs
+PackageVersion: 3.3.1
+InstallerType: zip
+NestedInstallerType: portable
+NestedInstallerFiles:
+- RelativeFilePath: bin\qbs-config-ui.exe
+- RelativeFilePath: bin\qbs-config.exe
+- RelativeFilePath: bin\qbs-create-project.exe
+- RelativeFilePath: bin\qbs-setup-android.exe
+- RelativeFilePath: bin\qbs-setup-qt.exe
+- RelativeFilePath: bin\qbs-setup-toolchains.exe
+- RelativeFilePath: bin\qbs.exe
+- RelativeFilePath: bin\qbs_processlauncher.exe
+ArchiveBinariesDependOnPath: true
+Installers:
+- Architecture: x64
+  InstallerUrl: https://download.qt.io/official_releases/qbs/3.3.1/qbs-windows-x86_64-3.3.1.zip
+  InstallerSha256: EBA61EDA8715D86D4D313CBAD432C01393979A69392E65847216625BBE3E2A48
+ManifestType: installer
+ManifestVersion: 1.12.0
