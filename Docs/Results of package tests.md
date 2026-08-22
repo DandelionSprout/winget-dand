@@ -278,6 +278,7 @@
 * Splice Instrument (1min)
 * McAfee WebAdvisor (3〜6 days)
 * Syrinscape Online
+* Readwise Reader
 
 ## HTTP "Forbidden" or similar:
 * AmpliTube
