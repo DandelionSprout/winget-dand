@@ -136,6 +136,7 @@
 * ♫ WinDump (Has Npcap as dependency)
 * Yamaha Vocaloid (.exe is in a .zip inside a .zip)
 * Microsoft.Edge.GameAssist (Team Edge decided that MV3 was a good idea. It is not.)
+* Qt Creator (Requires a QT Account login in the middle of installation)
 
 ## Can't be silently installed:
 * `https://www•mousemux•com/files/mousemux-v2-installer.exe`
