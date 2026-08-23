@@ -1,0 +1,12 @@
+# yaml-language-server: $schema=https://aka.ms/winget-manifest.defaultLocale.1.12.0.schema.json
+
+PackageIdentifier: StasMCorp.rdpwrap
+PackageVersion: 1.6.2
+PackageLocale: en-US
+Publisher: Stas’M Corp. and contributors
+PackageName: RDP Wrapper Library
+PackageUrl: https://github.com/stascorp/rdpwrap
+License: Apache-2.0
+ShortDescription: The goal of this project is to enable Remote Desktop Host support and concurrent RDP sessions on reduced functionality systems for home usage.
+ManifestType: defaultLocale
+ManifestVersion: 1.12.0

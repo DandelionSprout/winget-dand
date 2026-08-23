@@ -1,0 +1,13 @@
+# Created using wingetcreate 1.12.13.0
+# yaml-language-server: $schema=https://aka.ms/winget-manifest.installer.1.12.0.schema.json
+
+PackageIdentifier: StasMCorp.rdpwrap
+PackageVersion: 1.6.2
+InstallerType: msi
+ProductCode: '{37EA5771-3352-4A52-9FAC-9297331DAEBD}'
+Installers:
+- Architecture: x86
+  InstallerUrl: https://github.com/stascorp/rdpwrap/releases/download/v1.6.2/RDPWInst-v1.6.2.msi
+  InstallerSha256: 9899FFECF141AB4535EC702FACBF2B4233903B428B862F3A87E635D09C6244DE
+ManifestType: installer
+ManifestVersion: 1.12.0
