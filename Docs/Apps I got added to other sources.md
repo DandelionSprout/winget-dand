@@ -28,7 +28,7 @@ An incomplete list of packages that I myself remember as that I was the one that
 * Easy2Convert.png2dds
 * EKA2L1.EKA2L1
 * elfpie.TizenAppInstaller
-* EpicGames.EpicOnlineServices
+* EpicGames.EpicOnlineServices ★
 * EpicGames.EpicOnlineServicesSDK.CSharp
 * epigramx.WiimoteHook
 * EPSON.EpsonNetConfig.Portable
@@ -37,7 +37,7 @@ An incomplete list of packages that I myself remember as that I was the one that
 * EPSON.PhotoPlus
 * EPSON.Scan.OCRComponent
 * EPSON.Scan.PDFExtensions
-* EPSON.SoftwareUpdater
+* EPSON.SoftwareUpdater ★
 * Exploitox.GoAwayEdge
 * Futuremark.FuturemarkSystemInfo
 * gamigo.WildTangentGamesApp
@@ -69,13 +69,13 @@ An incomplete list of packages that I myself remember as that I was the one that
 * LarryESmith.FreeNFS
 * LesFerch.FolderThumbnailFix
 * MagnusAuvinen.Teeworlds
-* MAMEdev.MAME
+* MAMEdev.MAME ★
 * Marvell.AQtionAqnic650
 * MasujiSUTO.StereoPhotoMaker
 * Maxprograms.TMXValidator
 * Medibang.JumpPaint
 * MeldStudio.MeldStudio
-* Microsoft.365Copilot
+* Microsoft.365Copilot ★
 * Microsoft.ADMPHO
 * Microsoft.Azure.ArcSetup
 * Microsoft.Azure.Az
@@ -84,7 +84,7 @@ An incomplete list of packages that I myself remember as that I was the one that
 * Microsoft.DirectXTex.(...)
 * Microsoft.DotNet.CodeContracts
 * Microsoft.DotNet.dotnet-ef
-* Microsoft.DotNet.Framework.Runtime
+* Microsoft.DotNet.Framework.Runtime ★
 * Microsoft.DotNet.RepairTool
 * Microsoft.eBPFforWindows
 * Microsoft.Firewire1394LegacyDriver
@@ -139,7 +139,7 @@ An incomplete list of packages that I myself remember as that I was the one that
 * Nvidia.UEFIFirmwareUpdater[45]0xx
 * OpusSystemer.Norway.OpusDental
 * PeCeTfull.Weather95Plus20
-* PlayStation.PlayStationAccessories
+* PlayStation.PlayStationAccessories ★
 * Porzeraklon.BlackJackCLI
 * PredatH0r.ChanSort
 * Python.PythonEmbeddablePackage.3.14
@@ -149,7 +149,7 @@ An incomplete list of packages that I myself remember as that I was the one that
 * Regul.SaveCleaner
 * rix0rrr.WindowsPathEditor
 * rmcrackan.Libation
-* Rockstar Games Launcher
+* Rockstar Games Launcher ★
 * SamsidParty.OberonRemote.(...)
 * Samsung.ScannerDecoderApp
 * Samurai-X-13.Jacked
@@ -184,3 +184,6 @@ An incomplete list of packages that I myself remember as that I was the one that
 * WorldHealthOrganization.DORIS
 * XnSoft.XnShell
 * Zint.Zint
+* Microsoft.DotNet.Framework.Redistributable.1_1 ★
+
+★ = Was considered by me as a holy grail, whose existence of a silent installer was considered mythical until I found one.
