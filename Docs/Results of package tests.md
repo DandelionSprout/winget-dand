@@ -211,7 +211,7 @@
 * Firefox's MSI installers (Winget fails to realise that the installation has finished)
 * SPICE Guest Tools (Driver install prompt that can only be closed manually)
 * Rockchip Driver Assistant (Heavily customised installer)
-* Unident Onepix Server (Somehow fails to recognise VC++ 14 x86 installations)
+* Unident Onepix Server (Extremely heavily customised MSI-disguised-as-.exe, with various parts including the licence acceptance and SQL login credentials having no known ways to skip.)
 
 ## App is pointless:
 * VLC FreeSans font (Pointless due to it being a singular GNU-available font)
