@@ -210,6 +210,7 @@
 * Bitwarden Web Self-Hosted (Its only executable is an icons-font)
 * Firefox's MSI installers (Winget fails to realise that the installation has finished)
 * SPICE Guest Tools (Driver install prompt that can only be closed manually)
+* Rockchip Driver Assistant (Heavily customised installer)
 
 ## App is pointless:
 * VLC FreeSans font (Pointless due to it being a singular GNU-available font)
