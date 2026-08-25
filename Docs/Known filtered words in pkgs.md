@@ -22,3 +22,4 @@ The list below is case-insensitive unless specified otherwise.
 * " cp" (word-wrapped)
 * " eset"
 * " HP " (unconfirmed)
+* p.do (unconfirmed)
