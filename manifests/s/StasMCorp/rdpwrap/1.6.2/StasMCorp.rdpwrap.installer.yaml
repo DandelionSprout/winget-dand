@@ -1,5 +1,5 @@
-# Created using wingetcreate 1.12.13.0
 # yaml-language-server: $schema=https://aka.ms/winget-manifest.installer.1.12.0.schema.json
+# Not submitted to pkgs due to: Apparently Windows Security has a named detection family solely for this (PUA:Win32/RDPWrap). I don't even know, man.
 
 PackageIdentifier: StasMCorp.rdpwrap
 PackageVersion: 1.6.2
