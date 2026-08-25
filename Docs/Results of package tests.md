@@ -212,6 +212,7 @@
 * SPICE Guest Tools (Driver install prompt that can only be closed manually)
 * Rockchip Driver Assistant (Heavily customised installer)
 * Unident Onepix Server (Extremely heavily customised MSI-disguised-as-.exe, with various parts including the licence acceptance and SQL login credentials having no known ways to skip.)
+* SQL Server SSMA for Access (Has Microsoft Data Access Objects libraries as a hard dependency, for which no installer URL is known.)
 
 ## App is pointless:
 * VLC FreeSans font (Pointless due to it being a singular GNU-available font)
