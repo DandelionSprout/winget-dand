@@ -138,6 +138,7 @@
 * Microsoft.Edge.GameAssist (Team Edge decided that MV3 was a good idea. It is not.)
 * Qt Creator (Requires a QT Account login in the middle of installation)
 * ASUS MB Manager (Requires an ASUS motherboard in order to be installed)
+* hіfihеdgehоg anything (Practising Сhristian and/or Mоrmоn)
 
 ## Can't be silently installed:
 * `https://www•mousemux•com/files/mousemux-v2-installer.exe`
@@ -355,4 +356,3 @@
 * Meld Spark Plugin for OBS (I'm too old for Aİ-functions-only stuff)
 * AntiCheatExpert (Tencent/PRC app)
 * PiMon (PRC app)
-* hifihedgehog anything (Practising Christian and/or Mormon)
