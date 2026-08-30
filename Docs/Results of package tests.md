@@ -230,6 +230,7 @@
 * ASUS PCE-BE6500 Tri-band PCIe WiFi Adapter (Is an older version of `mtkwecx.inf`, a.k.a. MediaTek Wi-Fi 7 MT7925 Wireless LAN Card #6)
 * Klarna Desktop App (Turned out to be such a successful phish that I myself nearly fell for it. Those guys were pros.)
 * TurtleWoW (Was shut down)
+* Intel® Wireless Wi-Fi Drivers / Intel PROSet/Wireless Software (No longer writes to registry as of 24.60)
 
 ## App doesn't work or is incomprehensible:
 * `https://github.com/dekotan24/iwara-downloader`
