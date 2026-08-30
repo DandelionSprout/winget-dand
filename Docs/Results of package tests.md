@@ -139,6 +139,7 @@
 * Qt Creator (Requires a QT Account login in the middle of installation)
 * ASUS MB Manager (Requires an ASUS motherboard in order to be installed)
 * hіfihеdgehоg anything (Practising Сhristian and/or Mоrmоn)
+* ELowry Winget Updater (Its attempts at removing the "Unknown" version status of many of my apps, caused problems for at least Sublime Text and TrackMania United Forever)
 
 ## Can't be silently installed:
 * `https://www•mousemux•com/files/mousemux-v2-installer.exe`
