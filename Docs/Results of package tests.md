@@ -287,6 +287,7 @@
 * Syrinscape Online
 * Readwise Reader
 * reWASD
+* Samsung Android USB Driver
 
 ## HTTP "Forbidden" or similar:
 * AmpliTube
