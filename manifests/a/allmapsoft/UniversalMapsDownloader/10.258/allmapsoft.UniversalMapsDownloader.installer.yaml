@@ -1,0 +1,12 @@
+# yaml-language-server: $schema=https://aka.ms/winget-manifest.installer.1.12.0.schema.json
+
+PackageIdentifier: allmapsoft.UniversalMapsDownloader
+PackageVersion: "10.258"
+ReleaseDate: 2026-08-16
+InstallerType: inno
+Installers:
+- Architecture: x86
+  InstallerUrl: https://www.allmapsoft.com/umd/download/umd_setup.exe
+  InstallerSha256: BD600A6DDA1CCD4935F54E5DD66E4DFEA23AA59456FD2A6836D9AEFFF3F25E29
+ManifestType: installer
+ManifestVersion: 1.12.0

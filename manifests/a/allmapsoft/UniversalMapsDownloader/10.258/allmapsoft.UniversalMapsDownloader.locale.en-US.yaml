@@ -1,0 +1,14 @@
+# yaml-language-server: $schema=https://aka.ms/winget-manifest.defaultLocale.1.12.0.schema.json
+
+PackageIdentifier: allmapsoft.UniversalMapsDownloader
+PackageVersion: "10.258"
+PackageLocale: en-US
+Publisher: allmapsoft
+PackageName: Universal Maps Downloader
+PackageUrl: https://www.allmapsoft.com/umd/index.html
+License: Proprietary (Feature-limited trialware)
+ShortDescription: gnrteuighbneruiogbnteuighbrt
+ReleaseNotesUrl: https://www.allmapsoft.com/umd/history.htm
+PurchaseUrl: https://www.allmapsoft.com/umd/buy.htm
+ManifestType: defaultLocale
+ManifestVersion: 1.12.0
