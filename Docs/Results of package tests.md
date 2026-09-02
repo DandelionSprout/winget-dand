@@ -141,6 +141,7 @@
 * hіfihеdgehоg anything (Practising Сhristian and/or Mоrmоn)
 * ELowry Winget Updater (Its attempts at removing the "Unknown" version status of many of my apps, caused problems for at least Sublime Text and TrackMania United Forever)
 * Konami e-Amusement / Konast / Amusement Game Station ("This installer can only be run in full UI mode")
+* CodeMeter Runtime Kit Reduced (No known installer URL)
 
 ## Can't be silently installed:
 * `https://www•mousemux•com/files/mousemux-v2-installer.exe`
