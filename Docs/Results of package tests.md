@@ -144,6 +144,7 @@
 * CodeMeter Runtime Kit Reduced (No known installer URL)
 * Avast Secure Browser (Is MV3)
 * Keysight Licensing Daemon / Keysight License Server (No known functioning installer URL)
+* Riot Client (No immediately known standalone installer URL)
 
 ## Can't be silently installed:
 * `https://www•mousemux•com/files/mousemux-v2-installer.exe`
