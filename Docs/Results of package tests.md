@@ -146,6 +146,7 @@
 * Keysight Licensing Daemon / Keysight License Server (No known functioning installer URL)
 * Riot Client (No immediately known standalone installer URL)
 * Microsoft Access Database Engine 2010 (No installer URL is known to still exist)
+* vs_CoreEditorFonts (No known installer URL)
 
 ## Can't be silently installed:
 * `https://www•mousemux•com/files/mousemux-v2-installer.exe`
