@@ -10,12 +10,10 @@
 * AMD Chipset Drivers (Almost certainly "InternetOpenUrl() failed.")
 * AMD Cleanup Utility ("InternetOpenUrl() failed.")
 * AMD Ryzen Master (Very weird installer)
-* ASUS Armoury Crate SE Service (No known installer URLs; the "Armoury Crate SE Installer" just installs the regular Armoury Crate)
 * ASUS Business Manager (Strange installer)
 * ASUS Device Discovery (Error 2147753984)
 * ASUS DriverHub (Requires an ASUS motherboard to complete installation)
 * ASUS System Control Interface 3 ("This version of ASUS System Control Interface driver of your machine cannot support some function, click "OK" for more information."⁽ˢⁱᶜ⁾)
-* CertsUpdater Saber Interactive (No known installer URLs)
 * Cisco Packet Tracer (Installer is behind a login wall)
 * COAA.PlanePlotter (Pipeline bug treats the launch prompt as that it hasn't finished installing)
 * Collabora Office (Version number in registry collides with LibreOffice; probably warrants re-testing now that I know how ProductCode works like.)
@@ -38,7 +36,6 @@
 * Microsoft Audit Collection Services for UNIX/Linux (Has Microsoft System Center Operations Manager as a dependency)
 * Microsoft Axe.Windows (Depends on ".NET Core Runtime 6.0 or newer", which could mean a lot of different things, at least 2 of which didn't work.)
 * Microsoft Configuration Manager / ConfigMgr (7Z file)
-* Microsoft Copilot (No known installer URLs; the Edge Beta HoloLens 2 MSIX builds only contain the "Sparse" stub versions of it as far as x64/x86 goes.)
 * Microsoft Log Monitor / LogMonitor / Windows Container Tools (Requires a config JSON that is not automatically created)
 * Microsoft Monitoring Agent / MOMAgent (Error 1603)
 * Microsoft SQL Server 2025 Evaluation Edition (Refuses to recognise /ENU when Windows 11 is set to nb-NO)
@@ -51,7 +48,6 @@
 * Microsoft System Center Orchestrator Service Management Automation Web Servers (Requires turning on the IIS service "Basic Authentication")
 * Microsoft System Center Service Management Automation Runbook Worker (Requires manually setting SERVICEACCOUNT and SERVICEPASSWORD)
 * Microsoft Visual C++ 20xx Redistributable Itanium (Pipelines don't support it even if marked as Neutral)
-* Microsoft WindowsWorkload pretty much anything (No known download links)
 * Microsoft.bpf_performance (Has "eBPF for Windows (MSI)" as a post-installation dependency)
 * Microsoft.DotNet.docfx (Post-installation error "Cannot find config file C:\(...)\docfx.json")
 * Microsoft.DotNet.Native.Framework.1.3 (No known Microsoft-owned distribution places for 1.3.24211.0)
@@ -69,11 +65,9 @@
 * Mozilla Thunderbird Nightly ("Device wide install for msix type is not supported in packaged context.")
 * MPSeal («Could not load file or assembly 'Microsoft.EnterpriseManagement.Core, (...)»)
 * Netbird (ESET detection)
-* NinjaOne (No known installer URLs)
 * Norton anything (No easily apparent installer URLs, and I can't be bothered to look deeper into URLs since it's Norton)
 * NTCore DisasMSIL (Its only .exe is a non-interactive test)
 * NVIDIA Control Panel (AppX inside self-extracting 7Z, no currently known installer switches dedicated to it.)
-* NVIDIA FrameView SDK (No currently known installer URLs)
 * NVIDIA Texture Tools Exporter (Installer is behind a login wall)
 * PatrickGaskin.PulseAudio / pgaskin (Setup installer doesn't work; while the portable `pulseaudio•exe` fails with `../../src/pulseaudio/src/pulsecore/core-util.c: Secure directory creation not supported on this platform.`)
 * PDFMachine (.exe is in a .zip inside a .zip)
@@ -108,15 +102,11 @@
 * RadioDJ (Requires a very, very insecurely configured MySQL in order for a silent installation to succeed)
 * RetriX ("An error occured during the app package analysis")
 * Samsung.Escargot (Depends on the WebAssembly library "Walrus", for which no executables exist)
-* Samsung.Odin (No widely established installer URLs)
-* Scoop (No known installer URLs)
-* Tavernworker (No currently known installer URLs, unless Blacksmith Launcher counts as one)
 * Update Root Certificates ("The package file is not a valid zip archive.")
 * USBip-win(2) (Apparently requires driver test-signing system mode?)
 * Vuze ("could not create unpack process")
 * Wine Gecko ("The file browser!blocklist.xml can't be installed because the file doesn't exist in the cabinet file winegecko.cab. (...)" The non-existence of MSIX/Winget support in Wine doesn't help either.)
 * Wine Mono (Bafflingly tries to start a 2nd installer for a support tool before having finished the 1st installer. The 2nd installer also fails with error 2762.)
-* Xensam Xearch (No known download link)
 * Zygor Client (Installer is behind a login wall)
 * ♪ Bluegrams.ScreenRuler (Supposedly broke repo guidelines about SourceForge)
 * ♪ Command & Conquer: Red Alert 2 & Yuri's Revenge (Has the paid version of Red Alert 2 in a hardcoded folderpath as a dependency for silent installs)
@@ -131,7 +121,7 @@
 * ♪ Microsoft.AccessibilityInsights (Its dev was pissy about it as of 2023)
 * ♫ MSI NBFoundation Service (The installer at https://github.com/xchwarze/msi is clearly unofficial)
 * ♫ PostGIS for PostgreSQL (Requires post-installation folder moves)
-* ♫ puhitaku.mtplvcap (Requires a Nikon DSLR device to run properly)
+* ♪ puhitaku.mtplvcap (Requires a Nikon DSLR device to run properly)
 * ♫ Sniffnet (Has Npcap as a dependency)
 * ♫ WinDump (Has Npcap as dependency)
 * Yamaha Vocaloid (.exe is in a .zip inside a .zip)
@@ -141,14 +131,29 @@
 * hіfihеdgehоg anything (Practising Сhristian and/or Mоrmоn)
 * ELowry Winget Updater (Its attempts at removing the "Unknown" version status of many of my apps, caused problems for at least Sublime Text and TrackMania United Forever)
 * Konami e-Amusement / Konast / Amusement Game Station ("This installer can only be run in full UI mode")
-* CodeMeter Runtime Kit Reduced (No known installer URL)
 * Avast Secure Browser (Is MV3)
-* Keysight Licensing Daemon / Keysight License Server (No known functioning installer URL)
-* Riot Client (No immediately known standalone installer URL)
-* Microsoft Access Database Engine 2010 (No installer URL is known to still exist)
-* vs_CoreEditorFonts (No known installer URL)
-* WinRAR Shell Extension (No known standalone installer URL)
+
+## No known installer URLs:
+* ASUS Armoury Crate SE Service (The "Armoury Crate SE Installer" just installs the regular Armoury Crate)
+* CertsUpdater Saber Interactive
+* CodeMeter Runtime Kit Reduced
 * HHDSoftware.HexEditorNeo.Sparse (No known standalone installer URL)
+* HP Documentation
+* HP Inc. Energy Star
+* Keysight Licensing Daemon / Keysight License Server (No known functioning installer URL)
+* Microsoft Access Database Engine 2010 (No installer URL is known to still exist)
+* Microsoft Consumer Hub v3
+* Microsoft Copilot (The Edge Beta HoloLens 2 MSIX builds only contain the "Sparse" stub versions of it as far as x64/x86 goes.)
+* Microsoft WindowsWorkload pretty much anything
+* NinjaOne (No known installer URLs)
+* NVIDIA FrameView SDK (No currently known installer URLs)
+* Riot Client (No immediately known standalone installer URL)
+* Samsung.Odin (No widely established installer URLs)
+* Scoop
+* Tavernworker (Unless Blacksmith Launcher counts as one)
+* vs_CoreEditorFonts
+* WinRAR Shell Extension (No known standalone installer URL)
+* Xensam Xearch
 
 ## Can't be silently installed:
 * `https://www•mousemux•com/files/mousemux-v2-installer.exe`
