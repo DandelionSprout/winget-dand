@@ -6,10 +6,11 @@ This list aims to cover apps that are either pre-installed on fresh OS installs,
 
 ## List
 | App | Command | Category
-| --- | ------- | --------
+| - | - | -
 | Afrikaans Plaaslike ervaringpak | winget install 9PDW16B5HMXR --force | Language
 | Apple Devices | winget install 9NP83LWLPZ9K --force | App
 | Arial Nova | winget install 9NS5CT1MZ7M8 --force | Font
+| Auto Super Resolution Package | winget install 9PGWVX8TM6XZ --force | App
 | AV1 Video Extension | winget install 9MVZQVXJBQ9V --force | Runtime
 | AVC Encoder Video Extension | winget install 9PB0TRCNRHFX --force | Runtime
 | Azərbaycan dilində Lokal Təcrübə Paketi | winget install 9P5TFKZHQ5K8 --force | Language
@@ -21,6 +22,7 @@ This list aims to cover apps that are either pre-installed on fresh OS installs,
 | Dolby Access | winget install 9N0866FS04W8 --force | App
 | Dolby Digital Plus decoder for PC OEMs | winget install 9NVJQJBDKN97 --force | Runtime
 | Dropbox Lite | winget install 9WZDNCRFJ0PK --force | App
+| Dropbox promotion / Dropbox Campaign | winget install 9NXVKMG8GMTZ --force | App (HP stock?)
 | DTS Sound Unbound | winget install 9PJ0NKL8MCSJ --force | App
 | Eesti keelde lokaliseeritud kasutajaliidese pakett | winget install 9NFBHFMCR30L --force | Language
 | English (United Kingdom) Local Experience Pack | winget install 9NT52VQ39BVN --force | Language
@@ -38,8 +40,12 @@ This list aims to cover apps that are either pre-installed on fresh OS installs,
 | Get Help | winget install 9PKDZBMV1H3T --force | Stock
 | Hausa Fakitin Ƙwarewa ta Gida | winget install 9n1l95dbgrg3 --force | Language
 | HEIF Image Extension | winget install 9PMMSR1CGPWG --force | Runtime
+| HP | winget install 9N9PHDT62W94 --force | Stock (HP)
+| HP PC Privacy Settings / HP Privacy Settings | winget install 9PBDPVGF6TV3 --force | Stock (HP)
+| HP System Event Utility | winget install 9P4W8RFN9M2T --force | Stock (HP)
 | iCloud | winget install 9PKTQ5699M62 --force | App
 | Ikinyarwanda - Local Experience Pack | winget install 9nfw0m20h9wg --force | Language
+| Image Generation Extension | winget install 9NS0DS4B4VFD --force | App
 | Instagram | winget install 9NBLGGH5L9XT --force | App
 | IsiZulu Iphakethe Lokuhlangenwe Nakho Kwasendaweni | winget install 9nnrm7kt5nb0 --force | Language
 | JPEG XL Image Extension | winget install 9MZPRTH5C0TB --force | Runtime
@@ -57,6 +63,7 @@ This list aims to cover apps that are either pre-installed on fresh OS installs,
 | Microsoft Copilot | winget install XP9CXNGPPJ97XX --force | Stock
 | Microsoft Dalia (Natural) - Spanish (Mexico) | winget install 9PJB6PTLJPXZ --force | Language
 | Microsoft Defender | winget install 9P6PMZTM93LR --force | App
+| Microsoft Demo Attract | winget install 9WZDNCRFJBFX --force | Stock (Shops)
 | Microsoft Designer | winget install 9PJGRCLDLX5V --force | App
 | Microsoft Edge (Pre-installed version?) | winget install XPFFTQ037JWMHS --force | Stock
 | Microsoft Family Safety | winget install 9PDJDJS743XF --force | Stock
@@ -68,6 +75,10 @@ This list aims to cover apps that are either pre-installed on fresh OS installs,
 | Microsoft Photos Legacy | winget install 9NV2L4XVMCXM --force | App
 | Microsoft Photos | winget install 9WZDNCRFJBH4 --force | Stock
 | Microsoft Prabhat (Natural) - English (India) | winget install 9PMB6HGFBWDD --force | Language
+| Microsoft Retail Demo Digital Fact Tag | winget install 9PDGKSD18J93 --force | Stock (Shops)
+| Microsoft Retail Demo Experience HUB | winget install 9NR830RHSJQR --force | Stock (Shops)
+| Microsoft Retail Demo Provisioning | winget install 9WZDNCRFJBLJ --force | Stock (Shops)
+| Microsoft Retail Demo | winget install 9NBLGGH42M95 --force | Stock (Shops)
 | Microsoft Sticky Notes | winget install 9NBLGGH4QGHW --force | Stock
 | Microsoft Store | winget install 9WZDNCRFJBMP --force | Stock
 | Microsoft Teams (Pre-installed version) | winget install XP8BT8DW290MPQ --force | Stock
@@ -78,6 +89,7 @@ This list aims to cover apps that are either pre-installed on fresh OS installs,
 | Module d'expérience locale français (Canada) | winget install 9MTP2VP0VL92 --force | Language
 | Module d'expérience locale français (France) | winget install 9NHMG4BJKMDG --force | Language
 | MPEG-2 Video Extension | winget install 9N95Q1ZZPMH4 --force | Runtime
+| RDX-Hotkeys MiracleDevs | winget install 9P07C1XC8XWG --force | Stock (Shops)
 | MSN Weather | winget install 9WZDNCRFJ3Q2 --force | Stock
 | Narrator Extension - Outlook Web App | winget install 9NBMDJMXVC15 --force | App
 | Narrator Extension - ppt / PowerPoint | winget install 9PKHCM2B84NL --force | App
@@ -119,6 +131,7 @@ This list aims to cover apps that are either pre-installed on fresh OS installs,
 | Samsung Gallery | winget install 9NBLGGH4N9R9 --force | App
 | Samsung Notes | winget install 9nblggh43vhv --force | App
 | Samsung Pass | winget install 9mvwdz5kx9lh --force | App
+| Samsung Settings 8.0 | winget install 9P2TBWSHK6HJ --force | Stock (Samsung)
 | Samsung Settings Runtime | winget install 9NL68DVFP841 --force | Runtime
 | Sehlopha sa Maitemogelo a Gae sa Sesotho sa Leboa | winget install 9ns49qlx5cdv --force | Language
 | Slovenski paket lokalnih izkušenj | winget install 9nv27l34j4st --force | Language
