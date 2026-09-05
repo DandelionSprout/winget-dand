@@ -147,6 +147,8 @@
 * Riot Client (No immediately known standalone installer URL)
 * Microsoft Access Database Engine 2010 (No installer URL is known to still exist)
 * vs_CoreEditorFonts (No known installer URL)
+* WinRAR Shell Extension (No known standalone installer URL)
+* HHDSoftware.HexEditorNeo.Sparse (No known standalone installer URL)
 
 ## Can't be silently installed:
 * `https://www•mousemux•com/files/mousemux-v2-installer.exe`
