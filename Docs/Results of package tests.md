@@ -132,6 +132,7 @@
 * ELowry Winget Updater (Its attempts at removing the "Unknown" version status of many of my apps, caused problems for at least Sublime Text and TrackMania United Forever)
 * Konami e-Amusement / Konast / Amusement Game Station ("This installer can only be run in full UI mode")
 * Avast Secure Browser (Is MV3)
+* Gammu standard (Lacks libssl-3-x64.dll)
 
 ## No known installer URLs:
 * ASUS Armoury Crate SE Service (The "Armoury Crate SE Installer" just installs the regular Armoury Crate)
