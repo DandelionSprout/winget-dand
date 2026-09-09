@@ -1,4 +1,7 @@
 ﻿# yaml-language-server: $schema=https://aka.ms/winget-manifest.installer.1.28.0.schema.json
+# Already submitted to pkgs: https://github.com/microsoft/winget-pkgs/pull/430800
+# Already submitted to extras: https://github.com/pl4nty/winget-extras/pull/1228
+
 PackageIdentifier: LubosHasko.Manager.Server
 PackageVersion: 26.5.25.3631
 ReleaseDate: 2026-05-25
