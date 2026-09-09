@@ -1,5 +1,6 @@
 # yaml-language-server: $schema=https://aka.ms/winget-manifest.installer.1.12.0.schema.json
-# Is not in extras due to: The .exe-s were deemed insignificant, as the app's primary focus was development .dll-s; https://github.com/pl4nty/winget-extras/pull/889
+# Not submitted to pkgs due to: Ain't worth the effort when the filepaths have backslashes.
+# Rejected from extras due to: The .exe-s were deemed insignificant, as the app's primary focus was development .dll-s; https://github.com/pl4nty/winget-extras/pull/889
 
 PackageIdentifier: KhronosGroup.OpenXRLoader
 PackageVersion: 1.1.61
