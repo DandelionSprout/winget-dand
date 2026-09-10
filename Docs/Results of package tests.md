@@ -51,7 +51,7 @@
 * Microsoft.DotNet.docfx (Post-installation error "Cannot find config file C:\(...)\docfx.json"; and also the absurd decision to lock off the entire `Microsoft.DotNet` namespace)
 * Microsoft.DotNet.Native.Framework.1.3 (No known Microsoft-owned distribution places for 1.3.24211.0; and also the absurd decision to lock off the entire `Microsoft.DotNet` namespace)
 * Microsoft.DotNet.Native.Runtime.1.7 (No known Microsoft-owned distribution places for 1.7.27422; `https://www.nuget.org/packages/Microsoft.Net.Native.Compiler/1.7.6` only has 1.7.25531; and also the absurd decision to lock off the entire `Microsoft.DotNet` namespace)
-* Microsoft.DotNet.Runtime.1_1 (Version number in registry collides with Microsoft.DotNet.Runtime.3_1; probably warrants re-testing now that I know how ProductCode works like; but also the absurd decision to lock off the entire `Microsoft.DotNet` namespace)
+* Microsoft.DotNet.Runtime.1_1 (The absurd decision to lock off the entire `Microsoft.DotNet` namespace)
 * Microsoft.EnterpriseManagement.GatewayApprovalTool («Could not load file or assembly 'Microsoft.EnterpriseManagement.DataAccessLayer, (...)»)
 * Microsoft.HIS.2020.MigrationTool / Host Integration Server (Overly complicated to use)
 * Microsoft.MIDI.LoopbackService (Pipelines bafflingly complain about error 2180251649)
