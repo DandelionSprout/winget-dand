@@ -224,6 +224,7 @@
 * Yamaha.DM3Editor
 * Yamaha.MOXFRemoteEditor
 * Konami e-Amusement / Konast / Amusement Game Station ("This installer can only be run in full UI mode")
+* ZoneAlarm Free Antivirus
 * ♪ Artifex Software Ghostscript
 * ♪ AVerMedia anything
 * ♪ EqualizerAPO(64) (Gets stuck on "Please select the devices for which Equalizer APO is to be installed.")
