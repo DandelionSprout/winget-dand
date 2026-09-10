@@ -157,10 +157,12 @@
 * Xensam Xearch
 
 ## Can't be silently installed:
-* `https://www•mousemux•com/files/mousemux-v2-installer.exe`
+* 'Vense Connect (Driver install prompt that can only be closed manually)
+* 'Vense Remote (Driver install prompt that can only be closed manually)
+* AlkaidLab.foundation-sunshine (Known to require a driver install)
 * Anything that uses InstallForge (No silent switches)
+* Astrometa DVB-T2 Driver (Throws Error -5, "File not found", for whatever unholy reason I spent 1½ hours failing to figure out how to solve)
 * Audeze.AudezeHQ
-* AVerMedia anything
 * Banking4 Home
 * BenQ anything (Gets stuck on pointless VCredist installation prompt)
 * BrunnerInnovation.vJoy
@@ -172,36 +174,50 @@
 * Eclipso Toolbox (+ Time-expirant installer URL)
 * Epson Firmware Updater
 * Epson Product Setup
-* ♪ EqualizerAPO(64) (Gets stuck on "Please select the devices for which Equalizer APO is to be installed.")
 * ESET Online Scanner
 * Final Fantasy XIV
+* Firefox's MSI installers (Winget fails to realise that the installation has finished)
 * Fluent Store
 * FreeFileSync
 * Fujitsu ScanSnap Home
 * GamesCleaner setup
 * Genshin Impact / MiHoYo / HoYoPlay / Cognosphere
 * Google WebP codec
-* ♪ Artifex Software Ghostscript
+* HP Connection Optimizer (No apparent silent switches)
 * HP Universal Printer Driver / Universal Printing
-* InstallForge
 * Intel Memory and Storage Tool CLI
+* IsaoMaruoka.Pixia (Silent installation fails with error 4294967292)
+* Jigsaw.OutlineClient (Driver install prompt that can only be closed manually)
 * K7 Antivirus Premium (Custom installer)
+* Microsoft Office Subject Interface Packages for Digitally Signing VBA Projects / Sips (Gets stuck on the final prompt, "Files extracted successfully.")
 * Microsoft Remote Desktop Connection (No known silent switches)
 * Microsoft.WindowsHardwareLabKit
 * Mideej
+* Motorola Software Fix (Driver install prompt that can only be closed manually)
+* `https://www•mousemux•com/files/mousemux-v2-installer.exe`
 * NAVER.Whale
 * Nevrona Rave (Gets stuck on "You must enter your serial number.")
-* ♪ Npcap
+* NextPVR (No apparent silent switches)
 * Nvidia 3DVision USB Driver
 * On-premises data gateway Microsoft
 * PowerPanel Business Local/Remote (Gets stuck on "Please select one component to install.")
 * Qt Linguist
+* Rockchip Driver Assistant (Heavily customised installer)
+* Saleae.Logic2 (Driver install prompt that can only be closed manually)
 * Samsung Browser for Windows
+* SPICE Guest Tools (Driver install prompt that can only be closed manually)
+* SQL Server SSMA for Access (Has Microsoft Data Access Objects libraries as a hard dependency, for which no installer URL is known.)
 * TeX Live
+* Thrustmaster.TARGET (Driver install prompt that can only be closed manually)
 * TizenProject.Studio
 * TP-Link.tpPLC
 * TuneBlade
+* Unident Onepix Server (Extremely heavily customised MSI-disguised-as-.exe, with various parts including the licence acceptance and SQL login credentials having no known ways to skip.)
+* VB-CABLE Virtual Audio Device (No apparent silent switches)
 * VirtİO's MSI versions
+* Virtual AC3 Decoder (Has VB-CABLE Virtual Audio Device as a dependency)
+* VIVEPORT (No silent switches)
+* VueScan (Driver install prompt that can only be closed manually)
 * Winpcap
 * wxTED (Gets stuck on a prompt on whether to restart Explorer•exe or not)
 * Xbox main EXE (No known silent switches)
@@ -209,29 +225,12 @@
 * Yamaha.ConsoleFileConverter
 * Yamaha.DM3Editor
 * Yamaha.MOXFRemoteEditor
-* 'Vense Connect (Driver install prompt that can only be closed manually)
-* 'Vense Remote (Driver install prompt that can only be closed manually)
-* Saleae.Logic2 (Driver install prompt that can only be closed manually)
-* Thrustmaster.TARGET (Driver install prompt that can only be closed manually)
-* VueScan (Driver install prompt that can only be closed manually)
-* AlkaidLab.foundation-sunshine (Known to require a driver install)
-* Jigsaw.OutlineClient (Driver install prompt that can only be closed manually)
-* IsaoMaruoka.Pixia (Silent installation fails with error 4294967292)
-* Microsoft Office Subject Interface Packages for Digitally Signing VBA Projects / Sips (Gets stuck on the final prompt, "Files extracted successfully.")
+* ♪ Artifex Software Ghostscript
+* ♪ AVerMedia anything
+* ♪ EqualizerAPO(64) (Gets stuck on "Please select the devices for which Equalizer APO is to be installed.")
+* ♪ InstallForge
+* ♪ Npcap
 * ♫ Locale Emulator
-* Motorola Software Fix (Driver install prompt that can only be closed manually)
-* HP Connection Optimizer (No apparent silent switches)
-* VB-CABLE Virtual Audio Device (No apparent silent switches)
-* Virtual AC3 Decoder (Has VB-CABLE Virtual Audio Device as a dependency)
-* NextPVR (No apparent silent switches)
-* Astrometa DVB-T2 Driver (Throws Error -5, "File not found", for whatever unholy reason I spent 1½ hours failing to figure out how to solve)
-* Bitwarden Web Self-Hosted (Its only executable is an icons-font)
-* Firefox's MSI installers (Winget fails to realise that the installation has finished)
-* SPICE Guest Tools (Driver install prompt that can only be closed manually)
-* Rockchip Driver Assistant (Heavily customised installer)
-* Unident Onepix Server (Extremely heavily customised MSI-disguised-as-.exe, with various parts including the licence acceptance and SQL login credentials having no known ways to skip.)
-* SQL Server SSMA for Access (Has Microsoft Data Access Objects libraries as a hard dependency, for which no installer URL is known.)
-* VIVEPORT (No silent switches)
 
 ## App is pointless:
 * VLC FreeSans font (Pointless due to it being a singular GNU-available font)
@@ -248,27 +247,27 @@
 * Klarna Desktop App (Turned out to be such a successful phish that I myself nearly fell for it. Those guys were pros.)
 * TurtleWoW (Was shut down)
 * Intel® Wireless Wi-Fi Drivers / Intel PROSet/Wireless Software (No longer writes to registry as of 24.60)
+* Bitwarden Web Self-Hosted (Its only executable is an icons-font)
 
 ## App doesn't work or is incomprehensible:
-* `https://github.com/dekotan24/iwara-downloader`
 * Abdi-Suufi.WeatherApp
 * Apertus Forecast
 * BrianPeek.MultipleWiimoteTester/WiimoteLib
 * EdenwareApps.Megacubo
+* Egyptology Extended
 * EuanRiggins.BulkURLOpener
 * GamesCleaner portable ("Zugriffsverletzung bei Adresse 004CFF50 in Modul 'GamesCleaner.exe'. Lesen von Adresse 00000000")
 * GNOME Glom (Crashes on launch)
 * Hydraulic.Conveyor
+* `https://github.com/dekotan24/iwara-downloader`
 * JFrog.ArtifactoryCommunityEdition
 * lixkote PRIExplorer ("This application could not be started")
 * Microsoft GDI+ Detection Tool
 * Microsoft Office 365 Centralized Deployment Checker
-* ♪ Microsoft ROS / Robot Operating System (Completely incomprehensible how it works)
 * Microsoft SQLToolsService Migration
 * Microsoft.Azure.WindowsVMAgent
 * Microsoft.Delprof
 * Microsoft.legacyapp
-* ♫ Microsoft.PhyloD (App's purpose and commands are incomprehensible)
 * Microsoft.settingchange
 * Microsoft.SystemCenterManagement(...)
 * Microsoft.Teams.NetworkAssessmentTool
@@ -278,10 +277,11 @@
 * osmanonurkoc.WinGetInstaller
 * Samsung CHashApp / ScanAndDecode
 * samuelngs.apple-emoji-ttf
+* UniGetUI Widgets (Compatibility removed in newer UniGetUI versions; see `https://github.com/Devolutions/UniGetUI/issues/4798`)
 * WeatherWise
 * winget-new-repos DanielTaufiq
-* UniGetUI Widgets (Compatibility removed in newer UniGetUI versions; see `https://github.com/Devolutions/UniGetUI/issues/4798`)
-* Egyptology Extended
+* ♪ Microsoft ROS / Robot Operating System (Completely incomprehensible how it works)
+* ♫ Microsoft.PhyloD (App's purpose and commands are incomprehensible)
 
 ## All sorts of certificate errors:
 |   |   |
@@ -317,7 +317,8 @@
 * No$gba
 * phpBB•com
 * Segger J-Link (Anti-bot measures for its download link)
-* AMD Software: Adrenalin Edition ("Download Not Complete" anti-"external access" measures)
+* AMD pretty much anything ("Download Not Complete" anti-"external access" measures)
+* * AMD Software: Adrenalin Edition
 * download-center•epson•com
 * AltDVB
 
