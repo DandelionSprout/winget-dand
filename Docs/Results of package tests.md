@@ -14,10 +14,9 @@
 * ASUS Device Discovery (Error 2147753984)
 * ASUS DriverHub (Requires an ASUS motherboard to complete installation)
 * ASUS System Control Interface 3 ("This version of ASUS System Control Interface driver of your machine cannot support some function, click "OK" for more information."⁽ˢⁱᶜ⁾)
-* Cisco Packet Tracer (Installer is behind a login wall)
 * COAA.PlanePlotter (Pipeline bug treats the launch prompt as that it hasn't finished installing)
-* Collabora Office (Version number in registry collides with LibreOffice; probably warrants re-testing now that I know how ProductCode works like.)
-* crypto20111.IDR (Has disasm as a post-installation dependency; hard to tell which disasm version is the correct one)
+* Collabora Office (Version number in registry collided with LibreOffice; while as of August 2026 it was no longer possible to determine if any installer URLs still existed.)
+* crypto20111.IDR (Has disasm as a post-installation dependency; hard to tell which disasm version is the correct on)
 * DuckStation's .exe installers (Heavily customised installer)
 * EitherMouse ("System.Xml.XmlException: 'v3' is an undeclared prefix."; `https://stackoverflow•com/questions/7557464/workaround-for-undeclared-prefix-error-on-xelement-load`)
 * Elixir-lang.Elixir (The only post-install .exe is the uninstaller)
@@ -225,6 +224,7 @@
 * Yamaha.MOXFRemoteEditor
 * Konami e-Amusement / Konast / Amusement Game Station ("This installer can only be run in full UI mode")
 * ZoneAlarm Free Antivirus
+* Cisco Packet Tracer (Installer is behind a login wall)
 * ♪ Artifex Software Ghostscript
 * ♪ AVerMedia anything
 * ♪ EqualizerAPO(64) (Gets stuck on "Please select the devices for which Equalizer APO is to be installed.")
