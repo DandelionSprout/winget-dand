@@ -34,7 +34,6 @@
 * Lynx Browser ("No SSL library found" seemingly no matter what)
 * MediaWiki (Its only .exe-s in the zip archive are outdated Lua installers)
 * Microsoft Audit Collection Services for UNIX/Linux (Has Microsoft System Center Operations Manager as a dependency)
-* Microsoft Axe.Windows (Depends on ".NET Core Runtime 6.0 or newer", which could mean a lot of different things, at least 2 of which didn't work.)
 * Microsoft Configuration Manager / ConfigMgr (7Z file)
 * Microsoft Log Monitor / LogMonitor / Windows Container Tools (Requires a config JSON that is not automatically created)
 * Microsoft Monitoring Agent / MOMAgent (Error 1603)
@@ -49,10 +48,10 @@
 * Microsoft System Center Service Management Automation Runbook Worker (Requires manually setting SERVICEACCOUNT and SERVICEPASSWORD)
 * Microsoft Visual C++ 20xx Redistributable Itanium (Pipelines don't support it even if marked as Neutral)
 * Microsoft.bpf_performance (Has "eBPF for Windows (MSI)" as a post-installation dependency)
-* Microsoft.DotNet.docfx (Post-installation error "Cannot find config file C:\(...)\docfx.json")
-* Microsoft.DotNet.Native.Framework.1.3 (No known Microsoft-owned distribution places for 1.3.24211.0)
-* Microsoft.DotNet.Native.Runtime.1.7 (No known Microsoft-owned distribution places for 1.7.27422; `https://www.nuget.org/packages/Microsoft.Net.Native.Compiler/1.7.6` only has 1.7.25531)
-* Microsoft.DotNet.Runtime.1_1 (Version number in registry collides with Microsoft.DotNet.Runtime.3_1; probably warrants re-testing now that I know how ProductCode works like.)
+* Microsoft.DotNet.docfx (Post-installation error "Cannot find config file C:\(...)\docfx.json"; and also the absurd decision to lock off the entire `Microsoft.DotNet` namespace)
+* Microsoft.DotNet.Native.Framework.1.3 (No known Microsoft-owned distribution places for 1.3.24211.0; and also the absurd decision to lock off the entire `Microsoft.DotNet` namespace)
+* Microsoft.DotNet.Native.Runtime.1.7 (No known Microsoft-owned distribution places for 1.7.27422; `https://www.nuget.org/packages/Microsoft.Net.Native.Compiler/1.7.6` only has 1.7.25531; and also the absurd decision to lock off the entire `Microsoft.DotNet` namespace)
+* Microsoft.DotNet.Runtime.1_1 (Version number in registry collides with Microsoft.DotNet.Runtime.3_1; probably warrants re-testing now that I know how ProductCode works like; but also the absurd decision to lock off the entire `Microsoft.DotNet` namespace)
 * Microsoft.EnterpriseManagement.GatewayApprovalTool («Could not load file or assembly 'Microsoft.EnterpriseManagement.DataAccessLayer, (...)»)
 * Microsoft.HIS.2020.MigrationTool / Host Integration Server (Overly complicated to use)
 * Microsoft.MIDI.LoopbackService (Pipelines bafflingly complain about error 2180251649)
@@ -98,7 +97,7 @@
 * Python's tcltk.msi (Installer crashes silently with 0xc00000FD)
 * Python's test.msi (Installer crashes silently with 0xc00000FD)
 * Python's ucrt.msi (Installer crashes silently with 0xc00000FD)
-* RabbitMQ (Installation fails with error 21)
+* RabbitMQ (Installation fails with error 21; probably warrants re-testing)
 * RadioDJ (Requires a very, very insecurely configured MySQL in order for a silent installation to succeed)
 * RetriX ("An error occured during the app package analysis")
 * Samsung.Escargot (Depends on the WebAssembly library "Walrus", for which no executables exist)
@@ -107,7 +106,6 @@
 * Vuze ("could not create unpack process")
 * Wine Gecko ("The file browser!blocklist.xml can't be installed because the file doesn't exist in the cabinet file winegecko.cab. (...)" The non-existence of MSIX/Winget support in Wine doesn't help either.)
 * Wine Mono (Bafflingly tries to start a 2nd installer for a support tool before having finished the 1st installer. The 2nd installer also fails with error 2762.)
-* Zygor Client (Installer is behind a login wall)
 * ♪ Bluegrams.ScreenRuler (Supposedly broke repo guidelines about SourceForge)
 * ♪ Command & Conquer: Red Alert 2 & Yuri's Revenge (Has the paid version of Red Alert 2 in a hardcoded folderpath as a dependency for silent installs)
 * ♪ GarudaLinux.FireDragon (ARM64 version has a false positive "Can't install silently" pipeline error)
@@ -130,9 +128,8 @@
 * ASUS MB Manager (Requires an ASUS motherboard in order to be installed)
 * hіfihеdgehоg anything (Practising Сhristian and/or Mоrmоn)
 * ELowry Winget Updater (Its attempts at removing the "Unknown" version status of many of my apps, caused problems for at least Sublime Text and TrackMania United Forever)
-* Konami e-Amusement / Konast / Amusement Game Station ("This installer can only be run in full UI mode")
 * Avast Secure Browser (Is MV3)
-* Gammu standard (Lacks libssl-3-x64.dll)
+* Gammu standard (Lacks libssl-3-x64.dll; likely requires OpenSSL v3 and not v4)
 
 ## No known installer URLs:
 * ASUS Armoury Crate SE Service (The "Armoury Crate SE Installer" just installs the regular Armoury Crate)
@@ -147,7 +144,7 @@
 * Microsoft Copilot (The Edge Beta HoloLens 2 MSIX builds only contain the "Sparse" stub versions of it as far as x64/x86 goes.)
 * Microsoft WindowsWorkload pretty much anything
 * NinjaOne (No known installer URLs)
-* NVIDIA FrameView SDK (No currently known installer URLs)
+* NVIDIA FrameView SDK (No currently known standalone installer URLs)
 * Riot Client (No immediately known standalone installer URL)
 * Samsung.Odin (No widely established installer URLs)
 * Scoop
@@ -155,6 +152,7 @@
 * vs_CoreEditorFonts
 * WinRAR Shell Extension (No known standalone installer URL)
 * Xensam Xearch
+* Zygor Client (Installer is behind a login wall)
 
 ## Can't be silently installed:
 * 'Vense Connect (Driver install prompt that can only be closed manually)
@@ -225,6 +223,7 @@
 * Yamaha.ConsoleFileConverter
 * Yamaha.DM3Editor
 * Yamaha.MOXFRemoteEditor
+* Konami e-Amusement / Konast / Amusement Game Station ("This installer can only be run in full UI mode")
 * ♪ Artifex Software Ghostscript
 * ♪ AVerMedia anything
 * ♪ EqualizerAPO(64) (Gets stuck on "Please select the devices for which Equalizer APO is to be installed.")
