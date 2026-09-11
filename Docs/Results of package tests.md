@@ -128,7 +128,6 @@
 * hіfihеdgehоg anything (Practising Сhristian and/or Mоrmоn)
 * ELowry Winget Updater (Its attempts at removing the "Unknown" version status of many of my apps, caused problems for at least Sublime Text and TrackMania United Forever)
 * Avast Secure Browser (Is MV3)
-* Gammu standard (Lacks libssl-3-x64.dll; likely requires OpenSSL v3 and not v4)
 
 ## No known installer URLs:
 * ASUS Armoury Crate SE Service (The "Armoury Crate SE Installer" just installs the regular Armoury Crate)
@@ -358,6 +357,7 @@
 * BabelMap
 * GhostPCL
 * GhostXPS
+* Gammu standard (Set ShiningLight.OpenSSL.LTS.Light as a dependency)
 
 ## I cannot in good spirit add these due to my personal conscience, but I wouldn't stop others from adding them:
 * Microsoft.Services.Store.Engagement (I'm in the adblocking community for a reason)
