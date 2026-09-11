@@ -144,6 +144,7 @@
 * Microsoft WindowsWorkload pretty much anything
 * NinjaOne (No known installer URLs)
 * NVIDIA FrameView SDK (No currently known standalone installer URLs)
+* NVIDIA HD Audio Driver (No currently known standalone installer URLs)
 * Riot Client (No immediately known standalone installer URL)
 * Samsung.Odin (No widely established installer URLs)
 * Scoop
@@ -152,6 +153,8 @@
 * WinRAR Shell Extension (No known standalone installer URL)
 * Xensam Xearch
 * Zygor Client (Installer is behind a login wall)
+* Rockstar Games SDK (No known standalone installer URL)
+* Unlocker
 
 ## Can't be silently installed:
 * 'Vense Connect (Driver install prompt that can only be closed manually)
