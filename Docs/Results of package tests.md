@@ -154,6 +154,7 @@
 * Zygor Client (Installer is behind a login wall)
 * Rockstar Games SDK (No known standalone installer URL)
 * Unlocker
+* Microsoft Windows Application Compatibility Fix Database
 
 ## Can't be silently installed:
 * 'Vense Connect (Driver install prompt that can only be closed manually)
