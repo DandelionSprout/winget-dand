@@ -158,6 +158,7 @@
 * Microsoft Windows Application Compatibility Fix Database
 * Stellar Codec Pack
 * WestlawVideoClipping (No known standalone installer URL)
+* Microsoft SQL Server 2019 LocalDB (No known standalone installer URL)
 
 ## Can't be silently installed:
 * 'Vense Connect (Driver install prompt that can only be closed manually)
