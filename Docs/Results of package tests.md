@@ -327,6 +327,7 @@
 * * AMD Software: Adrenalin Edition
 * download-center•epson•com
 * AltDVB
+* FTDI CDM Driver Package (…) / FTDI Chip
 
 ## Self-extracting 7Z-s disguised as .exe-s:
 * Microsoft Endpoint Community Manager (Self-extracting 7Z)
