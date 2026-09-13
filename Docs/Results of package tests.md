@@ -384,3 +384,4 @@
 * Meld Spark Plugin for OBS (I'm too old for Aİ-functions-only stuff)
 * AntiCheatExpert (Tencent/PRC app)
 * PiMon (PRC app)
+* "wch.cn (CH343SER_A64) Ports" (PRC app)
