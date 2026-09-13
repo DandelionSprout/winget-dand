@@ -104,7 +104,7 @@
 * USBip-win(2) (Apparently requires driver test-signing system mode?)
 * Vuze ("could not create unpack process")
 * Wine Gecko ("The file browser!blocklist.xml can't be installed because the file doesn't exist in the cabinet file winegecko.cab. (...)" The non-existence of MSIX/Winget support in Wine doesn't help either.)
-* Wine Mono (Bafflingly tries to start a 2nd installer for a support tool before having finished the 1st installer. The 2nd installer also fails with error 2762.)
+* ♪ Wine Mono (Bafflingly tries to start a 2nd installer for a support tool before having finished the 1st installer. The 2nd installer also fails with error 2762.)
 * ♪ Bluegrams.ScreenRuler (Supposedly broke repo guidelines about SourceForge)
 * ♪ Command & Conquer: Red Alert 2 & Yuri's Revenge (Has the paid version of Red Alert 2 in a hardcoded folderpath as a dependency for silent installs)
 * ♪ GarudaLinux.FireDragon (ARM64 version has a false positive "Can't install silently" pipeline error)
@@ -316,6 +316,7 @@
 * Readwise Reader
 * reWASD
 * STMicroelectronics stuff (Single-use installer URLs)
+* Badgy Premium Suite 2 (1〜2 hours)
 
 ## HTTP "Forbidden" or similar:
 * AmpliTube
