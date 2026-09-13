@@ -160,6 +160,8 @@
 * WestlawVideoClipping (No known standalone installer URL)
 * Microsoft SQL Server 2019 LocalDB (No known standalone installer URL)
 * Wine Mono Windows Support (No known standalone installer URL)
+* Altova XML-Schema Manager
+* "Hikvision (mvu3v) MvisionUSB"
 
 ## Can't be silently installed:
 * 'Vense Connect (Driver install prompt that can only be closed manually)
