@@ -313,6 +313,7 @@
 * Syrinscape Online
 * Readwise Reader
 * reWASD
+* STMicroelectronics stuff (Single-use installer URLs)
 
 ## HTTP "Forbidden" or similar:
 * AmpliTube
