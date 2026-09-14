@@ -129,6 +129,7 @@
 * ELowry Winget Updater (Its attempts at removing the "Unknown" version status of many of my apps, caused problems for at least Sublime Text and TrackMania United Forever)
 * Avast Secure Browser (Is MV3)
 * UpdateStar (Microsoft Defender considers it PUP. The app also isn't all that good.)
+* VibeMate (No extension support)
 
 ## No known installer URLs:
 * ASUS Armoury Crate SE Service (The "Armoury Crate SE Installer" just installs the regular Armoury Crate)
