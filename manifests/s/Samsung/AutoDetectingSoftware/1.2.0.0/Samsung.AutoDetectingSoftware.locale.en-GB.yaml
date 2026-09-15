@@ -1,0 +1,13 @@
+# yaml-language-server: $schema=https://aka.ms/winget-manifest.locale.1.28.0.schema.json
+
+PackageIdentifier: Samsung.AutoDetectingSoftware
+PackageVersion: 1.2.0.0
+PackageLocale: en-GB
+ShortDescription: A compatibility layer used for the "Detect your product" button on Samsung's Download Centre websites.
+Tags:
+- samsung-auto-detecting-software
+- detect-your-product
+- samsung-download-centre
+- samsung-pcs
+ManifestType: locale
+ManifestVersion: 1.28.0

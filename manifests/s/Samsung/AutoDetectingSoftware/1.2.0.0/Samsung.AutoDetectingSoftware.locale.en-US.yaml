@@ -1,0 +1,18 @@
+# yaml-language-server: $schema=https://aka.ms/winget-manifest.defaultLocale.1.28.0.schema.json
+
+PackageIdentifier: Samsung.AutoDetectingSoftware
+PackageVersion: 1.2.0.0
+PackageLocale: en-US
+Publisher: Samsung Electronics Co., Ltd.
+PackageName: Auto-detecting Software
+PackageUrl: https://www.samsung.com/global/galaxybooks-downloadcenter/
+License: Freeware
+ShortDescription: A compatibility layer used for the "Detect your product" button on Samsung's Download Center websites.
+Moniker: samsungautodetectingsoftware
+Tags:
+- samsung-auto-detecting-software
+- detect-your-product
+- samsung-download-center
+- samsung-pcs
+ManifestType: defaultLocale
+ManifestVersion: 1.28.0

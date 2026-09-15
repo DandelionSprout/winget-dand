@@ -1,0 +1,14 @@
+# yaml-language-server: $schema=https://aka.ms/winget-manifest.installer.1.28.0.schema.json
+# Cannot be submitted to pkgs due to: Seemingly crashes silently on non-Samsung PCs.
+
+PackageIdentifier: Samsung.AutoDetectingSoftware
+PackageVersion: 1.2.0.0
+InstallerType: msi
+ProductCode: '{6B022427-E244-4AD4-BE33-DAAB53B7E853}'
+Installers:
+- Architecture: x64
+  InstallerUrl: https://downloadcenter.samsung.com/content/AUTO/detecting/auto-detecting-software_v1200.msi
+  InstallerSha256: 2B4BADFA75EE791512AF7442C306E8BB49D80CB17C03C490135DFD3801DF3BEE
+ElevationRequirement: elevatesSelf
+ManifestType: installer
+ManifestVersion: 1.28.0
