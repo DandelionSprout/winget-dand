@@ -130,6 +130,7 @@
 * Avast Secure Browser (Is MV3)
 * UpdateStar (Microsoft Defender considers it PUP. The app also isn't all that good.)
 * VibeMate (No extension support)
+* Samsung Frame Manager ("This setup is only for windows 7 operating system"⁽ˢⁱᶜ⁾)
 
 ## No known installer URLs:
 * ASUS Armoury Crate SE Service (The "Armoury Crate SE Installer" just installs the regular Armoury Crate)
