@@ -243,6 +243,7 @@
 * ♪ InstallForge
 * ♪ Npcap
 * ♫ Locale Emulator
+* ASUS Support Agent (No silent switches)
 
 ## App is pointless:
 * VLC FreeSans font (Pointless due to it being a singular GNU-available font)
