@@ -16,7 +16,7 @@
 * ASUS System Control Interface 3 ("This version of ASUS System Control Interface driver of your machine cannot support some function, click "OK" for more information."⁽ˢⁱᶜ⁾)
 * COAA.PlanePlotter (Pipeline bug treats the launch prompt as that it hasn't finished installing)
 * Collabora Office (Version number in registry collided with LibreOffice; while as of August 2026 it was no longer possible to determine if any installer URLs still existed.)
-* crypto20111.IDR (Has disasm as a post-installation dependency; hard to tell which disasm version is the correct on)
+* crypto20111.IDR (Has disasm as a post-installation dependency; hard to tell which disasm version is the correct one)
 * DuckStation's .exe installers (Heavily customised installer)
 * EitherMouse ("System.Xml.XmlException: 'v3' is an undeclared prefix."; `https://stackoverflow•com/questions/7557464/workaround-for-undeclared-prefix-error-on-xelement-load`)
 * Elixir-lang.Elixir (The only post-install .exe is the uninstaller)
@@ -167,7 +167,7 @@
 
 ## Can't be silently installed:
 * 'Vense Connect (Driver install prompt that can only be closed manually)
-* 'Vense Remote (Driver install prompt that can only be closed manually)
+* ♪ 'Vense Remote (Driver install prompt that can only be closed manually)
 * AlkaidLab.foundation-sunshine (Known to require a driver install)
 * Anything that uses InstallForge (No silent switches)
 * Astrometa DVB-T2 Driver (Throws Error -5, "File not found", for whatever unholy reason I spent 1½ hours failing to figure out how to solve)
@@ -204,7 +204,6 @@
 * Mideej
 * Motorola Software Fix (Driver install prompt that can only be closed manually)
 * `https://www•mousemux•com/files/mousemux-v2-installer.exe`
-* NAVER.Whale
 * Nevrona Rave (Gets stuck on "You must enter your serial number.")
 * NextPVR (No apparent silent switches)
 * Nvidia 3DVision USB Driver
