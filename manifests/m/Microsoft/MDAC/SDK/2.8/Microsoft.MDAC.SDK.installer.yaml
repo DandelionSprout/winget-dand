@@ -1,10 +1,9 @@
-# Created using wingetcreate 1.12.13.0
 # yaml-language-server: $schema=https://aka.ms/winget-manifest.installer.1.12.0.schema.json
 
 PackageIdentifier: Microsoft.MDAC.SDK
 PackageVersion: "2.8"
-InstallerLocale: en-US
-InstallerType: wix
+ReleaseDate: 2004-02-25
+InstallerType: msi
 ProductCode: '{DB29456E-BB83-42EE-9BD8-75A821560FBE}'
 Installers:
 - Architecture: x86
