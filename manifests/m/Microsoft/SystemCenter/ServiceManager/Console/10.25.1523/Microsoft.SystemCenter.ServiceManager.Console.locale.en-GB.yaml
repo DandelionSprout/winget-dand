@@ -1,0 +1,12 @@
+# yaml-language-server: $schema=https://aka.ms/winget-manifest.locale.1.28.0.schema.json
+PackageIdentifier: Microsoft.SystemCenter.ServiceManager.Console
+PackageVersion: 10.25.1523
+PackageLocale: en-GB
+PackageName: System Centre Service Manager Console
+ShortDescription: Dashboard for System Centre Service Manager.
+Tags:
+- system-centre-service-manager-console
+- systemcentreservicemanagerconsole
+- scsmc
+ManifestType: locale
+ManifestVersion: 1.28.0
