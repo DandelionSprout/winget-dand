@@ -133,6 +133,7 @@
 * Samsung Frame Manager ("This setup is only for windows 7 operating system"⁽ˢⁱᶜ⁾)
 * Samsung Recovery Solution 5 ("There is no Samsung Recovery area on your hard drive")
 * NVIDIA Mellanox WinOF-2 (Installer fails for no apparent reason)
+* ShowKeyPlus (.exe is in a .zip inside a .zip)
 
 ## No known installer URLs:
 * ASUS Armoury Crate SE Service (The "Armoury Crate SE Installer" just installs the regular Armoury Crate)
