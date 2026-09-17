@@ -34,15 +34,17 @@ This list aims to cover apps that are either pre-installed on fresh OS installs,
 | Films & TV | winget install 9WZDNCRFJ3P2 --force | Stock
 | Fresh Paint | winget install 9WZDNCRFJB13 --force | App
 | Gaeilge Paca Eispéiris Logánta | winget install 9P0L5Q848KXT --force | Language
+| Galaxy Book Experience | winget install 9P7QF37HPMGX --force | Stock (Samsung)
+| Galaxy Book Smart Switch | winget install 9PJ0J9KQWCLB --force | Stock (Samsung)
 | Galaxy Buds | winget install 9NHTLWTKFZNB --force | App
 | Game Bar | winget install 9NZKPSTSNW4P --force | Stock
 | Gaming Services | winget install 9MWPM2CQNLHN --force | Stock
 | Get Help | winget install 9PKDZBMV1H3T --force | Stock
 | Hausa Fakitin Ƙwarewa ta Gida | winget install 9n1l95dbgrg3 --force | Language
 | HEIF Image Extension | winget install 9PMMSR1CGPWG --force | Runtime
-| HP | winget install 9N9PHDT62W94 --force | Stock (HP)
 | HP PC Privacy Settings / HP Privacy Settings | winget install 9PBDPVGF6TV3 --force | Stock (HP)
 | HP System Event Utility | winget install 9P4W8RFN9M2T --force | Stock (HP)
+| HP | winget install 9N9PHDT62W94 --force | Stock (HP)
 | iCloud | winget install 9PKTQ5699M62 --force | App
 | Ikinyarwanda - Local Experience Pack | winget install 9nfw0m20h9wg --force | Language
 | Image Generation Extension | winget install 9NS0DS4B4VFD --force | App
@@ -89,7 +91,6 @@ This list aims to cover apps that are either pre-installed on fresh OS installs,
 | Module d'expérience locale français (Canada) | winget install 9MTP2VP0VL92 --force | Language
 | Module d'expérience locale français (France) | winget install 9NHMG4BJKMDG --force | Language
 | MPEG-2 Video Extension | winget install 9N95Q1ZZPMH4 --force | Runtime
-| RDX-Hotkeys MiracleDevs | winget install 9P07C1XC8XWG --force | Stock (Shops)
 | MSN Weather | winget install 9WZDNCRFJ3Q2 --force | Stock
 | Narrator Extension - Outlook Web App | winget install 9NBMDJMXVC15 --force | App
 | Narrator Extension - ppt / PowerPoint | winget install 9PKHCM2B84NL --force | App
@@ -122,16 +123,21 @@ This list aims to cover apps that are either pre-installed on fresh OS installs,
 | Quick Assist | winget install 9P7BP5VNWKX5 --force | App
 | Quick Share (Samsung) | winget install 9PCTGDFXVZLJ --force | App
 | Raw Image Extension | winget install 9NCTDW2W1BH8 --force | Runtime
+| RDX-Hotkeys MiracleDevs | winget install 9P07C1XC8XWG --force | Stock (Shops)
 | Realtek Audio Control | winget install 9P2B8MCSVPLN --force | App
 | Runasimi Hunta Local Yachaykuna | winget install 9nhtx8nvq04k --force | Language
 | Samsung Cloud | winget install 9NFWHCHM52HQ --force | App
 | Samsung Devices | winget install 9P98T77876KZ --force | App
 | Samsung Find | winget install 9MWD59CZJ1RN --force | App
+| Samsung Flow | winget install 9NBLGGH5GB0M --force | Stock (Samsung)
 | Samsung Gallery | winget install 9NBLGGH4N9R9 --force | App
 | Samsung Notes | winget install 9nblggh43vhv --force | App
 | Samsung Pass | winget install 9mvwdz5kx9lh --force | App
+| Samsung Screen Recorder | winget install 9P5025MM7WDT --force | Stock (Samsung)
+| Samsung Settings (ARM) | winget install 9NW64C92QB0K --force | Stock (Samsung)
 | Samsung Settings 8.0 | winget install 9P2TBWSHK6HJ --force | Stock (Samsung)
 | Samsung Settings Runtime | winget install 9NL68DVFP841 --force | Runtime
+| SamsungCarePlusLauncher / Samsung Care+ | winget install 9N7BWD4QL90R --force | Stock (Samsung)
 | Sehlopha sa Maitemogelo a Gae sa Sesotho sa Leboa | winget install 9ns49qlx5cdv --force | Language
 | Slovenski paket lokalnih izkušenj | winget install 9nv27l34j4st --force | Language
 | Smart Connect | winget install XP8JRF5SXV03ZM --force | App
@@ -223,6 +229,7 @@ This list aims to cover apps that are either pre-installed on fresh OS installs,
 * 3D Builder
 * 3D Viewer
 * Canon Inkjet Print Utility
+* Cortana
 * Dolby AC-4 decoder for PC OEMs
 * Facebook 1C2D851A
 * Flipgrid
@@ -254,8 +261,10 @@ This list aims to cover apps that are either pre-installed on fresh OS installs,
 * reaConverter Context Menu Manager
 * SmartConnectExtInstaller
 * Store Experiences Host / Store Purchase App
+* Windows Maps
 * Windows Security
 * Word Mobile
+* Xbox Console Companion
 * Pretty much all videogames except Minecraft Education and possibly Duolingo; see `https://github.com/microsoft/winget-cli/issues/5818`
 
 ## Notes
