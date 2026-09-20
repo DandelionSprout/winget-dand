@@ -1,5 +1,4 @@
 # yaml-language-server: $schema=https://aka.ms/winget-manifest.installer.1.12.0.schema.json
-# Not submitted to pkgs due to: Ain't worth it when the filepath has backslashes.
 
 PackageIdentifier: Qualcomm.SecurityTools
 PackageVersion: "1.50"
