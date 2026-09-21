@@ -246,6 +246,7 @@
 * ♪ Npcap
 * ♫ Locale Emulator
 * ASUS Support Agent (No silent switches)
+* Arm Performance Studio (Generic error 1603 when run silently)
 
 ## App is pointless:
 * VLC FreeSans font (Pointless due to it being a singular GNU-available font)
