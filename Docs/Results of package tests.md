@@ -247,6 +247,7 @@
 * ♫ Locale Emulator
 * ASUS Support Agent (No silent switches)
 * Arm Performance Studio (Generic error 1603 when run silently)
+* Arm Keil MDK-ARM (Driver install prompt that can only be closed manually)
 
 ## App is pointless:
 * VLC FreeSans font (Pointless due to it being a singular GNU-available font)
