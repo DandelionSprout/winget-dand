@@ -326,6 +326,7 @@
 * reWASD
 * STMicroelectronics stuff (Single-use installer URLs)
 * Badgy Premium Suite 2 (1〜2 hours)
+* Klim Test Fonts
 
 ## HTTP "Forbidden" or similar:
 * AmpliTube
