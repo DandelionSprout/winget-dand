@@ -134,6 +134,7 @@
 * Samsung Recovery Solution 5 ("There is no Samsung Recovery area on your hard drive")
 * NVIDIA Mellanox WinOF-2 (Installer fails for no apparent reason)
 * ShowKeyPlus (.exe is in a .zip inside a .zip)
+* gg sans (Absurdly restrictive licence)
 
 ## No known installer URLs:
 * ASUS Armoury Crate SE Service (The "Armoury Crate SE Installer" just installs the regular Armoury Crate)
