@@ -1,5 +1,6 @@
 # yaml-language-server: $schema=https://aka.ms/winget-manifest.installer.1.12.0.schema.json
 # Not submitted to pkgs due to: Unlikely to get admin focus due to having no post-installation executables.
+# Note to self: The app has merit on its own, as the app it's allegedly supposed to be bundled in (spice-guest-tools) is 2 years older than the recentmost qxl-wddm-dod version.
 
 PackageIdentifier: SpiceSpace.qxl-wddm-dod
 PackageVersion: "0.21"
