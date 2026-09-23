@@ -11,8 +11,9 @@ Installers:
 - Architecture: x86
   InstallerUrl: https://docs.broadcom.com/docs-and-downloads/oem/support/elx/rt14.4.28/14.4.900.12/elxdrvr-fc-14.4.871.0-1.exe
   InstallerSha256: 4082BB4D78775A42BA010283A47F338EE1D7974FAE2B46C890D2543B78454AF6
-  ProductCode: '{C223EC5B-FE00-4731-A35A-CC844B5CA79F}' # Remember to crosscheck in the 26H1 VM.
+  ProductCode: '{C223EC5B-FE00-4731-A35A-CC844B5CA79F}'
   AppsAndFeaturesEntries:
   - ProductCode: '{C223EC5B-FE00-4731-A35A-CC844B5CA79F}'
+    DisplayVersion: 14.4.871.0-1
 ManifestType: installer
 ManifestVersion: 1.12.0
