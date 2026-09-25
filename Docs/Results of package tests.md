@@ -374,10 +374,10 @@
 * łzbench (A likely false positive detection by ESET)
 
 ## Will likely work, but Wingetcreate throws "Failed to parse the package from" and I'm tired:
-* BabelPad
-* BabelMap
-* GhostPCL
-* GhostXPS
+* ♫ BabelPad
+* ♫ BabelMap
+* ♫ GhostPCL
+* ♫ GhostXPS
 * Gammu standard (Set ShiningLight.OpenSSL.LTS.Light as a dependency)
 
 ## I cannot in good spirit add these due to my personal conscience, but I wouldn't stop others from adding them:
