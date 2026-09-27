@@ -2,26 +2,39 @@ The following apps in winget-pkgs are believed to be more-likely-than-not to hav
 
 For high-starred repos with "k" in their ★ numbers, the ★-s in the table are rounded down to the nearest 100. The ★ counts are not kept up to date after their initial addings.
 
-## Inno / Setup EXE
+## Inno / Nullsoft / Setup EXE
 For full accuracy, apps in the first table should be handled by users with access to ARM64 Windows devices.
 
 | ID | ★ | Notes
 | - | - | -
+| 0-don.clippy | 229
 | AmanThanvi.winghostty | 397 | Is about Ghostty, and has nothing to do with Winget hosting.
 | AmarBego.GitTop | 8
+| bornova.numara | 281
 | ErkanOzgurYilmaz.DisplayCAL | 
 | GermanCoding.SyncTrayzor | 2,000
+| hooosberg.WitNote | 570
 | KandoMenu.Kando | 6,400
 | LinwoodCloud.Butterfly | 
+| maygo.tockler | 1,100
 | MinBrowser.Min | 
+| msitarzewski.AgencyAgents | 595
+| PicGo.PicGo | 
 | QuestPackageManager.QuestPackageManager | 
+| RcloneUI.RcloneUI | 
+| RoderickQiu.wnr | 1,100
 | sebescudie.GammaLauncher | 63
+| SIMSDEV.AndroidAppsManager | 
 | TEdit.TEdit | 
+| Thewh1teagle.vibe | 7,600
+| WilsonGlasser.Oryxis | 338
+| Yaak.app | 19,300
 
 ## MSI / Portable / Unsorted
+Reasonably possible even for users *without* access to ARM64 Windows devices to handle.
+
 | ID | ★ | Notes
 | - | - | -
-| 0-don.clippy | 229
 | Adembc.Lazyssh | 4,000
 | Amnezia.AmneziaWG | 1,100 | .MSI
 | aroum.che | 30
@@ -29,7 +42,6 @@ For full accuracy, apps in the first table should be handled by users with acces
 | autobrr.upbrr.gui | 227
 | Ayideyia.GUI-for-Clash | 2,800
 | Ayideyia.GUI-for-SingBox | 
-| bornova.numara | 281
 | Carvel.ytt | 1,900
 | CelikE.soko | 
 | Chill-Astro.Lamina | 
@@ -42,7 +54,6 @@ For full accuracy, apps in the first table should be handled by users with acces
 | FujiApple.Claptrap | 14
 | FujiApple.Trippy | 
 | hellobertrand.zxc | 465
-| hooosberg.WitNote | 570
 | HunterBown.DeepSeek-TUI | 
 | igoogolx.itun2socks | 15
 | Indent.Access | 
@@ -50,10 +61,8 @@ For full accuracy, apps in the first table should be handled by users with acces
 | JustArchiNET.ArchiSteamFarm | 
 | koepalex.CrowsNestMQTT | 16
 | Lune.Lune | 
-| maygo.tockler | 1,100
 | Microsoft.Azure.Kubelogin | 
 | MikeFarah.yq | 
-| msitarzewski.AgencyAgents | 595
 | mulhamna.jirac | 
 | mulhamna.jirac-mcp | 
 | nolanderc.glsl_analyzer | 384
@@ -61,28 +70,21 @@ For full accuracy, apps in the first table should be handled by users with acces
 | packetThrower.Baudrun | 29 | .MSI
 | packetThrower.Zorite | | .MSI
 | peanut996.CloudflareWarpSpeedTest | 873
-| PicGo.PicGo | 
 | ractive.hyalo | 27
-| RcloneUI.RcloneUI | 
 | riyasy.FlyPhotos | 797 | .MSI
-| RoderickQiu.wnr | 1,100
 | Rojo.Rojo | 1,800
 | rsteube.Carapace | 2,000
-| SIMSDEV.AndroidAppsManager | 
 | skssmd.Graft | 10
 | Slik.Subversion | 76 | .MSI
 | snapetech.iptvtunerr | 13
 | spacelift-io.spacectl | 171
 | Spicetify.Spicetify | 24,700
 | taiki-e.parse-changelog | 66
-| Thewh1teagle.vibe | 7,600
 | UniversityOfAmsterdam.praat | 2,000
 | Veirt.weathr | 
 | Wilfred.difftastic | 
-| WilsonGlasser.Oryxis | 338
 | xoofx.kalk | 342
 | XueshiQiao.NetstatCat | 27 | .MSI
-| Yaak.app | 19,300
 | yitsushi.totp-cli | 377
 | ZeroNet.ZeroNet | 
 | ~~1History.1History~~ | 551
