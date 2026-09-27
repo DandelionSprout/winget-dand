@@ -2,12 +2,23 @@ The following apps in winget-pkgs are believed to be more-likely-than-not to hav
 
 For high-starred repos with "k" in their ★ numbers, the ★-s in the table are rounded down to the nearest 100. The ★ counts are not kept up to date after their initial addings.
 
+## Inno
+For full accuracy, apps in the first table should be handled by users with access to ARM64 Windows devices.
+
+| ID | ★ | Notes
+| - | - | -
+| AmanThanvi.winghostty | 397 | Is about Ghostty, and has nothing to do with Winget hosting.
+| AmarBego.GitTop | 8
+| ErkanOzgurYilmaz.DisplayCAL | 
+| GermanCoding.SyncTrayzor | 2,000
+| LinwoodCloud.Butterfly | 
+| sebescudie.GammaLauncher | 63
+
+## MSI / Portable / Unsorted
 | ID | ★ | Notes
 | - | - | -
 | 0-don.clippy | 229
 | Adembc.Lazyssh | 4,000
-| AmanThanvi.winghostty | 397 | Is about Ghostty, and has nothing to do with Winget hosting.
-| AmarBego.GitTop | 8
 | Amnezia.AmneziaWG | 1,100 | .MSI
 | aroum.che | 30
 | autobrr.upbrr.cli | 227
@@ -22,12 +33,10 @@ For high-starred repos with "k" in their ★ numbers, the ★-s in the table are
 | danielsiegl.gitsqlite | 24
 | Envoy49.go-spotify-cli | 
 | erikbra.grate | 297 | .MSI
-| ErkanOzgurYilmaz.DisplayCAL | 
 | FilenCloud.Filen-cli | 284
 | Fluxzy.Fluxzy | 
 | FujiApple.Claptrap | 14
 | FujiApple.Trippy | 
-| GermanCoding.SyncTrayzor | 2,000
 | hellobertrand.zxc | 465
 | hooosberg.WitNote | 570
 | HunterBown.DeepSeek-TUI | 
@@ -37,7 +46,6 @@ For high-starred repos with "k" in their ★ numbers, the ★-s in the table are
 | JustArchiNET.ArchiSteamFarm | 
 | KandoMenu.Kando | 6,400
 | koepalex.CrowsNestMQTT | 16
-| LinwoodCloud.Butterfly | 
 | Lune.Lune | 
 | maygo.tockler | 1,100
 | Microsoft.Azure.Kubelogin | 
@@ -59,7 +67,6 @@ For high-starred repos with "k" in their ★ numbers, the ★-s in the table are
 | RoderickQiu.wnr | 1,100
 | Rojo.Rojo | 1,800
 | rsteube.Carapace | 2,000
-| sebescudie.GammaLauncher | 63
 | SIMSDEV.AndroidAppsManager | 
 | skssmd.Graft | 10
 | Slik.Subversion | 76 | .MSI
