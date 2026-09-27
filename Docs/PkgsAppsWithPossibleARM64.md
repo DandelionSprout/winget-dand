@@ -82,7 +82,7 @@ For high-starred repos with "k" in their ★ numbers, the ★-s in the table are
 | ~~AnInsomniacy.MotrixNext~~ | 10,500 | Seemingly renamed "Motrix Next" → "Rayburst".
 | ~~AppiumDevelopers.AppiumInspector~~ | 
 | ~~chen08209.FlClash~~ | 53,500
-| ~~garethgeorge.Backrest~~ | 7,400
+| ~~garethgeorge.Backrest~~ | 7,400 | Falsely claims "Validation-Executable-Error".
 | ~~HunterBown.CodeWhale~~ | 
 | ~~jeffvli.Feishin~~ | 10,000
 | ~~Microsoft.ScreenRecorder~~ | | Keeps falsely claiming "Validation-Executable-Error".
