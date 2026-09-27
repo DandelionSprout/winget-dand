@@ -24,7 +24,7 @@ For high-starred repos with "k" in their ★ numbers, the ★-s in the table are
 | bornova.numara | 281
 | Carvel.ytt | 1,900
 | CelikE.soko | 
-| chen08209.FlClash | 53,500
+| ~~chen08209.FlClash~~ | 53,500
 | Chill-Astro.Lamina | 
 | CubeSoft.CubePDFUtility | 
 | CycloneDX.cdxgen | 
