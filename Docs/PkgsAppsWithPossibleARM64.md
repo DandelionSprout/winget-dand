@@ -26,7 +26,7 @@ For full accuracy, apps in the first table should be handled by users with acces
 | TEdit.TEdit | | Terraria thingie.
 | Thewh1teagle.vibe | 7,600
 | WilsonGlasser.Oryxis | 338
-| ~~Yaak.app~~ | 19,300
+| ~~Yaak.app~~ | 19,300 | "Validation-Installation-Error".
 
 ## MSI / Portable / Unsorted
 Reasonably possible even for users *without* access to ARM64 Windows devices to handle.
