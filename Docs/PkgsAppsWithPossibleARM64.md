@@ -71,7 +71,7 @@ For high-starred repos with "k" in their ★ numbers, the ★-s in the table are
 | snapetech.iptvtunerr | 13
 | SnapXL.SnapX | 1,000 | .MSI
 | spacelift-io.spacectl | 171
-| Spicetify.Spicetify | 
+| Spicetify.Spicetify | 24,700
 | taiki-e.parse-changelog | 66
 | TEdit.TEdit | 
 | Thewh1teagle.vibe | 7,600
