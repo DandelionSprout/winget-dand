@@ -5,13 +5,11 @@ For high-starred repos with "k" in their ★ numbers, the ★-s in the table are
 | ID | ★ | Notes
 | - | - | -
 | 0-don.clippy | 229
-| 1History.1History | 551
 | 5mdt.WinGoDarkTray | 3
 | Adembc.Lazyssh | 4,000
 | AmanThanvi.winghostty | 397 | Is about Ghostty, and has nothing to do with Winget hosting.
 | AmarBego.GitTop | 8
 | Amnezia.AmneziaWG | 1,100 | .MSI
-| AnInsomniacy.MotrixNext | 10,500 | Seemingly renamed "Motrix Next" → "Rayburst".
 | aroum.che | 30
 | autobrr.upbrr.cli | 227
 | autobrr.upbrr.gui | 227
@@ -34,11 +32,9 @@ For high-starred repos with "k" in their ★ numbers, the ★-s in the table are
 | GermanCoding.SyncTrayzor | 2,000
 | hellobertrand.zxc | 465
 | hooosberg.WitNote | 570
-| HunterBown.CodeWhale | 
 | HunterBown.DeepSeek-TUI | 
 | igoogolx.itun2socks | 15
 | Indent.Access | 
-| jeffvli.Feishin | 10,000
 | jtroo.kanata_gui | 7,900
 | JustArchiNET.ArchiSteamFarm | 
 | KandoMenu.Kando | 6,400
@@ -54,7 +50,6 @@ For high-starred repos with "k" in their ★ numbers, the ★-s in the table are
 | mulhamna.jirac-mcp | 
 | nolanderc.glsl_analyzer | 384
 | oldj.switchhosts | 27,200
-| OpenAudible.OpenAudible | 1,800
 | OrryVerducci.TtxFromTS | 17
 | packetThrower.Baudrun | 29 | .MSI
 | packetThrower.Zorite | | .MSI
@@ -64,15 +59,12 @@ For high-starred repos with "k" in their ★ numbers, the ★-s in the table are
 | QwerProg.bt | 
 | ractive.hyalo | 27
 | RcloneUI.RcloneUI | 
-| RIA.Libdigidocpp | 109 | .MSI; Estonian agency, not to be mistaken for the Russian channel.
 | riyasy.FlyPhotos | 797 | .MSI
 | RoderickQiu.wnr | 1,100
 | Rojo.Rojo | 1,800
 | rsteube.Carapace | 2,000
 | ScottMcKendry.Pat | 4
 | sebescudie.GammaLauncher | 63
-| Sentry.sentry-cli | | https://github.com/microsoft/winget-pkgs/pull/436106 or equivalent should be merged first.
-| Simprint.Simprint | 
 | SIMSDEV.AndroidAppsManager | 
 | skssmd.Graft | 10
 | Slik.Subversion | 76 | .MSI
@@ -93,13 +85,21 @@ For high-starred repos with "k" in their ★ numbers, the ★-s in the table are
 | Yaak.app | 19,300
 | yitsushi.totp-cli | 377
 | ZeroNet.ZeroNet | 
+| ~~1History.1History~~ | 551
+| ~~AnInsomniacy.MotrixNext~~ | 10,500 | Seemingly renamed "Motrix Next" → "Rayburst".
 | ~~AppiumDevelopers.AppiumInspector~~ | 
 | ~~chen08209.FlClash~~ | 53,500
 | ~~garethgeorge.Backrest~~ | 7,400
+| ~~HunterBown.CodeWhale~~ | 
+| ~~jeffvli.Feishin~~ | 10,000
 | ~~Microsoft.ScreenRecorder~~ | | Keeps falsely claiming "Validation-Executable-Error".
 | ~~OlegShparber.Zeal~~ | 12,800
+| ~~OpenAudible.OpenAudible~~ | 1,800
 | ~~PTRTECH.UVtools~~ | 1,600 | .MSI
 | ~~QGIS.QField~~ | 1,400 | .MSI
+| ~~RIA.Libdigidocpp~~ | 109 | .MSI; Estonian agency, not to be mistaken for the Russian channel.
+| ~~Sentry.sentry-cli~~ | 
+| ~~Simprint.Simprint~~ | 
 | ~~SuperTuxKart.SuperTuxKart~~ | 
 | ~~WerWolv.ImHex~~ | 54,900 | .MSI
 | ~~WidelandsDevelopmentTeam.Widelands~~ | 
