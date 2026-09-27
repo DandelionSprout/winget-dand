@@ -7,27 +7,23 @@ For high-starred repos with "k" in their ★ numbers, the ★-s in the table are
 | 0-don.clippy | 229
 | 1History.1History | 551
 | 5mdt.WinGoDarkTray | 3
-| Accreation.Aide | 
 | Adembc.Lazyssh | 4,000
-| AmanThanvi.winghostty | 
+| AmanThanvi.winghostty | 397 | Is about Ghostty, and has nothing to do with Winget hosting.
 | AmarBego.GitTop | 8
-| Amnezia.AmneziaWG | 
+| Amnezia.AmneziaWG | 1,100
 | AnInsomniacy.MotrixNext | 10,500 | Seemingly renamed "Motrix Next" → "Rayburst".
 | ~~AppiumDevelopers.AppiumInspector~~ | 
 | aroum.che | 30
 | autobrr.upbrr.cli | 227
 | autobrr.upbrr.gui | 227
-| Ayideyia.GUI-for-Clash | 
+| Ayideyia.GUI-for-Clash | 2,800
 | Ayideyia.GUI-for-SingBox | 
-| binaricat.Netcatty | 
-| BookStairs.bookhunter | 
 | bornova.numara | 281
 | Carvel.ytt | 1,900
 | CelikE.soko | 
 | ~~chen08209.FlClash~~ | 53,500
 | Chill-Astro.Lamina | 
-| CubeSoft.CubePDFUtility | 
-| CycloneDX.cdxgen | 
+| CycloneDX.cdxgen | 1,100
 | danielsiegl.gitsqlite | 24
 | dremin.RetroBar | 4,400
 | Envoy49.go-spotify-cli | 
@@ -35,7 +31,7 @@ For high-starred repos with "k" in their ★ numbers, the ★-s in the table are
 | ErkanOzgurYilmaz.DisplayCAL | 
 | FilenCloud.Filen-cli | 
 | Fluxzy.Fluxzy | 
-| FujiApple.Claptrap | 
+| FujiApple.Claptrap | 14
 | FujiApple.Trippy | 
 | Ganksoft.Nanopad | 3
 | garethgeorge.Backrest | 7,400
@@ -50,7 +46,6 @@ For high-starred repos with "k" in their ★ numbers, the ★-s in the table are
 | jtroo.kanata_gui | 7,900
 | JustArchiNET.ArchiSteamFarm | 
 | KandoMenu.Kando | 6,400
-| KindaBrazy.LynxHub | 
 | koepalex.CrowsNestMQTT | 16
 | LinwoodCloud.Butterfly | 
 | Lune.Lune | 
@@ -63,7 +58,7 @@ For high-starred repos with "k" in their ★ numbers, the ★-s in the table are
 | mulhamna.jirac-mcp | 
 | mulhamna.jirac | 
 | nolanderc.glsl_analyzer | 384
-| oldj.switchhosts | 
+| oldj.switchhosts | 27,200
 | OlegShparber.Zeal | 12,800
 | OneKey.OneKey | 
 | OpenAudible.OpenAudible | 1,800
@@ -99,14 +94,13 @@ For high-starred repos with "k" in their ★ numbers, the ★-s in the table are
 | taiki-e.parse-changelog | 66
 | TEdit.TEdit | 
 | Thewh1teagle.vibe | 7,600
-| ThinkInAIXYZ.DeepChat | 
-| UniversityOfAmsterdam.praat | 
+| UniversityOfAmsterdam.praat | 2,000
 | Veirt.weathr | 
 | vriesdemichael.bb | 4
 | WerWolv.ImHex | 
 | ~~WidelandsDevelopmentTeam.Widelands~~ | 
 | Wilfred.difftastic | 
-| WilsonGlasser.Oryxis | 
+| WilsonGlasser.Oryxis | 338
 | ~~xemu-project.xemu~~ | 
 | xoofx.kalk | 342
 | XueshiQiao.NetstatCat | 27
