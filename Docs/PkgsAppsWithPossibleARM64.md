@@ -12,7 +12,6 @@ For high-starred repos with "k" in their ★ numbers, the ★-s in the table are
 | AmarBego.GitTop | 8
 | Amnezia.AmneziaWG | 1,100
 | AnInsomniacy.MotrixNext | 10,500 | Seemingly renamed "Motrix Next" → "Rayburst".
-| ~~AppiumDevelopers.AppiumInspector~~ | 
 | aroum.che | 30
 | autobrr.upbrr.cli | 227
 | autobrr.upbrr.gui | 227
@@ -21,7 +20,6 @@ For high-starred repos with "k" in their ★ numbers, the ★-s in the table are
 | bornova.numara | 281
 | Carvel.ytt | 1,900
 | CelikE.soko | 
-| ~~chen08209.FlClash~~ | 53,500
 | Chill-Astro.Lamina | 
 | CycloneDX.cdxgen | 1,100
 | danielsiegl.gitsqlite | 24
@@ -51,15 +49,13 @@ For high-starred repos with "k" in their ★ numbers, the ★-s in the table are
 | Lune.Lune | 
 | maygo.tockler | 1,100
 | Microsoft.Azure.Kubelogin | 
-| ~~Microsoft.ScreenRecorder~~ | | Keeps falsely claiming "Validation-Executable-Error".
 | MikeFarah.yq | 
 | MinBrowser.Min | 
 | msitarzewski.AgencyAgents | 595
-| mulhamna.jirac-mcp | 
 | mulhamna.jirac | 
+| mulhamna.jirac-mcp | 
 | nolanderc.glsl_analyzer | 384
 | oldj.switchhosts | 27,200
-| OlegShparber.Zeal | 12,800
 | OneKey.OneKey | 
 | OpenAudible.OpenAudible | 1,800
 | OrryVerducci.TtxFromTS | 17
@@ -89,7 +85,6 @@ For high-starred repos with "k" in their ★ numbers, the ★-s in the table are
 | SnapXL.SnapX | 
 | spacelift-io.spacectl | 
 | Spicetify.Spicetify | 
-| ~~SuperTuxKart.SuperTuxKart~~ | 
 | sysmanage.sysmanage-agent | 
 | taiki-e.parse-changelog | 66
 | TEdit.TEdit | 
@@ -98,12 +93,17 @@ For high-starred repos with "k" in their ★ numbers, the ★-s in the table are
 | Veirt.weathr | 
 | vriesdemichael.bb | 4
 | WerWolv.ImHex | 
-| ~~WidelandsDevelopmentTeam.Widelands~~ | 
 | Wilfred.difftastic | 
 | WilsonGlasser.Oryxis | 338
-| ~~xemu-project.xemu~~ | 
 | xoofx.kalk | 342
 | XueshiQiao.NetstatCat | 27
 | Yaak.app | 19,300
 | yitsushi.totp-cli | 377
 | ZeroNet.ZeroNet | 
+| ~~AppiumDevelopers.AppiumInspector~~ | 
+| ~~chen08209.FlClash~~ | 53,500
+| ~~Microsoft.ScreenRecorder~~ | | Keeps falsely claiming "Validation-Executable-Error".
+| ~~OlegShparber.Zeal~~ | 12,800
+| ~~SuperTuxKart.SuperTuxKart~~ | 
+| ~~WidelandsDevelopmentTeam.Widelands~~ | 
+| ~~xemu-project.xemu~~ | 
