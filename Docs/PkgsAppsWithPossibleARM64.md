@@ -31,7 +31,6 @@ For high-starred repos with "k" in their ★ numbers, the ★-s in the table are
 | FujiApple.Claptrap | 14
 | FujiApple.Trippy | 
 | Ganksoft.Nanopad | 3
-| garethgeorge.Backrest | 7,400
 | GermanCoding.SyncTrayzor | 2,000
 | hellobertrand.zxc | 465
 | hooosberg.WitNote | 570
@@ -96,6 +95,7 @@ For high-starred repos with "k" in their ★ numbers, the ★-s in the table are
 | ZeroNet.ZeroNet | 
 | ~~AppiumDevelopers.AppiumInspector~~ | 
 | ~~chen08209.FlClash~~ | 53,500
+| ~~garethgeorge.Backrest~~ | 7,400
 | ~~Microsoft.ScreenRecorder~~ | | Keeps falsely claiming "Validation-Executable-Error".
 | ~~OlegShparber.Zeal~~ | 12,800
 | ~~PTRTECH.UVtools~~ | 1,600 | .MSI
