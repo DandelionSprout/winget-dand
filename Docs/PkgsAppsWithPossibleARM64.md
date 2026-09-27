@@ -3,7 +3,7 @@ The following apps in winget-pkgs are believed to be more-likely-than-not to hav
 For high-starred repos with "k" in their ★ numbers, the ★-s in the table are rounded down to the nearest 100. The ★ counts are not kept up to date after their initial addings.
 
 ## Inno / Nullsoft / Setup EXE
-For full accuracy, apps in the first table should be handled by users with access to ARM64 Windows devices.
+For full accuracy, apps in the first table should be handled by users with access to ARM64 Windows devices. The main exception is if the x64 versions have very generic and short ProductCode-s, which means the ARM64 versions very likely share the same ProductCode-s.
 
 | ID | ★ | Notes
 | - | - | -
@@ -28,7 +28,7 @@ For full accuracy, apps in the first table should be handled by users with acces
 | TEdit.TEdit | 
 | Thewh1teagle.vibe | 7,600
 | WilsonGlasser.Oryxis | 338
-| Yaak.app | 19,300
+| ~~Yaak.app~~ | 19,300
 
 ## MSI / Portable / Unsorted
 Reasonably possible even for users *without* access to ARM64 Windows devices to handle.
