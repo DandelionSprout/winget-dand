@@ -44,12 +44,11 @@ For high-starred repos with "k" in their ★ numbers, the ★-s in the table are
 | hooosberg.WitNote | 570
 | HunterBown.CodeWhale | 
 | HunterBown.DeepSeek-TUI | 
-| igoogolx.itun2socks | 
+| igoogolx.itun2socks | 15
 | Indent.Access | 
 | jeffvli.Feishin | 10,000
 | jtroo.kanata_gui | 7,900
 | JustArchiNET.ArchiSteamFarm | 
-| Justsenger.ExHyperV | 
 | KandoMenu.Kando | 6,400
 | KindaBrazy.LynxHub | 
 | koepalex.CrowsNestMQTT | 16
@@ -67,9 +66,9 @@ For high-starred repos with "k" in their ★ numbers, the ★-s in the table are
 | oldj.switchhosts | 
 | OlegShparber.Zeal | 12,800
 | OneKey.OneKey | 
-| OpenAudible.OpenAudible | 
-| OrryVerducci.TtxFromTS | 
-| packetThrower.Baudrun | 
+| OpenAudible.OpenAudible | 1,800
+| OrryVerducci.TtxFromTS | 17
+| packetThrower.Baudrun | 29
 | packetThrower.Zorite | 
 | peanut996.CloudflareWarpSpeedTest | 873
 | PicGo.PicGo | 
@@ -79,39 +78,38 @@ For high-starred repos with "k" in their ★ numbers, the ★-s in the table are
 | QwerProg.bt | 
 | ractive.hyalo | 27
 | RcloneUI.RcloneUI | 
-| RIA.Libdigidocpp | 109
+| RIA.Libdigidocpp | 109 | Estonian agency, not to be mistaken for the Russian channel.
 | riyasy.FlyPhotos | 
 | RoderickQiu.wnr | 1,100
 | Rojo.Rojo | 
 | rsteube.Carapace | 2,000
 | ScottMcKendry.Pat | 4
-| sebescudie.GammaLauncher | 
+| sebescudie.GammaLauncher | 63
 | Sentry.sentry-cli | | https://github.com/microsoft/winget-pkgs/pull/436106 or equivalent should be merged first.
 | Simprint.Simprint | 
 | SIMSDEV.AndroidAppsManager | 
 | skssmd.Graft | 10
-| Slik.Subversion | 
+| Slik.Subversion | 76
 | snapetech.iptvtunerr | 
 | SnapXL.SnapX | 
 | spacelift-io.spacectl | 
 | Spicetify.Spicetify | 
 | ~~SuperTuxKart.SuperTuxKart~~ | 
 | sysmanage.sysmanage-agent | 
-| taiki-e.parse-changelog | 
+| taiki-e.parse-changelog | 66
 | TEdit.TEdit | 
 | Thewh1teagle.vibe | 7,600
 | ThinkInAIXYZ.DeepChat | 
-| Thwani.Uhm | 
 | UniversityOfAmsterdam.praat | 
 | Veirt.weathr | 
-| vriesdemichael.bb | 
+| vriesdemichael.bb | 4
 | WerWolv.ImHex | 
 | ~~WidelandsDevelopmentTeam.Widelands~~ | 
 | Wilfred.difftastic | 
 | WilsonGlasser.Oryxis | 
 | ~~xemu-project.xemu~~ | 
-| xoofx.kalk | 
+| xoofx.kalk | 342
 | XueshiQiao.NetstatCat | 27
-| Yaak.app | 
-| yitsushi.totp-cli | 
+| Yaak.app | 19,300
+| yitsushi.totp-cli | 377
 | ZeroNet.ZeroNet | 
