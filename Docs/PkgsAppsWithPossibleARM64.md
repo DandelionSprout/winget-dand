@@ -12,6 +12,7 @@ For full accuracy, apps in the first table should be handled by users with acces
 | ErkanOzgurYilmaz.DisplayCAL | 
 | GermanCoding.SyncTrayzor | 2,000
 | LinwoodCloud.Butterfly | 
+| QuestPackageManager.QuestPackageManager | 
 | sebescudie.GammaLauncher | 63
 
 ## MSI / Portable / Unsorted
@@ -60,7 +61,6 @@ For full accuracy, apps in the first table should be handled by users with acces
 | packetThrower.Zorite | | .MSI
 | peanut996.CloudflareWarpSpeedTest | 873
 | PicGo.PicGo | 
-| QuestPackageManager.QuestPackageManager | 
 | ractive.hyalo | 27
 | RcloneUI.RcloneUI | 
 | riyasy.FlyPhotos | 797 | .MSI
