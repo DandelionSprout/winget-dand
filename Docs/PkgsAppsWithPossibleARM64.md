@@ -10,7 +10,7 @@ For high-starred repos with "k" in their ★ numbers, the ★-s in the table are
 | Adembc.Lazyssh | 4,000
 | AmanThanvi.winghostty | 397 | Is about Ghostty, and has nothing to do with Winget hosting.
 | AmarBego.GitTop | 8
-| Amnezia.AmneziaWG | 1,100
+| Amnezia.AmneziaWG | 1,100 | .MSI
 | AnInsomniacy.MotrixNext | 10,500 | Seemingly renamed "Motrix Next" → "Rayburst".
 | aroum.che | 30
 | autobrr.upbrr.cli | 227
@@ -25,7 +25,7 @@ For high-starred repos with "k" in their ★ numbers, the ★-s in the table are
 | danielsiegl.gitsqlite | 24
 | dremin.RetroBar | 4,400
 | Envoy49.go-spotify-cli | 
-| erikbra.grate | 297
+| erikbra.grate | 297 | .MSI
 | ErkanOzgurYilmaz.DisplayCAL | 
 | FilenCloud.Filen-cli | 284
 | Fluxzy.Fluxzy | 
@@ -58,18 +58,18 @@ For high-starred repos with "k" in their ★ numbers, the ★-s in the table are
 | oldj.switchhosts | 27,200
 | OpenAudible.OpenAudible | 1,800
 | OrryVerducci.TtxFromTS | 17
-| packetThrower.Baudrun | 29
-| packetThrower.Zorite | 
+| packetThrower.Baudrun | 29 | .MSI
+| packetThrower.Zorite | | .MSI
 | peanut996.CloudflareWarpSpeedTest | 873
 | PicGo.PicGo | 
-| PTRTECH.UVtools | 1,600
+| PTRTECH.UVtools | 1,600 | .MSI
 | QGIS.QField | 1,400 | .MSI
 | QuestPackageManager.QuestPackageManager | 
 | QwerProg.bt | 
 | ractive.hyalo | 27
 | RcloneUI.RcloneUI | 
-| RIA.Libdigidocpp | 109 | Estonian agency, not to be mistaken for the Russian channel.
-| riyasy.FlyPhotos | 
+| RIA.Libdigidocpp | 109 | .MSI; Estonian agency, not to be mistaken for the Russian channel.
+| riyasy.FlyPhotos | | .MSI
 | RoderickQiu.wnr | 1,100
 | Rojo.Rojo | 1,800
 | rsteube.Carapace | 2,000
@@ -79,9 +79,9 @@ For high-starred repos with "k" in their ★ numbers, the ★-s in the table are
 | Simprint.Simprint | 
 | SIMSDEV.AndroidAppsManager | 
 | skssmd.Graft | 10
-| Slik.Subversion | 76
+| Slik.Subversion | 76 | .MSI
 | snapetech.iptvtunerr | 13
-| SnapXL.SnapX | 
+| SnapXL.SnapX | | .MSI
 | spacelift-io.spacectl | 171
 | Spicetify.Spicetify | 
 | taiki-e.parse-changelog | 66
@@ -90,11 +90,11 @@ For high-starred repos with "k" in their ★ numbers, the ★-s in the table are
 | UniversityOfAmsterdam.praat | 2,000
 | Veirt.weathr | 
 | vriesdemichael.bb | 4
-| WerWolv.ImHex | 
+| WerWolv.ImHex | | .MSI
 | Wilfred.difftastic | 
 | WilsonGlasser.Oryxis | 338
 | xoofx.kalk | 342
-| XueshiQiao.NetstatCat | 27
+| XueshiQiao.NetstatCat | 27 | .MSI
 | Yaak.app | 19,300
 | yitsushi.totp-cli | 377
 | ZeroNet.ZeroNet | 
