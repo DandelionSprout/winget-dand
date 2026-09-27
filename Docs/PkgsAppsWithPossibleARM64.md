@@ -23,7 +23,6 @@ For high-starred repos with "k" in their ★ numbers, the ★-s in the table are
 | Chill-Astro.Lamina | 
 | CycloneDX.cdxgen | 1,100
 | danielsiegl.gitsqlite | 24
-| dremin.RetroBar | 4,400
 | Envoy49.go-spotify-cli | 
 | erikbra.grate | 297 | .MSI
 | ErkanOzgurYilmaz.DisplayCAL | 
