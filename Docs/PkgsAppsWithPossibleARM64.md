@@ -11,21 +11,19 @@ For full accuracy, apps in the first table should be handled by users with acces
 | AmanThanvi.winghostty | 397 | Is about Ghostty, and has nothing to do with Winget hosting.
 | AmarBego.GitTop | 8
 | bornova.numara | 281
-| ErkanOzgurYilmaz.DisplayCAL | 
+| ErkanOzgurYilmaz.DisplayCAL | 1,600
 | GermanCoding.SyncTrayzor | 2,000
 | hooosberg.WitNote | 570
 | KandoMenu.Kando | 6,400
-| LinwoodCloud.Butterfly | 
+| LinwoodCloud.Butterfly | 2,000
 | maygo.tockler | 1,100
-| MinBrowser.Min | 
 | msitarzewski.AgencyAgents | 595
-| PicGo.PicGo | 
-| QuestPackageManager.QuestPackageManager | 
-| RcloneUI.RcloneUI | 
+| PicGo.PicGo | 27,300
+| QuestPackageManager.QuestPackageManager | 12
+| RcloneUI.RcloneUI | 2,300
 | RoderickQiu.wnr | 1,100
 | sebescudie.GammaLauncher | 63
-| SIMSDEV.AndroidAppsManager | 
-| TEdit.TEdit | 
+| TEdit.TEdit | | Terraria thingie.
 | Thewh1teagle.vibe | 7,600
 | WilsonGlasser.Oryxis | 338
 | ~~Yaak.app~~ | 19,300
@@ -43,27 +41,27 @@ Reasonably possible even for users *without* access to ARM64 Windows devices to 
 | Ayideyia.GUI-for-Clash | 2,800
 | Ayideyia.GUI-for-SingBox | 
 | Carvel.ytt | 1,900
-| CelikE.soko | 
+| CelikE.soko | 6
 | Chill-Astro.Lamina | 
 | CycloneDX.cdxgen | 1,100
 | danielsiegl.gitsqlite | 24
-| Envoy49.go-spotify-cli | 
+| Envoy49.go-spotify-cli | | Spotify.
 | erikbra.grate | 297 | .MSI
 | FilenCloud.Filen-cli | 284
-| Fluxzy.Fluxzy | 
+| Fluxzy.Fluxzy | 369
 | FujiApple.Claptrap | 14
 | FujiApple.Trippy | 
 | hellobertrand.zxc | 465
 | HunterBown.DeepSeek-TUI | 
 | igoogolx.itun2socks | 15
-| Indent.Access | 
+| Indent.Access | 29
 | jtroo.kanata_gui | 7,900
-| JustArchiNET.ArchiSteamFarm | 
+| JustArchiNET.ArchiSteamFarm | 13,700
 | koepalex.CrowsNestMQTT | 16
-| Lune.Lune | 
+| Lune.Lune | 953 | Luau runtime.
 | Microsoft.Azure.Kubelogin | 
-| MikeFarah.yq | 
-| mulhamna.jirac | 
+| MikeFarah.yq | 16,000
+| mulhamna.jirac | 50
 | mulhamna.jirac-mcp | 
 | nolanderc.glsl_analyzer | 384
 | OrryVerducci.TtxFromTS | 17
@@ -78,15 +76,15 @@ Reasonably possible even for users *without* access to ARM64 Windows devices to 
 | Slik.Subversion | 76 | .MSI
 | snapetech.iptvtunerr | 13
 | spacelift-io.spacectl | 171
-| Spicetify.Spicetify | 24,700
+| Spicetify.Spicetify | 24,700 | Spotify.
 | taiki-e.parse-changelog | 66
 | UniversityOfAmsterdam.praat | 2,000
-| Veirt.weathr | 
-| Wilfred.difftastic | 
+| Veirt.weathr | 3,100 | Weather app.
+| Wilfred.difftastic | 25,900
 | xoofx.kalk | 342
 | XueshiQiao.NetstatCat | 27 | .MSI
 | yitsushi.totp-cli | 377
-| ZeroNet.ZeroNet | 
+| ZeroNet.ZeroNet | 18,800
 | ~~1History.1History~~ | 551
 | ~~AnInsomniacy.MotrixNext~~ | 10,500 | Seemingly renamed "Motrix Next" → "Rayburst".
 | ~~AppiumDevelopers.AppiumInspector~~ | 
