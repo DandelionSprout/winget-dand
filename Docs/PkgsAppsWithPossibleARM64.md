@@ -118,7 +118,7 @@ The following apps in winget-pkgs are believed to be more-likely-than-not to hav
 * Veirt.weathr
 * vriesdemichael.bb
 * WerWolv.ImHex
-* WidelandsDevelopmentTeam.Widelands
+* ~~WidelandsDevelopmentTeam.Widelands~~
 * Wilfred.difftastic
 * WilsonGlasser.Oryxis
 * ~~xemu-project.xemu~~
