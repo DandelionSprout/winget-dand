@@ -64,7 +64,6 @@ For high-starred repos with "k" in their ★ numbers, the ★-s in the table are
 | skssmd.Graft | 10
 | Slik.Subversion | 76 | .MSI
 | snapetech.iptvtunerr | 13
-| SnapXL.SnapX | 1,000 | .MSI
 | spacelift-io.spacectl | 171
 | Spicetify.Spicetify | 24,700
 | taiki-e.parse-changelog | 66
@@ -95,6 +94,7 @@ For high-starred repos with "k" in their ★ numbers, the ★-s in the table are
 | ~~RIA.Libdigidocpp~~ | 109 | .MSI; Estonian agency, not to be mistaken for the Russian channel.
 | ~~Sentry.sentry-cli~~ | 
 | ~~Simprint.Simprint~~ | 
+| ~~SnapXL.SnapX~~ | 1,000 | .MSI
 | ~~SuperTuxKart.SuperTuxKart~~ | 
 | ~~WerWolv.ImHex~~ | 54,900 | .MSI
 | ~~WidelandsDevelopmentTeam.Widelands~~ | 
