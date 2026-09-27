@@ -2,7 +2,7 @@ The following apps in winget-pkgs are believed to be more-likely-than-not to hav
 
 For high-starred repos with "k" in their ★ numbers, the ★-s in the table are rounded down to the nearest 100. The ★ counts are not kept up to date after their initial addings.
 
-## Inno
+## Inno / Setup EXE
 For full accuracy, apps in the first table should be handled by users with access to ARM64 Windows devices.
 
 | ID | ★ | Notes
@@ -11,9 +11,12 @@ For full accuracy, apps in the first table should be handled by users with acces
 | AmarBego.GitTop | 8
 | ErkanOzgurYilmaz.DisplayCAL | 
 | GermanCoding.SyncTrayzor | 2,000
+| KandoMenu.Kando | 6,400
 | LinwoodCloud.Butterfly | 
+| MinBrowser.Min | 
 | QuestPackageManager.QuestPackageManager | 
 | sebescudie.GammaLauncher | 63
+| TEdit.TEdit | 
 
 ## MSI / Portable / Unsorted
 | ID | ★ | Notes
@@ -45,13 +48,11 @@ For full accuracy, apps in the first table should be handled by users with acces
 | Indent.Access | 
 | jtroo.kanata_gui | 7,900
 | JustArchiNET.ArchiSteamFarm | 
-| KandoMenu.Kando | 6,400
 | koepalex.CrowsNestMQTT | 16
 | Lune.Lune | 
 | maygo.tockler | 1,100
 | Microsoft.Azure.Kubelogin | 
 | MikeFarah.yq | 
-| MinBrowser.Min | 
 | msitarzewski.AgencyAgents | 595
 | mulhamna.jirac | 
 | mulhamna.jirac-mcp | 
@@ -74,7 +75,6 @@ For full accuracy, apps in the first table should be handled by users with acces
 | spacelift-io.spacectl | 171
 | Spicetify.Spicetify | 24,700
 | taiki-e.parse-changelog | 66
-| TEdit.TEdit | 
 | Thewh1teagle.vibe | 7,600
 | UniversityOfAmsterdam.praat | 2,000
 | Veirt.weathr | 
