@@ -32,7 +32,7 @@ For high-starred repos with "k" in their ★ numbers, the ★-s in the table are
 | FujiApple.Trippy | 
 | Ganksoft.Nanopad | 3
 | garethgeorge.Backrest | 7,400
-| GermanCoding.SyncTrayzor | 
+| GermanCoding.SyncTrayzor | 2,000
 | hellobertrand.zxc | 465
 | hooosberg.WitNote | 570
 | HunterBown.CodeWhale | 
