@@ -11,7 +11,7 @@ The following apps in winget-pkgs are believed to be more-likely-than-not to hav
 * AmarBego.GitTop
 * Amnezia.AmneziaWG
 * AnInsomniacy.MotrixNext
-* AppiumDevelopers.AppiumInspector
+* ~~AppiumDevelopers.AppiumInspector~~
 * aroum.che
 * autobrr.upbrr.cli
 * autobrr.upbrr.gui
