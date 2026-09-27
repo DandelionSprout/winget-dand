@@ -64,7 +64,7 @@ The following apps in winget-pkgs are believed to be more-likely-than-not to hav
 * MahirGul.rsipclient
 * maygo.tockler
 * Microsoft.Azure.Kubelogin
-* Microsoft.ScreenRecorder
+* ~~Microsoft.ScreenRecorder~~
 * MikeFarah.yq
 * MinBrowser.Min
 * msitarzewski.AgencyAgents
