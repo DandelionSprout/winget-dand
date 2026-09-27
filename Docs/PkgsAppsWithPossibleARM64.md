@@ -47,7 +47,6 @@ For high-starred repos with "k" in their ★ numbers, the ★-s in the table are
 | mulhamna.jirac | 
 | mulhamna.jirac-mcp | 
 | nolanderc.glsl_analyzer | 384
-| oldj.switchhosts | 27,200
 | OrryVerducci.TtxFromTS | 17
 | packetThrower.Baudrun | 29 | .MSI
 | packetThrower.Zorite | | .MSI
@@ -88,6 +87,7 @@ For high-starred repos with "k" in their ★ numbers, the ★-s in the table are
 | ~~HunterBown.CodeWhale~~ | 
 | ~~jeffvli.Feishin~~ | 10,000
 | ~~Microsoft.ScreenRecorder~~ | | Keeps falsely claiming "Validation-Executable-Error".
+| ~~oldj.switchhosts~~ | 27,200
 | ~~OlegShparber.Zeal~~ | 12,800
 | ~~OpenAudible.OpenAudible~~ | 1,800
 | ~~PTRTECH.UVtools~~ | 1,600 | .MSI
