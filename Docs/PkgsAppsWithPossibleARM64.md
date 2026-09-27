@@ -5,7 +5,6 @@ For high-starred repos with "k" in their ★ numbers, the ★-s in the table are
 | ID | ★ | Notes
 | - | - | -
 | 0-don.clippy | 229
-| 5mdt.WinGoDarkTray | 3
 | Adembc.Lazyssh | 4,000
 | AmanThanvi.winghostty | 397 | Is about Ghostty, and has nothing to do with Winget hosting.
 | AmarBego.GitTop | 8
@@ -28,7 +27,6 @@ For high-starred repos with "k" in their ★ numbers, the ★-s in the table are
 | Fluxzy.Fluxzy | 
 | FujiApple.Claptrap | 14
 | FujiApple.Trippy | 
-| Ganksoft.Nanopad | 3
 | GermanCoding.SyncTrayzor | 2,000
 | hellobertrand.zxc | 465
 | hooosberg.WitNote | 570
@@ -56,14 +54,12 @@ For high-starred repos with "k" in their ★ numbers, the ★-s in the table are
 | peanut996.CloudflareWarpSpeedTest | 873
 | PicGo.PicGo | 
 | QuestPackageManager.QuestPackageManager | 
-| QwerProg.bt | 
 | ractive.hyalo | 27
 | RcloneUI.RcloneUI | 
 | riyasy.FlyPhotos | 797 | .MSI
 | RoderickQiu.wnr | 1,100
 | Rojo.Rojo | 1,800
 | rsteube.Carapace | 2,000
-| ScottMcKendry.Pat | 4
 | sebescudie.GammaLauncher | 63
 | SIMSDEV.AndroidAppsManager | 
 | skssmd.Graft | 10
@@ -77,7 +73,6 @@ For high-starred repos with "k" in their ★ numbers, the ★-s in the table are
 | Thewh1teagle.vibe | 7,600
 | UniversityOfAmsterdam.praat | 2,000
 | Veirt.weathr | 
-| vriesdemichael.bb | 4
 | Wilfred.difftastic | 
 | WilsonGlasser.Oryxis | 338
 | xoofx.kalk | 342
