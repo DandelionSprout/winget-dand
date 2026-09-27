@@ -66,7 +66,7 @@ For high-starred repos with "k" in their ★ numbers, the ★-s in the table are
 | ractive.hyalo | 27
 | RcloneUI.RcloneUI | 
 | RIA.Libdigidocpp | 109 | .MSI; Estonian agency, not to be mistaken for the Russian channel.
-| riyasy.FlyPhotos | | .MSI
+| riyasy.FlyPhotos | 797 | .MSI
 | RoderickQiu.wnr | 1,100
 | Rojo.Rojo | 1,800
 | rsteube.Carapace | 2,000
@@ -78,7 +78,7 @@ For high-starred repos with "k" in their ★ numbers, the ★-s in the table are
 | skssmd.Graft | 10
 | Slik.Subversion | 76 | .MSI
 | snapetech.iptvtunerr | 13
-| SnapXL.SnapX | | .MSI
+| SnapXL.SnapX | 1,000 | .MSI
 | spacelift-io.spacectl | 171
 | Spicetify.Spicetify | 
 | taiki-e.parse-changelog | 66
@@ -87,7 +87,7 @@ For high-starred repos with "k" in their ★ numbers, the ★-s in the table are
 | UniversityOfAmsterdam.praat | 2,000
 | Veirt.weathr | 
 | vriesdemichael.bb | 4
-| WerWolv.ImHex | | .MSI
+| WerWolv.ImHex | 54,900 | .MSI
 | Wilfred.difftastic | 
 | WilsonGlasser.Oryxis | 338
 | xoofx.kalk | 342
