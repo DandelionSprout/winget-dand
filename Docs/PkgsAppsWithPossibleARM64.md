@@ -5,18 +5,18 @@ For high-starred repos with "k" in their ★ numbers, the ★-s in the table are
 | ID | ★ | Notes
 | - | - | -
 | 0-don.clippy | 229
-| 1History.1History | 
-| 5mdt.WinGoDarkTray | 
+| 1History.1History | 551
+| 5mdt.WinGoDarkTray | 3
 | Accreation.Aide | 
 | Adembc.Lazyssh | 4,000
 | AmanThanvi.winghostty | 
-| AmarBego.GitTop | 
+| AmarBego.GitTop | 8
 | Amnezia.AmneziaWG | 
-| AnInsomniacy.MotrixNext | 
+| AnInsomniacy.MotrixNext | 10,500 | Seemingly renamed "Motrix Next" → "Rayburst".
 | ~~AppiumDevelopers.AppiumInspector~~ | 
-| aroum.che | 
-| autobrr.upbrr.cli | 
-| autobrr.upbrr.gui | 
+| aroum.che | 30
+| autobrr.upbrr.cli | 227
+| autobrr.upbrr.gui | 227
 | Ayideyia.GUI-for-Clash | 
 | Ayideyia.GUI-for-SingBox | 
 | binaricat.Netcatty | 
@@ -29,9 +29,9 @@ For high-starred repos with "k" in their ★ numbers, the ★-s in the table are
 | CubeSoft.CubePDFUtility | 
 | CycloneDX.cdxgen | 
 | danielsiegl.gitsqlite | 24
-| dremin.RetroBar | 
+| dremin.RetroBar | 4,400
 | Envoy49.go-spotify-cli | 
-| erikbra.grate | 
+| erikbra.grate | 297
 | ErkanOzgurYilmaz.DisplayCAL | 
 | FilenCloud.Filen-cli | 
 | Fluxzy.Fluxzy | 
@@ -50,8 +50,7 @@ For high-starred repos with "k" in their ★ numbers, the ★-s in the table are
 | jtroo.kanata_gui | 7,900
 | JustArchiNET.ArchiSteamFarm | 
 | Justsenger.ExHyperV | 
-| KandoMenu.Kando | 
-| KefeiQian.KQode | 
+| KandoMenu.Kando | 6,400
 | KindaBrazy.LynxHub | 
 | koepalex.CrowsNestMQTT | 16
 | LinwoodCloud.Butterfly | 
@@ -66,7 +65,7 @@ For high-starred repos with "k" in their ★ numbers, the ★-s in the table are
 | mulhamna.jirac | 
 | nolanderc.glsl_analyzer | 384
 | oldj.switchhosts | 
-| OlegShparber.Zeal | 
+| OlegShparber.Zeal | 12,800
 | OneKey.OneKey | 
 | OpenAudible.OpenAudible | 
 | OrryVerducci.TtxFromTS | 
@@ -74,7 +73,7 @@ For high-starred repos with "k" in their ★ numbers, the ★-s in the table are
 | packetThrower.Zorite | 
 | peanut996.CloudflareWarpSpeedTest | 873
 | PicGo.PicGo | 
-| PTRTECH.UVtools | 
+| PTRTECH.UVtools | 1,600
 | QGIS.QField | 
 | QuestPackageManager.QuestPackageManager | 
 | QwerProg.bt | 
@@ -85,8 +84,7 @@ For high-starred repos with "k" in their ★ numbers, the ★-s in the table are
 | RoderickQiu.wnr | 1,100
 | Rojo.Rojo | 
 | rsteube.Carapace | 2,000
-| Ryuapp.Rb | 
-| ScottMcKendry.Pat | 
+| ScottMcKendry.Pat | 4
 | sebescudie.GammaLauncher | 
 | Sentry.sentry-cli | | https://github.com/microsoft/winget-pkgs/pull/436106 or equivalent should be merged first.
 | Simprint.Simprint | 
@@ -97,7 +95,7 @@ For high-starred repos with "k" in their ★ numbers, the ★-s in the table are
 | SnapXL.SnapX | 
 | spacelift-io.spacectl | 
 | Spicetify.Spicetify | 
-| SuperTuxKart.SuperTuxKart | 
+| ~~SuperTuxKart.SuperTuxKart~~ | 
 | sysmanage.sysmanage-agent | 
 | taiki-e.parse-changelog | 
 | TEdit.TEdit | 
