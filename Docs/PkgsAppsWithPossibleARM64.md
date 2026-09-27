@@ -87,7 +87,6 @@ For high-starred repos with "k" in their ★ numbers, the ★-s in the table are
 | UniversityOfAmsterdam.praat | 2,000
 | Veirt.weathr | 
 | vriesdemichael.bb | 4
-| WerWolv.ImHex | 54,900 | .MSI
 | Wilfred.difftastic | 
 | WilsonGlasser.Oryxis | 338
 | xoofx.kalk | 342
@@ -102,5 +101,6 @@ For high-starred repos with "k" in their ★ numbers, the ★-s in the table are
 | ~~PTRTECH.UVtools~~ | 1,600 | .MSI
 | ~~QGIS.QField~~ | 1,400 | .MSI
 | ~~SuperTuxKart.SuperTuxKart~~ | 
+| ~~WerWolv.ImHex~~ | 54,900 | .MSI
 | ~~WidelandsDevelopmentTeam.Widelands~~ | 
 | ~~xemu-project.xemu~~ | 
