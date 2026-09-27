@@ -57,7 +57,7 @@ For high-starred repos with "k" in their ★ numbers, the ★-s in the table are
 | Lune.Lune | 
 | maygo.tockler | 1,100
 | Microsoft.Azure.Kubelogin | 
-| ~~Microsoft.ScreenRecorder~~ | 
+| ~~Microsoft.ScreenRecorder~~ | | Keeps falsely claiming "Validation-Executable-Error".
 | MikeFarah.yq | 
 | MinBrowser.Min | 
 | msitarzewski.AgencyAgents | 595
