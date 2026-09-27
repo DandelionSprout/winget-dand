@@ -5,7 +5,6 @@ For high-starred repos with "k" in their ★ numbers, the ★-s in the table are
 | ID | ★ | Notes
 | - | - | -
 | 0-don.clippy | 229
-| 15722UsefulApp.WorkspaceLauncherForVSCode | 
 | 1History.1History | 
 | 5mdt.WinGoDarkTray | 
 | Accreation.Aide | 
@@ -29,7 +28,7 @@ For high-starred repos with "k" in their ★ numbers, the ★-s in the table are
 | Chill-Astro.Lamina | 
 | CubeSoft.CubePDFUtility | 
 | CycloneDX.cdxgen | 
-| danielsiegl.gitsqlite | 
+| danielsiegl.gitsqlite | 24
 | dremin.RetroBar | 
 | Envoy49.go-spotify-cli | 
 | erikbra.grate | 
@@ -57,12 +56,12 @@ For high-starred repos with "k" in their ★ numbers, the ★-s in the table are
 | koepalex.CrowsNestMQTT | 16
 | LinwoodCloud.Butterfly | 
 | Lune.Lune | 
-| maygo.tockler | 
+| maygo.tockler | 1,100
 | Microsoft.Azure.Kubelogin | 
 | ~~Microsoft.ScreenRecorder~~ | 
 | MikeFarah.yq | 
 | MinBrowser.Min | 
-| msitarzewski.AgencyAgents | 
+| msitarzewski.AgencyAgents | 595
 | mulhamna.jirac-mcp | 
 | mulhamna.jirac | 
 | nolanderc.glsl_analyzer | 384
@@ -73,17 +72,15 @@ For high-starred repos with "k" in their ★ numbers, the ★-s in the table are
 | OrryVerducci.TtxFromTS | 
 | packetThrower.Baudrun | 
 | packetThrower.Zorite | 
-| peanut996.CloudflareWarpSpeedTest | 
+| peanut996.CloudflareWarpSpeedTest | 873
 | PicGo.PicGo | 
-| PowerPlatformToolBox.PowerPlatformToolBox | 
 | PTRTECH.UVtools | 
 | QGIS.QField | 
-| qishibo.AnotherRedisDesktopManager | 
 | QuestPackageManager.QuestPackageManager | 
 | QwerProg.bt | 
-| ractive.hyalo | 
+| ractive.hyalo | 27
 | RcloneUI.RcloneUI | 
-| RIA.Libdigidocpp | 
+| RIA.Libdigidocpp | 109
 | riyasy.FlyPhotos | 
 | RoderickQiu.wnr | 1,100
 | Rojo.Rojo | 
@@ -92,10 +89,9 @@ For high-starred repos with "k" in their ★ numbers, the ★-s in the table are
 | ScottMcKendry.Pat | 
 | sebescudie.GammaLauncher | 
 | Sentry.sentry-cli | | https://github.com/microsoft/winget-pkgs/pull/436106 or equivalent should be merged first.
-| SiakHooi.Picsum | 
 | Simprint.Simprint | 
 | SIMSDEV.AndroidAppsManager | 
-| skssmd.Graft | 
+| skssmd.Graft | 10
 | Slik.Subversion | 
 | snapetech.iptvtunerr | 
 | SnapXL.SnapX | 
@@ -117,7 +113,7 @@ For high-starred repos with "k" in their ★ numbers, the ★-s in the table are
 | WilsonGlasser.Oryxis | 
 | ~~xemu-project.xemu~~ | 
 | xoofx.kalk | 
-| XueshiQiao.NetstatCat | 
+| XueshiQiao.NetstatCat | 27
 | Yaak.app | 
 | yitsushi.totp-cli | 
 | ZeroNet.ZeroNet | 
