@@ -27,7 +27,7 @@ For high-starred repos with "k" in their ★ numbers, the ★-s in the table are
 | Envoy49.go-spotify-cli | 
 | erikbra.grate | 297
 | ErkanOzgurYilmaz.DisplayCAL | 
-| FilenCloud.Filen-cli | 
+| FilenCloud.Filen-cli | 284
 | Fluxzy.Fluxzy | 
 | FujiApple.Claptrap | 14
 | FujiApple.Trippy | 
@@ -56,7 +56,6 @@ For high-starred repos with "k" in their ★ numbers, the ★-s in the table are
 | mulhamna.jirac-mcp | 
 | nolanderc.glsl_analyzer | 384
 | oldj.switchhosts | 27,200
-| OneKey.OneKey | 
 | OpenAudible.OpenAudible | 1,800
 | OrryVerducci.TtxFromTS | 17
 | packetThrower.Baudrun | 29
@@ -64,7 +63,7 @@ For high-starred repos with "k" in their ★ numbers, the ★-s in the table are
 | peanut996.CloudflareWarpSpeedTest | 873
 | PicGo.PicGo | 
 | PTRTECH.UVtools | 1,600
-| QGIS.QField | 
+| QGIS.QField | 1,400 | .MSI
 | QuestPackageManager.QuestPackageManager | 
 | QwerProg.bt | 
 | ractive.hyalo | 27
@@ -72,7 +71,7 @@ For high-starred repos with "k" in their ★ numbers, the ★-s in the table are
 | RIA.Libdigidocpp | 109 | Estonian agency, not to be mistaken for the Russian channel.
 | riyasy.FlyPhotos | 
 | RoderickQiu.wnr | 1,100
-| Rojo.Rojo | 
+| Rojo.Rojo | 1,800
 | rsteube.Carapace | 2,000
 | ScottMcKendry.Pat | 4
 | sebescudie.GammaLauncher | 63
@@ -81,11 +80,10 @@ For high-starred repos with "k" in their ★ numbers, the ★-s in the table are
 | SIMSDEV.AndroidAppsManager | 
 | skssmd.Graft | 10
 | Slik.Subversion | 76
-| snapetech.iptvtunerr | 
+| snapetech.iptvtunerr | 13
 | SnapXL.SnapX | 
-| spacelift-io.spacectl | 
+| spacelift-io.spacectl | 171
 | Spicetify.Spicetify | 
-| sysmanage.sysmanage-agent | 
 | taiki-e.parse-changelog | 66
 | TEdit.TEdit | 
 | Thewh1teagle.vibe | 7,600
