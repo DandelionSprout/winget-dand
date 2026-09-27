@@ -62,7 +62,6 @@ For high-starred repos with "k" in their ★ numbers, the ★-s in the table are
 | packetThrower.Zorite | | .MSI
 | peanut996.CloudflareWarpSpeedTest | 873
 | PicGo.PicGo | 
-| PTRTECH.UVtools | 1,600 | .MSI
 | QGIS.QField | 1,400 | .MSI
 | QuestPackageManager.QuestPackageManager | 
 | QwerProg.bt | 
@@ -102,6 +101,7 @@ For high-starred repos with "k" in their ★ numbers, the ★-s in the table are
 | ~~chen08209.FlClash~~ | 53,500
 | ~~Microsoft.ScreenRecorder~~ | | Keeps falsely claiming "Validation-Executable-Error".
 | ~~OlegShparber.Zeal~~ | 12,800
+| ~~PTRTECH.UVtools~~ | 1,600 | .MSI
 | ~~SuperTuxKart.SuperTuxKart~~ | 
 | ~~WidelandsDevelopmentTeam.Widelands~~ | 
 | ~~xemu-project.xemu~~ | 
