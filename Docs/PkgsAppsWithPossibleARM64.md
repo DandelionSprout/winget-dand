@@ -14,11 +14,9 @@ For full accuracy, apps in the first table should be handled by users with acces
 | ErkanOzgurYilmaz.DisplayCAL | 1,600
 | GermanCoding.SyncTrayzor | 2,000
 | hooosberg.WitNote | 570
-| KandoMenu.Kando | 6,400
 | LinwoodCloud.Butterfly | 2,000
 | maygo.tockler | 1,100
 | msitarzewski.AgencyAgents | 595
-| PicGo.PicGo | 27,300
 | QuestPackageManager.QuestPackageManager | 12
 | RcloneUI.RcloneUI | 2,300
 | RoderickQiu.wnr | 1,100
@@ -26,6 +24,8 @@ For full accuracy, apps in the first table should be handled by users with acces
 | TEdit.TEdit | | Terraria thingie.
 | Thewh1teagle.vibe | 7,600
 | WilsonGlasser.Oryxis | 338
+| ~~KandoMenu.Kando~~ | 6,400
+| ~~PicGo.PicGo~~ | 27,300
 | ~~Yaak.app~~ | 19,300 | "Validation-Installation-Error".
 
 ## MSI / Portable / Unsorted
@@ -41,7 +41,6 @@ Reasonably possible even for users *without* access to ARM64 Windows devices to 
 | Ayideyia.GUI-for-SingBox | 
 | Carvel.ytt | 1,900
 | CelikE.soko | 6
-| Chill-Astro.Lamina | 
 | CycloneDX.cdxgen | 1,100
 | danielsiegl.gitsqlite | 24
 | Envoy49.go-spotify-cli | | Spotify.
@@ -78,7 +77,7 @@ Reasonably possible even for users *without* access to ARM64 Windows devices to 
 | taiki-e.parse-changelog | 66
 | UniversityOfAmsterdam.praat | 2,000
 | Veirt.weathr | 3,100 | Weather app.
-| Wilfred.difftastic | 25,900
+| Wilfred.difftastic | 25,900 | Should probably wait until 0.71.0 gets merged.
 | xoofx.kalk | 342
 | XueshiQiao.NetstatCat | 27 | .MSI
 | yitsushi.totp-cli | 377
