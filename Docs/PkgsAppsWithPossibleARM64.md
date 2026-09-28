@@ -52,7 +52,6 @@ Reasonably possible even for users *without* access to ARM64 Windows devices to 
 | HunterBown.DeepSeek-TUI | 
 | igoogolx.itun2socks | 15
 | Indent.Access | 29
-| jtroo.kanata_gui | 7,900
 | koepalex.CrowsNestMQTT | 16
 | Lune.Lune | 953 | Luau runtime.
 | Microsoft.Azure.Kubelogin | 
@@ -86,6 +85,7 @@ Reasonably possible even for users *without* access to ARM64 Windows devices to 
 | ~~garethgeorge.Backrest~~ | 7,400 | Falsely claims "Validation-Executable-Error".
 | ~~HunterBown.CodeWhale~~ | 
 | ~~jeffvli.Feishin~~ | 10,000
+| ~~jtroo.kanata_gui~~ | 7,900
 | ~~JustArchiNET.ArchiSteamFarm~~ | 13,700
 | ~~Microsoft.ScreenRecorder~~ | | Keeps falsely claiming "Validation-Executable-Error".
 | ~~MikeFarah.yq~~ | 16,000
