@@ -18,7 +18,7 @@ For full accuracy, apps in the first table should be handled by users with acces
 | maygo.tockler | 1,100
 | msitarzewski.AgencyAgents | 595
 | QuestPackageManager.QuestPackageManager | 12
-| RcloneUI.RcloneUI | 2,300
+| RcloneUI.RcloneUI | 2,300 | Should probably wait until ≥3.7.5 gets merged.
 | RoderickQiu.wnr | 1,100
 | sebescudie.GammaLauncher | 63
 | TEdit.TEdit | | Terraria thingie.
