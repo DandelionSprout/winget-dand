@@ -33,7 +33,6 @@ Reasonably possible even for users *without* access to ARM64 Windows devices to 
 
 | ID | ★ | Notes
 | - | - | -
-| Adembc.Lazyssh | 4,000
 | Amnezia.AmneziaWG | 1,100 | .MSI
 | aroum.che | 30
 | autobrr.upbrr.cli | 227
@@ -56,7 +55,6 @@ Reasonably possible even for users *without* access to ARM64 Windows devices to 
 | igoogolx.itun2socks | 15
 | Indent.Access | 29
 | jtroo.kanata_gui | 7,900
-| JustArchiNET.ArchiSteamFarm | 13,700
 | koepalex.CrowsNestMQTT | 16
 | Lune.Lune | 953 | Luau runtime.
 | Microsoft.Azure.Kubelogin | 
@@ -86,12 +84,14 @@ Reasonably possible even for users *without* access to ARM64 Windows devices to 
 | yitsushi.totp-cli | 377
 | ZeroNet.ZeroNet | 18,800
 | ~~1History.1History~~ | 551
+| ~~Adembc.Lazyssh~~ | 4,000
 | ~~AnInsomniacy.MotrixNext~~ | 10,500 | Seemingly renamed "Motrix Next" → "Rayburst".
 | ~~AppiumDevelopers.AppiumInspector~~ | 
 | ~~chen08209.FlClash~~ | 53,500
 | ~~garethgeorge.Backrest~~ | 7,400 | Falsely claims "Validation-Executable-Error".
 | ~~HunterBown.CodeWhale~~ | 
 | ~~jeffvli.Feishin~~ | 10,000
+| ~~JustArchiNET.ArchiSteamFarm~~ | 13,700
 | ~~Microsoft.ScreenRecorder~~ | | Keeps falsely claiming "Validation-Executable-Error".
 | ~~oldj.switchhosts~~ | 27,200
 | ~~OlegShparber.Zeal~~ | 12,800
