@@ -95,7 +95,7 @@ Reasonably possible even for users *without* access to ARM64 Windows devices to 
 | ~~PTRTECH.UVtools~~ | 1,600 | .MSI
 | ~~QGIS.QField~~ | 1,400 | .MSI
 | ~~RIA.Libdigidocpp~~ | 109 | .MSI; Estonian agency, not to be mistaken for the Russian channel.
-| ~~Rojo.Rojo~~ | 1,800
+| ~~Rojo.Rojo~~ | 1,800 | Falsely claims "Validation-Executable-Error".
 | ~~Sentry.sentry-cli~~ | 
 | ~~Simprint.Simprint~~ | 
 | ~~SnapXL.SnapX~~ | 1,000 | .MSI
