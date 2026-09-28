@@ -57,7 +57,7 @@ Reasonably possible even for users *without* access to ARM64 Windows devices to 
 | koepalex.CrowsNestMQTT | 16
 | Lune.Lune | 953 | Luau runtime.
 | Microsoft.Azure.Kubelogin | 
-| MikeFarah.yq | 16,000
+| ~~MikeFarah.yq~~ | 16,000
 | mulhamna.jirac | 50
 | mulhamna.jirac-mcp | 
 | nolanderc.glsl_analyzer | 384
