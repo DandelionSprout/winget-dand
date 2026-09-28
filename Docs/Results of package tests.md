@@ -143,6 +143,7 @@
 * DS5Windows (Has a hard dependency that is made by an utter dіsgustіng sсumbag of a br*ny)
 * DS2vJoy (Has a hard dependency that is made by an utter dіsgustіng sсumbag of a br*ny)
 * DualSense4Windows (Has a hard dependency that is made by an utter dіsgustіng sсumbag of a br*ny)
+* DirectXInput (Has a hard dependency that is made by an utter dіsgustіng sсumbag of a br*ny)
 
 ## No known installer URLs:
 * ASUS Armoury Crate SE Service (The "Armoury Crate SE Installer" just installs the regular Armoury Crate)
