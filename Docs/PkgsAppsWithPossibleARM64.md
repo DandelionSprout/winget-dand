@@ -78,7 +78,6 @@ Reasonably possible even for users *without* access to ARM64 Windows devices to 
 | xoofx.kalk | 342
 | XueshiQiao.NetstatCat | 27 | .MSI
 | yitsushi.totp-cli | 377
-| ZeroNet.ZeroNet | 18,800
 | ~~1History.1History~~ | 551
 | ~~Adembc.Lazyssh~~ | 4,000
 | ~~AnInsomniacy.MotrixNext~~ | 10,500 | Seemingly renamed "Motrix Next" → "Rayburst".
