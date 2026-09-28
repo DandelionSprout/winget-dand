@@ -57,7 +57,6 @@ Reasonably possible even for users *without* access to ARM64 Windows devices to 
 | koepalex.CrowsNestMQTT | 16
 | Lune.Lune | 953 | Luau runtime.
 | Microsoft.Azure.Kubelogin | 
-| ~~MikeFarah.yq~~ | 16,000
 | mulhamna.jirac | 50
 | mulhamna.jirac-mcp | 
 | nolanderc.glsl_analyzer | 384
@@ -67,7 +66,6 @@ Reasonably possible even for users *without* access to ARM64 Windows devices to 
 | peanut996.CloudflareWarpSpeedTest | 873
 | ractive.hyalo | 27
 | riyasy.FlyPhotos | 797 | .MSI
-| Rojo.Rojo | 1,800
 | rsteube.Carapace | 2,000
 | skssmd.Graft | 10
 | Slik.Subversion | 76 | .MSI
@@ -92,12 +90,14 @@ Reasonably possible even for users *without* access to ARM64 Windows devices to 
 | ~~jeffvli.Feishin~~ | 10,000
 | ~~JustArchiNET.ArchiSteamFarm~~ | 13,700
 | ~~Microsoft.ScreenRecorder~~ | | Keeps falsely claiming "Validation-Executable-Error".
+| ~~MikeFarah.yq~~ | 16,000
 | ~~oldj.switchhosts~~ | 27,200
 | ~~OlegShparber.Zeal~~ | 12,800
 | ~~OpenAudible.OpenAudible~~ | 1,800
 | ~~PTRTECH.UVtools~~ | 1,600 | .MSI
 | ~~QGIS.QField~~ | 1,400 | .MSI
 | ~~RIA.Libdigidocpp~~ | 109 | .MSI; Estonian agency, not to be mistaken for the Russian channel.
+| ~~Rojo.Rojo~~ | 1,800
 | ~~Sentry.sentry-cli~~ | 
 | ~~Simprint.Simprint~~ | 
 | ~~SnapXL.SnapX~~ | 1,000 | .MSI
