@@ -22,7 +22,6 @@ For full accuracy, apps in the first table should be handled by users with acces
 | RoderickQiu.wnr | 1,100
 | sebescudie.GammaLauncher | 63
 | TEdit.TEdit | | Terraria thingie.
-| Thewh1teagle.vibe | 7,600
 | WilsonGlasser.Oryxis | 338
 | ~~KandoMenu.Kando~~ | 6,400
 | ~~PicGo.PicGo~~ | 27,300
