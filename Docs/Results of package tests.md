@@ -138,6 +138,7 @@
 * SF Mono (.dmg file)
 * DualSenseX (Has a hard dependency that is made by an utter dіsgustіng sсumbag of a br*ny)
 * PadSense-CE (Has a hard dependency that is made by an utter dіsgustіng sсumbag of a br*ny)
+* vDS (Has a hard dependency that is made by an utter dіsgustіng sсumbag of a br*ny)
 
 ## No known installer URLs:
 * ASUS Armoury Crate SE Service (The "Armoury Crate SE Installer" just installs the regular Armoury Crate)
