@@ -43,7 +43,6 @@ Reasonably possible even for users *without* access to ARM64 Windows devices to 
 | CycloneDX.cdxgen | 1,100
 | danielsiegl.gitsqlite | 24
 | Envoy49.go-spotify-cli | | Spotify.
-| erikbra.grate | 297 | .MSI
 | FilenCloud.Filen-cli | 284
 | Fluxzy.Fluxzy | 369
 | FujiApple.Claptrap | 14
