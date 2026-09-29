@@ -40,7 +40,7 @@ Reasonably possible even for users *without* access to ARM64 Windows devices to 
 | CelikE.soko | 6
 | danielsiegl.gitsqlite | 24
 | Envoy49.go-spotify-cli | | Spotify.
-| Fluxzy.Fluxzy | 369
+| ~~Fluxzy.Fluxzy~~ | 369
 | FujiApple.Claptrap | 14
 | FujiApple.Trippy | 
 | hellobertrand.zxc | 465
@@ -52,7 +52,7 @@ Reasonably possible even for users *without* access to ARM64 Windows devices to 
 | Microsoft.Azure.Kubelogin | 
 | mulhamna.jirac | 50
 | mulhamna.jirac-mcp | 
-| nolanderc.glsl_analyzer | 384
+| ~~nolanderc.glsl_analyzer~~ | 384
 | packetThrower.Baudrun | 29 | .MSI
 | packetThrower.Zorite | | .MSI
 | peanut996.CloudflareWarpSpeedTest | 873
