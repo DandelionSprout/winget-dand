@@ -46,7 +46,6 @@ Reasonably possible even for users *without* access to ARM64 Windows devices to 
 | igoogolx.itun2socks | 15
 | Indent.Access | 29
 | koepalex.CrowsNestMQTT | 16
-| Lune.Lune | 953 | Luau runtime.
 | Microsoft.Azure.Kubelogin | 
 | mulhamna.jirac | 50
 | mulhamna.jirac-mcp | 
@@ -63,7 +62,6 @@ Reasonably possible even for users *without* access to ARM64 Windows devices to 
 | Spicetify.Spicetify | 24,700 | Spotify.
 | taiki-e.parse-changelog | 66
 | Wilfred.difftastic | 25,900 | Should probably wait until 0.71.0 gets merged.
-| ~~xoofx.kalk~~ | 342
 | XueshiQiao.NetstatCat | 27 | .MSI
 | yitsushi.totp-cli | 377
 | ~~1History.1History~~ | 551
@@ -82,6 +80,7 @@ Reasonably possible even for users *without* access to ARM64 Windows devices to 
 | ~~jeffvli.Feishin~~ | 10,000
 | ~~jtroo.kanata_gui~~ | 7,900
 | ~~JustArchiNET.ArchiSteamFarm~~ | 13,700
+| ~~Lune.Lune~~ | 953 | Luau runtime.
 | ~~Microsoft.ScreenRecorder~~ | | Keeps falsely claiming "Validation-Executable-Error".
 | ~~MikeFarah.yq~~ | 16,000
 | ~~nolanderc.glsl_analyzer~~ | 384
@@ -102,3 +101,4 @@ Reasonably possible even for users *without* access to ARM64 Windows devices to 
 | ~~WerWolv.ImHex~~ | 54,900 | .MSI
 | ~~WidelandsDevelopmentTeam.Widelands~~ | 
 | ~~xemu-project.xemu~~ | 
+| ~~xoofx.kalk~~ | 342
