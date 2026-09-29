@@ -63,7 +63,7 @@ Reasonably possible even for users *without* access to ARM64 Windows devices to 
 | Spicetify.Spicetify | 24,700 | Spotify.
 | taiki-e.parse-changelog | 66
 | Wilfred.difftastic | 25,900 | Should probably wait until 0.71.0 gets merged.
-| xoofx.kalk | 342
+| ~~xoofx.kalk~~ | 342
 | XueshiQiao.NetstatCat | 27 | .MSI
 | yitsushi.totp-cli | 377
 | ~~1History.1History~~ | 551
