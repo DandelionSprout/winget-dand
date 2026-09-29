@@ -37,12 +37,9 @@ Reasonably possible even for users *without* access to ARM64 Windows devices to 
 | autobrr.upbrr.gui | 227
 | Ayideyia.GUI-for-Clash | 2,800
 | Ayideyia.GUI-for-SingBox | 
-| ~~Carvel.ytt~~ | 1,900
 | CelikE.soko | 6
-| ~~CycloneDX.cdxgen~~ | 1,100
 | danielsiegl.gitsqlite | 24
 | Envoy49.go-spotify-cli | | Spotify.
-| FilenCloud.Filen-cli | 284
 | Fluxzy.Fluxzy | 369
 | FujiApple.Claptrap | 14
 | FujiApple.Trippy | 
@@ -68,7 +65,6 @@ Reasonably possible even for users *without* access to ARM64 Windows devices to 
 | spacelift-io.spacectl | 171
 | Spicetify.Spicetify | 24,700 | Spotify.
 | taiki-e.parse-changelog | 66
-| ~~UniversityOfAmsterdam.praat~~ | 2,000 | Asked about to Dumplings to add as a new app.
 | Wilfred.difftastic | 25,900 | Should probably wait until 0.71.0 gets merged.
 | xoofx.kalk | 342
 | XueshiQiao.NetstatCat | 27 | .MSI
@@ -78,7 +74,10 @@ Reasonably possible even for users *without* access to ARM64 Windows devices to 
 | ~~Amnezia.AmneziaWG~~ | 1,100 | .MSI
 | ~~AnInsomniacy.MotrixNext~~ | 10,500 | Seemingly renamed "Motrix Next" → "Rayburst".
 | ~~AppiumDevelopers.AppiumInspector~~ | 
+| ~~Carvel.ytt~~ | 1,900
 | ~~chen08209.FlClash~~ | 53,500
+| ~~CycloneDX.cdxgen~~ | 1,100
+| ~~FilenCloud.Filen-cli~~ | 284 | Fakers; the ARM64 version has the same SHA256 as x64.
 | ~~garethgeorge.Backrest~~ | 7,400 | Falsely claims "Validation-Executable-Error".
 | ~~HunterBown.CodeWhale~~ | 
 | ~~jeffvli.Feishin~~ | 10,000
@@ -98,6 +97,7 @@ Reasonably possible even for users *without* access to ARM64 Windows devices to 
 | ~~Simprint.Simprint~~ | 
 | ~~SnapXL.SnapX~~ | 1,000 | .MSI
 | ~~SuperTuxKart.SuperTuxKart~~ | 
+| ~~UniversityOfAmsterdam.praat~~ | 2,000 | Asked about to Dumplings to add as a new app.
 | ~~Veirt.weathr~~ | 3,100 | The wminet_utils.dll glitch.
 | ~~WerWolv.ImHex~~ | 54,900 | .MSI
 | ~~WidelandsDevelopmentTeam.Widelands~~ | 
