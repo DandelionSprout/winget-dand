@@ -89,7 +89,7 @@ Reasonably possible even for users *without* access to ARM64 Windows devices to 
 | ~~oldj.switchhosts~~ | 27,200
 | ~~OlegShparber.Zeal~~ | 12,800
 | ~~OpenAudible.OpenAudible~~ | 1,800
-| ~~OrryVerducci.TtxFromTS~~ | 17
+| ~~OrryVerducci.TtxFromTS~~ | 17 | The wminet_utils.dll glitch.
 | ~~PTRTECH.UVtools~~ | 1,600 | .MSI
 | ~~QGIS.QField~~ | 1,400 | .MSI
 | ~~RIA.Libdigidocpp~~ | 109 | .MSI; Estonian agency, not to be mistaken for the Russian channel.
@@ -98,7 +98,7 @@ Reasonably possible even for users *without* access to ARM64 Windows devices to 
 | ~~Simprint.Simprint~~ | 
 | ~~SnapXL.SnapX~~ | 1,000 | .MSI
 | ~~SuperTuxKart.SuperTuxKart~~ | 
-| ~~Veirt.weathr~~ | 3,100 | Weather app.
+| ~~Veirt.weathr~~ | 3,100 | The wminet_utils.dll glitch.
 | ~~WerWolv.ImHex~~ | 54,900 | .MSI
 | ~~WidelandsDevelopmentTeam.Widelands~~ | 
 | ~~xemu-project.xemu~~ | 
