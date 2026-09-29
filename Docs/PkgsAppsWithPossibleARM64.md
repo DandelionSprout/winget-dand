@@ -12,19 +12,19 @@ For full accuracy, apps in the first table should be handled by users with acces
 | AmarBego.GitTop | 8
 | bornova.numara | 281
 | ErkanOzgurYilmaz.DisplayCAL | 1,600
-| ~~GermanCoding.SyncTrayzor~~ | 2,000
 | hooosberg.WitNote | 570 | Should probably wait until ≥2.0.1 gets merged.
 | LinwoodCloud.Butterfly | 2,000 | Should probably wait until 2.6.0 gets merged.
-| ~~maygo.tockler~~ | 1,100
 | msitarzewski.AgencyAgents | 595
 | QuestPackageManager.QuestPackageManager | 12
 | RcloneUI.RcloneUI | 2,300 | Should probably wait until ≥3.7.5 gets merged.
-| ~~RoderickQiu.wnr~~ | 1,100
 | sebescudie.GammaLauncher | 63
 | TEdit.TEdit | | Terraria thingie.
 | WilsonGlasser.Oryxis | 338
+| ~~GermanCoding.SyncTrayzor~~ | 2,000
 | ~~KandoMenu.Kando~~ | 6,400
+| ~~maygo.tockler~~ | 1,100
 | ~~PicGo.PicGo~~ | 27,300
+| ~~RoderickQiu.wnr~~ | 1,100
 | ~~Yaak.app~~ | 19,300 | "Validation-Installation-Error".
 
 ## MSI / Portable / Unsorted
@@ -32,7 +32,6 @@ Reasonably possible even for users *without* access to ARM64 Windows devices to 
 
 | ID | ★ | Notes
 | - | - | -
-| ~~Amnezia.AmneziaWG~~ | 1,100 | .MSI
 | aroum.che | 30
 | autobrr.upbrr.cli | 227
 | autobrr.upbrr.gui | 227
@@ -57,7 +56,6 @@ Reasonably possible even for users *without* access to ARM64 Windows devices to 
 | mulhamna.jirac | 50
 | mulhamna.jirac-mcp | 
 | nolanderc.glsl_analyzer | 384
-| OrryVerducci.TtxFromTS | 17
 | packetThrower.Baudrun | 29 | .MSI
 | packetThrower.Zorite | | .MSI
 | peanut996.CloudflareWarpSpeedTest | 873
@@ -71,13 +69,13 @@ Reasonably possible even for users *without* access to ARM64 Windows devices to 
 | Spicetify.Spicetify | 24,700 | Spotify.
 | taiki-e.parse-changelog | 66
 | UniversityOfAmsterdam.praat | 2,000
-| ~~Veirt.weathr~~ | 3,100 | Weather app.
 | Wilfred.difftastic | 25,900 | Should probably wait until 0.71.0 gets merged.
 | xoofx.kalk | 342
 | XueshiQiao.NetstatCat | 27 | .MSI
 | yitsushi.totp-cli | 377
 | ~~1History.1History~~ | 551
 | ~~Adembc.Lazyssh~~ | 4,000
+| ~~Amnezia.AmneziaWG~~ | 1,100 | .MSI
 | ~~AnInsomniacy.MotrixNext~~ | 10,500 | Seemingly renamed "Motrix Next" → "Rayburst".
 | ~~AppiumDevelopers.AppiumInspector~~ | 
 | ~~chen08209.FlClash~~ | 53,500
@@ -91,6 +89,7 @@ Reasonably possible even for users *without* access to ARM64 Windows devices to 
 | ~~oldj.switchhosts~~ | 27,200
 | ~~OlegShparber.Zeal~~ | 12,800
 | ~~OpenAudible.OpenAudible~~ | 1,800
+| ~~OrryVerducci.TtxFromTS~~ | 17
 | ~~PTRTECH.UVtools~~ | 1,600 | .MSI
 | ~~QGIS.QField~~ | 1,400 | .MSI
 | ~~RIA.Libdigidocpp~~ | 109 | .MSI; Estonian agency, not to be mistaken for the Russian channel.
@@ -99,6 +98,7 @@ Reasonably possible even for users *without* access to ARM64 Windows devices to 
 | ~~Simprint.Simprint~~ | 
 | ~~SnapXL.SnapX~~ | 1,000 | .MSI
 | ~~SuperTuxKart.SuperTuxKart~~ | 
+| ~~Veirt.weathr~~ | 3,100 | Weather app.
 | ~~WerWolv.ImHex~~ | 54,900 | .MSI
 | ~~WidelandsDevelopmentTeam.Widelands~~ | 
 | ~~xemu-project.xemu~~ | 
