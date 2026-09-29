@@ -32,7 +32,7 @@ Reasonably possible even for users *without* access to ARM64 Windows devices to 
 
 | ID | ★ | Notes
 | - | - | -
-| Amnezia.AmneziaWG | 1,100 | .MSI
+| ~~Amnezia.AmneziaWG~~ | 1,100 | .MSI
 | aroum.che | 30
 | autobrr.upbrr.cli | 227
 | autobrr.upbrr.gui | 227
