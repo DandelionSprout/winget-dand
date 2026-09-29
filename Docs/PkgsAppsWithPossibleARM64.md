@@ -14,7 +14,7 @@ For full accuracy, apps in the first table should be handled by users with acces
 | ErkanOzgurYilmaz.DisplayCAL | 1,600
 | ~~GermanCoding.SyncTrayzor~~ | 2,000
 | hooosberg.WitNote | 570
-| LinwoodCloud.Butterfly | 2,000
+| LinwoodCloud.Butterfly | 2,000 | Should probably wait until 2.6.0 gets merged.
 | maygo.tockler | 1,100
 | msitarzewski.AgencyAgents | 595
 | QuestPackageManager.QuestPackageManager | 12
