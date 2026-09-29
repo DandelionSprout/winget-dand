@@ -10,7 +10,6 @@ For full accuracy, apps in the first table should be handled by users with acces
 | 0-don.clippy | 229
 | AmanThanvi.winghostty | 397 | Is about Ghostty, and has nothing to do with Winget hosting.
 | AmarBego.GitTop | 8
-| ~~bornova.numara~~ | 281
 | ErkanOzgurYilmaz.DisplayCAL | 1,600
 | hooosberg.WitNote | 570 | Should probably wait until ≥2.0.1 gets merged.
 | LinwoodCloud.Butterfly | 2,000 | Should probably wait until 2.6.0 gets merged.
@@ -20,6 +19,7 @@ For full accuracy, apps in the first table should be handled by users with acces
 | sebescudie.GammaLauncher | 63
 | TEdit.TEdit | | Terraria thingie.
 | WilsonGlasser.Oryxis | 338
+| ~~bornova.numara~~ | 281
 | ~~GermanCoding.SyncTrayzor~~ | 2,000
 | ~~KandoMenu.Kando~~ | 6,400
 | ~~maygo.tockler~~ | 1,100
@@ -40,10 +40,8 @@ Reasonably possible even for users *without* access to ARM64 Windows devices to 
 | CelikE.soko | 6
 | danielsiegl.gitsqlite | 24
 | Envoy49.go-spotify-cli | | Spotify.
-| ~~Fluxzy.Fluxzy~~ | 369
 | FujiApple.Claptrap | 14
 | FujiApple.Trippy | 
-| hellobertrand.zxc | 465
 | HunterBown.DeepSeek-TUI | 
 | igoogolx.itun2socks | 15
 | Indent.Access | 29
@@ -52,7 +50,6 @@ Reasonably possible even for users *without* access to ARM64 Windows devices to 
 | Microsoft.Azure.Kubelogin | 
 | mulhamna.jirac | 50
 | mulhamna.jirac-mcp | 
-| ~~nolanderc.glsl_analyzer~~ | 384
 | packetThrower.Baudrun | 29 | .MSI
 | packetThrower.Zorite | | .MSI
 | peanut996.CloudflareWarpSpeedTest | 873
@@ -78,13 +75,16 @@ Reasonably possible even for users *without* access to ARM64 Windows devices to 
 | ~~chen08209.FlClash~~ | 53,500
 | ~~CycloneDX.cdxgen~~ | 1,100
 | ~~FilenCloud.Filen-cli~~ | 284 | Fakers; the ARM64 version has the same SHA256 as x64.
+| ~~Fluxzy.Fluxzy~~ | 369
 | ~~garethgeorge.Backrest~~ | 7,400 | Falsely claims "Validation-Executable-Error".
+| ~~hellobertrand.zxc~~ | 465 | The manifest's formatting is irrepairably bad.
 | ~~HunterBown.CodeWhale~~ | 
 | ~~jeffvli.Feishin~~ | 10,000
 | ~~jtroo.kanata_gui~~ | 7,900
 | ~~JustArchiNET.ArchiSteamFarm~~ | 13,700
 | ~~Microsoft.ScreenRecorder~~ | | Keeps falsely claiming "Validation-Executable-Error".
 | ~~MikeFarah.yq~~ | 16,000
+| ~~nolanderc.glsl_analyzer~~ | 384
 | ~~oldj.switchhosts~~ | 27,200
 | ~~OlegShparber.Zeal~~ | 12,800
 | ~~OpenAudible.OpenAudible~~ | 1,800
