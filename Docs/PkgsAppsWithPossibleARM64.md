@@ -80,7 +80,7 @@ Reasonably possible even for users *without* access to ARM64 Windows devices to 
 | ~~jeffvli.Feishin~~ | 10,000
 | ~~jtroo.kanata_gui~~ | 7,900
 | ~~JustArchiNET.ArchiSteamFarm~~ | 13,700
-| ~~Lune.Lune~~ | 953 | Luau runtime.
+| ~~Lune.Lune~~ | 953 | The wminet_utils.dll glitch.
 | ~~Microsoft.ScreenRecorder~~ | | Keeps falsely claiming "Validation-Executable-Error".
 | ~~MikeFarah.yq~~ | 16,000
 | ~~nolanderc.glsl_analyzer~~ | 384
