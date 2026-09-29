@@ -39,7 +39,7 @@ Reasonably possible even for users *without* access to ARM64 Windows devices to 
 | Ayideyia.GUI-for-SingBox | 
 | ~~Carvel.ytt~~ | 1,900
 | CelikE.soko | 6
-| CycloneDX.cdxgen | 1,100
+| ~~CycloneDX.cdxgen~~ | 1,100
 | danielsiegl.gitsqlite | 24
 | Envoy49.go-spotify-cli | | Spotify.
 | FilenCloud.Filen-cli | 284
