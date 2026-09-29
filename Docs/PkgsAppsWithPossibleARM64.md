@@ -12,7 +12,7 @@ For full accuracy, apps in the first table should be handled by users with acces
 | AmarBego.GitTop | 8
 | bornova.numara | 281
 | ErkanOzgurYilmaz.DisplayCAL | 1,600
-| GermanCoding.SyncTrayzor | 2,000
+| ~~GermanCoding.SyncTrayzor~~ | 2,000
 | hooosberg.WitNote | 570
 | LinwoodCloud.Butterfly | 2,000
 | maygo.tockler | 1,100
