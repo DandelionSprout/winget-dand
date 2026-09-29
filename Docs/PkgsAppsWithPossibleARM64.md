@@ -15,7 +15,7 @@ For full accuracy, apps in the first table should be handled by users with acces
 | ~~GermanCoding.SyncTrayzor~~ | 2,000
 | hooosberg.WitNote | 570 | Should probably wait until ≥2.0.1 gets merged.
 | LinwoodCloud.Butterfly | 2,000 | Should probably wait until 2.6.0 gets merged.
-| maygo.tockler | 1,100
+| ~~maygo.tockler~~ | 1,100
 | msitarzewski.AgencyAgents | 595
 | QuestPackageManager.QuestPackageManager | 12
 | RcloneUI.RcloneUI | 2,300 | Should probably wait until ≥3.7.5 gets merged.
