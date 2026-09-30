@@ -59,7 +59,7 @@ Reasonably possible even for users *without* access to ARM64 Windows devices to 
 | Slik.Subversion | 76 | .MSI
 | snapetech.iptvtunerr | 13
 | spacelift-io.spacectl | 171
-| Spicetify.Spicetify | 24,700 | Spotify.
+| Spicetify.Spicetify | 24,700 | Spotify. Should wait until https://github.com/microsoft/winget-pkgs/pull/436283 gets merged.
 | taiki-e.parse-changelog | 66
 | Wilfred.difftastic | 25,900 | Should probably wait until 0.71.0 gets merged.
 | XueshiQiao.NetstatCat | 27 | .MSI
