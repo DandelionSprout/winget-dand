@@ -9,7 +9,6 @@ For full accuracy, apps in the first table should be handled by users with acces
 | - | - | -
 | 0-don.clippy | 229
 | AmanThanvi.winghostty | 397 | Is about Ghostty, and has nothing to do with Winget hosting.
-| AmarBego.GitTop | 8
 | hooosberg.WitNote | 570 | Should probably wait until ≥2.0.1 gets merged.
 | LinwoodCloud.Butterfly | 2,000 | Should probably wait until 2.6.0 gets merged.
 | QuestPackageManager.QuestPackageManager | 12
@@ -37,7 +36,6 @@ Reasonably possible even for users *without* access to ARM64 Windows devices to 
 | autobrr.upbrr.gui | 227
 | Ayideyia.GUI-for-Clash | 2,800
 | Ayideyia.GUI-for-SingBox | 
-| CelikE.soko | 6
 | danielsiegl.gitsqlite | 24
 | Envoy49.go-spotify-cli | | Spotify.
 | FujiApple.Claptrap | 14
@@ -46,7 +44,6 @@ Reasonably possible even for users *without* access to ARM64 Windows devices to 
 | igoogolx.itun2socks | 15
 | Indent.Access | 29
 | koepalex.CrowsNestMQTT | 16
-| Microsoft.Azure.Kubelogin | 
 | mulhamna.jirac | 50
 | mulhamna.jirac-mcp | 
 | packetThrower.Baudrun | 29 | .MSI
@@ -61,7 +58,6 @@ Reasonably possible even for users *without* access to ARM64 Windows devices to 
 | spacelift-io.spacectl | 171
 | Spicetify.Spicetify | 24,700 | Spotify. Should wait until https://github.com/microsoft/winget-pkgs/pull/436283 gets merged.
 | taiki-e.parse-changelog | 66
-| ~~Wilfred.difftastic~~ | 25,900
 | XueshiQiao.NetstatCat | 27 | .MSI
 | yitsushi.totp-cli | 377
 | ~~1History.1History~~ | 551
@@ -81,6 +77,7 @@ Reasonably possible even for users *without* access to ARM64 Windows devices to 
 | ~~jtroo.kanata_gui~~ | 7,900
 | ~~JustArchiNET.ArchiSteamFarm~~ | 13,700
 | ~~Lune.Lune~~ | 953 | The wminet_utils.dll glitch.
+| ~~Microsoft.Azure.Kubelogin~~ | 
 | ~~Microsoft.ScreenRecorder~~ | | Keeps falsely claiming "Validation-Executable-Error".
 | ~~MikeFarah.yq~~ | 16,000
 | ~~nolanderc.glsl_analyzer~~ | 384
@@ -100,5 +97,6 @@ Reasonably possible even for users *without* access to ARM64 Windows devices to 
 | ~~Veirt.weathr~~ | 3,100 | The wminet_utils.dll glitch.
 | ~~WerWolv.ImHex~~ | 54,900 | .MSI
 | ~~WidelandsDevelopmentTeam.Widelands~~ | 
+| ~~Wilfred.difftastic~~ | 25,900
 | ~~xemu-project.xemu~~ | 
 | ~~xoofx.kalk~~ | 342
