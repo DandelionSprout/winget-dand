@@ -10,20 +10,20 @@ For full accuracy, apps in the first table should be handled by users with acces
 | 0-don.clippy | 229
 | AmanThanvi.winghostty | 397 | Is about Ghostty, and has nothing to do with Winget hosting.
 | AmarBego.GitTop | 8
-| ErkanOzgurYilmaz.DisplayCAL | 1,600
 | hooosberg.WitNote | 570 | Should probably wait until ≥2.0.1 gets merged.
 | LinwoodCloud.Butterfly | 2,000 | Should probably wait until 2.6.0 gets merged.
-| msitarzewski.AgencyAgents | 595
 | QuestPackageManager.QuestPackageManager | 12
-| RcloneUI.RcloneUI | 2,300 | Should probably wait until ≥3.7.5 gets merged.
 | sebescudie.GammaLauncher | 63
 | TEdit.TEdit | | Terraria thingie.
 | WilsonGlasser.Oryxis | 338
 | ~~bornova.numara~~ | 281
+| ~~ErkanOzgurYilmaz.DisplayCAL~~ | 1,600
 | ~~GermanCoding.SyncTrayzor~~ | 2,000
 | ~~KandoMenu.Kando~~ | 6,400
 | ~~maygo.tockler~~ | 1,100
+| ~~msitarzewski.AgencyAgents~~ | 595
 | ~~PicGo.PicGo~~ | 27,300
+| ~~RcloneUI.RcloneUI~~ | 2,300 | Should probably wait until ≥3.7.5 gets merged.
 | ~~RoderickQiu.wnr~~ | 1,100
 | ~~Yaak.app~~ | 19,300 | "Validation-Installation-Error".
 
