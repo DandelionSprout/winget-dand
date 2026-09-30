@@ -8,7 +8,7 @@ For full accuracy, apps in the first table should be handled by users with acces
 | ID | ★ | Notes
 | - | - | -
 | ~~0-don.clippy~~ | 229
-| hooosberg.WitNote | 570 | Should probably wait until ≥2.0.1 gets merged.
+| ~~hooosberg.WitNote~~ | 570 | Should probably wait until ≥2.0.1 gets merged.
 | ~~LinwoodCloud.Butterfly~~ | 2,000
 | QuestPackageManager.QuestPackageManager | 12
 | sebescudie.GammaLauncher | 63
