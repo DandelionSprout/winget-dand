@@ -96,6 +96,6 @@ Reasonably possible even for users *without* access to ARM64 Windows devices to 
 | ~~Veirt.weathr~~ | 3,100 | The wminet_utils.dll glitch.
 | ~~WerWolv.ImHex~~ | 54,900 | .MSI
 | ~~WidelandsDevelopmentTeam.Widelands~~ | 
-| ~~Wilfred.difftastic~~ | 25,900
+| ~~Wilfred.difftastic~~ | 25,900 | The wminet_utils.dll glitch.
 | ~~xemu-project.xemu~~ | 
 | ~~xoofx.kalk~~ | 342
