@@ -23,7 +23,7 @@ For full accuracy, apps in the first table should be handled by users with acces
 | ~~maygo.tockler~~ | 1,100
 | ~~msitarzewski.AgencyAgents~~ | 595
 | ~~PicGo.PicGo~~ | 27,300
-| ~~RcloneUI.RcloneUI~~ | 2,300 | Should probably wait until ≥3.7.5 gets merged.
+| ~~RcloneUI.RcloneUI~~ | 2,300
 | ~~RoderickQiu.wnr~~ | 1,100
 | ~~Yaak.app~~ | 19,300 | "Validation-Installation-Error".
 
@@ -61,7 +61,7 @@ Reasonably possible even for users *without* access to ARM64 Windows devices to 
 | spacelift-io.spacectl | 171
 | Spicetify.Spicetify | 24,700 | Spotify. Should wait until https://github.com/microsoft/winget-pkgs/pull/436283 gets merged.
 | taiki-e.parse-changelog | 66
-| Wilfred.difftastic | 25,900 | Should probably wait until 0.71.0 gets merged.
+| ~~Wilfred.difftastic~~ | 25,900
 | XueshiQiao.NetstatCat | 27 | .MSI
 | yitsushi.totp-cli | 377
 | ~~1History.1History~~ | 551
