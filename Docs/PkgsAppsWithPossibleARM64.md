@@ -13,7 +13,7 @@ For full accuracy, apps in the first table should be handled by users with acces
 | LinwoodCloud.Butterfly | 2,000 | Should probably wait until 2.6.0 gets merged.
 | QuestPackageManager.QuestPackageManager | 12
 | sebescudie.GammaLauncher | 63
-| WilsonGlasser.Oryxis | 338
+| ~~WilsonGlasser.Oryxis~~ | 338
 | ~~bornova.numara~~ | 281
 | ~~ErkanOzgurYilmaz.DisplayCAL~~ | 1,600
 | ~~GermanCoding.SyncTrayzor~~ | 2,000
@@ -36,7 +36,7 @@ Reasonably possible even for users *without* access to ARM64 Windows devices to 
 | Ayideyia.GUI-for-Clash | 2,800
 | Ayideyia.GUI-for-SingBox | 
 | danielsiegl.gitsqlite | 24
-| Envoy49.go-spotify-cli | | Spotify.
+| Envoy49.go-spotify-cli | 140 | Spotify.
 | FujiApple.Claptrap | 14
 | FujiApple.Trippy | 
 | HunterBown.DeepSeek-TUI | 
@@ -50,7 +50,7 @@ Reasonably possible even for users *without* access to ARM64 Windows devices to 
 | peanut996.CloudflareWarpSpeedTest | 873
 | ractive.hyalo | 27
 | riyasy.FlyPhotos | 797 | .MSI
-| rsteube.Carapace | 2,000
+| ~~rsteube.Carapace~~ | 2,000
 | skssmd.Graft | 10
 | Slik.Subversion | 76 | .MSI
 | snapetech.iptvtunerr | 13
