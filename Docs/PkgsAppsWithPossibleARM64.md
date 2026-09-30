@@ -8,7 +8,6 @@ For full accuracy, apps in the first table should be handled by users with acces
 | ID | ★ | Notes
 | - | - | -
 | ~~0-don.clippy~~ | 229
-| AmanThanvi.winghostty | 397 | Is about Ghostty, and has nothing to do with Winget hosting.
 | hooosberg.WitNote | 570 | Should probably wait until ≥2.0.1 gets merged.
 | ~~LinwoodCloud.Butterfly~~ | 2,000
 | QuestPackageManager.QuestPackageManager | 12
