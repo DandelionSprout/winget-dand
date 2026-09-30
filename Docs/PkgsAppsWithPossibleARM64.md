@@ -13,7 +13,6 @@ For full accuracy, apps in the first table should be handled by users with acces
 | LinwoodCloud.Butterfly | 2,000 | Should probably wait until 2.6.0 gets merged.
 | QuestPackageManager.QuestPackageManager | 12
 | sebescudie.GammaLauncher | 63
-| TEdit.TEdit | | Terraria thingie.
 | WilsonGlasser.Oryxis | 338
 | ~~bornova.numara~~ | 281
 | ~~ErkanOzgurYilmaz.DisplayCAL~~ | 1,600
