@@ -145,6 +145,7 @@
 * ♫ PostGIS for PostgreSQL (Requires post-installation folder moves)
 * ♫ Sniffnet (Has Npcap as a dependency)
 * ♫ WinDump (Has Npcap as dependency)
+* Path of Exile 1 standalone client (Conflicting indications on whether the installer is behind a login wall or was delisted years ago)
 
 ## No known installer URLs:
 * ASUS Armoury Crate SE Service (The "Armoury Crate SE Installer" just installs the regular Armoury Crate)
