@@ -186,7 +186,7 @@ This list aims to cover apps that are either pre-installed on fresh OS installs,
 | Windows Notepad | winget install 9MSMLRH6LZF3 --force | Stock
 | Windows Sandbox | winget install 9NSMXC3NB0HN --force | App
 | Windows Scan | winget install 9WZDNCRFJ3PV --force | App
-| Windows Taleopptak | winget install 9WZDNCRFHWKN --force | Stock
+| Windows Sound Recorder | winget install 9WZDNCRFHWKN --force | Stock
 | Windows Web Experience Pack / DesktopPackageMetadata | winget install 9MSSGKG348SP --force | Stock
 | WindowsAppRuntime.Main.1.0 (MSIX version) | winget install 9PCMPL33XP5M --force | Runtime
 | WinUI 3 Gallery | winget install 9P3JFPWWDZRC --force | App
@@ -270,4 +270,5 @@ This list aims to cover apps that are either pre-installed on fresh OS installs,
 ## Notes
 * When the list was first made, I lacked time to look up the English names of some of them, so a few currently have their Norwegian names as placeholders.
 * Use `; ` to chain multiple commands together in PowerShell.
+* * If the commands are chained that way but that it feels tiring to have to accept the agreement prompt for every single `msstore` installation, rapidly type Y, Enter, Y, Enter, Y, Enter, etc., and then watch as all agreements after the first one agree to themselves. Which is a good thing in this case.
 * Fun fact: If a Microsoft Store app's product code starts with `9`, it is almost certainly either a UWP app or is a regular program wrapped into an MSIX. If it starts with `xp`, it is almost certainly a completely regular program.
