@@ -147,7 +147,8 @@
 * ♫ WinDump (Has Npcap as dependency)
 * Path of Exile 1 standalone client (Conflicting indications on whether the installer is behind a login wall or was delisted years ago)
 * Some kind of W10-supported app with "Gait" in its name, circa 7 letters, its main menu had a grey 3D model walking. Saw the app at a Stadium Ski store in Åre, but instantly forgot its full name, and now I can't find it again.
-* Anything related to Forgejo and Codeberg (Turns out their leaders are **those** kinds of Linux fans)
+* Anything related to Forgejo and Codeberg (Turns out their leaders are **those** kinds of Linux fans). Also includes at least some of the apps hosted there, such as:
+* * Nano Boy Advance
 
 ## No known installer URLs:
 * ASUS Armoury Crate SE Service (The "Armoury Crate SE Installer" just installs the regular Armoury Crate)
