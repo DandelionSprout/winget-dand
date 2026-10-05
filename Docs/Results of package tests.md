@@ -151,6 +151,7 @@
 * * Nano Boy Advance
 * HP Detect My Device / HP Web Products Detection (Error -3)
 * Acer Serial Number Detection Tool (The setup .exe crashes on launch)
+* Nahimic 2 ("All access to this object has been disabled")
 
 ## No known installer URLs:
 * ASUS Armoury Crate SE Service (The "Armoury Crate SE Installer" just installs the regular Armoury Crate)
