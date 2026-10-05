@@ -1,0 +1,12 @@
+# yaml-language-server: $schema=https://aka.ms/winget-manifest.installer.1.12.0.schema.json
+
+PackageIdentifier: HP.xRServices
+PackageVersion: 25.0.16
+InstallerType: msi
+ProductCode: '{066217E9-67B1-43DC-B0DE-9C12EF626DE4}'
+Installers:
+- Architecture: x86
+  InstallerUrl: https://frontlineus.blob.core.windows.net/hp-storage/xRServices_25.0.16.msi # Found by running "winget show xp8jgx3tdlr0hh"
+  InstallerSha256: A030C797EC5099EAB655BF8186CA0881A9CB118BA395396EEAE9D83DA55E8CCA
+ManifestType: installer
+ManifestVersion: 1.12.0
