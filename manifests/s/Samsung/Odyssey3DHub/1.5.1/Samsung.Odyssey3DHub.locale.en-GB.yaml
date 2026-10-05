@@ -3,7 +3,6 @@
 PackageIdentifier: Samsung.Odyssey3DHub
 PackageVersion: 1.5.1
 PackageLocale: en-GB
-PackageUrl: https://www.samsung.com/gb/support/downloads/?model=N0061851&modelCode=LS27FG900XNXZA
 ShortDescription: Jump into 3D quickly and easily with Odyssey 3D Hub, which delivers the best 3D video and gaming experience you can get. Register and access supported games, and adjust settings to get the most out of 3D across your favourite content.
 ManifestType: locale
 ManifestVersion: 1.12.0
