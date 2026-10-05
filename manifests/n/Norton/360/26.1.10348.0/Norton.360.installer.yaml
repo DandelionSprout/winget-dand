@@ -1,0 +1,16 @@
+# yaml-language-server: $schema=https://aka.ms/winget-manifest.installer.1.12.0.schema.json
+# Not submitted to pkgs due to: Really not worth it due to their wordfilters.
+# Not submitted to extras due to: The policy of submitting apps to pkgs first became strengthened in early October 2026.
+
+PackageIdentifier: Norton.360
+PackageVersion: 26.1.10348.0
+InstallerType: exe
+InstallerSwitches:
+  Silent: /s
+  SilentWithProgress: /s
+Installers:
+- Architecture: x86
+  InstallerUrl: https://download.avcdn.net/avstore/custom/norton/223/norton360_msft_gen_prod.exe # Found by running "winget show XPFNZKWN35KD6Z"
+  InstallerSha256: F88813D6DD4F433B0F297CE885D870845B31B133436BB80D5A1A8EF34C066364
+ManifestType: installer
+ManifestVersion: 1.12.0

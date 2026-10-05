@@ -1,0 +1,18 @@
+# yaml-language-server: $schema=https://aka.ms/winget-manifest.defaultLocale.1.12.0.schema.json
+
+PackageIdentifier: Norton.360
+PackageVersion: 26.1.10348.0
+PackageLocale: en-US
+Publisher: Norton
+PackageName: Norton 360
+License: Proprietary (7-day trial)
+Copyright: © 2026 Gen Digital Inc. All rights reserved.
+ShortDescription: It's Norton 360. There's nothing good anyone could expect from this one.
+Moniker: norton360
+Tags:
+- norton-360
+- pain
+- johnfreemanwhowasgordonfreemansbrother
+PurchaseUrl: https://norton.com/products/norton-360
+ManifestType: defaultLocale
+ManifestVersion: 1.12.0
