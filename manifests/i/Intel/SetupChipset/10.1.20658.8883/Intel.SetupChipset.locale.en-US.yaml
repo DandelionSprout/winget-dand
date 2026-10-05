@@ -1,0 +1,29 @@
+# yaml-language-server: $schema=https://aka.ms/winget-manifest.defaultLocale.1.12.0.schema.json
+
+PackageIdentifier: Intel.SetupChipset
+PackageVersion: 10.1.20658.8883
+PackageLocale: en-US
+Publisher: Intel Corporation
+PackageName: SetupChipset
+PackageUrl: https://www.intel.com/content/www/us/en/download/19347/chipset-inf-utility.html
+License: Freeware
+Copyright: © 2026 Intel Corporation
+ShortDescription: Installs drivers for various Intel CPUs.
+Moniker: setupchipset
+Tags:
+- setup-chipset
+- chipset-inf-utility
+- chipsetinfutility
+- intel-chipset-device-software
+- intelchipsetdevicesoftware
+- cpu-chipset-drivers
+- hsystemnorthpeak.inf
+- vsystemthermal.inf
+- lpdmasecextension.inf
+- hsystemlpss.inf
+- pch-lpusbfunctioncontroller.inf
+- systemgmm.inf
+- lpsdhost.inf
+- hsdhost.inf
+ManifestType: defaultLocale
+ManifestVersion: 1.12.0
