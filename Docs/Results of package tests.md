@@ -150,6 +150,7 @@
 * Anything related to Forgejo and Codeberg (Turns out their leaders are **those** kinds of Linux fans). Also includes at least some of the apps hosted there, such as:
 * * Nano Boy Advance
 * HP Detect My Device / HP Web Products Detection (Error -3)
+* Acer Serial Number Detection Tool (The setup .exe crashes on launch)
 
 ## No known installer URLs:
 * ASUS Armoury Crate SE Service (The "Armoury Crate SE Installer" just installs the regular Armoury Crate)
