@@ -1,0 +1,25 @@
+# yaml-language-server: $schema=https://aka.ms/winget-manifest.defaultLocale.1.12.0.schema.json
+
+PackageIdentifier: HP.PrivacySettings
+PackageVersion: 1.4.17
+PackageLocale: en
+Publisher: HP Inc.
+PackageName: HP Privacy Settings
+# PackageUrl: https://support.hp.com/us-en/drivers/swdetails/hp-omnibook-3-16-inch-laptop-next-gen-ai-pc-16-bv0000/2103368112/swItemId/ob-359032-1 (Likely to run into Winget pipeline problems.)
+License: Proprietary
+Copyright: © 2026 HP Development Company, L.P.
+ShortDescription: A stand alone application that enables users to review and update their consent settings regarding privacy. The users will be able to view their consent settings which they provided during OOBE setup.
+Description: |
+  A stand alone application that enables users to review and update their consent settings regarding privacy. The users will be able to view their consent settings which they provided during OOBE setup.
+
+  Not necessarily to be confused with "HP PC Privacy Settings".
+Moniker: hpprivacysettings
+Tags:
+- hp-privacy-settings
+- hpanalyticscomp.inf
+- hpanalyticsext.inf
+- hpcustomcapcomp.inf
+- hpcustomcapext.inf
+# ReleaseNotesUrl: https://support.hp.com/soar-attachment/855/col92513-ob-359032-1-ob-359032-1_sp168489_releasedoc.html (Likely to run into Winget pipeline problems.)
+ManifestType: defaultLocale
+ManifestVersion: 1.12.0
