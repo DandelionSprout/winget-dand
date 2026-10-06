@@ -31,7 +31,7 @@ This list aims to cover apps that are either pre-installed on fresh OS installs,
 | Esperientzia lokalaren paketea euskaraz | winget install 9nmchqhz37hz --force | Language
 | Facebook | winget install 9WZDNCRFJ2WL --force | App
 | Feedback Hub | winget install 9NBLGGH4R32N --force | Stock
-| Films & TV | winget install 9WZDNCRFJ3P2 --force | Stock
+| Films & TV / Movies & TV | winget install 9WZDNCRFJ3P2 --force | Stock
 | Fresh Paint | winget install 9WZDNCRFJB13 --force | App
 | Gaeilge Paca Eispéiris Logánta | winget install 9P0L5Q848KXT --force | Language
 | Galaxy Book Experience | winget install 9P7QF37HPMGX --force | Stock (Samsung)
