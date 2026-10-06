@@ -3,6 +3,7 @@
 
 PackageIdentifier: StasMCorp.rdpwrap
 PackageVersion: 1.6.2
+ReleaseDate: 2017-12-27
 InstallerType: msi
 ProductCode: '{37EA5771-3352-4A52-9FAC-9297331DAEBD}'
 Installers:
