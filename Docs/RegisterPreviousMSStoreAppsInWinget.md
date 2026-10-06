@@ -16,7 +16,7 @@ This list aims to cover apps that are either pre-installed on fresh OS installs,
 | Azərbaycan dilində Lokal Təcrübə Paketi | winget install 9P5TFKZHQ5K8 --force | Language
 | Balík pre lokálne prostredie v slovenčine | winget install 9n7lsnn099wb --force | Language
 | Bluetooth Audio Receiver | winget install 9N9WCLWDQS5J --force | App
-| Cross Device Experience Host | winget install 9NTXGKQ8P7N0 --force | Stock
+| Cross Device Experience Host / Mobile devices | winget install 9NTXGKQ8P7N0 --force | Stock
 | Dansk lokal grænsefladepakke | winget install 9NDMT2VKSNL1 --force | Language
 | Deutsch Local Experience Pack | winget install 9P6CT0SLW589 --force | Language
 | Dolby Access | winget install 9N0866FS04W8 --force | App
@@ -72,7 +72,7 @@ This list aims to cover apps that are either pre-installed on fresh OS installs,
 | Microsoft Journal | winget install 9N318R854RHH --force | App
 | Microsoft Katja (Natural) - German (Germany) | winget install 9PM0J5R14Z1M --force | Language
 | Microsoft Loop | winget install 9P1HQ5TQZMGD --force | App
-| Microsoft Messaging | winget install 9WZDNCRFJBQ6 --force | App
+| Microsoft Messaging / Windows Operator messages | winget install 9WZDNCRFJBQ6 --force | App
 | Microsoft News / MSN News | winget install 9WZDNCRFHVFW --force | Stock
 | Microsoft Photos Legacy | winget install 9NV2L4XVMCXM --force | App
 | Microsoft Photos | winget install 9WZDNCRFJBH4 --force | Stock
@@ -233,10 +233,10 @@ This list aims to cover apps that are either pre-installed on fresh OS installs,
 * Dolby AC-4 decoder for PC OEMs
 * Facebook 1C2D851A
 * Flipgrid
-* Game Speech Window
+* Game Speech Window / Xbox Game Speech Window
 * Google Context Helper
 * Google Notification Helper
-* HEVC-videoutvidelser fra enhetsprodusenten
+* HEVC Video Extensions from Device Manufacturer
 * HP Designjet Print Experience
 * Intel® Graphics Control Panel
 * Intel® WiDi Media Share
@@ -256,15 +256,17 @@ This list aims to cover apps that are either pre-installed on fresh OS installs,
 * OneNote Virtual Printer
 * OutlookPWA
 * Paint.NET (Microsoft Store version)
-* People
+* People / Microsoft
 * Print 3D
 * reaConverter Context Menu Manager
 * SmartConnectExtInstaller
 * Store Experiences Host / Store Purchase App
+* Tips / Microsoft Tips
 * Windows Maps
 * Windows Security
 * Word Mobile
 * Xbox Console Companion
+* Xbox Game Bar Plugin
 * Pretty much all videogames except Minecraft Education and possibly Duolingo; see `https://github.com/microsoft/winget-cli/issues/5818`
 
 ## Notes
