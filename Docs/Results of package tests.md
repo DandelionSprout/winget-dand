@@ -152,6 +152,7 @@
 * HP Detect My Device / HP Web Products Detection (Error -3)
 * Acer Serial Number Detection Tool (The setup .exe crashes on launch)
 * Nahimic 2 ("All access to this object has been disabled")
+* Dell SupportAssist (Error 9505: "This app is only available for Dell and Alienware PCs.")
 
 ## No known installer URLs:
 * ASUS Armoury Crate SE Service (The "Armoury Crate SE Installer" just installs the regular Armoury Crate)
