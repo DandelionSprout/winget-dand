@@ -1,5 +1,4 @@
 ﻿# yaml-language-server: $schema=https://aka.ms/winget-manifest.installer.1.28.0.schema.json
-# Not submitted to pkgs due to: Not worth the required stamina for it since it has backslashes in RelativeFilePath.
 
 PackageIdentifier: Microsoft.SystemCenter.ResetSRS
 PackageVersion: "2025"
