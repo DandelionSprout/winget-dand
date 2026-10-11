@@ -1,0 +1,14 @@
+# Created using wingetcreate 1.12.13.0
+# yaml-language-server: $schema=https://aka.ms/winget-manifest.installer.1.12.0.schema.json
+
+PackageIdentifier: ManicTime.ManicTime.Server
+PackageVersion: 2026.2.4
+InstallerLocale: en-US
+InstallerType: wix
+ProductCode: '{F0E0C225-4E28-495B-A865-C02CE165F879}'
+Installers:
+- Architecture: x64
+  InstallerUrl: https://cdn.manictime.com/setup/server/v2026_2_4_0/manictimeserver-setup-2026.2.4.0-win-x64.msi
+  InstallerSha256: B5755930ED287A3629317482989FB525E5A15EE3FD3796FBFD893BDD15794BC8
+ManifestType: installer
+ManifestVersion: 1.12.0

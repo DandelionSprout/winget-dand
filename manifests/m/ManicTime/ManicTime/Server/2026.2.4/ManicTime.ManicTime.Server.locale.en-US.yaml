@@ -1,0 +1,13 @@
+# yaml-language-server: $schema=https://aka.ms/winget-manifest.defaultLocale.1.12.0.schema.json
+
+PackageIdentifier: ManicTime.ManicTime.Server
+PackageVersion: 2026.2.4
+PackageLocale: en-US
+Publisher: Finkit d.o.o.
+PackageName: ManicTime Server
+PackageUrl: https://www.manictime.com/download/server
+License: Proprietary
+ShortDescription: The on-premise server hosting tool for the time-tracker app ManicTime.
+ReleaseNotesUrl: https://www.manictime.com/releases/server
+ManifestType: defaultLocale
+ManifestVersion: 1.12.0
