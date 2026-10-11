@@ -1,0 +1,21 @@
+# yaml-language-server: $schema=https://aka.ms/winget-manifest.defaultLocale.1.12.0.schema.json
+
+PackageIdentifier: ESTsoft.ALZip
+PackageVersion: "12.37"
+PackageLocale: ko-KR
+Publisher: ESTsoft Corp.
+PackageName: 알집 (ALZip)
+PackageUrl: https://altools.co.kr/product/ALZIP
+Copyright: 2026 ESTsoft Corp. All rights reserved.
+License: 비밀 출처
+ShortDescription: 전국민 압축프로그램.
+Tags:
+- al-zip
+- 압축프로그램
+- 압축-프로그램
+- 壓縮프로그램
+- 압축프로그람
+- 압축-프로그람
+- altools
+ManifestType: defaultLocale
+ManifestVersion: 1.12.0

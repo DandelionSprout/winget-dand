@@ -1,0 +1,22 @@
+# yaml-language-server: $schema=https://aka.ms/winget-manifest.locale.1.12.0.schema.json
+
+PackageIdentifier: ESTsoft.ALZip
+PackageVersion: "12.37"
+PackageLocale: en-US
+PackageName: ALZip (알집)
+License: Proprietary
+ShortDescription: Broad-coverage file compression app.
+Tags:
+- al-zip
+- extract-arc-files
+- arc-extractor
+- file-extractor
+- fileextractor
+- extract-files
+- file-extracting
+- extract-compressed-files
+- file-compressor
+- altools
+- contains-ads
+ManifestType: locale
+ManifestVersion: 1.12.0
