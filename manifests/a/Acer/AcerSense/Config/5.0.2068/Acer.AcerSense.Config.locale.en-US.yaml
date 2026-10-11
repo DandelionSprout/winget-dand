@@ -1,0 +1,17 @@
+# yaml-language-server: $schema=https://aka.ms/winget-manifest.defaultLocale.1.12.0.schema.json
+
+PackageIdentifier: Acer.AcerSense.Config
+PackageVersion: 5.0.2068
+PackageLocale: en-US
+Publisher: Acer
+PackageName: AcerSense Config
+# PackageUrl: https://www.acer.com/gb-en/support/product-support/Swift%20SFG16-A71/downloads
+License: Proprietary
+ShortDescription: The .MSI-based configuration portion of the AcerSense app.
+Moniker: acersenseconfig
+Tags:
+- acersense-config
+- acersenseconfig
+- acer-sense-config
+ManifestType: defaultLocale
+ManifestVersion: 1.12.0
