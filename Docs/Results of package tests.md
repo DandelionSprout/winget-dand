@@ -153,6 +153,7 @@
 * Acer Serial Number Detection Tool (The setup .exe crashes on launch)
 * Nahimic 2 ("All access to this object has been disabled")
 * Dell SupportAssist (Error 9505: "This app is only available for Dell and Alienware PCs.")
+* Samsung Browser for Windows (MV3 browser)
 
 ## No known installer URLs:
 * ASUS Armoury Crate SE Service (The "Armoury Crate SE Installer" just installs the regular Armoury Crate)
@@ -235,7 +236,6 @@
 * Qt Linguist
 * Rockchip Driver Assistant (Heavily customised installer)
 * Saleae.Logic2 (Driver install prompt that can only be closed manually)
-* Samsung Browser for Windows
 * SPICE Guest Tools (Driver install prompt that can only be closed manually)
 * SQL Server SSMA for Access (Has Microsoft Data Access Objects libraries as a hard dependency, for which no installer URL is known.)
 * TeX Live
