@@ -149,19 +149,22 @@
 * Some kind of W10-supported app with "Gait" in its name, circa 7 letters, its main menu had a grey 3D model walking. Saw the app at a Stadium Ski store in Åre, but instantly forgot its full name, and now I can't find it again.
 * Anything related to Forgejo and Codeberg (Turns out their leaders are **those** kinds of Linux fans). Also includes at least some of the apps hosted there, such as:
 * * Nano Boy Advance
-* HP Detect My Device / HP Web Products Detection (Error -3)
 * Acer Serial Number Detection Tool (The setup .exe crashes on launch)
 * Nahimic 2 ("All access to this object has been disabled")
 * Dell SupportAssist (Error 9505: "This app is only available for Dell and Alienware PCs.")
 * Samsung Browser for Windows (MV3 browser)
+* HP anything (Involved in [corruption that aims to destroy my home country](https://newrepublic.com/post/216672/list-white-house-ballroom-donors-trump-corruption)). Ones with other problems on top of that:
+* * HP Detect My Device / HP Web Products Detection (Error -3)
+* * HP Documentation (No known installer URLs)
+* * HP Inc. Energy Star (No known installer URLs)
+* * HP Connection Optimizer (No apparent silent switches)
+* * HP Universal Printer Driver / Universal Printing (Can't be silently installed)
 
 ## No known installer URLs:
 * ASUS Armoury Crate SE Service (The "Armoury Crate SE Installer" just installs the regular Armoury Crate)
 * CertsUpdater Saber Interactive
 * CodeMeter Runtime Kit Reduced
 * HHDSoftware.HexEditorNeo.Sparse (No known standalone installer URL)
-* HP Documentation
-* HP Inc. Energy Star
 * Keysight Licensing Daemon / Keysight License Server (No known functioning installer URL)
 * Microsoft Access Database Engine 2010 (No installer URL is known to still exist)
 * Microsoft Consumer Hub v3
@@ -216,8 +219,6 @@
 * GamesCleaner setup
 * Genshin Impact / MiHoYo / HoYoPlay / Cognosphere
 * Google WebP codec
-* HP Connection Optimizer (No apparent silent switches)
-* HP Universal Printer Driver / Universal Printing
 * Intel Memory and Storage Tool CLI
 * IsaoMaruoka.Pixia (Silent installation fails with error 4294967292)
 * Jigsaw.OutlineClient (Driver install prompt that can only be closed manually)
