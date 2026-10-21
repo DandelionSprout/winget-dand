@@ -1,0 +1,15 @@
+# Created using wingetcreate 1.12.13.0
+# yaml-language-server: $schema=https://aka.ms/winget-manifest.installer.1.12.0.schema.json
+
+PackageIdentifier: Asus.RouterFirmwareRestoration
+PackageVersion: 2.1.0.3
+InstallerType: zip
+NestedInstallerType: inno
+NestedInstallerFiles:
+- RelativeFilePath: Rescue_2103\Rescue.exe
+Installers:
+- Architecture: x86
+  InstallerUrl: https://dlcdnets.asus.com/pub/ASUS/wireless/GT-AX6000/Rescue_2103.zip
+  InstallerSha256: 474E81DA30E3CCF419E2FFAB27F7C2309017BBF1472ADA85BF15C8FAA411A30F
+ManifestType: installer
+ManifestVersion: 1.12.0
