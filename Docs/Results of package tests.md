@@ -159,6 +159,7 @@
 * * HP Inc. Energy Star (No known installer URLs)
 * * HP Connection Optimizer (No apparent silent switches)
 * * HP Universal Printer Driver / Universal Printing (Can't be silently installed)
+* Tor Tails (Is an .img file)
 
 ## No known installer URLs:
 * ASUS Armoury Crate SE Service (The "Armoury Crate SE Installer" just installs the regular Armoury Crate)
