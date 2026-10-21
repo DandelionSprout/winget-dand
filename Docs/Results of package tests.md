@@ -321,6 +321,7 @@
 * winget-new-repos DanielTaufiq
 * ♪ Microsoft ROS / Robot Operating System (Completely incomprehensible how it works)
 * ♫ Microsoft.PhyloD (App's purpose and commands are incomprehensible)
+* Microsoft GameInputRawInputProxy (Its .exe doesn't seem to do anything)
 
 ## All sorts of certificate errors:
 |   |   |
@@ -393,7 +394,7 @@
 * Dinger.RDHost (ESET false positive)
 * łzbench (A likely false positive detection by ESET)
 
-## Will likely work, but Wingetcreate throws "Failed to parse the package from" and I'm tired:
+## Would likely work, hadn't Winget been dead (2020-26, rest in peace) and that Wingetcreate throws "Failed to parse the package from":
 * ♫ BabelPad
 * ♫ BabelMap
 * ♫ GhostPCL
