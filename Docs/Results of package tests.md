@@ -1,5 +1,4 @@
-♪ = Made it to extras.<br>
-♫ = Suited for extras submitting?
+♪ = Made it to extras.
 
 ## Packages uncreatable for various reasons (Unsorted):
 * "Overføringsverktøy for brukere (veiviser for overføring av innstillinger)" (Missing OCMANAGE.dll)
@@ -138,13 +137,13 @@
 * ♪ MozillaBuild (Not all that useful, since end-users must still build the post-installation files on their own)
 * ♪ puhitaku.mtplvcap (Requires a Nikon DSLR device to run properly)
 * ♪ Wine Mono (Bafflingly tries to start a 2nd installer for a support tool before having finished the 1st installer. The 2nd installer also fails with error 2762.)
-* ♫ EpicGames.EpicOnlineServicesSDK.C (Constantly error -2147467260)
-* ♫ jklewa.ATVDesktopRemote (Requires Python 3)
-* ♫ Microsoft System Center Virtual Machine Manager Client (Winget-pkgs can't silently install it)
-* ♫ MSI NBFoundation Service (The installer at https://github.com/xchwarze/msi is clearly unofficial)
-* ♫ PostGIS for PostgreSQL (Requires post-installation folder moves)
-* ♫ Sniffnet (Has Npcap as a dependency)
-* ♫ WinDump (Has Npcap as dependency)
+* EpicGames.EpicOnlineServicesSDK.C (Constantly error -2147467260)
+* jklewa.ATVDesktopRemote (Requires Python 3)
+* Microsoft System Center Virtual Machine Manager Client (Winget-pkgs can't silently install it)
+* MSI NBFoundation Service (The installer at https://github.com/xchwarze/msi is clearly unofficial)
+* PostGIS for PostgreSQL (Requires post-installation folder moves)
+* Sniffnet (Has Npcap as a dependency)
+* WinDump (Has Npcap as dependency)
 * Path of Exile 1 standalone client (Conflicting indications on whether the installer is behind a login wall or was delisted years ago)
 * Some kind of W10-supported app with "Gait" in its name, circa 7 letters, its main menu had a grey 3D model walking. Saw the app at a Stadium Ski store in Åre, but instantly forgot its full name, and now I can't find it again.
 * Anything related to Forgejo and Codeberg (Turns out their leaders are **those** kinds of Linux fans). Also includes at least some of the apps hosted there, such as:
@@ -266,7 +265,7 @@
 * ♪ EqualizerAPO(64) (Gets stuck on "Please select the devices for which Equalizer APO is to be installed.")
 * ♪ InstallForge
 * ♪ Npcap
-* ♫ Locale Emulator
+* ♪ Locale Emulator
 * ASUS Support Agent (No silent switches)
 * Arm Performance Studio (Generic error 1603 when run silently)
 * Arm Keil MDK-ARM (Driver install prompt that can only be closed manually)
@@ -322,8 +321,9 @@
 * WeatherWise
 * winget-new-repos DanielTaufiq
 * ♪ Microsoft ROS / Robot Operating System (Completely incomprehensible how it works)
-* ♫ Microsoft.PhyloD (App's purpose and commands are incomprehensible)
+* Microsoft.PhyloD (App's purpose and commands are incomprehensible)
 * Microsoft GameInputRawInputProxy (Its .exe doesn't seem to do anything)
+* DriverIdentifier (Running it results in "action: scan not found")
 
 ## All sorts of certificate errors:
 |   |   |
@@ -397,10 +397,10 @@
 * łzbench (A likely false positive detection by ESET)
 
 ## Would likely work, hadn't Winget been dead (2020-26, rest in peace) and that Wingetcreate throws "Failed to parse the package from":
-* ♫ BabelPad
-* ♫ BabelMap
-* ♫ GhostPCL
-* ♫ GhostXPS
+* BabelPad
+* BabelMap
+* GhostPCL
+* GhostXPS
 * Gammu standard (Set ShiningLight.OpenSSL.LTS.Light as a dependency)
 * AcerSense
 
