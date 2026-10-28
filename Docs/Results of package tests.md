@@ -1,4 +1,4 @@
-♪ = Made it to extras.
+♪ = Made it to extras.<br>
 🛍️ = Is also in the msstore source, which as of October 2026 means it'd face problems in extras.
 
 ## Packages uncreatable for various reasons (Unsorted):
