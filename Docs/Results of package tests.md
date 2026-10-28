@@ -217,7 +217,7 @@
 * FreeFileSync
 * Fujitsu ScanSnap Home
 * GamesCleaner setup
-* Genshin Impact / MiHoYo / HoYoPlay / Cognosphere
+* ♪ Genshin Impact / MiHoYo / HoYoPlay / Cognosphere
 * Google WebP codec
 * Intel Memory and Storage Tool CLI
 * IsaoMaruoka.Pixia (Silent installation fails with error 4294967292)
@@ -252,7 +252,7 @@
 * VueScan (Driver install prompt that can only be closed manually)
 * Winpcap
 * wxTED (Gets stuck on a prompt on whether to restart Explorer•exe or not)
-* Xbox main EXE (No known silent switches)
+* ♪ Xbox main EXE (No known silent switches)
 * Yamaha.AG08Controller
 * Yamaha.ConsoleFileConverter
 * Yamaha.DM3Editor
@@ -281,7 +281,7 @@
 * Microsoft.SimpleRemote (Pretty much just one big vulnerability + Depends on another and unknown app)
 * Mozilla.Firefox.EMEfree (The app is completely pointless)
 * ASUS XG-C100C 10G Adapter Driver (Is an older version of `aqnic650.inf`)
-* McAfee Safe Connect (Will allegedly be shut down in mid-August 2026)
+* McAfee Safe Connect (Was allegedly shut down in mid-August 2026)
 * ASUS PCE-BE6500 Bluetooth Driver (Is an older version of `mtkbtfilter.inf`, a.k.a. MediaTek Bluetooth Adapter)
 * ASUS PCE-BE6500 Tri-band PCIe WiFi Adapter (Is an older version of `mtkwecx.inf`, a.k.a. MediaTek Wi-Fi 7 MT7925 Wireless LAN Card #6)
 * Klarna Desktop App (Turned out to be such a successful phish that I myself nearly fell for it. Those guys were pros.)
@@ -391,7 +391,7 @@
 * Sparxsoft.DatabasePilot
 
 ## False positive detections:
-* Bioruebe.UniExtract2 (False positive malware detection by Sophos)
+* ♪ Bioruebe.UniExtract2 (False positive malware detection by Sophos)
 * ♪ Bol-van's builds of Zapret2 (Avira/Avast false positives; https://github.com/microsoft/winget-pkgs/pull/375864#issuecomment-4477591311)
 * Dinger.RDHost (ESET false positive)
 * łzbench (A likely false positive detection by ESET)
