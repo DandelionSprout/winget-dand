@@ -193,19 +193,23 @@
 * MyNextBase Player (Unclear if any installer URLs still exist)
 
 ## Can't be silently installed:
-* 'Vense Connect (Driver install prompt that can only be closed manually)
-* ♪ 'Vense Remote (Driver install prompt that can only be closed manually)
+* `https://www•mousemux•com/files/mousemux-v2-installer.exe`
+* Adobe Fresco
 * AlkaidLab.foundation-sunshine (Known to require a driver install)
 * Anything that uses InstallForge (No silent switches)
+* Arm Keil MDK-ARM (Driver install prompt that can only be closed manually)
+* Arm Performance Studio (Generic error 1603 when run silently)
 * Astrometa DVB-T2 Driver (Throws Error -5, "File not found", for whatever unholy reason I spent 1½ hours failing to figure out how to solve)
+* ASUS Device Discovery (InstallShield inside an InstallScript)
+* ASUS Support Agent (No silent switches)
 * Audeze.AudezeHQ
 * Banking4 Home
 * BenQ anything (Gets stuck on pointless VCredist installation prompt)
 * BrunnerInnovation.vJoy
+* Cisco Packet Tracer (Installer is behind a login wall)
 * Clue digital ordbok (Can't be silently installed, especially as its MSI version is fake)
 * CM&V.DVBViewerDemo
 * CyberLink pretty much anything
-* * Ultra HD Blu-ray Advisor (`/S /v/qn` fails to make InstallShield progress silently for this app; a strange "Customer Information" prompt is possibly a factor)
 * Devail1.WindowCenterResize
 * Eclipso Toolbox (+ Time-expirant installer URL)
 * Epson Firmware Updater
@@ -217,18 +221,16 @@
 * FreeFileSync
 * Fujitsu ScanSnap Home
 * GamesCleaner setup
-* ♪ Genshin Impact / MiHoYo / HoYoPlay / Cognosphere
 * Google WebP codec
 * Intel Memory and Storage Tool CLI
 * IsaoMaruoka.Pixia (Silent installation fails with error 4294967292)
 * Jigsaw.OutlineClient (Driver install prompt that can only be closed manually)
 * K7 Antivirus Premium (Custom installer)
+* Konami e-Amusement / Konast / Amusement Game Station ("This installer can only be run in full UI mode")
 * Microsoft Office Subject Interface Packages for Digitally Signing VBA Projects / Sips (Gets stuck on the final prompt, "Files extracted successfully.")
-* Microsoft Remote Desktop Connection (No known silent switches)
 * Microsoft.WindowsHardwareLabKit
 * Mideej
 * Motorola Software Fix (Driver install prompt that can only be closed manually)
-* `https://www•mousemux•com/files/mousemux-v2-installer.exe`
 * Nevrona Rave (Gets stuck on "You must enter your serial number.")
 * NextPVR (No apparent silent switches)
 * Nvidia 3DVision USB Driver
@@ -252,25 +254,23 @@
 * VueScan (Driver install prompt that can only be closed manually)
 * Winpcap
 * wxTED (Gets stuck on a prompt on whether to restart Explorer•exe or not)
-* ♪ Xbox main EXE (No known silent switches)
 * Yamaha.AG08Controller
 * Yamaha.ConsoleFileConverter
 * Yamaha.DM3Editor
 * Yamaha.MOXFRemoteEditor
-* Konami e-Amusement / Konast / Amusement Game Station ("This installer can only be run in full UI mode")
 * ZoneAlarm Free Antivirus
-* Cisco Packet Tracer (Installer is behind a login wall)
+* ♪ 'Vense Connect (Driver install prompt that can only be closed manually)
+* ♪ 'Vense Remote (Driver install prompt that can only be closed manually)
 * ♪ Artifex Software Ghostscript
 * ♪ AVerMedia anything
 * ♪ EqualizerAPO(64) (Gets stuck on "Please select the devices for which Equalizer APO is to be installed.")
+* ♪ Genshin Impact / MiHoYo / HoYoPlay / Cognosphere
 * ♪ InstallForge
-* ♪ Npcap
 * ♪ Locale Emulator
-* ASUS Support Agent (No silent switches)
-* Arm Performance Studio (Generic error 1603 when run silently)
-* Arm Keil MDK-ARM (Driver install prompt that can only be closed manually)
-* Adobe Fresco
-* ASUS Device Discovery (InstallShield inside an InstallScript)
+* ♪ Microsoft Remote Desktop Connection (No known silent switches)
+* ♪ Npcap
+* ♪ Ultra HD Blu-ray Advisor (`/S /v/qn` fails to make InstallShield progress silently for this app; a strange "Customer Information" prompt is possibly a factor)
+* ♪ Xbox main EXE (No known silent switches)
 
 ## App is pointless:
 * VLC FreeSans font (Pointless due to it being a singular GNU-available font)
