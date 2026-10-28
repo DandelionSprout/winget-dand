@@ -403,6 +403,7 @@
 * GhostXPS
 * Gammu standard (Set ShiningLight.OpenSSL.LTS.Light as a dependency)
 * AcerSense
+* ASUS "Utility supports MFP (Multi-function Peripheral, MFP or All-in-One Printer)"
 
 ## I cannot in good spirit add these due to my personal conscience, but I wouldn't stop others from adding them:
 * Microsoft.Services.Store.Engagement (I'm in the adblocking community for a reason)
