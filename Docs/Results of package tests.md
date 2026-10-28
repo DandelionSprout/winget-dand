@@ -168,7 +168,6 @@
 * Keysight Licensing Daemon / Keysight License Server (No known functioning installer URL)
 * Microsoft Access Database Engine 2010 (No installer URL is known to still exist)
 * Microsoft Consumer Hub v3
-* Microsoft Copilot (The Edge Beta HoloLens 2 MSIX builds only contain the "Sparse" stub versions of it as far as x64/x86 goes.)
 * Microsoft WindowsWorkload pretty much anything
 * NinjaOne (No known installer URLs)
 * NVIDIA FrameView SDK (No currently known standalone installer URLs)
