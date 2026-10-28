@@ -1,0 +1,28 @@
+# yaml-language-server: $schema=https://aka.ms/winget-manifest.defaultLocale.1.12.0.schema.json
+
+PackageIdentifier: SquareEnix.FinalFantasyXIV.DawntrailBenchmark
+PackageVersion: "1.1"
+PackageLocale: en
+Publisher: Square Enix
+PackageName: 'Final Fantasy XIV: Dawntrail Official Benchmark'
+PackageUrl: https://na.finalfantasyxiv.com/benchmark/
+License: Freeware
+ShortDescription: See how well FINAL FANTASY XIV will run on your PC. This official benchmark uses actual maps and playable characters to rate your PC and its performance. A character creator is also included, letting you see a playable character as they'll appear in-game.
+Description: |
+  See just how well FINAL FANTASY XIV will run on your computer. This official benchmark software uses actual maps and playable characters to assign a score to your PC and rate its performance. A character creation tool is also included, allowing you to view a playable character as they will appear in-game.
+
+  Note that the app download is pretty big, at almost 4 GB.
+Moniker: ffxivbenchmark
+Tags:
+- final-fantasy-xiv-dawntrail-benchmark
+- finalfantasyxivdawntrailbenchmark
+- final-fantasy-14-dawntrail-benchmark
+- finalfantasy14dawntrailbenchmark
+- ffxiv-dawntrail-official-benchmark
+- ffxivdawntrailofficialbenchmark
+- ff14-dawntrail-official-benchmark
+- ff14dawntrailofficialbenchmark
+- graphics-benchmark
+- large-filesize
+ManifestType: defaultLocale
+ManifestVersion: 1.12.0

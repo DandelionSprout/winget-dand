@@ -1,0 +1,16 @@
+# yaml-language-server: $schema=https://aka.ms/winget-manifest.installer.1.12.0.schema.json
+
+PackageIdentifier: SquareEnix.FinalFantasyXIV.DawntrailBenchmark
+PackageVersion: "1.1"
+ReleaseDate: 2024-06-03
+InstallerType: zip
+NestedInstallerType: portable
+NestedInstallerFiles:
+- RelativeFilePath: ffxiv-dawntrail-bench.exe
+ArchiveBinariesDependOnPath: true
+Installers:
+- Architecture: x64
+  InstallerUrl: https://download.finalfantasyxiv.com/Z27rsYvWfCa3iTaM/ffxiv-dawntrail-bench_v11.zip
+  InstallerSha256: 3D4CFC38CF97C0D31F468356C2BD29A53B49840F22D21618CAC19BC6C105E74A
+ManifestType: installer
+ManifestVersion: 1.12.0
