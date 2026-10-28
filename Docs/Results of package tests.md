@@ -394,10 +394,10 @@
 * ♪ Bioruebe.UniExtract2 (False positive malware detection by Sophos)
 * ♪ Bol-van's builds of Zapret2 (Avira/Avast false positives; https://github.com/microsoft/winget-pkgs/pull/375864#issuecomment-4477591311)
 * Dinger.RDHost (ESET false positive)
-* łzbench (A likely false positive detection by ESET)
+* ♪ łzbench (A likely false positive detection by ESET)
 
 ## Would likely work, hadn't Winget been dead (2020-26, rest in peace) and that Wingetcreate throws "Failed to parse the package from":
-* BabelPad
+* ♪ BabelPad
 * BabelMap
 * GhostPCL
 * GhostXPS
