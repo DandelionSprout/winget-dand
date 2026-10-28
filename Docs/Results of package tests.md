@@ -1,4 +1,5 @@
 ♪ = Made it to extras.
+🛍️ = Is also in the msstore source, which as of October 2026 means it'd face problems in extras.
 
 ## Packages uncreatable for various reasons (Unsorted):
 * "Overføringsverktøy for brukere (veiviser for overføring av innstillinger)" (Missing OCMANAGE.dll)
@@ -16,7 +17,7 @@
 * ASUS System Control Interface 3 ("This version of ASUS System Control Interface driver of your machine cannot support some function, click "OK" for more information."⁽ˢⁱᶜ⁾)
 * Avast Secure Browser (Is MV3)
 * COAA.PlanePlotter (Pipeline bug treats the launch prompt as that it hasn't finished installing)
-* Collabora Office (Version number in registry collided with LibreOffice; while as of August 2026 it was no longer possible to determine if any installer URLs still existed.)
+* 🛍️ Collabora Office (Version number in registry collided with LibreOffice; while as of August 2026 it was no longer possible to determine if any installer URLs still existed.)
 * crypto20111.IDR (Has disasm as a post-installation dependency; hard to tell which disasm version is the correct one)
 * DirectXInput (Has a hard dependency that is made by an utter dіsgustіng sсumbag of a br*ny)
 * DS2vJoy (Has a hard dependency that is made by an utter dіsgustіng sсumbag of a br*ny)
@@ -61,7 +62,7 @@
 * Microsoft.DotNet.docfx (Post-installation error "Cannot find config file C:\(...)\docfx.json"; and also the absurd decision to lock off the entire `Microsoft.DotNet` namespace)
 * Microsoft.DotNet.Native.Framework.1.3 (No known Microsoft-owned distribution places for 1.3.24211.0; and also the absurd decision to lock off the entire `Microsoft.DotNet` namespace)
 * Microsoft.DotNet.Native.Runtime.1.7 (No known Microsoft-owned distribution places for 1.7.27422; `https://www.nuget.org/packages/Microsoft.Net.Native.Compiler/1.7.6` only has 1.7.25531; and also the absurd decision to lock off the entire `Microsoft.DotNet` namespace)
-* Microsoft.DotNet.Runtime.1_1 (The absurd decision to lock off the entire `Microsoft.DotNet` namespace)
+* ♪ Microsoft.DotNet.Runtime.1_1 (The absurd decision to lock off the entire `Microsoft.DotNet` namespace)
 * Microsoft.Edge.GameAssist (Team Edge decided that MV3 was a good idea. It is not.)
 * Microsoft.EnterpriseManagement.GatewayApprovalTool («Could not load file or assembly 'Microsoft.EnterpriseManagement.DataAccessLayer, (...)»)
 * Microsoft.HIS.2020.MigrationTool / Host Integration Server (Overly complicated to use)
@@ -77,7 +78,7 @@
 * Netbird (ESET detection)
 * Norton anything (No easily apparent installer URLs, and I can't be bothered to look deeper into URLs since it's Norton)
 * NTCore DisasMSIL (Its only .exe is a non-interactive test)
-* NVIDIA Control Panel (AppX inside self-extracting 7Z, no currently known installer switches dedicated to it.)
+* 🛍️ NVIDIA Control Panel (AppX inside self-extracting 7Z, no currently known installer switches dedicated to it.)
 * NVIDIA Mellanox WinOF-2 (Installer fails for no apparent reason)
 * NVIDIA Texture Tools Exporter (Installer is behind a login wall)
 * PadSense-CE (Has a hard dependency that is made by an utter dіsgustіng sсumbag of a br*ny)
@@ -148,9 +149,8 @@
 * Some kind of W10-supported app with "Gait" in its name, circa 7 letters, its main menu had a grey 3D model walking. Saw the app at a Stadium Ski store in Åre, but instantly forgot its full name, and now I can't find it again.
 * Anything related to Forgejo and Codeberg (Turns out their leaders are **those** kinds of Linux fans). Also includes at least some of the apps hosted there, such as:
 * * Nano Boy Advance
-* Acer Serial Number Detection Tool (The setup .exe crashes on launch)
 * Nahimic 2 ("All access to this object has been disabled")
-* Dell SupportAssist (Error 9505: "This app is only available for Dell and Alienware PCs.")
+* 🛍️ Dell SupportAssist (Error 9505: "This app is only available for Dell and Alienware PCs.")
 * Samsung Browser for Windows (MV3 browser)
 * HP anything (Involved in [corruption that aims to destroy my home country](https://newrepublic.com/post/216672/list-white-house-ballroom-donors-trump-corruption)). Ones with other problems on top of that:
 * * HP Detect My Device / HP Web Products Detection (Error -3)
@@ -193,7 +193,7 @@
 
 ## Can't be silently installed:
 * `https://www•mousemux•com/files/mousemux-v2-installer.exe`
-* Adobe Fresco
+* 🛍️ Adobe Fresco
 * AlkaidLab.foundation-sunshine (Known to require a driver install)
 * Anything that uses InstallForge (No silent switches)
 * Arm Keil MDK-ARM (Driver install prompt that can only be closed manually)
