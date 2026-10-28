@@ -214,7 +214,7 @@
 * Epson Firmware Updater
 * Epson Product Setup
 * ESET Online Scanner
-* Final Fantasy XIV
+* ♪ Final Fantasy XIV
 * Firefox's MSI installers (Winget fails to realise that the installation has finished)
 * Fluent Store
 * FreeFileSync
