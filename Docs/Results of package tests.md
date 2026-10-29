@@ -161,6 +161,7 @@
 * Tor Tails (Is an .img file)
 * Cisco Packet Tracer (Installer is behind a login wall)
 * SQL Server SSMA for Access (Has Microsoft Data Access Objects libraries as a hard dependency, for which no installer URL is known.)
+* Firefox's MSI installers (Winget fails to realise that the installation has finished)
 
 ## No known installer URLs:
 * ASUS Armoury Crate SE Service (The "Armoury Crate SE Installer" just installs the regular Armoury Crate)
@@ -194,58 +195,59 @@
 * MyNextBase Player (Unclear if any installer URLs still exist)
 
 ## Can't be silently installed:
-* `https://www•mousemux•com/files/mousemux-v2-installer.exe`
-* Anything that uses InstallForge (No silent switches)
-* Arm Performance Studio (Generic error 1603 when run silently)
-* Astrometa DVB-T2 Driver (Throws Error -5, "File not found", for whatever unholy reason I spent 1½ hours failing to figure out how to solve)
-* ASUS Device Discovery (InstallShield inside an InstallScript)
-* ASUS Support Agent (No silent switches)
-* Audeze.AudezeHQ
-* Banking4 Home
-* BrunnerInnovation.vJoy
-* Clue digital ordbok (Can't be silently installed, especially as its MSI version is fake)
-* CM&V.DVBViewerDemo
-* CyberLink pretty much anything
-* Devail1.WindowCenterResize
-* Epson Firmware Updater
-* Epson Product Setup
-* ESET Online Scanner
-* Firefox's MSI installers (Winget fails to realise that the installation has finished)
-* Fluent Store
-* FreeFileSync
-* Fujitsu ScanSnap Home
-* GamesCleaner setup
-* Google WebP codec
-* Intel Memory and Storage Tool CLI
-* IsaoMaruoka.Pixia (Silent installation fails with error 4294967292)
-* K7 Antivirus Premium (Custom installer)
-* Konami e-Amusement / Konast / Amusement Game Station ("This installer can only be run in full UI mode")
-* Microsoft Office Subject Interface Packages for Digitally Signing VBA Projects / Sips (Gets stuck on the final prompt, "Files extracted successfully.")
-* Microsoft.WindowsHardwareLabKit
-* Mideej
-* Nevrona Rave (Gets stuck on "You must enter your serial number.")
-* NextPVR (No apparent silent switches)
-* Nvidia 3DVision USB Driver
-* On-premises data gateway Microsoft
-* PowerPanel Business Local/Remote (Gets stuck on "Please select one component to install.")
-* Qt Linguist
-* Rockchip Driver Assistant (Heavily customised installer)
-* TeX Live
-* TizenProject.Studio
-* TP-Link.tpPLC
-* TuneBlade
-* Unident Onepix Server (Extremely heavily customised MSI-disguised-as-.exe, with various parts including the licence acceptance and SQL login credentials having no known ways to skip.)
-* VB-CABLE Virtual Audio Device (No apparent silent switches)
-* VirtİO's MSI versions
-* Virtual AC3 Decoder (Has VB-CABLE Virtual Audio Device as a dependency)
-* VIVEPORT (No silent switches)
-* Winpcap
-* wxTED (Gets stuck on a prompt on whether to restart Explorer•exe or not)
-* Yamaha.AG08Controller
-* Yamaha.ConsoleFileConverter
-* Yamaha.DM3Editor
-* Yamaha.MOXFRemoteEditor
-* ZoneAlarm Free Antivirus
+| App | Cause (if specific) | PackageUrl | Had pkgs PR
+| --- | ------------------- | ----- | -
+| Mousemux | | `https://www•mousemux•com/files/mousemux-v2-installer.exe`
+| Anything that uses InstallForge | No silent switches | N/A
+| Arm Performance Studio | Generic error 1603 when run silently | `https://developer•arm•com/tools-and-software/arm-performance-studio#Downloads`
+| Astrometa DVB-T2 Driver | Throws Error -5, "File not found", for whatever unholy reason I spent 1½ hours failing to figure out how to solve | `https://ww•.astrometa•com•tw/news/index•html` |
+| ASUS Device Discovery | InstallShield inside an InstallScript | `https://www•asus•com/networking-iot-servers/wifi-7/all-series/asus-rt-be92u/helpdesk_download` (Windows 11 64-bit) | 
+| ASUS Support Agent | No silent switches | 
+| Audeze.AudezeHQ | |
+| Banking4 Home | |
+| BrunnerInnovation.vJoy | |
+| Clue digital ordbok | Can't be silently installed, especially as its MSI version is fake | 
+| CM&V.DVBViewerDemo | |
+| CyberLink pretty much anything | No silent switches | 
+| Devail1.WindowCenterResize | |
+| Epson Firmware Updater | |
+| Epson Product Setup | |
+| ESET Online Scanner | |
+| Fluent Store | |
+| FreeFileSync | | `https://freefilesync.org/download•php` | [Yes, '''a lot'''](https://github.com/microsoft/winget-pkgs/issues?q=freefilesync+sort%3Aupdated-desc)
+| Fujitsu ScanSnap Home | |
+| GamesCleaner setup | |
+| Google WebP codec | | | Yes
+| Intel Memory and Storage Tool CLI | | https://www.intel.com/content/www/us/en/download/19520/intel-memory-and-storage-tool-cli-command-line-interface.html
+| IsaoMaruoka.Pixia | Silent installation fails with error 4294967292 | | Yes
+| K7 Antivirus Premium | | https://www.k7computing.com/us/home-users/antivirus-premium | 
+| Konami e-Amusement / Konast / Amusement Game Station | "This installer can only be run in full UI mode" | 
+| Microsoft Office Subject Interface Packages for Digitally Signing VBA Projects / Sips | Gets stuck on the final prompt, "Files extracted successfully." | 
+| Microsoft.WindowsHardwareLabKit | |
+| Mideej | | 
+| Nevrona Rave | Gets stuck on "You must enter your serial number." | 
+| NextPVR | No apparent silent switches | 
+| On-premises data gateway Microsoft | |
+| PowerPanel Business Local/Remote | Gets stuck on "Please select one component to install." | 
+| Qt Linguist | | 
+| Rockchip Driver Assistant | Heavily customised installer | 
+| TeX Live | |
+| TizenProject.Studio | |
+| TP-Link.tpPLC | | | [Yes](https://github.com/microsoft/winget-pkgs/pull/375338), [2](https://github.com/microsoft/winget-pkgs/pull/286040)
+| TuneBlade | | | [Issue](https://github.com/microsoft/winget-pkgs/issues/126993)
+| Unident Onepix Server | Extremely heavily customised MSI-disguised-as-.exe, with various parts including the licence acceptance and SQL login credentials having no known ways to skip. | | Yes
+| VB-CABLE Virtual Audio Device | No apparent silent switches | | Yes
+| VirtİO's MSI versions | |
+| Virtual AC3 Decoder | Has VB-CABLE Virtual Audio Device as a dependency | 
+| VIVEPORT | No silent switches | 
+| Winpcap | | 
+| wxTED | Gets stuck on a prompt on whether to restart Explorer•exe or not | 
+| Yamaha.AG08Controller | |
+| Yamaha.ConsoleFileConverter | |
+| Yamaha.DM3Editor | |
+| Yamaha.MOXFRemoteEditor | |
+| ZoneAlarm Free Antivirus | |
+
 * ♪ 'Vense Connect (Driver install prompt that can only be closed manually)
 * ♪ 'Vense Remote (Driver install prompt that can only be closed manually)
 * ♪ Artifex Software Ghostscript
@@ -289,6 +291,7 @@
 * TurtleWoW (Was shut down)
 * Intel® Wireless Wi-Fi Drivers / Intel PROSet/Wireless Software (No longer writes to registry as of 24.60)
 * Bitwarden Web Self-Hosted (Its only executable is an icons-font)
+* Nvidia 3DVision USB Driver (Focus should be given to nv3d-vision-restoration, `https://github.com/pancreations/nv3d-vision-restoration`, instead)
 
 ## App doesn't work or is incomprehensible:
 * Abdi-Suufi.WeatherApp
