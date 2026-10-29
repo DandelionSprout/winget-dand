@@ -258,6 +258,7 @@
 * Yamaha.DM3Editor
 * Yamaha.MOXFRemoteEditor
 * ZoneAlarm Free Antivirus
+* 🛍️ LINE Desktop / Life on LINE (No silent switches)
 * ♪ 'Vense Connect (Driver install prompt that can only be closed manually)
 * ♪ 'Vense Remote (Driver install prompt that can only be closed manually)
 * ♪ Artifex Software Ghostscript
