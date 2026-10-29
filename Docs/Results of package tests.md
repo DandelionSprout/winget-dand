@@ -193,7 +193,6 @@
 
 ## Can't be silently installed:
 * `https://www•mousemux•com/files/mousemux-v2-installer.exe`
-* 🛍️ Adobe Fresco
 * AlkaidLab.foundation-sunshine (Known to require a driver install)
 * Anything that uses InstallForge (No silent switches)
 * Arm Keil MDK-ARM (Driver install prompt that can only be closed manually)
@@ -214,7 +213,6 @@
 * Epson Firmware Updater
 * Epson Product Setup
 * ESET Online Scanner
-* ♪ Final Fantasy XIV
 * Firefox's MSI installers (Winget fails to realise that the installation has finished)
 * Fluent Store
 * FreeFileSync
@@ -258,12 +256,12 @@
 * Yamaha.DM3Editor
 * Yamaha.MOXFRemoteEditor
 * ZoneAlarm Free Antivirus
-* 🛍️ LINE Desktop / Life on LINE (No silent switches)
 * ♪ 'Vense Connect (Driver install prompt that can only be closed manually)
 * ♪ 'Vense Remote (Driver install prompt that can only be closed manually)
 * ♪ Artifex Software Ghostscript
 * ♪ AVerMedia anything
 * ♪ EqualizerAPO(64) (Gets stuck on "Please select the devices for which Equalizer APO is to be installed.")
+* ♪ Final Fantasy XIV
 * ♪ Genshin Impact / MiHoYo / HoYoPlay / Cognosphere
 * ♪ InstallForge
 * ♪ Locale Emulator
@@ -271,6 +269,8 @@
 * ♪ Npcap
 * ♪ Ultra HD Blu-ray Advisor (`/S /v/qn` fails to make InstallShield progress silently for this app; a strange "Customer Information" prompt is possibly a factor)
 * ♪ Xbox main EXE (No known silent switches)
+* 🛍️ Adobe Fresco
+* 🛍️ LINE Desktop / Life on LINE (No silent switches)
 
 ## App is pointless:
 * VLC FreeSans font (Pointless due to it being a singular GNU-available font)
