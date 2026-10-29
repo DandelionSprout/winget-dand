@@ -159,6 +159,8 @@
 * * HP Connection Optimizer (No apparent silent switches)
 * * HP Universal Printer Driver / Universal Printing (Can't be silently installed)
 * Tor Tails (Is an .img file)
+* Cisco Packet Tracer (Installer is behind a login wall)
+* SQL Server SSMA for Access (Has Microsoft Data Access Objects libraries as a hard dependency, for which no installer URL is known.)
 
 ## No known installer URLs:
 * ASUS Armoury Crate SE Service (The "Armoury Crate SE Installer" just installs the regular Armoury Crate)
@@ -193,23 +195,18 @@
 
 ## Can't be silently installed:
 * `https://www•mousemux•com/files/mousemux-v2-installer.exe`
-* AlkaidLab.foundation-sunshine (Known to require a driver install)
 * Anything that uses InstallForge (No silent switches)
-* Arm Keil MDK-ARM (Driver install prompt that can only be closed manually)
 * Arm Performance Studio (Generic error 1603 when run silently)
 * Astrometa DVB-T2 Driver (Throws Error -5, "File not found", for whatever unholy reason I spent 1½ hours failing to figure out how to solve)
 * ASUS Device Discovery (InstallShield inside an InstallScript)
 * ASUS Support Agent (No silent switches)
 * Audeze.AudezeHQ
 * Banking4 Home
-* BenQ anything (Gets stuck on pointless VCredist installation prompt)
 * BrunnerInnovation.vJoy
-* Cisco Packet Tracer (Installer is behind a login wall)
 * Clue digital ordbok (Can't be silently installed, especially as its MSI version is fake)
 * CM&V.DVBViewerDemo
 * CyberLink pretty much anything
 * Devail1.WindowCenterResize
-* Eclipso Toolbox (+ Time-expirant installer URL)
 * Epson Firmware Updater
 * Epson Product Setup
 * ESET Online Scanner
@@ -221,13 +218,11 @@
 * Google WebP codec
 * Intel Memory and Storage Tool CLI
 * IsaoMaruoka.Pixia (Silent installation fails with error 4294967292)
-* Jigsaw.OutlineClient (Driver install prompt that can only be closed manually)
 * K7 Antivirus Premium (Custom installer)
 * Konami e-Amusement / Konast / Amusement Game Station ("This installer can only be run in full UI mode")
 * Microsoft Office Subject Interface Packages for Digitally Signing VBA Projects / Sips (Gets stuck on the final prompt, "Files extracted successfully.")
 * Microsoft.WindowsHardwareLabKit
 * Mideej
-* Motorola Software Fix (Driver install prompt that can only be closed manually)
 * Nevrona Rave (Gets stuck on "You must enter your serial number.")
 * NextPVR (No apparent silent switches)
 * Nvidia 3DVision USB Driver
@@ -235,11 +230,7 @@
 * PowerPanel Business Local/Remote (Gets stuck on "Please select one component to install.")
 * Qt Linguist
 * Rockchip Driver Assistant (Heavily customised installer)
-* Saleae.Logic2 (Driver install prompt that can only be closed manually)
-* SPICE Guest Tools (Driver install prompt that can only be closed manually)
-* SQL Server SSMA for Access (Has Microsoft Data Access Objects libraries as a hard dependency, for which no installer URL is known.)
 * TeX Live
-* Thrustmaster.TARGET (Driver install prompt that can only be closed manually)
 * TizenProject.Studio
 * TP-Link.tpPLC
 * TuneBlade
@@ -248,7 +239,6 @@
 * VirtİO's MSI versions
 * Virtual AC3 Decoder (Has VB-CABLE Virtual Audio Device as a dependency)
 * VIVEPORT (No silent switches)
-* VueScan (Driver install prompt that can only be closed manually)
 * Winpcap
 * wxTED (Gets stuck on a prompt on whether to restart Explorer•exe or not)
 * Yamaha.AG08Controller
@@ -271,6 +261,17 @@
 * ♪ Xbox main EXE (No known silent switches)
 * 🛍️ Adobe Fresco
 * 🛍️ LINE Desktop / Life on LINE (No silent switches)
+
+## Can't be silently installed (Known to initiate driver installers):
+* AlkaidLab.foundation-sunshine
+* Arm Keil MDK-ARM
+* Saleae.Logic2 (Driver install prompt that can only be closed manually)
+* SPICE Guest Tools (Driver install prompt that can only be closed manually)
+* Motorola Software Fix (Driver install prompt that can only be closed manually)
+* Jigsaw.OutlineClient (Driver install prompt that can only be closed manually)
+* BenQ anything (Gets stuck on pointless VCredist installation prompt)
+* VueScan (Driver install prompt that can only be closed manually)
+* Thrustmaster.TARGET (Driver install prompt that can only be closed manually)
 
 ## App is pointless:
 * VLC FreeSans font (Pointless due to it being a singular GNU-available font)
@@ -350,6 +351,7 @@
 * STMicroelectronics stuff (Single-use installer URLs)
 * Badgy Premium Suite 2 (1〜2 hours)
 * Klim Test Fonts
+* Eclipso Toolbox (+ Can't be silently installed)
 
 ## HTTP "Forbidden" or similar:
 * AmpliTube
