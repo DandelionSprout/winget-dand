@@ -214,7 +214,7 @@
 | Epson Product Setup | |
 | ESET Online Scanner | |
 | Fluent Store | |
-| FreeFileSync | | `https://freefilesync.org/download•php` | [Yes, '''a lot'''](https://github.com/microsoft/winget-pkgs/issues?q=freefilesync+sort%3Aupdated-desc)
+| FreeFileSync | | `https://freefilesync.org/download•php` | [Yes, ***a lot***](https://github.com/microsoft/winget-pkgs/issues?q=freefilesync+sort%3Aupdated-desc)
 | Fujitsu ScanSnap Home | |
 | GamesCleaner setup | |
 | Google WebP codec | | | Yes
