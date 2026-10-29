@@ -203,49 +203,43 @@
 | Astrometa DVB-T2 Driver | Throws Error -5, "File not found", for whatever unholy reason I spent 1½ hours failing to figure out how to solve | `https://ww•.astrometa•com•tw/news/index•html` |
 | ASUS Device Discovery | InstallShield inside an InstallScript | `https://www•asus•com/networking-iot-servers/wifi-7/all-series/asus-rt-be92u/helpdesk_download` (Windows 11 64-bit) | 
 | ASUS Support Agent | No silent switches | 
-| Audeze.AudezeHQ | |
-| Banking4 Home | |
-| BrunnerInnovation.vJoy | |
+| Audeze.AudezeHQ | | | [Issue](https://github.com/microsoft/winget-pkgs/issues/124308)
+| BrunnerInnovation.vJoy | | | [Yes](https://github.com/microsoft/winget-pkgs/pull/314549)
 | Clue digital ordbok | Can't be silently installed, especially as its MSI version is fake | 
 | CM&V.DVBViewerDemo | |
 | CyberLink pretty much anything | No silent switches | 
-| Devail1.WindowCenterResize | |
+| Devail1.WindowCenterResize | | | [Yes](https://github.com/microsoft/winget-pkgs/pull/312322)
 | Epson Firmware Updater | |
 | Epson Product Setup | |
-| ESET Online Scanner | |
-| Fluent Store | |
-| FreeFileSync | | `https://freefilesync.org/download•php` | [Yes, ***a lot***](https://github.com/microsoft/winget-pkgs/issues?q=freefilesync+sort%3Aupdated-desc)
-| Fujitsu ScanSnap Home | |
+| Fluent Store | | | [Yes](https://github.com/microsoft/winget-pkgs/pull/247942)
+| Fujitsu ScanSnap Home | | | [Yes](https://github.com/microsoft/winget-pkgs/issues/101044)
 | GamesCleaner setup | |
-| Google WebP codec | | | Yes
-| Intel Memory and Storage Tool CLI | | https://www.intel.com/content/www/us/en/download/19520/intel-memory-and-storage-tool-cli-command-line-interface.html
-| IsaoMaruoka.Pixia | Silent installation fails with error 4294967292 | | Yes
-| K7 Antivirus Premium | | https://www.k7computing.com/us/home-users/antivirus-premium | 
+| Google WebP codec | | | [Issue](https://github.com/microsoft/winget-pkgs/issues/86103)
+| Intel Memory and Storage Tool CLI | | `https://www•intel•com/content/www/us/en/download/19520/intel-memory-and-storage-tool-cli-command-line-interface.html`
+| K7 Antivirus Premium | | `https://www•k7computing•com/us/home-users/antivirus-premium` | 
 | Konami e-Amusement / Konast / Amusement Game Station | "This installer can only be run in full UI mode" | 
-| Microsoft Office Subject Interface Packages for Digitally Signing VBA Projects / Sips | Gets stuck on the final prompt, "Files extracted successfully." | 
+| Microsoft Office Subject Interface Packages for Digitally Signing VBA Projects / Sips | Gets stuck on the final prompt, "Files extracted successfully." | | [Yes](https://github.com/microsoft/winget-pkgs/pull/152521)
 | Microsoft.WindowsHardwareLabKit | |
 | Mideej | | 
-| Nevrona Rave | Gets stuck on "You must enter your serial number." | 
+| Nevrona Rave Reports | | | [Yes](https://github.com/microsoft/winget-pkgs/pull/156144)
 | NextPVR | No apparent silent switches | 
-| On-premises data gateway Microsoft | |
-| PowerPanel Business Local/Remote | Gets stuck on "Please select one component to install." | 
-| Qt Linguist | | 
+| On-premises data gateway Microsoft | | | [Issue](https://github.com/microsoft/winget-pkgs/issues/279746)
+| PowerPanel Business Local/Remote | Gets stuck on "Please select one component to install." | | [Issue](https://github.com/microsoft/winget-pkgs/issues/98381)
+| Qt Linguist | | | [Issue](https://github.com/microsoft/winget-pkgs/issues/267413)
 | Rockchip Driver Assistant | Heavily customised installer | 
-| TeX Live | |
-| TizenProject.Studio | |
+| TizenProject.Studio | | | [Yes](https://github.com/microsoft/winget-pkgs/pull/306560), [2](https://github.com/microsoft/winget-pkgs/pull/98731)
 | TP-Link.tpPLC | | | [Yes](https://github.com/microsoft/winget-pkgs/pull/375338), [2](https://github.com/microsoft/winget-pkgs/pull/286040)
 | TuneBlade | | | [Issue](https://github.com/microsoft/winget-pkgs/issues/126993)
-| Unident Onepix Server | Extremely heavily customised MSI-disguised-as-.exe, with various parts including the licence acceptance and SQL login credentials having no known ways to skip. | | Yes
-| VB-CABLE Virtual Audio Device | No apparent silent switches | | Yes
-| VirtİO's MSI versions | |
+| Unident Onepix Server | Extremely heavily customised MSI-disguised-as-.exe, with various parts including the licence acceptance and SQL login credentials having no known ways to skip. | | 
+| VirtİO's MSI versions | | | [Yes](https://github.com/microsoft/winget-pkgs/pull/398701)
 | Virtual AC3 Decoder | Has VB-CABLE Virtual Audio Device as a dependency | 
 | VIVEPORT | No silent switches | 
-| Winpcap | | 
+| Winpcap | | `https://www•winpcap•org/install/` | [Yes, ≥4](https://github.com/microsoft/winget-pkgs/issues?q=in%3Atitle+winpcap)
 | wxTED | Gets stuck on a prompt on whether to restart Explorer•exe or not | 
 | Yamaha.AG08Controller | |
-| Yamaha.ConsoleFileConverter | |
+| Yamaha.ConsoleFileConverter | | | [Yes](https://github.com/microsoft/winget-pkgs/pull/273962)
 | Yamaha.DM3Editor | |
-| Yamaha.MOXFRemoteEditor | |
+| Yamaha.MOXFRemoteEditor | | | [Yes](https://github.com/microsoft/winget-pkgs/pull/273964)
 | ZoneAlarm Free Antivirus | |
 
 * ♪ 'Vense Connect (Driver install prompt that can only be closed manually)
@@ -261,8 +255,13 @@
 * ♪ Npcap
 * ♪ Ultra HD Blu-ray Advisor (`/S /v/qn` fails to make InstallShield progress silently for this app; a strange "Customer Information" prompt is possibly a factor)
 * ♪ Xbox main EXE (No known silent switches)
+* ♪ FreeFileSync
+* ♪ ESET Online Scanner
+* ♪ VB-CABLE Virtual Audio Device
+* ♪ TeX Live
 * 🛍️ Adobe Fresco
 * 🛍️ LINE Desktop / Life on LINE (No silent switches)
+* 🛍️ Pixia (Silent installation fails with error 4294967292)
 
 ## Can't be silently installed (Known to initiate driver installers):
 * AlkaidLab.foundation-sunshine
