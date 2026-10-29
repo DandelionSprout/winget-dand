@@ -126,7 +126,7 @@
 * vDS (Has a hard dependency that is made by an utter dіsgustіng sсumbag of a br*ny)
 * VibeMate (No extension support)
 * Vuze ("could not create unpack process")
-* Wine Gecko ("The file browser!blocklist.xml can't be installed because the file doesn't exist in the cabinet file winegecko.cab. (...)" The non-existence of MSIX/Winget support in Wine doesn't help either.)
+* ♪ Wine Gecko ("The file browser!blocklist.xml can't be installed because the file doesn't exist in the cabinet file winegecko.cab. (...)" The non-existence of MSIX/Winget support in Wine doesn't help either.)
 * Yamaha Vocaloid (.exe is in a .zip inside a .zip)
 * ♪ Bluegrams.ScreenRuler (Supposedly broke repo guidelines about SourceForge)
 * ♪ Command & Conquer: Red Alert 2 & Yuri's Revenge (Has the paid version of Red Alert 2 in a hardcoded folderpath as a dependency for silent installs)
@@ -404,6 +404,8 @@
 * Gammu standard (Set ShiningLight.OpenSSL.LTS.Light as a dependency)
 * AcerSense
 * ASUS "Utility supports MFP (Multi-function Peripheral, MFP or All-in-One Printer)"
+
+## Would likely work, hadn't Winget been dead (2020-26, rest in peace):
 * Stream Master
 * 'Vense OBS Plugin
 
