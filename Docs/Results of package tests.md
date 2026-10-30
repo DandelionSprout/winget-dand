@@ -321,12 +321,11 @@
 * Samsung CHashApp / ScanAndDecode
 * samuelngs.apple-emoji-ttf
 * UniGetUI Widgets (Compatibility removed in newer UniGetUI versions; see `https://github.com/Devolutions/UniGetUI/issues/4798`)
-* WeatherWise
 * winget-new-repos DanielTaufiq
-* ♪ Microsoft ROS / Robot Operating System (Completely incomprehensible how it works)
 * Microsoft.PhyloD (App's purpose and commands are incomprehensible)
 * Microsoft GameInputRawInputProxy (Its .exe doesn't seem to do anything)
 * DriverIdentifier (Running it results in "action: scan not found")
+* ♪ Microsoft ROS / Robot Operating System (Completely incomprehensible how it works)
 
 ## All sorts of certificate errors:
 |   |   |
