@@ -207,7 +207,7 @@
 | Audeze.AudezeHQ | | | [Issue](https://github.com/microsoft/winget-pkgs/issues/124308)
 | BrunnerInnovation.vJoy | | | [Yes](https://github.com/microsoft/winget-pkgs/pull/314549)
 | Clue digital ordbok | Can't be silently installed, especially as its MSI version is fake | 
-| CM&V.DVBViewerDemo | | https://clue-online.no/nb
+| CM&V.DVBViewerDemo | | `https://clue-online•no/nb`
 | CyberLink pretty much anything | No silent switches | 
 | Devail1.WindowCenterResize | | | [Yes](https://github.com/microsoft/winget-pkgs/pull/312322)
 | Epson Firmware Updater | |
@@ -218,7 +218,7 @@
 | Google WebP codec | | | [Issue](https://github.com/microsoft/winget-pkgs/issues/86103)
 | Intel Memory and Storage Tool CLI | | `https://www•intel•com/content/www/us/en/download/19520/intel-memory-and-storage-tool-cli-command-line-interface.html`
 | K7 Antivirus Premium | | `https://www•k7computing•com/us/home-users/antivirus-premium` | 
-| Konami e-Amusement / Konast / Amusement Game Station | "This installer can only be run in full UI mode" | https://p.eagate.573.jp/game/eacloud/p/common/install.html
+| Konami e-Amusement / Konast / Amusement Game Station | "This installer can only be run in full UI mode" | `https://p•eagate•573•jp/game/eacloud/p/common/install•html`
 | Microsoft Office Subject Interface Packages for Digitally Signing VBA Projects / Sips | Gets stuck on the final prompt, "Files extracted successfully." | | [Yes](https://github.com/microsoft/winget-pkgs/pull/152521)
 | Microsoft.WindowsHardwareLabKit | |
 | Mideej | | 
@@ -230,7 +230,7 @@
 | Rockchip Driver Assistant | Heavily customised installer | 
 | TP-Link.tpPLC | | `https://www•tp-link•com/uk/support/download/tl-wpa9610-kit/` | [Yes](https://github.com/microsoft/winget-pkgs/pull/375338), [2](https://github.com/microsoft/winget-pkgs/pull/286040)
 | TuneBlade | | | [Issue](https://github.com/microsoft/winget-pkgs/issues/126993)
-| Unident Onepix Server | Extremely heavily customised MSI-disguised-as-.exe, with various parts including the licence acceptance and SQL login credentials having no known ways to skip. | https://onepix.app/en/download | 
+| Unident Onepix Server | Extremely heavily customised MSI-disguised-as-.exe, with various parts including the licence acceptance and SQL login credentials having no known ways to skip. | `https://onepix•app/en/download` | 
 | VirtİO's MSI versions | | | [Yes](https://github.com/microsoft/winget-pkgs/pull/398701)
 | Virtual AC3 Decoder | Has VB-CABLE Virtual Audio Device as a dependency | 
 | VIVEPORT | No silent switches | 
