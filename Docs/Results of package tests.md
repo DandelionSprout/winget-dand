@@ -228,7 +228,7 @@
 | PowerPanel Business Local/Remote | Gets stuck on "Please select one component to install." | | [Issue](https://github.com/microsoft/winget-pkgs/issues/98381)
 | Qt Linguist | | | [Issue](https://github.com/microsoft/winget-pkgs/issues/267413)
 | Rockchip Driver Assistant | Heavily customised installer | 
-| TP-Link.tpPLC | | | [Yes](https://github.com/microsoft/winget-pkgs/pull/375338), [2](https://github.com/microsoft/winget-pkgs/pull/286040)
+| TP-Link.tpPLC | | `https://www•tp-link•com/uk/support/download/tl-wpa9610-kit/` | [Yes](https://github.com/microsoft/winget-pkgs/pull/375338), [2](https://github.com/microsoft/winget-pkgs/pull/286040)
 | TuneBlade | | | [Issue](https://github.com/microsoft/winget-pkgs/issues/126993)
 | Unident Onepix Server | Extremely heavily customised MSI-disguised-as-.exe, with various parts including the licence acceptance and SQL login credentials having no known ways to skip. | | 
 | VirtİO's MSI versions | | | [Yes](https://github.com/microsoft/winget-pkgs/pull/398701)
