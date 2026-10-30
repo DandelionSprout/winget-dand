@@ -209,7 +209,7 @@
 | Epson Firmware Updater | |
 | Epson Product Setup | |
 | Fluent Store | | | [Yes](https://github.com/microsoft/winget-pkgs/pull/247942)
-| Fujitsu ScanSnap Home | | | [Yes](https://github.com/microsoft/winget-pkgs/issues/101044)
+| Fujitsu/Ricoh ScanSnap Home | Custom installer inside an InstallScript | `https://www•pfu•ricoh•com/imaging/ssacc/en/sshoffline•html` | [Yes](https://github.com/microsoft/winget-pkgs/issues/101044)
 | GamesCleaner setup | |
 | Google WebP codec | | | [Issue](https://github.com/microsoft/winget-pkgs/issues/86103)
 | Intel Memory and Storage Tool CLI | | `https://www•intel•com/content/www/us/en/download/19520/intel-memory-and-storage-tool-cli-command-line-interface.html`
