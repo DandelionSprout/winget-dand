@@ -223,13 +223,11 @@
 | PowerPanel Business Local/Remote | Gets stuck on "Please select one component to install." | | [Issue](https://github.com/microsoft/winget-pkgs/issues/98381)
 | Qt Linguist | | | [Issue](https://github.com/microsoft/winget-pkgs/issues/267413)
 | Rockchip Driver Assistant | Heavily customised installer | 
-| TP-Link.tpPLC | | `https://www•tp-link•com/uk/support/download/tl-wpa9610-kit/` | [Yes](https://github.com/microsoft/winget-pkgs/pull/375338), [2](https://github.com/microsoft/winget-pkgs/pull/286040)
 | TuneBlade | | | [Issue](https://github.com/microsoft/winget-pkgs/issues/126993)
 | Unident Onepix Server | Extremely heavily customised MSI-disguised-as-.exe, with various parts including the licence acceptance and SQL login credentials having no known ways to skip. | `https://onepix•app/en/download` | 
 | VirtİO's MSI versions | | | [Yes](https://github.com/microsoft/winget-pkgs/pull/398701)
 | Virtual AC3 Decoder | Has VB-CABLE Virtual Audio Device as a dependency | 
 | VIVEPORT | No silent switches | 
-| Winpcap | | `https://www•winpcap•org/install/` | [Yes, ≥4](https://github.com/microsoft/winget-pkgs/issues?q=in%3Atitle+winpcap)
 | wxTED | Gets stuck on a prompt on whether to restart Explorer•exe or not | 
 | Yamaha.AG08Controller | |
 | Yamaha.ConsoleFileConverter | | | [Yes](https://github.com/microsoft/winget-pkgs/pull/273962)
@@ -254,6 +252,8 @@
 * ♪ ESET Online Scanner
 * ♪ VB-CABLE Virtual Audio Device
 * ♪ TeX Live
+* ♪ TP-Link.tpPLC
+* ♪ WinPcap
 * 🛍️ Adobe Fresco
 * 🛍️ LINE Desktop / Life on LINE (No silent switches)
 * 🛍️ Pixia (Silent installation fails with error 4294967292)
