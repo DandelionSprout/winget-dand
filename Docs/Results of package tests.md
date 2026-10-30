@@ -189,6 +189,7 @@
 * "Hikvision (mvu3v) MvisionUSB"
 * MyNextBase Player (Unclear if any installer URLs still exist)
 * Nahimic 2 ("All access to this object has been disabled")
+* PlayStation Link PC Driver
 
 ## Can't be silently installed:
 | App | Cause (if specific) | PackageUrl | Had pkgs PR
