@@ -162,6 +162,7 @@
 * Cisco Packet Tracer (Installer is behind a login wall)
 * SQL Server SSMA for Access (Has Microsoft Data Access Objects libraries as a hard dependency, for which no installer URL is known.)
 * Firefox's MSI installers (Winget fails to realise that the installation has finished)
+* Tizen Studio (`https://samsungtizenos•com/docs/sdk-tools/dotnet/vscode/baseline-sdk/common-tools/overview` strangely claims that the non-VC versions, quote, "must not be installed or used.")
 
 ## No known installer URLs:
 * ASUS Armoury Crate SE Service (The "Armoury Crate SE Installer" just installs the regular Armoury Crate)
@@ -227,7 +228,6 @@
 | PowerPanel Business Local/Remote | Gets stuck on "Please select one component to install." | | [Issue](https://github.com/microsoft/winget-pkgs/issues/98381)
 | Qt Linguist | | | [Issue](https://github.com/microsoft/winget-pkgs/issues/267413)
 | Rockchip Driver Assistant | Heavily customised installer | 
-| TizenProject.Studio | | | [Yes](https://github.com/microsoft/winget-pkgs/pull/306560), [2](https://github.com/microsoft/winget-pkgs/pull/98731)
 | TP-Link.tpPLC | | | [Yes](https://github.com/microsoft/winget-pkgs/pull/375338), [2](https://github.com/microsoft/winget-pkgs/pull/286040)
 | TuneBlade | | | [Issue](https://github.com/microsoft/winget-pkgs/issues/126993)
 | Unident Onepix Server | Extremely heavily customised MSI-disguised-as-.exe, with various parts including the licence acceptance and SQL login credentials having no known ways to skip. | | 
