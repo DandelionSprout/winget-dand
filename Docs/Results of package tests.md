@@ -213,7 +213,6 @@
 | Google WebP codec | | | [Issue](https://github.com/microsoft/winget-pkgs/issues/86103)
 | Intel Memory and Storage Tool CLI | | `https://www•intel•com/content/www/us/en/download/19520/intel-memory-and-storage-tool-cli-command-line-interface.html`
 | K7 Antivirus Premium | | `https://www•k7computing•com/us/home-users/antivirus-premium` | 
-| Konami e-Amusement / Konast / Amusement Game Station | "This installer can only be run in full UI mode" | `https://p•eagate•573•jp/game/eacloud/p/common/install•html`
 | Microsoft Office Subject Interface Packages for Digitally Signing VBA Projects / Sips | Gets stuck on the final prompt, "Files extracted successfully." | | [Yes](https://github.com/microsoft/winget-pkgs/pull/152521)
 | Microsoft.WindowsHardwareLabKit | |
 | Mideej | | 
@@ -254,6 +253,7 @@
 * ♪ TeX Live
 * ♪ TP-Link.tpPLC
 * ♪ WinPcap
+* ♪ Konami e-Amusement / Konast / Amusement Game Station ("This installer can only be run in full UI mode")
 * 🛍️ Adobe Fresco
 * 🛍️ LINE Desktop / Life on LINE (No silent switches)
 * 🛍️ Pixia (Silent installation fails with error 4294967292)
