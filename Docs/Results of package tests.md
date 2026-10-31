@@ -29,7 +29,7 @@
 * DuckStation's .exe installers (Heavily customised installer)
 * EitherMouse ("System.Xml.XmlException: 'v3' is an undeclared prefix."; `https://stackoverflow•com/questions/7557464/workaround-for-undeclared-prefix-error-on-xelement-load`)
 * ELowry Winget Updater (Its attempts at removing the "Unknown" version status of many of my apps, caused problems for at least Sublime Text and TrackMania United Forever)
-* EpicGames.EpicOnlineServicesSDK.C (Constantly error -2147467260)
+* ♪ EpicGames.EpicOnlineServicesSDK.C (Constantly error -2147467260)
 * Epson Fax Utility (Requires separate scanner drivers)
 * Firefox's MSI installers (Winget fails to realise that the installation has finished)
 * FMCM (Requires post-installation folder movement)
@@ -214,7 +214,6 @@
 | Google WebP codec | No known silent parameters despite being a WIX | `https://storage•googleapis•com/downloads•webmproject•org/releases/webp/index•html` | [Issue](https://github.com/microsoft/winget-pkgs/issues/86103)
 | Intel Memory and Storage Tool CLI | | `https://www•intel•com/content/www/us/en/download/19520/intel-memory-and-storage-tool-cli-command-line-interface.html`
 | K7 Antivirus Premium | | `https://www•k7computing•com/us/home-users/antivirus-premium` | 
-| Microsoft Office Subject Interface Packages for Digitally Signing VBA Projects / Sips | Gets stuck on the final prompt, "Files extracted successfully." | `https://www•microsoft•com/en-us/download/details•aspx?id=56617` | [Yes](https://github.com/microsoft/winget-pkgs/pull/152521)
 | Microsoft.WindowsHardwareLabKit | |
 | Mideej | | 
 | Nevrona Rave Reports | | | [Yes](https://github.com/microsoft/winget-pkgs/pull/156144)
@@ -255,6 +254,7 @@
 * ♪ TP-Link.tpPLC
 * ♪ WinPcap
 * ♪ Konami e-Amusement / Konast / Amusement Game Station ("This installer can only be run in full UI mode")
+* ♪ Microsoft Office Subject Interface Packages for Digitally Signing VBA Projects / Sips
 * 🛍️ Adobe Fresco
 * 🛍️ LINE Desktop / Life on LINE (No silent switches)
 * 🛍️ Pixia (Silent installation fails with error 4294967292)
