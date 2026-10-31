@@ -128,8 +128,6 @@
 * Vuze ("could not create unpack process")
 * WinDump (Has Npcap as dependency)
 * Yamaha Vocaloid (.exe is in a .zip inside a .zip)
-* Anything related to Forgejo and Codeberg (Turns out their leaders are **those** kinds of Linux fans). Also includes at least some of the apps hosted there, such as:
-* * Nano Boy Advance
 * HP anything (Involved in [corruption that aims to destroy my home country](https://newrepublic.com/post/216672/list-white-house-ballroom-donors-trump-corruption)). Ones with other problems on top of that:
 * * HP Detect My Device / HP Web Products Detection (Error -3)
 * * HP Documentation (No known installer URLs)
@@ -158,6 +156,7 @@
 * 🛍️ Microsoft.WindowsAppRuntime.Singleton.2.msix (Has Microsoft.WindowsAppRuntime.2.msix as a hard dependency, which must be of the same version and which is unlikely to be noticed as being already installed.)
 * 🛍️ ShowKeyPlus (.exe is in a .zip inside a .zip)
 * 🛍️ Nagi Anthonyy232's ARM64 versions (The `wminet_utils.dll` glitch)
+* 🛍️ Sefirah shrimqy's ARM64 versions (The `wminet_utils.dll` glitch)
 
 ## No known installer URLs:
 * ASUS Armoury Crate SE Service (The "Armoury Crate SE Installer" just installs the regular Armoury Crate)
@@ -429,3 +428,5 @@
 * AntiCheatExpert (Tencent/PRC app)
 * PiMon (PRC app)
 * "wch.cn (CH343SER_A64) Ports" (PRC app)
+* Anything related to Forgejo and Codeberg (Turns out their leaders are **those** kinds of Linux fans). Also includes at least some of the apps hosted there, such as:
+* * Nano Boy Advance
