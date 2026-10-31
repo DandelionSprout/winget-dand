@@ -157,6 +157,7 @@
 * 🛍️ Microsoft.WindowsAppRuntime.Main.2.msix (Has Microsoft.WindowsAppRuntime.2.msix as a hard dependency, which must be of the same version and which is unlikely to be noticed as being already installed.)
 * 🛍️ Microsoft.WindowsAppRuntime.Singleton.2.msix (Has Microsoft.WindowsAppRuntime.2.msix as a hard dependency, which must be of the same version and which is unlikely to be noticed as being already installed.)
 * 🛍️ ShowKeyPlus (.exe is in a .zip inside a .zip)
+* 🛍️ Nagi Anthonyy232's ARM64 versions (The `wminet_utils.dll` glitch)
 
 ## No known installer URLs:
 * ASUS Armoury Crate SE Service (The "Armoury Crate SE Installer" just installs the regular Armoury Crate)
