@@ -15,7 +15,6 @@
 * ASUS DriverHub (Requires an ASUS motherboard to complete installation)
 * ASUS MB Manager (Requires an ASUS motherboard in order to be installed)
 * ASUS System Control Interface 3 ("This version of ASUS System Control Interface driver of your machine cannot support some function, click "OK" for more information."⁽ˢⁱᶜ⁾)
-* 🛍️ Avast Secure Browser (Is MV3)
 * Cisco Packet Tracer (Installer is behind a login wall)
 * COAA.PlanePlotter (Pipeline bug treats the launch prompt as that it hasn't finished installing)
 * crypto20111.IDR (Has disasm as a post-installation dependency; hard to tell which disasm version is the correct one)
@@ -157,6 +156,7 @@
 * 🛍️ ShowKeyPlus (.exe is in a .zip inside a .zip)
 * 🛍️ Nagi Anthonyy232's ARM64 versions (The `wminet_utils.dll` glitch)
 * 🛍️ Sefirah shrimqy's ARM64 versions (The `wminet_utils.dll` glitch)
+* 🛍️ Avast Secure Browser (Is MV3)
 
 ## No known installer URLs:
 * ASUS Armoury Crate SE Service (The "Armoury Crate SE Installer" just installs the regular Armoury Crate)
