@@ -202,8 +202,8 @@
 | ASUS Support Agent | No silent switches | 
 | Audeze.AudezeHQ | | | [Issue](https://github.com/microsoft/winget-pkgs/issues/124308)
 | BrunnerInnovation.vJoy | | | [Yes](https://github.com/microsoft/winget-pkgs/pull/314549)
-| Clue digital ordbok | Can't be silently installed, especially as its MSI version is fake | 
-| CM&V.DVBViewerDemo | | `https://clue-online•no/nb`
+| Clue digital ordbok | Can't be silently installed, especially as its MSI version is fake | `https://clue-online•no/nb`
+| CM&V.DVBViewerDemo | | 
 | CyberLink pretty much anything | No silent switches | 
 | Devail1.WindowCenterResize | | | [Yes](https://github.com/microsoft/winget-pkgs/pull/312322)
 | Epson Firmware Updater | |
@@ -211,10 +211,10 @@
 | Fluent Store | | | [Yes](https://github.com/microsoft/winget-pkgs/pull/247942)
 | Fujitsu/Ricoh ScanSnap Home | Custom installer inside an InstallScript | `https://www•pfu•ricoh•com/imaging/ssacc/en/sshoffline•html` | [Yes](https://github.com/microsoft/winget-pkgs/issues/101044)
 | GamesCleaner setup | |
-| Google WebP codec | | | [Issue](https://github.com/microsoft/winget-pkgs/issues/86103)
+| Google WebP codec | No known silent parameters despite being a WIX | `https://storage•googleapis•com/downloads•webmproject•org/releases/webp/index•html` | [Issue](https://github.com/microsoft/winget-pkgs/issues/86103)
 | Intel Memory and Storage Tool CLI | | `https://www•intel•com/content/www/us/en/download/19520/intel-memory-and-storage-tool-cli-command-line-interface.html`
 | K7 Antivirus Premium | | `https://www•k7computing•com/us/home-users/antivirus-premium` | 
-| Microsoft Office Subject Interface Packages for Digitally Signing VBA Projects / Sips | Gets stuck on the final prompt, "Files extracted successfully." | | [Yes](https://github.com/microsoft/winget-pkgs/pull/152521)
+| Microsoft Office Subject Interface Packages for Digitally Signing VBA Projects / Sips | Gets stuck on the final prompt, "Files extracted successfully." | `https://www•microsoft•com/en-us/download/details•aspx?id=56617` | [Yes](https://github.com/microsoft/winget-pkgs/pull/152521)
 | Microsoft.WindowsHardwareLabKit | |
 | Mideej | | 
 | Nevrona Rave Reports | | | [Yes](https://github.com/microsoft/winget-pkgs/pull/156144)
