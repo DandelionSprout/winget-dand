@@ -407,6 +407,7 @@
 ## Would likely work, hadn't Winget been dead (2020-26, rest in peace):
 * Stream Master
 * 'Vense OBS Plugin
+* Optimized-azerty-win springcomp
 
 ## I cannot in good spirit add these due to my personal conscience, but I wouldn't stop others from adding them:
 * Microsoft.Services.Store.Engagement (I'm in the adblocking community for a reason)
