@@ -201,7 +201,7 @@
 | ASUS Device Discovery | InstallShield inside an InstallScript | `https://www•asus•com/networking-iot-servers/wifi-7/all-series/asus-rt-be92u/helpdesk_download` (Windows 11 64-bit) | 
 | ASUS Support Agent | No silent switches | 
 | Audeze.AudezeHQ | | | [Issue](https://github.com/microsoft/winget-pkgs/issues/124308)
-| BrunnerInnovation.vJoy | | | [Yes](https://github.com/microsoft/winget-pkgs/pull/314549)
+| BrunnerInnovation.vJoy | Gets stuck on the last prompt, "vJoy installed successfully" | | [Yes](https://github.com/microsoft/winget-pkgs/pull/314549)
 | Clue digital ordbok | Can't be silently installed, especially as its MSI version is fake | `https://clue-online•no/nb`
 | CM&V.DVBViewerDemo | | 
 | CyberLink pretty much anything | No silent switches | 
