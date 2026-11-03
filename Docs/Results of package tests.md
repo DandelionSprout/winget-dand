@@ -1,5 +1,4 @@
-♪ = Made it to extras.<br>
-🛍️ = Is also in the msstore source, which as of October 2026 means it'd face problems in extras.
+♪ = Made it to extras before its cutoff/death date. RIP 2026-2026.
 
 ## Packages uncreatable for various reasons (Unsorted):
 * "Overføringsverktøy for brukere (veiviser for overføring av innstillinger)" (Missing OCMANAGE.dll)
@@ -147,16 +146,16 @@
 * ♪ Wine Mono (Bafflingly tries to start a 2nd installer for a support tool before having finished the 1st installer. The 2nd installer also fails with error 2762.)
 * ♪ Sniffnet (Has Npcap as a dependency)
 * ♪ USBip-win(2) (Apparently requires driver test-signing system mode?)
-* 🛍️ NVIDIA Control Panel (AppX inside self-extracting 7Z, no currently known installer switches dedicated to it.)
-* 🛍️ Collabora Office (Version number in registry collided with LibreOffice; while as of August 2026 it was no longer possible to determine if any installer URLs still existed.)
-* 🛍️ Dell SupportAssist (Error 9505: "This app is only available for Dell and Alienware PCs.")
-* 🛍️ Microsoft.WindowsAppRuntime.2.msix (Does not show up as an installed app post-installation)
-* 🛍️ Microsoft.WindowsAppRuntime.Main.2.msix (Has Microsoft.WindowsAppRuntime.2.msix as a hard dependency, which must be of the same version and which is unlikely to be noticed as being already installed.)
-* 🛍️ Microsoft.WindowsAppRuntime.Singleton.2.msix (Has Microsoft.WindowsAppRuntime.2.msix as a hard dependency, which must be of the same version and which is unlikely to be noticed as being already installed.)
-* 🛍️ ShowKeyPlus (.exe is in a .zip inside a .zip)
-* 🛍️ Nagi Anthonyy232's ARM64 versions (The `wminet_utils.dll` glitch)
-* 🛍️ Sefirah shrimqy's ARM64 versions (The `wminet_utils.dll` glitch)
-* 🛍️ Avast Secure Browser (Is MV3)
+* NVIDIA Control Panel (AppX inside self-extracting 7Z, no currently known installer switches dedicated to it.)
+* Collabora Office (Version number in registry collided with LibreOffice; while as of August 2026 it was no longer possible to determine if any installer URLs still existed.)
+* Dell SupportAssist (Error 9505: "This app is only available for Dell and Alienware PCs.")
+* Microsoft.WindowsAppRuntime.2.msix (Does not show up as an installed app post-installation)
+* Microsoft.WindowsAppRuntime.Main.2.msix (Has Microsoft.WindowsAppRuntime.2.msix as a hard dependency, which must be of the same version and which is unlikely to be noticed as being already installed.)
+* Microsoft.WindowsAppRuntime.Singleton.2.msix (Has Microsoft.WindowsAppRuntime.2.msix as a hard dependency, which must be of the same version and which is unlikely to be noticed as being already installed.)
+* ShowKeyPlus (.exe is in a .zip inside a .zip)
+* Nagi Anthonyy232's ARM64 versions (The `wminet_utils.dll` glitch)
+* Sefirah shrimqy's ARM64 versions (The `wminet_utils.dll` glitch)
+* Avast Secure Browser (Is MV3)
 
 ## No known installer URLs:
 * ASUS Armoury Crate SE Service (The "Armoury Crate SE Installer" just installs the regular Armoury Crate)
@@ -255,9 +254,9 @@
 * ♪ WinPcap
 * ♪ Konami e-Amusement / Konast / Amusement Game Station ("This installer can only be run in full UI mode")
 * ♪ Microsoft Office Subject Interface Packages for Digitally Signing VBA Projects / Sips
-* 🛍️ Adobe Fresco
-* 🛍️ LINE Desktop / Life on LINE (No silent switches)
-* 🛍️ Pixia (Silent installation fails with error 4294967292)
+* Adobe Fresco
+* LINE Desktop / Life on LINE (No silent switches)
+* Pixia (Silent installation fails with error 4294967292)
 
 ## Can't be silently installed (Known to initiate driver installers):
 * AlkaidLab.foundation-sunshine
@@ -431,3 +430,4 @@
 * "wch.cn (CH343SER_A64) Ports" (PRC app)
 * Anything related to Forgejo and Codeberg (Turns out their leaders are **those** kinds of Linux fans). Also includes at least some of the apps hosted there, such as:
 * * Nano Boy Advance
+* AOC Agon G-Menu (PRC app according to its hosting domain tpv-techCOM)
