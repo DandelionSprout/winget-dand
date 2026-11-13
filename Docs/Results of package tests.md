@@ -158,6 +158,8 @@
 * Avast Secure Browser (Is MV3)
 
 ## No known installer URLs:
+* "Hikvision (mvu3v) MvisionUSB"
+* Altova XML-Schema Manager
 * ASUS Armoury Crate SE Service (The "Armoury Crate SE Installer" just installs the regular Armoury Crate)
 * CertsUpdater Saber Interactive
 * CodeMeter Runtime Kit Reduced
@@ -165,30 +167,28 @@
 * Keysight Licensing Daemon / Keysight License Server (No known functioning installer URL)
 * Microsoft Access Database Engine 2010 (No installer URL is known to still exist)
 * Microsoft Consumer Hub v3
+* Microsoft SQL Server 2019 LocalDB (No known standalone installer URL)
+* Microsoft Windows Application Compatibility Fix Database
 * Microsoft WindowsWorkload pretty much anything
+* MyNextBase Player (Unclear if any installer URLs still exist)
+* Nahimic 2 ("All access to this object has been disabled")
 * NinjaOne (No known installer URLs)
 * NVIDIA FrameView SDK (No currently known standalone installer URLs)
 * NVIDIA HD Audio Driver (No currently known standalone installer URLs)
+* PlayStation Link PC Driver
 * Riot Client (No immediately known standalone installer URL)
+* Rockstar Games SDK (No known standalone installer URL)
 * Samsung.Odin (No widely established installer URLs)
 * Scoop
+* Stellar Codec Pack
 * Tavernworker (Unless Blacksmith Launcher counts as one)
+* Unlocker
 * vs_CoreEditorFonts
+* WestlawVideoClipping (No known standalone installer URL)
+* Wine Mono Windows Support (No known standalone installer URL)
 * WinRAR Shell Extension (No known standalone installer URL)
 * Xensam Xearch
 * Zygor Client (Installer is behind a login wall)
-* Rockstar Games SDK (No known standalone installer URL)
-* Unlocker
-* Microsoft Windows Application Compatibility Fix Database
-* Stellar Codec Pack
-* WestlawVideoClipping (No known standalone installer URL)
-* Microsoft SQL Server 2019 LocalDB (No known standalone installer URL)
-* Wine Mono Windows Support (No known standalone installer URL)
-* Altova XML-Schema Manager
-* "Hikvision (mvu3v) MvisionUSB"
-* MyNextBase Player (Unclear if any installer URLs still exist)
-* Nahimic 2 ("All access to this object has been disabled")
-* PlayStation Link PC Driver
 
 ## Can't be silently installed:
 | App | Cause (if specific) | PackageUrl | Had pkgs PR
