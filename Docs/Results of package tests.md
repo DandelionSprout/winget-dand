@@ -175,6 +175,7 @@
 * NinjaOne (No known installer URLs)
 * NVIDIA FrameView SDK (No currently known standalone installer URLs)
 * NVIDIA HD Audio Driver (No currently known standalone installer URLs)
+* OneDrive Photos (No known standalone installer URLs)
 * PlayStation Link PC Driver
 * Riot Client (No immediately known standalone installer URL)
 * Rockstar Games SDK (No known standalone installer URL)
