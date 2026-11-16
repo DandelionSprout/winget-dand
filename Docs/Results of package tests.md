@@ -403,6 +403,7 @@
 * Gammu standard (Set ShiningLight.OpenSSL.LTS.Light as a dependency)
 * AcerSense
 * ASUS "Utility supports MFP (Multi-function Peripheral, MFP or All-in-One Printer)"
+* Microsoft.Windows.Console.ConPTY, as seen in the Microsoft Terminal repo (There's probably not all that big of a market for what is simply Command Prompt, though weirder things have happened)
 
 ## Would likely work, hadn't Winget been dead (2020-26, rest in peace):
 * Stream Master
