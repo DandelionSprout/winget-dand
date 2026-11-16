@@ -156,6 +156,7 @@
 * Nagi Anthonyy232's ARM64 versions (The `wminet_utils.dll` glitch)
 * Sefirah shrimqy's ARM64 versions (The `wminet_utils.dll` glitch)
 * Avast Secure Browser (Is MV3)
+* FreeCOM by FreeDOS (Its executable has the .com file extension instead of .exe)
 
 ## No known installer URLs:
 * "Hikvision (mvu3v) MvisionUSB"
