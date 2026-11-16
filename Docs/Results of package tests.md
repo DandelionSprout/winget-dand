@@ -404,12 +404,13 @@
 * Gammu standard (Set ShiningLight.OpenSSL.LTS.Light as a dependency)
 * AcerSense
 * ASUS "Utility supports MFP (Multi-function Peripheral, MFP or All-in-One Printer)"
-* Microsoft.Windows.Console.ConPTY, as seen in the Microsoft Terminal repo (There's probably not all that big of a market for what is simply Command Prompt, though weirder things have happened)
 
 ## Would likely work, hadn't Winget been dead (2020-26, rest in peace):
 * Stream Master
 * 'Vense OBS Plugin
 * Optimized-azerty-win springcomp
+* Microsoft.Windows.Console.ConPTY, as seen in the Microsoft Terminal repo (There's probably not all that big of a market for what is simply Command Prompt, though weirder things have happened)
+* FreeDOS certain apps: FDISK, Format, Label, Move, xcopy, probably more
 
 ## I cannot in good spirit add these due to my personal conscience, but I wouldn't stop others from adding them:
 * Microsoft.Services.Store.Engagement (I'm in the adblocking community for a reason)
