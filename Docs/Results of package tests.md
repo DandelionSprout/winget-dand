@@ -5,15 +5,9 @@
 * `https://catalog.update.microsoft.com/Search.aspx?q=kb5007651` (Fails to install)
 * `https://github.com/shorthorn-project/One-Core-API-Binaries/releases` (Very unusual type of self-extracting file)
 * `https://winget•tplant•com•au/cache/source(2)•msix` / WingetPkgsSource / winget-font (All but `winget-font` are updated upstream too often. Installing the source MSIX, does not actually add it as a source repo. The pkgs pipelines can't handle it either; see `https://github.com/microsoft/winget-pkgs/issues/400253`. And `winget-font` is in essence dead; see `https://github.com/pl4nty/winget-extras/pull/746`)
-* AdtServer.msi (Requires Windows Server)
-* AMD Chipset Drivers (Almost certainly "InternetOpenUrl() failed.")
-* AMD Cleanup Utility ("InternetOpenUrl() failed.")
-* AMD Ryzen Master (Very weird installer)
+* ♪ AMD Ryzen Master (Very weird installer)
 * ASUS Business Manager (Strange installer)
 * ASUS Device Discovery (Error 2147753984)
-* ASUS DriverHub (Requires an ASUS motherboard to complete installation)
-* ASUS MB Manager (Requires an ASUS motherboard in order to be installed)
-* ASUS System Control Interface 3 ("This version of ASUS System Control Interface driver of your machine cannot support some function, click "OK" for more information."⁽ˢⁱᶜ⁾)
 * Cisco Packet Tracer (Installer is behind a login wall)
 * COAA.PlanePlotter (Pipeline bug treats the launch prompt as that it hasn't finished installing)
 * crypto20111.IDR (Has disasm as a post-installation dependency; hard to tell which disasm version is the correct one)
@@ -37,9 +31,8 @@
 * hіfihеdgehоg anything (Practising Сhristian and/or Mоrmоn)
 * irzyxa.Volume2 (The 2025 x64 builds throw "DAMAGE: after Normal block (#56) at 0x02CE1860" errors; see https://github.com/irzyxa/Volume2/issues/383)
 * IwaraTool (Comically large amounts of malware engine detections)
-* jklewa.ATVDesktopRemote (Requires Python 3)
+* jklewa.ATVDesktopRemote (Requires Python 3, but which Python 3.x version should be specified?)
 * KB9114440 Network Diagnosis ("Not enough memory resources available (...)")
-* Lenovo Dolby Vision Provisioning Kit (Unable to confirm if the package works or not.)
 * LogExperts.LogExpert (Fails to detect .NET Runtime 10 x64 installations)
 * Lynx Browser ("No SSL library found" seemingly no matter what)
 * MediaWiki (Its only .exe-s in the zip archive are outdated Lua installers)
@@ -48,16 +41,10 @@
 * Microsoft Monitoring Agent / MOMAgent (Error 1603)
 * Microsoft SQL Server 2025 Evaluation Edition (Refuses to recognise /ENU when Windows 11 is set to nb-NO)
 * Microsoft System Center 2025 Operations Manager Server / SetupChainerUI.exe / SCOM 2025 (Requires manually setting the name of the "/SqlServerInstance")
-* Microsoft System Center Data Protection Manager (Requires Windows Server)
-* Microsoft System Center Operations Manager Gateway Server / MOMGateway.msi (Requires Windows Server)
-* Microsoft System Center Operations Manager Reporting Server / OMReporting.msi (Requires Windows Server)
-* Microsoft System Center Operations Manager Server / OMServer.msi (Requires Windows Server)
 * Microsoft System Center Operations Manager Web Console (Error 1943)
 * Microsoft System Center Orchestrator Service Management Automation Web Servers (Requires turning on the IIS service "Basic Authentication")
 * Microsoft System Center Service Management Automation Runbook Worker (Requires manually setting SERVICEACCOUNT and SERVICEPASSWORD)
 * Microsoft System Center Virtual Machine Manager Client (Winget-pkgs can't silently install it)
-* Microsoft Visual C++ 20xx Redistributable Itanium (Pipelines don't support it even if marked as Neutral)
-* Microsoft.bpf_performance (Has "eBPF for Windows (MSI)" as a post-installation dependency)
 * Microsoft.DotNet.docfx (Post-installation error "Cannot find config file C:\(...)\docfx.json"; and also the absurd decision to lock off the entire `Microsoft.DotNet` namespace)
 * Microsoft.DotNet.Native.Framework.1.3 (No known Microsoft-owned distribution places for 1.3.24211.0; and also the absurd decision to lock off the entire `Microsoft.DotNet` namespace)
 * Microsoft.DotNet.Native.Runtime.1.7 (No known Microsoft-owned distribution places for 1.7.27422; `https://www.nuget.org/packages/Microsoft.Net.Native.Compiler/1.7.6` only has 1.7.25531; and also the absurd decision to lock off the entire `Microsoft.DotNet` namespace)
@@ -111,8 +98,6 @@
 * RadioDJ (Requires a very, very insecurely configured MySQL in order for a silent installation to succeed)
 * RetriX ("An error occured during the app package analysis")
 * Samsung Browser for Windows (MV3 browser)
-* Samsung Frame Manager ("This setup is only for windows 7 operating system"⁽ˢⁱᶜ⁾)
-* Samsung Recovery Solution 5 ("There is no Samsung Recovery area on your hard drive")
 * Samsung.Escargot (Depends on the WebAssembly library "Walrus", for which no executables exist)
 * SF Mono (.dmg file)
 * Some kind of W10-supported app with "Gait" in its name, circa 7 letters, its main menu had a grey 3D model walking. Saw the app at a Stadium Ski store in Åre, but instantly forgot its full name, and now I can't find it again.
@@ -136,19 +121,15 @@
 * ♪ Command & Conquer: Red Alert 2 & Yuri's Revenge (Has the paid version of Red Alert 2 in a hardcoded folderpath as a dependency for silent installs)
 * ♪ GarudaLinux.FireDragon (ARM64 version has a false positive "Can't install silently" pipeline error)
 * ♪ Microsoft System Center Orchestrator Runbook Designer (Pipelines get stuck)
-* ♪ Microsoft Visual C++ 2012/2013 Redistributable Arm32 (Incompatibility of the ARM64 pipelines)
+* ♪ Microsoft Visual C++ 2012/2013 Redistributable Arm32 (Incompatibility of the ARM64 pipelines. I too wasn't able to get it working on 23H2 ARM64, and I haven't for the bloody life of me been able to run W10 18H2 in any way on the Samsung Galaxy Book Go 4GB.)
 * ♪ Microsoft.AccessibilityInsights (Its dev was pissy about it as of 2023)
 * ♪ Microsoft.DotNet.Runtime.1_1 (The absurd decision to lock off the entire `Microsoft.DotNet` namespace)
 * ♪ Microsoft.vcpkg (Post-installation requires a separate vcpkg-root app)
 * ♪ MozillaBuild (Not all that useful, since end-users must still build the post-installation files on their own)
-* ♪ puhitaku.mtplvcap (Requires a Nikon DSLR device to run properly)
-* ♪ Wine Gecko ("The file browser!blocklist.xml can't be installed because the file doesn't exist in the cabinet file winegecko.cab. (...)" The non-existence of MSIX/Winget support in Wine doesn't help either.)
 * ♪ Wine Mono (Bafflingly tries to start a 2nd installer for a support tool before having finished the 1st installer. The 2nd installer also fails with error 2762.)
-* ♪ Sniffnet (Has Npcap as a dependency)
 * ♪ USBip-win(2) (Apparently requires driver test-signing system mode?)
 * NVIDIA Control Panel (AppX inside self-extracting 7Z, no currently known installer switches dedicated to it.)
 * Collabora Office (Version number in registry collided with LibreOffice; while as of August 2026 it was no longer possible to determine if any installer URLs still existed.)
-* Dell SupportAssist (Error 9505: "This app is only available for Dell and Alienware PCs.")
 * Microsoft.WindowsAppRuntime.2.msix (Does not show up as an installed app post-installation)
 * Microsoft.WindowsAppRuntime.Main.2.msix (Has Microsoft.WindowsAppRuntime.2.msix as a hard dependency, which must be of the same version and which is unlikely to be noticed as being already installed.)
 * Microsoft.WindowsAppRuntime.Singleton.2.msix (Has Microsoft.WindowsAppRuntime.2.msix as a hard dependency, which must be of the same version and which is unlikely to be noticed as being already installed.)
@@ -246,6 +227,7 @@
 * ♪ Locale Emulator
 * ♪ Microsoft Remote Desktop Connection (No known silent switches)
 * ♪ Npcap
+* * ♪ Sniffnet (Has Npcap as a dependency)
 * ♪ Ultra HD Blu-ray Advisor (`/S /v/qn` fails to make InstallShield progress silently for this app; a strange "Customer Information" prompt is possibly a factor)
 * ♪ Xbox main EXE (No known silent switches)
 * ♪ FreeFileSync
@@ -327,7 +309,7 @@
 ## All sorts of certificate errors:
 |   |   |
 | - | - |
-| • 2fast (ZIP)<br>• ActualBudget AppX<br>• AdventurerClientJS AppX<br>• AnyFSE AppX<br>• Baulk AppX<br>• Bifrost/SamloaderKotlin MSIX<br>• BookViewer3 / BookViewerApp3 (ZIP)<br>• chARpack AppX<br>• Cynnexis Tide MSIX<br>• FluentFlyouts (MSIXBundle)<br>• Flycast AppX<br>• gabboxl.FluentWeather (MSIXBundle)<br>• Gorilla UI<br>• HDRImageViewer (ZIP)<br>• Hiddify MSIX<br>• Houseclub FrayxRulez (MSIXBundle)<br>• Intag MSIX<br>• IRCameraView (ZIP)<br>• KeePassPasskey (ZIP)<br>• Kodi MSIX<br>• LibreWolf MSIX | • LRReader (MSIXBundle)<br>• Microsoft eBPF for Windows - MSI (Doesn't have a valid signature... in an MSI file)<br>• Microsoft.SensorExplorer / busiotools (MSIXBundle)<br>• Mockoon AppX<br>• Mélodie Feugy AppX<br>• Ossia Score AppXBundle<br>• Passbolt (ZIP)<br>• RetroArch AppX<br>• RevoltChat AppX<br>• SimpleWeather (MSIXBundle)<br>• TasksORG MSIX<br>• TheElixZammuto Moonlight UWP (MSIXBundle)<br>• TouchXRPT (ZIP)<br>• Tracky-Mouse MSIX<br>• UltraPad/RectifyPad MSIX<br>• underpig1 Octos MSIX<br>• Unpaint (Running it portably throws "MSVCP140_ATOMIC_WAIT_APP.dll not found")<br>• VideoLAN.VLC-UWP (Also lacks "SharedLibrary.dll", etc.)<br>• WebcamOnDesktop (MSIXBundle)<br>• Wino Mail (MSIXBundle)<br>• XBSX2 (MSIXBundle)<br>• Bitwarden MSIX<br>• Raycast (Running it portably crashes on launch)
+| • 2fast (ZIP)<br>• ActualBudget AppX<br>• AdventurerClientJS AppX<br>• AnyFSE AppX<br>• Baulk AppX<br>• Bifrost/SamloaderKotlin MSIX<br>• BookViewer3 / BookViewerApp3 (ZIP)<br>• chARpack AppX<br>• Cynnexis Tide MSIX<br>• FluentFlyouts (MSIXBundle)<br>• Flycast AppX<br>• gabboxl.FluentWeather (MSIXBundle)<br>• Gorilla UI<br>• HDRImageViewer (ZIP)<br>• Hiddify MSIX<br>• Houseclub FrayxRulez (MSIXBundle)<br>• Intag MSIX<br>• IRCameraView (ZIP)<br>• KeePassPasskey (ZIP)<br>• Kodi MSIX<br>• LibreWolf MSIX | • LRReader (MSIXBundle)<br>• Microsoft eBPF for Windows - MSI (Doesn't have a valid signature... in an MSI file)<br>• • Microsoft.bpf_performance (Has "eBPF for Windows (MSI)" as a post-installation dependency)<br>• Microsoft.SensorExplorer / busiotools (MSIXBundle)<br>• Mockoon AppX<br>• Mélodie Feugy AppX<br>• Ossia Score AppXBundle<br>• Passbolt (ZIP)<br>• RetroArch AppX<br>• RevoltChat AppX<br>• SimpleWeather (MSIXBundle)<br>• TasksORG MSIX<br>• TheElixZammuto Moonlight UWP (MSIXBundle)<br>• TouchXRPT (ZIP)<br>• Tracky-Mouse MSIX<br>• UltraPad/RectifyPad MSIX<br>• underpig1 Octos MSIX<br>• Unpaint (Running it portably throws "MSVCP140_ATOMIC_WAIT_APP.dll not found")<br>• VideoLAN.VLC-UWP (Also lacks "SharedLibrary.dll", etc.)<br>• WebcamOnDesktop (MSIXBundle)<br>• Wino Mail (MSIXBundle)<br>• XBSX2 (MSIXBundle)<br>• Bitwarden MSIX<br>• Raycast (Running it portably crashes on launch)
 
 ## Time-expirant installer URLs:
 * 3DMark (≤ 3min)
@@ -352,10 +334,13 @@
 * Eclipso Toolbox (+ Can't be silently installed)
 
 ## HTTP "Forbidden" or similar:
+* AltDVB
 * AmpliTube
 * ASUS anything hosted on asuswebstorageCOM (HTTP "Unauthorised")
 * BatchPatch (Installer download is somehow generated client-side from a "tmstv" script thingie)
+* download-center•epson•com
 * ExecTI Winaero
+* FTDI CDM Driver Package (…) / FTDI Chip
 * IK Product Manager
 * Mod The Sims anything
 * Native Access
@@ -364,9 +349,8 @@
 * Segger J-Link (Anti-bot measures for its download link)
 * AMD pretty much anything ("Download Not Complete" anti-"external access" measures)
 * * AMD Software: Adrenalin Edition
-* download-center•epson•com
-* AltDVB
-* FTDI CDM Driver Package (…) / FTDI Chip
+* * ♪ AMD Chipset Drivers (Almost certainly "InternetOpenUrl() failed.")
+* * AMD Cleanup Utility ("InternetOpenUrl() failed.")
 
 ## Self-extracting 7Z-s disguised as .exe-s:
 * Microsoft Endpoint Community Manager (Self-extracting 7Z)
@@ -377,6 +361,23 @@
 |   |   |
 | - | - |
 | • Apache Maven<br>• DirectoryLister<br>• dxwrapper (elishacloud)<br>• FineFTP Server<br>• GNOME "atk", "gail", "gnome-common", "gnome-vfs", "goocanvas",<br>"gtkhtml", "gtksourceview", "intltool", "libcroco", and "libglade"<br>• GoldSrcModelThumbnailProvider<br>• Google.re2<br>• Gradle Distributions<br>• KeeperSecurity keeper-sdk-dotnet / PowerCommander<br>• kemnnx64<br>• Kotlin Language Server<br>• LazyDuchess.MonoPatcher<br>• LazyDuchess.TS2-Extender<br>• libsdl-org.SDL<br>• Microsoft QDK Samples<br>• Microsoft React Native WinRT<br>• Microsoft UEFI Debug Tools<br>• Microsoft.FactoryOrchestrator Service<br>• Microsoft.vc-ue-extensions<br>• Microsoft.Windows-appsample-marble-maze<br>• Microsoft.Windows-appsample-photo-editor<br>• Microsoft winget-cli-restsource<br>• Mozilla CrashReporter Symbols<br>• Npcap SDK<br>• NVDA Controller Client<br>• NVIDIA.CCCL<br>• OpenBIOS.OpenBIOS<br>• pascatl.ha-dhl<br>• PHP.PHP "Development package (SDK to develop PHP extensions)" | • PHP.PHP Debug Pack<br>• Pixel Streaming Infrastructure<br>• SignPath.CryptoProviders.Cryptoki<br>• simdjson singleheader<br>• Tiny UI Fix for The Sims 3<br>• Ultimate ASI Loader<br>• WebView2Browser<br>• windows-heic-thumbnails<br>• zlib<br>• Microsoft.OnnxRuntime<br>• Atola MultiDrive WinPE<br>• Enhanced-GPU-PV<br>• worproject "storage_v4", "aicwlan_arm64", and "rpi5-uefi"<br>• iTerm2<br>• libsdl-org.SDL<br>• Windows 10 Universal C Runtime<br>• WineD3D For Windows<br>• Mosby Rufus<br>• Samsung System Event Controller<br>• PSScriptAnalyzer<br>• PowerShellEditorServices<br>• PowerShell ConsoleGuiTools
+
+## Hardware-/OS-dependent
+* AdtServer.msi (Requires Windows Server)
+* ASUS DriverHub (Requires an ASUS motherboard to complete installation)
+* ASUS MB Manager (Requires an ASUS motherboard in order to be installed)
+* ASUS System Control Interface 3 ("This version of ASUS System Control Interface driver of your machine cannot support some function, click "OK" for more information."⁽ˢⁱᶜ⁾)
+* Dell SupportAssist (Error 9505: "This app is only available for Dell and Alienware PCs.")
+* Lenovo Dolby Vision Provisioning Kit (Unable to confirm if the package works or not.)
+* Microsoft System Center Data Protection Manager (Requires Windows Server)
+* Microsoft System Center Operations Manager Gateway Server / MOMGateway.msi (Requires Windows Server)
+* Microsoft System Center Operations Manager Reporting Server / OMReporting.msi (Requires Windows Server)
+* Microsoft System Center Operations Manager Server / OMServer.msi (Requires Windows Server)
+* Microsoft Visual C++ 20xx Redistributable Itanium (Pipelines don't support it even if marked as Neutral)
+* Samsung Frame Manager ("This setup is only for windows 7 operating system"⁽ˢⁱᶜ⁾)
+* Samsung Recovery Solution 5 ("There is no Samsung Recovery area on your hard drive")
+* ♪ puhitaku.mtplvcap (Requires a Nikon DSLR device to run properly)
+* ♪ Wine Gecko ("The file browser!blocklist.xml can't be installed because the file doesn't exist in the cabinet file winegecko.cab. (...)" The non-existence of MSIX support in Wine doesn't help either.)
 
 ## Ruled out from "Project Portable MSIX-s" due to internal EXE-s not launching:
 * DavidSungaila.SUBSTitute
@@ -411,7 +412,7 @@
 * Optimized-azerty-win springcomp
 * Microsoft.Windows.Console.ConPTY, as seen in the Microsoft Terminal repo (There's probably not all that big of a market for what is simply Command Prompt, though weirder things have happened)
 * FreeDOS certain apps: FDISK, Format, Label, Move, xcopy, probably more
-* PowerShell FxDependentWinDesktop/FxDependent (Set Microsoft.DotNet.Runtime.11(.x64) as a dependency. Pkgs have also locked off the PowerShell namespace because they couldn't handle that I knew better than Team PowerShell.)
+* PowerShell FxDependentWinDesktop/FxDependent (Set Microsoft.DotNet.Runtime.11(.x64) as a dependency. Pkgs have also locked off the PowerShell namespace because they couldn't handle that I know better than Team PowerShell.)
 
 ## I cannot in good spirit add these due to my personal conscience, but I wouldn't stop others from adding them:
 * Microsoft.Services.Store.Engagement (I'm in the adblocking community for a reason)
