@@ -413,6 +413,7 @@
 * Microsoft.Windows.Console.ConPTY, as seen in the Microsoft Terminal repo (There's probably not all that big of a market for what is simply Command Prompt, though weirder things have happened)
 * FreeDOS certain apps: FDISK, Format, Label, Move, xcopy, probably more
 * PowerShell FxDependentWinDesktop/FxDependent (Set Microsoft.DotNet.Runtime.11(.x64) as a dependency. Pkgs have also locked off the PowerShell namespace because they couldn't handle that I know better than Team PowerShell.)
+* Anubis TecharoHQ
 
 ## I cannot in good spirit add these due to my personal conscience, but I wouldn't stop others from adding them:
 * Microsoft.Services.Store.Engagement (I'm in the adblocking community for a reason)
