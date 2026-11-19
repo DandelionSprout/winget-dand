@@ -100,7 +100,7 @@
 * Samsung Browser for Windows (MV3 browser)
 * Samsung.Escargot (Depends on the WebAssembly library "Walrus", for which no executables exist)
 * SF Mono (.dmg file)
-* Some kind of W10-supported app with "Gait" in its name, circa 7 letters, its main menu had a grey 3D model walking. Saw the app at a Stadium Ski store in Åre, but instantly forgot its full name, and now I can't find it again.
+* Some kind of W10-supported app with "Gait" in its name, circa 7 letters, its main menu had a grey 3D model walking. Saw the app at a Stadium Ski store in Åre, but instantly forgot its full name, and now I can't find it again. The app is not present at the Stadium Outlet store in Tiller.
 * SQL Server SSMA for Access (Has Microsoft Data Access Objects libraries as a hard dependency, for which no installer URL is known.)
 * Tizen Studio (`https://samsungtizenos•com/docs/sdk-tools/dotnet/vscode/baseline-sdk/common-tools/overview` strangely claims that the non-VC versions, quote, "must not be installed or used.")
 * Tor Tails (Is an .img file)
