@@ -154,6 +154,7 @@
 * Microsoft WindowsWorkload pretty much anything
 * MyNextBase Player (Unclear if any installer URLs still exist)
 * Nahimic 2 ("All access to this object has been disabled")
+* Mono ≥6.14.1 by WineHQ
 * NinjaOne (No known installer URLs)
 * NVIDIA FrameView SDK (No currently known standalone installer URLs)
 * NVIDIA HD Audio Driver (No currently known standalone installer URLs)
