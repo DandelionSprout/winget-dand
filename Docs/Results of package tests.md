@@ -181,6 +181,7 @@
 * AdobeAcrobatReaderCoreApp
 * Notepad++ NppShell.msix (Is not in the portable ZIPs that I could tell)
 * Microsoft PowerToys Command Palette (The PowerToys repo makes conflicting claims on where the MSIX is, none of which are correct)
+* Microsoft Defender On-device Registry Filter / MdOdrMcpFilterPackage / MdOdrMcpFilter
 
 ## Can't be silently installed:
 | App | Cause (if specific) | PackageUrl | Had pkgs PR
