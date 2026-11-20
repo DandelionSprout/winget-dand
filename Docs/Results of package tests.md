@@ -173,6 +173,10 @@
 * WinRAR Shell Extension (No known standalone installer URL)
 * Xensam Xearch
 * Zygor Client (Installer is behind a login wall)
+* Microsoft EpmShellExtension (Its MSIX is only present post-installation after installing `EPMAgent.msi`, and no known ZIP of EPMAgent exists)
+* Microsoft PowerToys PowerRename Context Menu (The Releases page only offer .exe-s, and `PowerRenameContextMenuPackage.msix` is not hosted in the PowerToys repo despite that generator scripts for the MSIX are there)
+* Microsoft WindowsWorkload.PSTokenizerShared.Data
+* OpenAI Codex Primary Runtime (Neither the Codex repo nor any of the ZIP files in Releases contain the MSIX)
 
 ## Can't be silently installed:
 | App | Cause (if specific) | PackageUrl | Had pkgs PR
