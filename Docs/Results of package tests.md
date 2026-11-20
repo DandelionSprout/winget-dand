@@ -179,6 +179,7 @@
 * Microsoft WindowsWorkload.PSTokenizerShared.Data
 * OpenAI Codex Primary Runtime (Neither the Codex repo nor any of the ZIP files in Releases contain the MSIX)
 * AdobeAcrobatReaderCoreApp
+* Notepad++ NppShell.msix (Is not in the portable ZIPs that I could tell)
 
 ## Can't be silently installed:
 | App | Cause (if specific) | PackageUrl | Had pkgs PR
