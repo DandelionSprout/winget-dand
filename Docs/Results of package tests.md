@@ -180,6 +180,7 @@
 * OpenAI Codex Primary Runtime (Neither the Codex repo nor any of the ZIP files in Releases contain the MSIX)
 * AdobeAcrobatReaderCoreApp
 * Notepad++ NppShell.msix (Is not in the portable ZIPs that I could tell)
+* Microsoft PowerToys Command Palette (The PowerToys repo makes conflicting claims on where the MSIX is, none of which are correct)
 
 ## Can't be silently installed:
 | App | Cause (if specific) | PackageUrl | Had pkgs PR
