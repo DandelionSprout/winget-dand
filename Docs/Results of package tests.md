@@ -138,7 +138,7 @@
 * Sefirah shrimqy's ARM64 versions (The `wminet_utils.dll` glitch)
 * Avast Secure Browser (Is MV3)
 * FreeCOM by FreeDOS (Its executable has the .com file extension instead of .exe)
-* WinMerge Context Menu Package ("Windows cannot install package WinMerge_1.0.8.0_neutral__(...) because it must be installed with an external local. (0x80070032)")
+* WinMerge Context Menu Package ("Windows cannot install package WinMerge_1.0.8.0_neutral__(...) because it must be installed with an external location. (0x80070032)")
 
 ## No known installer URLs:
 * "Hikvision (mvu3v) MvisionUSB"
