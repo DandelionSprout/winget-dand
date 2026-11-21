@@ -228,6 +228,7 @@ This list aims to cover apps that are either pre-installed on fresh OS installs,
 ## Apps known or believed to _not_ be registrable
 * 3D Builder
 * 3D Viewer
+* Apps whose publisher ID is `cw5n1h2txyewy`, except Windows Sandbox.
 * Canon Inkjet Print Utility
 * Cortana
 * Dolby AC-4 decoder for PC OEMs
@@ -243,10 +244,14 @@ This list aims to cover apps that are either pre-installed on fresh OS installs,
 * Local AI Manager for Microsoft 365
 * Los Angeles Times Daily Crossword
 * Microsoft 365 Push Notifications Utility
+* Microsoft AIFabric CBS
+* Microsoft AugLoop CBS
 * Microsoft Back Up / Windows Backup
+* Microsoft ECApp
+* Microsoft Edge DevTools Client
 * Microsoft Pay
 * Microsoft Solitaire Collection
-* Microsoft Windows App Runtime DynamicDependency LifetimeManager
+* Microsoft Windows App Runtime DynamicDependency LifetimeManager / DDLM
 * Mixed Reality Viewer
 * Mobile Plans
 * ms-teamsupdate
@@ -257,17 +262,18 @@ This list aims to cover apps that are either pre-installed on fresh OS installs,
 * OutlookPWA
 * Paint.NET (Microsoft Store version)
 * People / Microsoft
+* Pretty much all videogames except Minecraft Education and possibly Duolingo; see `https://github.com/microsoft/winget-cli/issues/5818`
 * Print 3D
 * reaConverter Context Menu Manager
 * SmartConnectExtInstaller
 * Store Experiences Host / Store Purchase App
 * Tips / Microsoft Tips
 * Windows Maps
-* Windows Security
+* Windows Narrator Quick Start
+* Windows Security / SecHealthUI
 * Word Mobile
 * Xbox Console Companion
 * Xbox Game Bar Plugin
-* Pretty much all videogames except Minecraft Education and possibly Duolingo; see `https://github.com/microsoft/winget-cli/issues/5818`
 
 ## Notes
 * When the list was first made, I lacked time to look up the English names of some of them, so a few currently have their Norwegian names as placeholders.
