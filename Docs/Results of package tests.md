@@ -183,6 +183,10 @@
 * Microsoft PowerToys Command Palette (The PowerToys repo makes conflicting claims on where the MSIX is, none of which are correct)
 * Microsoft Defender On-device Registry Filter / MdOdrMcpFilterPackage / MdOdrMcpFilter
 * Update for Windows (KB5001716) (.msi version)
+* Xbox Service
+* PeaZip Configuration
+* OneNote Virtual Printer
+* Microsoft.OneDrive.Photos
 
 ## Can't be silently installed:
 | App | Cause (if specific) | PackageUrl | Had pkgs PR
