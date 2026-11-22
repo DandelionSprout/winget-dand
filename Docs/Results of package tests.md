@@ -426,6 +426,7 @@
 * PowerShell FxDependentWinDesktop/FxDependent (Set Microsoft.DotNet.Runtime.11(.x64) as a dependency. Pkgs have also locked off the PowerShell namespace because they couldn't handle that I know better than Team PowerShell.)
 * Anubis TecharoHQ
 * Probably some stuff from `https://swcatalog•apple•com/content/catalogs/others/index-windows-1•sucatalog•gz`
+* Ubisoft Sharpmake
 
 ## I cannot in good spirit add these due to my personal conscience, but I wouldn't stop others from adding them:
 * Microsoft.Services.Store.Engagement (I'm in the adblocking community for a reason)
