@@ -128,7 +128,6 @@
 * ♪ MozillaBuild (Not all that useful, since end-users must still build the post-installation files on their own)
 * ♪ Wine Mono (Bafflingly tries to start a 2nd installer for a support tool before having finished the 1st installer. The 2nd installer also fails with error 2762.)
 * ♪ USBip-win(2) (Apparently requires driver test-signing system mode?)
-* NVIDIA Control Panel (AppX inside self-extracting 7Z, no currently known installer switches dedicated to it.)
 * Collabora Office (Version number in registry collided with LibreOffice; while as of August 2026 it was no longer possible to determine if any installer URLs still existed.)
 * Microsoft.WindowsAppRuntime.2.msix (Does not show up as an installed app post-installation)
 * Microsoft.WindowsAppRuntime.Main.2.msix (Has Microsoft.WindowsAppRuntime.2.msix as a hard dependency, which must be of the same version and which is unlikely to be noticed as being already installed.)
@@ -371,6 +370,8 @@
 * Microsoft Endpoint Community Manager (Self-extracting 7Z)
 * Microsoft Keyboard Layout Creator (Setup .exe-/.msi-s inside self-extracting 7Z)
 * ZohoCRM (Self-extracting 7Z)
+* Apple Mobile Device Support up-to-date versions (.msi inside self-extracting .7z)
+* NVIDIA Control Panel (AppX inside self-extracting 7Z, no currently known installer switches dedicated to it.)
 
 ## "No supported installer(s) found in zip archive.":
 |   |   |
