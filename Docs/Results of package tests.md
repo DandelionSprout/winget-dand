@@ -358,6 +358,7 @@
 * ExecTI Winaero
 * FTDI CDM Driver Package (…) / FTDI Chip
 * IK Product Manager
+* Marvell anything
 * Mod The Sims anything
 * Native Access
 * No$gba
