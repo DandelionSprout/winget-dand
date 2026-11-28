@@ -317,6 +317,7 @@
 * Microsoft.PhyloD (App's purpose and commands are incomprehensible)
 * Microsoft GameInputRawInputProxy (Its .exe doesn't seem to do anything)
 * DriverIdentifier (Running it results in "action: scan not found")
+* SetupAdmin.exe Apple
 * ♪ EdenwareApps.Megacubo
 * ♪ Microsoft ROS / Robot Operating System (Completely incomprehensible how it works)
 
@@ -431,6 +432,7 @@
 * PowerShell FxDependentWinDesktop/FxDependent (Set Microsoft.DotNet.Runtime.11(.x64) as a dependency. Pkgs have also locked off the PowerShell namespace because they couldn't handle that I know better than Team PowerShell.)
 * Anubis TecharoHQ
 * Probably some stuff from `https://swcatalog•apple•com/content/catalogs/others/index-windows-1•sucatalog•gz`
+* * VoiceOver Kit / iPodVoiceOver (Set iTunes as a dependency)
 * Ubisoft Sharpmake
 * Visual Studio Installer standalone (Use the same InstallerUrl as Visual Studio Community, with the parameters `--installerOnly --quiet --norestart`)
 
