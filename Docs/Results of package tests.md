@@ -284,6 +284,7 @@
 * Intel® Wireless Wi-Fi Drivers / Intel PROSet/Wireless Software (No longer writes to registry as of 24.60)
 * Bitwarden Web Self-Hosted (Its only executable is an icons-font)
 * Nvidia 3DVision USB Driver (Focus should be given to nv3d-vision-restoration, `https://github.com/pancreations/nv3d-vision-restoration`, instead)
+* AirMac (Exact clone of AirPort)
 
 ## App doesn't work or is incomprehensible:
 * Abdi-Suufi.WeatherApp
